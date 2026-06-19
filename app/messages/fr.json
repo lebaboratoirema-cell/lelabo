@@ -1,0 +1,17 @@
+{
+  "site": {
+    "name": "Le Laboratoire",
+    "tagline": "Équipements et produits de laboratoire"
+  },
+  "nav": {
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier"
+  },
+  "home": {
+    "hero_title": "Équipements de laboratoire de qualité",
+    "hero_subtitle": "Livraison à Agadir et partout au Maroc",
+    "shop_now": "Voir le catalogue"
+  }
+}
