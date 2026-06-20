@@ -15,6 +15,7 @@ export default function DeleteCategoryButton({ id }: { id: string }) {
       await deleteCategory(id)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Erreur inconnue')
+    } finally {
       setLoading(false)
     }
   }
