@@ -1,18 +1,34 @@
-import TopBar from '@/components/TopBar';
-import Header from '@/components/Header';
-import SiteFooter from '@/components/SiteFooter';
-import ScrollReveal from '@/components/ScrollReveal';
+import { notFound } from 'next/navigation'
+import TopBar from '@/components/TopBar'
+import Header from '@/components/Header'
+import SiteFooter from '@/components/SiteFooter'
+import ScrollReveal from '@/components/ScrollReveal'
+import ProductGrid from '@/components/ProductGrid'
+import CategoryChips from '@/components/CategoryChips'
+import {
+  getCategoryBySlug,
+  getChildCategories,
+  getProductsByCategory,
+} from '@/lib/supabase/queries'
+import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 
-const products = [
-  { ref: 'EQP-1100', name: 'Microscope binoculaire de laboratoire', desc: "Éclairage LED, grossissement 40×–1000×, objectifs achromatiques.", tag: 'Optique', img: '/images/hero-tech.jpg' },
-  { ref: 'EQP-1210', name: 'Centrifugeuse de paillasse, 6×50 mL', desc: "Contrôle numérique de vitesse jusqu'à 4000 tr/min avec verrouillage du couvercle.", tag: 'Séparation', img: '/images/analysis.jpg' },
-  { ref: 'EQP-1320', name: 'Balance analytique, 0,1 mg', desc: "Capacité 220 g, calibration interne, pare-brise.", tag: 'Pesage', img: '/images/pipette.jpg' },
-  { ref: 'EQP-1450', name: 'Agitateur chauffant magnétique', desc: "Plateau céramique, jusqu'à 340 °C et 1500 tr/min.", tag: 'Chauffage', img: '/images/glassware.jpg' },
-  { ref: 'EQP-1560', name: 'pH-mètre de paillasse', desc: "Haute précision avec compensation automatique de température.", tag: 'Mesure', img: '/images/culture.jpg' },
-  { ref: 'EQP-1675', name: 'Étuve à convection forcée', desc: "Chambre 53 L, de +5 °C jusqu'à 250 °C, minuterie numérique.", tag: 'Séchage', img: '/images/hero-interior.jpg' },
-];
+export default async function LabEquipmentPage() {
+  const meta = CATEGORY_ROUTE_META['lab-equipment']
+  const parent = await getCategoryBySlug(CATEGORY_ROUTE_SLUGS['lab-equipment'])
+  if (!parent) notFound()
 
-export default function LabEquipmentPage() {
+  const children = await getChildCategories(parent.id)
+
+  const allProducts = children.length > 0
+    ? (await Promise.all(children.map((c) => getProductsByCategory(c.id)))).flat()
+    : await getProductsByCategory(parent.id)
+
+  const chips = children.map((c) => ({
+    label: (c.name as { fr: string }).fr,
+    href: `/fr/lab-equipment/${c.slug}`,
+    slug: c.slug,
+  }))
+
   return (
     <>
       <ScrollReveal />
@@ -20,52 +36,30 @@ export default function LabEquipmentPage() {
       <Header />
 
       <section className="page-banner">
-        <img className="bgimg" src="/images/hero-tech.jpg" alt="" />
+        <img className="bgimg" src={meta.bannerImage} alt="" />
         <div className="wrap">
-          <h1>Équipements de laboratoire</h1>
+          <h1>{meta.title}</h1>
           <div className="breadcrumb">
             <a href="/fr">Accueil</a>
             <span className="sep">/</span>
-            Équipements
+            {meta.breadcrumb}
           </div>
         </div>
       </section>
 
       <section className="block">
         <div className="wrap">
-          <div className="shop-toolbar">
-            <span className="count">Affichage de 6 sur 180 produits</span>
-            <div className="chips">
-              <span className="chip active">Tous</span>
-              <span className="chip">Optique</span>
-              <span className="chip">Pesage</span>
-              <span className="chip">Chauffage</span>
-              <span className="chip">Mesure</span>
+          {chips.length > 0 && (
+            <div className="shop-toolbar">
+              <span className="count">{allProducts.length} produit{allProducts.length !== 1 ? 's' : ''}</span>
+              <CategoryChips chips={chips} activeSlug={null} allHref="/fr/lab-equipment" />
             </div>
-          </div>
-          <div className="product-grid">
-            {products.map((p) => (
-              <div className="product-card reveal" key={p.ref}>
-                <div className="pimg">
-                  <img src={p.img} alt={p.name} />
-                  <span className="tag">{p.tag}</span>
-                </div>
-                <div className="pbody">
-                  <div className="ref">Réf. {p.ref}</div>
-                  <h3>{p.name}</h3>
-                  <p>{p.desc}</p>
-                  <div className="pfoot">
-                    <span className="price">Sur demande</span>
-                    <a href="/fr/contact" className="btn btn-sm">Demander un devis</a>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
+          )}
+          <ProductGrid products={allProducts} />
         </div>
       </section>
 
       <SiteFooter />
     </>
-  );
+  )
 }
