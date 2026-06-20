@@ -9,7 +9,7 @@ export default async function NewCategoryPage() {
     .select('id, name')
     .order('position')
 
-  const categories = (data ?? []) as Pick<Category, 'id' | 'name'>[]
+  const categories = (data ?? []) as Category[]
 
-  return <CategoryForm categories={categories as Category[]} />
+  return <CategoryForm categories={categories} />
 }
