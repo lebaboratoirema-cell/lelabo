@@ -32,7 +32,7 @@ export default function AdminNav() {
     <nav style={{ display: 'flex', alignItems: 'center', gap: 28, fontSize: 14 }}>
       <a href="/fr/admin" style={{ color: pathname === '/fr/admin' ? '#1c2b46' : '#9aa3af', fontWeight: pathname === '/fr/admin' ? 600 : 400, textDecoration: 'none', position: 'relative' }}>
         Tableau de bord
-        <span style={underline('/fr/admin')} />
+        <span style={{ position: 'absolute', left: 0, right: 0, bottom: -21, height: 2, background: '#c8643c', borderRadius: 2, display: pathname === '/fr/admin' ? 'block' : 'none' }} />
       </a>
       <a href="/fr/admin/products" style={linkStyle('/fr/admin/products')}>
         Produits

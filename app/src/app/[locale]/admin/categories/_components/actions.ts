@@ -20,7 +20,7 @@ export async function createCategory(formData: FormData) {
   })
 
   if (error) throw new Error(error.message)
-  revalidatePath('/admin/categories')
+  revalidatePath('/fr/admin/categories')
   redirect('/fr/admin/categories')
 }
 
@@ -41,7 +41,7 @@ export async function updateCategory(id: string, formData: FormData) {
     .eq('id', id)
 
   if (error) throw new Error(error.message)
-  revalidatePath('/admin/categories')
+  revalidatePath('/fr/admin/categories')
   redirect('/fr/admin/categories')
 }
 
@@ -59,7 +59,18 @@ export async function deleteCategory(id: string) {
     )
   }
 
+  const { count: childCount } = await supabase
+    .from('categories')
+    .select('id', { count: 'exact', head: true })
+    .eq('parent_id', id)
+
+  if (childCount && childCount > 0) {
+    throw new Error(
+      `Cette catégorie a ${childCount} sous-catégorie(s). Réaffectez-les avant de supprimer.`
+    )
+  }
+
   const { error } = await supabase.from('categories').delete().eq('id', id)
   if (error) throw new Error(error.message)
-  revalidatePath('/admin/categories')
+  revalidatePath('/fr/admin/categories')
 }

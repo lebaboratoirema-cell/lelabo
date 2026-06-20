@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation'
 import CategoryForm from '../../_components/CategoryForm'
 import type { Category } from '@/types/database'
 
+export const dynamic = 'force-dynamic'
+
 interface Props {
   params: Promise<{ id: string }>
 }
