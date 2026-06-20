@@ -20,7 +20,7 @@
 - [x] Category slug config: chimie / verrerie / equipements
 
 ## Backlog
-- [ ] Auth guard on /admin routes — BLOCKER before go-live
+- [ ] Auth guard on /admin routes — **plan ready**, execute `docs/superpowers/plans/2026-06-20-admin-auth-guard.md` (subagent-driven). BLOCKER before go-live.
 - [ ] Product detail page: `/shop/[slug]`
 - [ ] Cart + quote request flow
 - [ ] Checkout (CMI + Cash on delivery)
