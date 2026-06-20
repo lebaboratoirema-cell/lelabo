@@ -1,4 +1,5 @@
 import AdminNav from './_components/AdminNav'
+import { signOut } from './login/actions'
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -24,7 +25,26 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
               <span style={{ fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', color: '#9aa3af' }}>Admin</span>
             </div>
           </div>
-          <AdminNav />
+          <div style={{ display: 'flex', alignItems: 'center', gap: 20 }}>
+            <AdminNav />
+            <form action={signOut}>
+              <button
+                type="submit"
+                style={{
+                  background: 'none',
+                  border: '1px solid #e6e3db',
+                  borderRadius: 7,
+                  padding: '6px 14px',
+                  fontSize: 13,
+                  color: '#6b6357',
+                  cursor: 'pointer',
+                  fontFamily: 'Instrument Sans, system-ui, sans-serif',
+                }}
+              >
+                Déconnexion
+              </button>
+            </form>
+          </div>
         </header>
         <main>{children}</main>
       </div>
