@@ -59,6 +59,13 @@
   - `src/app/[locale]/shop/page.tsx` — category card grid + CTA band
   - `src/app/[locale]/catalogues/page.tsx` — catalogue download cards
 
+- **Admin auth guard implemented** — Supabase email+password via `src/proxy.ts` session check
+  - All `/[locale]/admin/*` routes (except `/admin/login`) require authenticated Supabase session
+  - Unauthenticated access: URL-preserving rewrite to `/403` page
+  - Login at `/[locale]/admin/login` — `signIn`/`signOut` server actions in `admin/login/actions.ts`
+  - Logout button in admin header
+  - Admin dashboard stub at `/[locale]/admin`
+
 - **Subcategory pages built** — DB-driven dynamic routes under all 3 category families:
   - `src/app/[locale]/chemicals/[subcategory]/page.tsx`
   - `src/app/[locale]/glassware/[subcategory]/page.tsx`
@@ -70,14 +77,14 @@
   - 404 on unknown slugs; parent_id guard against URL manipulation
 
 ## Blocking / not yet done
-- No auth guard on `/admin` routes (anyone can access — add before going live)
+- Auth guard implemented — Supabase email+password via proxy.ts session check ✅
 - No CMI integration
 - No auth flow (admin vs customer)
 - Law 09-08 compliance note not yet added to `compliance/regulatory-track.md`
 
 ## Next session: start here
 
-1. Add auth guard to `/admin` routes (Supabase Auth or simple secret env var gate)
+1. Product detail page: `/shop/[slug]`
 2. Checkout / quote flow (CMI + COD)
 3. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 
