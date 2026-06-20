@@ -2,8 +2,8 @@
 
 export const CATEGORY_ROUTE_SLUGS = {
   chemicals: 'chimie',
-  glassware: 'FILL_FROM_DB',      // category not yet in DB — create it first
-  'lab-equipment': 'FILL_FROM_DB', // category not yet in DB — create it first
+  glassware: 'verrerie',
+  'lab-equipment': 'equipements',
 } as const
 
 export type CategoryRoute = keyof typeof CATEGORY_ROUTE_SLUGS
