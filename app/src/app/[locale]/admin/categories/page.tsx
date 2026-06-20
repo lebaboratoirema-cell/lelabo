@@ -2,6 +2,8 @@ import { createServiceClient } from '@/lib/supabase/service'
 import DeleteCategoryButton from './_components/DeleteCategoryButton'
 import type { Category } from '@/types/database'
 
+export const dynamic = 'force-dynamic'
+
 export default async function CategoriesPage() {
   const supabase = createServiceClient()
   const { data: categories } = await supabase
@@ -17,7 +19,7 @@ export default async function CategoriesPage() {
     <div style={{ maxWidth: 1080, margin: '0 auto', padding: '32px 32px 80px' }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 28 }}>
         <div>
-          <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px' }}>Catégories</h1>
+          <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>Catégories</h1>
           <p style={{ margin: '6px 0 0', fontSize: 14, color: '#8a8478' }}>{rows.length} catégorie{rows.length !== 1 ? 's' : ''}</p>
         </div>
         <a
@@ -38,7 +40,7 @@ export default async function CategoriesPage() {
             <thead>
               <tr style={{ borderBottom: '1px solid #f0ede5' }}>
                 {['Nom', 'Slug', 'Parente', 'Statut', ''].map((h) => (
-                  <th key={h} style={{ padding: '14px 20px', textAlign: 'left', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>{h}</th>
+                  <th key={h} style={{ padding: '14px 20px', textAlign: 'left', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', background: '#faf9f6' }}>{h}</th>
                 ))}
               </tr>
             </thead>
