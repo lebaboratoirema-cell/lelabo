@@ -1,9 +1,9 @@
 // app/src/lib/categoryRoutes.ts
 
 export const CATEGORY_ROUTE_SLUGS = {
-  chemicals: 'FILL_FROM_DB',      // e.g. 'produits-chimiques'
-  glassware: 'FILL_FROM_DB',      // e.g. 'verrerie'
-  'lab-equipment': 'FILL_FROM_DB', // e.g. 'equipements'
+  chemicals: 'chimie',
+  glassware: 'FILL_FROM_DB',      // category not yet in DB — create it first
+  'lab-equipment': 'FILL_FROM_DB', // category not yet in DB — create it first
 } as const
 
 export type CategoryRoute = keyof typeof CATEGORY_ROUTE_SLUGS
