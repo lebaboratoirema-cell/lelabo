@@ -53,24 +53,33 @@
 - **Sub-pages built** — all 7 public pages implemented from design (claude.ai/design project 706e2d4a):
   - `src/app/[locale]/about/page.tsx` — about copy + value cards + stats
   - `src/app/[locale]/contact/page.tsx` — contact form + map
-  - `src/app/[locale]/chemicals/page.tsx` — product grid + filter chips
-  - `src/app/[locale]/glassware/page.tsx` — product grid + filter chips
-  - `src/app/[locale]/lab-equipment/page.tsx` — product grid + filter chips
+  - `src/app/[locale]/chemicals/page.tsx` — DB-driven, wired to Supabase
+  - `src/app/[locale]/glassware/page.tsx` — DB-driven, wired to Supabase
+  - `src/app/[locale]/lab-equipment/page.tsx` — DB-driven, wired to Supabase
   - `src/app/[locale]/shop/page.tsx` — category card grid + CTA band
   - `src/app/[locale]/catalogues/page.tsx` — catalogue download cards
+
+- **Subcategory pages built** — DB-driven dynamic routes under all 3 category families:
+  - `src/app/[locale]/chemicals/[subcategory]/page.tsx`
+  - `src/app/[locale]/glassware/[subcategory]/page.tsx`
+  - `src/app/[locale]/lab-equipment/[subcategory]/page.tsx`
+  - Shared `src/components/ProductGrid.tsx` — product card grid (server)
+  - Shared `src/components/CategoryChips.tsx` — chip nav with active state (server)
+  - `src/lib/supabase/queries.ts` — `getCategoryBySlug`, `getChildCategories`, `getProductsByCategory`
+  - `src/lib/categoryRoutes.ts` — slug config: `chimie` / `verrerie` / `equipements`
+  - 404 on unknown slugs; parent_id guard against URL manipulation
 
 ## Blocking / not yet done
 - No auth guard on `/admin` routes (anyone can access — add before going live)
 - No CMI integration
 - No auth flow (admin vs customer)
-- Sub-pages show static placeholder products — need real Supabase data wired in
 - Law 09-08 compliance note not yet added to `compliance/regulatory-track.md`
 
 ## Next session: start here
+
 1. Add auth guard to `/admin` routes (Supabase Auth or simple secret env var gate)
-2. Wire real Supabase data into product pages — replace static arrays with DB queries
-3. Checkout / quote flow (CMI + COD)
-4. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
+2. Checkout / quote flow (CMI + COD)
+3. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 
 ## Known tech debt
 - Admin routes hardcoded to `/fr/` locale — acceptable for French-only MVP, must grep-replace before adding any second locale

@@ -8,22 +8,23 @@
 - [ ] HTTPS enforced on all routes
 - [ ] No secrets in code or frontend bundle ✅ (verified)
 
-## Active — UI complete, moving to data layer
-- [x] Homepage implemented from design (TopBar, Header, Hero, About, Promo, Services, Brands, Stats, Footer)
+## Done this session
+- [x] Homepage implemented (10 components)
 - [x] Tech stack locked: Next.js 16 + Supabase + Tailwind v4 + next-intl
-- [x] All images in `app/public/images/`
-- [ ] Supabase schema: products, categories, product_variants, product_images
-- [ ] Supabase schema: orders, order_items, customers
-- [ ] Admin panel: `/admin/products` (list + create + edit + image upload)
-- [ ] Shop page: `/shop` with product grid + category filter
-- [ ] Product detail page: `/shop/[slug]`
+- [x] Supabase schema: 6 tables live (categories, products, product_variants, product_images, orders, order_items)
+- [x] Admin panel: products + categories full CRUD with image upload
+- [x] Public category pages: /chemicals, /glassware, /lab-equipment wired to Supabase DB
+- [x] Other public pages: /about, /contact, /shop, /catalogues
+- [x] Subcategory pages: /chemicals/[slug], /glassware/[slug], /lab-equipment/[slug] — DB-driven, 404 on unknown slug
+- [x] Shared components: ProductGrid, CategoryChips
+- [x] Category slug config: chimie / verrerie / equipements
 
 ## Backlog
-- [ ] Sub-pages: /chemicals, /glassware, /lab-equipment, /about, /contact, /catalogues
+- [ ] Auth guard on /admin routes — BLOCKER before go-live
+- [ ] Product detail page: `/shop/[slug]`
 - [ ] Cart + quote request flow
 - [ ] Checkout (CMI + Cash on delivery)
 - [ ] Order management in admin
-- [ ] Auth: admin login (protect /admin routes)
 - [ ] CI/CD pipeline
 - [ ] Integrate payment gateway (CMI)
-- [ ] AI-powered feature (TBD)
+- [ ] Law 09-08 compliance note in `compliance/regulatory-track.md`
