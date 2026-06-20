@@ -50,22 +50,27 @@
   - ProductForm now has "+ Nouvelle catégorie ↗" link (opens new tab)
   - Shared `src/lib/slugify.ts` used by both products and categories
 
+- **Sub-pages built** — all 7 public pages implemented from design (claude.ai/design project 706e2d4a):
+  - `src/app/[locale]/about/page.tsx` — about copy + value cards + stats
+  - `src/app/[locale]/contact/page.tsx` — contact form + map
+  - `src/app/[locale]/chemicals/page.tsx` — product grid + filter chips
+  - `src/app/[locale]/glassware/page.tsx` — product grid + filter chips
+  - `src/app/[locale]/lab-equipment/page.tsx` — product grid + filter chips
+  - `src/app/[locale]/shop/page.tsx` — category card grid + CTA band
+  - `src/app/[locale]/catalogues/page.tsx` — catalogue download cards
+
 ## Blocking / not yet done
-- Law 09-08 compliance note not yet added to `compliance/regulatory-track.md`
 - No auth guard on `/admin` routes (anyone can access — add before going live)
-- Law 09-08 compliance note not yet added to `compliance/regulatory-track.md`
-- No product catalog schema in DB (tables not created yet)
-- No admin dashboard (product management)
 - No CMI integration
 - No auth flow (admin vs customer)
-- Sub-pages not built: /shop, /chemicals, /glassware, /lab-equipment, /about, /contact, /catalogues
+- Sub-pages show static placeholder products — need real Supabase data wired in
+- Law 09-08 compliance note not yet added to `compliance/regulatory-track.md`
 
 ## Next session: start here
 1. Add auth guard to `/admin` routes (Supabase Auth or simple secret env var gate)
-2. Build `/shop` page — fetch active products from Supabase, render product grid
-3. Build sub-pages: `/chemicals`, `/glassware`, `/lab-equipment`, `/about`, `/contact`, `/catalogues`
-4. Checkout flow (CMI + COD)
-5. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
+2. Wire real Supabase data into product pages — replace static arrays with DB queries
+3. Checkout / quote flow (CMI + COD)
+4. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 
 ## Known tech debt
 - Admin routes hardcoded to `/fr/` locale — acceptable for French-only MVP, must grep-replace before adding any second locale
