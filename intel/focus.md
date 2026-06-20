@@ -1,22 +1,38 @@
 # Current Focus
 
-**Active initiative:** Database schema — run migration + finish TypeScript types
-**Blockers:** SQL migration not run yet — needs DB password (Supabase → Settings → Database → Connection string)
-**Next decision needed:** none — plan is ready
+**Active initiative:** Category management complete — next: auth guard + /shop page
+**Blockers:** none
+**Next decision needed:** Auth strategy for /admin (Supabase Auth vs simple env-var secret gate)
 
 ## What was completed (session 2026-06-20)
-- Supabase project connected — `.env.local` filled with real URL + keys
-- Schema designed and approved (6 tables: categories, products, product_variants, product_images, orders, order_items)
-- SQL migration written: `supabase/migrations/001_initial_schema.sql`
-- Storage bucket `product-images` created (public, 5MB, jpg/png/webp)
-- Design spec: `docs/superpowers/specs/2026-06-20-database-schema-design.md`
-- Implementation plan: `docs/superpowers/plans/2026-06-20-database-schema.md`
+
+- DB password rotated and added to `.env.local`
+- SQL migration run — 6 tables live in Supabase
+- TypeScript types written: `app/src/types/database.ts`
+- `middleware.ts` deleted (conflict with Next.js 16 `proxy.ts`)
+- Admin dashboard built and styled:
+  - `src/lib/supabase/service.ts` — service role client
+  - `src/app/[locale]/admin/layout.tsx` — Spectral/Instrument Sans header
+  - `src/app/[locale]/admin/products/page.tsx` — product list
+  - `src/app/[locale]/admin/products/new/page.tsx` — create form
+  - `src/app/[locale]/admin/products/[id]/edit/page.tsx` — edit form
+  - `_components/ProductForm.tsx` — full design from claude.ai/design (warm palette, sidebar, sticky action bar)
+  - `_components/actions.ts` — server actions with image upload
+  - `_components/DeleteButton.tsx` — client delete with confirm
+
+## What was completed (session 2026-06-20 — categories)
+
+- Category management: full CRUD at `/fr/admin/categories`
+- `src/lib/slugify.ts` — shared util (extracted from products)
+- `AdminNav` client component with dynamic active state, Catégories link added
+- ProductForm: "+ Nouvelle catégorie ↗" link opens new tab
+- Delete guards: blocks on products AND child categories
+- Known debt recorded in state.md
 
 ## Immediate next steps (in order)
-1. **Run SQL migration** — get DB password: Supabase dashboard → Settings → Database → Connection string (paste to Claude, it will run `supabase/migrations/001_initial_schema.sql` via pg)
-2. **Write TypeScript types** — `app/src/types/database.ts` (plan Task 4)
-3. **Update compliance doc** — add PII retention note to `compliance/regulatory-track.md` (plan Task 5)
-4. **Build admin panel** `/admin/products` — list, add, edit products with image upload
-5. **Build `/shop` page** — fetch products from Supabase, render product grid
-6. Build sub-pages: `/chemicals`, `/glassware`, `/lab-equipment`, `/about`, `/contact`, `/catalogues`
-7. Checkout flow (CMI + COD)
+
+1. **Auth guard** on `/admin/**` — no public access before go-live
+2. **`/shop` page** — product grid from Supabase (anon key, RLS public read)
+3. Sub-pages: `/chemicals`, `/glassware`, `/lab-equipment`, `/about`, `/contact`, `/catalogues`
+4. Checkout flow (CMI + COD)
+5. Compliance note — `compliance/regulatory-track.md` (Law 09-08)
