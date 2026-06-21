@@ -27,6 +27,8 @@ export default function ProductForm({ parents, childCategories, product, variant
   const [newImagePreviews, setNewImagePreviews] = useState<{ url: string; name: string }[]>([])
   const [desc, setDesc] = useState((product?.description as { fr?: string })?.fr ?? '')
   const [active, setActive] = useState(product?.is_active ?? true)
+  const [inStock, setInStock] = useState(product?.in_stock ?? false)
+  const [promoLabel, setPromoLabel] = useState(product?.promo_label ?? '')
   const [categoryId, setCategoryId] = useState(product?.category_id ?? '')
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
@@ -71,6 +73,8 @@ export default function ProductForm({ parents, childCategories, product, variant
       fd.set('is_active', active ? 'on' : '')
       fd.set('desc_fr', desc)
       fd.set('category_id', categoryId)
+      fd.set('in_stock', inStock ? 'on' : '')
+      fd.set('promo_label', promoLabel.trim())
       if (product) {
         await updateProduct(product.id, fd)
       } else {
@@ -265,6 +269,37 @@ export default function ProductForm({ parents, childCategories, product, variant
                 <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13 }}><span style={{ color: '#8a8478' }}>Variantes</span><span style={{ fontWeight: 600 }}>{variantList.length}</span></div>
                 <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13 }}><span style={{ color: '#8a8478' }}>Images</span><span style={{ fontWeight: 600 }}>{allImages}</span></div>
                 <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13 }}><span style={{ color: '#8a8478' }}>Catégorie</span><span style={{ fontWeight: 600 }}>{categoryLabel}</span></div>
+              </div>
+              <div style={{ height: 1, background: '#f0ede5', margin: '20px 0' }} />
+
+              {/* En stock toggle */}
+              <div
+                onClick={() => setInStock((s) => !s)}
+                style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', cursor: 'pointer', marginBottom: 16 }}
+              >
+                <div>
+                  <div style={{ fontSize: 14, fontWeight: 600 }}>{inStock ? 'En stock' : 'Sur commande'}</div>
+                  <div style={{ fontSize: 12, color: '#a8a294', marginTop: 2 }}>Disponibilité produit</div>
+                </div>
+                <div style={{ width: 46, height: 26, borderRadius: 13, background: inStock ? '#16a34a' : '#d4d0c6', position: 'relative', transition: 'background .2s', flexShrink: 0 }}>
+                  <div style={{ position: 'absolute', top: 3, left: inStock ? 23 : 3, width: 20, height: 20, borderRadius: '50%', background: '#fff', boxShadow: '0 1px 3px rgba(0,0,0,0.2)', transition: 'left .2s' }} />
+                </div>
+              </div>
+
+              {/* Promo label */}
+              <div>
+                <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 7, color: '#3a4150' }}>
+                  Badge promo
+                </label>
+                <input
+                  type="text"
+                  value={promoLabel}
+                  onChange={(e) => setPromoLabel(e.target.value.slice(0, 20))}
+                  placeholder="-25%"
+                  maxLength={20}
+                  style={{ height: 40, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, color: '#1c2230', fontFamily: 'inherit', width: '100%' }}
+                />
+                <p style={{ margin: '6px 0 0', fontSize: 11, color: '#a8a294' }}>Laisser vide pour masquer.</p>
               </div>
             </section>
 
