@@ -21,9 +21,7 @@ export default function ProductForm({ parents, childCategories, product, variant
   const fileInputRef = useRef<HTMLInputElement>(null)
 
   const [variantList, setVariantList] = useState<Variant[]>(
-    variants.length > 0
-      ? variants.map((v) => ({ name_fr: (v.name as { fr: string }).fr, sku: v.sku, price: v.price.toString(), stock: v.stock.toString() }))
-      : [{ name_fr: '', sku: '', price: '', stock: '0' }]
+    variants.map((v) => ({ name_fr: (v.name as { fr: string }).fr, sku: v.sku, price: v.price.toString(), stock: v.stock.toString() }))
   )
   const [existingImages] = useState<ProductImage[]>(images)
   const [newImagePreviews, setNewImagePreviews] = useState<{ url: string; name: string }[]>([])
@@ -225,22 +223,24 @@ export default function ProductForm({ parents, childCategories, product, variant
             {/* Variantes card */}
             <section style={card}>
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 18 }}>
-                <div style={{ display: 'flex', alignItems: 'center' }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Variantes <span style={{ color: '#c8643c' }}>*</span></h2></div>
+                <div style={{ display: 'flex', alignItems: 'center' }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Variantes</h2></div>
                 <button type="button" onClick={addVariant} className="admin-btn-add" style={{ display: 'flex', alignItems: 'center', gap: 6, height: 34, padding: '0 14px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fff', fontSize: 13, fontWeight: 600, color: '#1c2b46', cursor: 'pointer', fontFamily: 'inherit' }}>+ Ajouter une variante</button>
               </div>
 
-              <div style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
-                <span>Nom</span><span>SKU</span><span>Prix (MAD)</span><span>Stock</span><span />
-              </div>
+              {variantList.length > 0 && (
+                <div style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
+                  <span>Nom</span><span>SKU</span><span>Prix (MAD)</span><span>Stock</span><span />
+                </div>
+              )}
 
               <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                 {variantList.map((v, i) => (
                   <div key={i} style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, alignItems: 'center' }}>
-                    <input value={v.name_fr} onChange={(e) => updateVariant(i, 'name_fr', e.target.value)} placeholder="50 ml" required className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
-                    <input value={v.sku} onChange={(e) => updateVariant(i, 'sku', e.target.value)} placeholder="LAB-001" required className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'ui-monospace, monospace', color: '#1c2230', width: '100%' }} />
-                    <input value={v.price} onChange={(e) => updateVariant(i, 'price', e.target.value)} placeholder="0,00" type="number" min="0" step="0.01" required className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', textAlign: 'right', width: '100%' }} />
+                    <input value={v.name_fr} onChange={(e) => updateVariant(i, 'name_fr', e.target.value)} placeholder="50 ml" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
+                    <input value={v.sku} onChange={(e) => updateVariant(i, 'sku', e.target.value)} placeholder="LAB-001" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'ui-monospace, monospace', color: '#1c2230', width: '100%' }} />
+                    <input value={v.price} onChange={(e) => updateVariant(i, 'price', e.target.value)} placeholder="0,00" type="number" min="0" step="0.01" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', textAlign: 'right', width: '100%' }} />
                     <input value={v.stock} onChange={(e) => updateVariant(i, 'stock', e.target.value)} placeholder="0" type="number" min="0" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', textAlign: 'right', width: '100%' }} />
-                    <button type="button" onClick={() => removeVariant(i)} disabled={variantList.length === 1} className="admin-remove-btn" style={{ width: 36, height: 36, border: '1px solid #ece9e1', borderRadius: 9, background: '#fff', color: '#b5503a', cursor: variantList.length === 1 ? 'not-allowed' : 'pointer', fontSize: 15, display: 'flex', alignItems: 'center', justifyContent: 'center', opacity: variantList.length === 1 ? 0.3 : 1 }}>×</button>
+                    <button type="button" onClick={() => removeVariant(i)} className="admin-remove-btn" style={{ width: 36, height: 36, border: '1px solid #ece9e1', borderRadius: 9, background: '#fff', color: '#b5503a', cursor: 'pointer', fontSize: 15, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>×</button>
                   </div>
                 ))}
               </div>
