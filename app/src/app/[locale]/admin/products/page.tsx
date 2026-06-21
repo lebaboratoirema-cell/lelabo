@@ -1,15 +1,44 @@
 import { createServiceClient } from '@/lib/supabase/service'
+import type { Category } from '@/types/database'
 import DeleteButton from './_components/DeleteButton'
+import FilterBar from './_components/FilterBar'
 
 export const dynamic = 'force-dynamic'
 
-export default async function AdminProductsPage() {
+export default async function AdminProductsPage({
+  searchParams,
+}: {
+  searchParams: { category?: string; subcategory?: string }
+}) {
   const supabase = createServiceClient()
 
-  const { data: products } = await supabase
+  const { data: allCats } = await supabase
+    .from('categories')
+    .select('*')
+    .eq('is_active', true)
+    .order('position')
+
+  const parents = ((allCats ?? []) as Category[]).filter((c) => !c.parent_id)
+  const childCategories = ((allCats ?? []) as Category[]).filter((c) => !!c.parent_id)
+
+  const categoryParam = searchParams.category ?? ''
+  const subcategoryParam = searchParams.subcategory ?? ''
+
+  let query = supabase
     .from('products')
     .select('*, categories(name), product_variants(id)')
     .order('created_at', { ascending: false })
+
+  if (subcategoryParam) {
+    query = query.eq('category_id', subcategoryParam)
+  } else if (categoryParam) {
+    const childIds = childCategories
+      .filter((c) => c.parent_id === categoryParam)
+      .map((c) => c.id)
+    query = query.in('category_id', [categoryParam, ...childIds])
+  }
+
+  const { data: products } = await query
 
   return (
     <div style={{ padding: '32px 32px 80px' }}>
@@ -25,6 +54,13 @@ export default async function AdminProductsPage() {
           + Nouveau produit
         </a>
       </div>
+
+      <FilterBar
+        parents={parents}
+        subcategories={childCategories}
+        selectedCategory={categoryParam}
+        selectedSubcategory={subcategoryParam}
+      />
 
       {(!products || products.length === 0) ? (
         <div style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, padding: '48px 28px', textAlign: 'center', color: '#8a8478' }}>
