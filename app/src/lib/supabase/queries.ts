@@ -1,5 +1,7 @@
 import { createClient } from './server'
-import type { Category, Product, ProductImage } from '@/types/database'
+import type { Category, Product, ProductImage, ProductWithVariants } from '@/types/database'
+
+export type { ProductWithVariants }
 
 export type ProductWithImage = Product & {
   product_images: Pick<ProductImage, 'storage_path' | 'is_primary'>[]
@@ -56,5 +58,35 @@ export async function getProductsByFamily(parentId: string): Promise<ProductWith
     .eq('is_active', true)
     .order('created_at', { ascending: false })
 
+  return (data as ProductWithImage[]) ?? []
+}
+
+export async function getProductBySlug(slug: string): Promise<ProductWithVariants | null> {
+  const supabase = await createClient()
+  const { data } = await supabase
+    .from('products')
+    .select('*, product_variants(*), product_images(*)')
+    .eq('slug', slug)
+    .eq('is_active', true)
+    .order('position', { referencedTable: 'product_variants', ascending: true })
+    .order('position', { referencedTable: 'product_images', ascending: true })
+    .maybeSingle()
+  return (data as ProductWithVariants | null) ?? null
+}
+
+export async function getRelatedProducts(
+  categoryId: string,
+  excludeId: string,
+  limit = 3,
+): Promise<ProductWithImage[]> {
+  const supabase = await createClient()
+  const { data } = await supabase
+    .from('products')
+    .select('*, product_images(storage_path, is_primary)')
+    .eq('category_id', categoryId)
+    .eq('is_active', true)
+    .neq('id', excludeId)
+    .order('created_at', { ascending: false })
+    .limit(limit)
   return (data as ProductWithImage[]) ?? []
 }
