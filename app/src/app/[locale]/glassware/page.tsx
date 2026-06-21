@@ -55,7 +55,7 @@ export default async function GlasswarePage() {
               <CategoryChips chips={chips} activeSlug={null} allHref="/fr/glassware" />
             </div>
           )}
-          <ProductGrid products={allProducts} />
+          <ProductGrid products={allProducts} basePath="/fr/glassware" />
         </div>
       </section>
 

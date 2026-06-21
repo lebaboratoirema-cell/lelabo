@@ -6,7 +6,12 @@ function getImageUrl(storagePath: string): string {
   return `${supabaseUrl}/storage/v1/object/public/product-images/${storagePath}`
 }
 
-export default function ProductGrid({ products }: { products: ProductWithImage[] }) {
+interface Props {
+  products: ProductWithImage[]
+  basePath: string
+}
+
+export default function ProductGrid({ products, basePath }: Props) {
   if (products.length === 0) {
     return (
       <p className="empty-state">Aucun produit dans cette catégorie pour l&apos;instant.</p>
@@ -20,7 +25,7 @@ export default function ProductGrid({ products }: { products: ProductWithImage[]
         const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.jpg'
 
         return (
-          <div className="product-card reveal" key={p.id}>
+          <a className="product-card reveal" href={`${basePath}/${p.slug}`} key={p.id}>
             <div className="pimg">
               <img src={imgSrc} alt={(p.name as { fr: string }).fr} />
               {p.brand && <span className="tag">{p.brand}</span>}
@@ -30,10 +35,10 @@ export default function ProductGrid({ products }: { products: ProductWithImage[]
               <p>{(p.description as { fr?: string } | null)?.fr ?? ''}</p>
               <div className="pfoot">
                 <span className="price">Sur demande</span>
-                <a href="/fr/contact" className="btn btn-sm">Demander un devis</a>
+                <span className="more">Voir →</span>
               </div>
             </div>
-          </div>
+          </a>
         )
       })}
     </div>

@@ -55,7 +55,7 @@ export default async function ChemicalsPage() {
               <CategoryChips chips={chips} activeSlug={null} allHref="/fr/chemicals" />
             </div>
           )}
-          <ProductGrid products={allProducts} />
+          <ProductGrid products={allProducts} basePath="/fr/chemicals" />
         </div>
       </section>
 
