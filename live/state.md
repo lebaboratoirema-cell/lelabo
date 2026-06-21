@@ -76,6 +76,16 @@
   - `src/lib/categoryRoutes.ts` — slug config: `chimie` / `verrerie` / `equipements`
   - 404 on unknown slugs; parent_id guard against URL manipulation
 
+- **Product detail pages built** — full product pages with gallery, variants, quote modal:
+  - `src/app/[locale]/[family]/[subcategory]/[product]/page.tsx` × 3 — product under subcategory
+  - `src/app/[locale]/[family]/[subcategory]/page.tsx` × 3 — now also handles product slugs directly under parent
+  - `src/components/ProductDetailPage.tsx` — server component: gallery, info, trust badges, tabs, related grid
+  - `src/components/QuoteModal.tsx` — client island: modal overlay + quote form
+  - `src/app/actions/quote.ts` — `submitQuote` server action (MVP: console log)
+  - `src/lib/supabase/queries.ts` — added `getProductBySlug`, `getRelatedProducts`, re-exports `ProductWithVariants`
+  - CSS: modal + product detail styles appended to `globals.css`
+  - Cards in ProductGrid now link to product pages via `basePath` prop
+
 ## Blocking / not yet done
 - Auth guard implemented — Supabase email+password via proxy.ts session check ✅
 - No CMI integration
@@ -89,11 +99,8 @@
    - Then invoke `superpowers:executing-plans` or implement directly
    - Root cause: products assigned to parent categories don't show when child categories exist; also admin category dropdown is flat (no hierarchy)
    - 11 files, no schema changes — see spec for full file list and exact changes
-2. **[READY] Product detail page** — plan at `docs/superpowers/plans/2026-06-21-product-detail-page.md`
-   - Invoke `superpowers:subagent-driven-development` to execute task-by-task
-   - 9 tasks, 14 files, no schema changes
-   - Spec at `docs/superpowers/specs/2026-06-21-product-detail-page-design.md`
-   - Key: variant pill selectors, image gallery, quote modal (console log MVP), nested URLs under category/subcategory
+2. **[DONE] Product detail page** — implemented 2026-06-21, branch `worktree-feature+product-detail-page`, needs smoke test + merge
+   - Task 8 (manual smoke test) still pending — start dev server and verify product detail pages render
 3. Checkout / quote flow (CMI + COD)
 4. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 

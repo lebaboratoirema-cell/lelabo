@@ -55,7 +55,7 @@ export default async function LabEquipmentPage() {
               <CategoryChips chips={chips} activeSlug={null} allHref="/fr/lab-equipment" />
             </div>
           )}
-          <ProductGrid products={allProducts} />
+          <ProductGrid products={allProducts} basePath="/fr/lab-equipment" />
         </div>
       </section>
 
