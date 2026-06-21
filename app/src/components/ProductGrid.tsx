@@ -27,16 +27,17 @@ export default function ProductGrid({ products, basePath }: Props) {
         return (
           <a className="product-card reveal" href={`${basePath}/${p.slug}`} key={p.id}>
             <div className="pimg">
+              {p.promo_label && (
+                <span className="promo-badge">{p.promo_label}</span>
+              )}
               <img src={imgSrc} alt={(p.name as { fr: string }).fr} />
-              {p.brand && <span className="tag">{p.brand}</span>}
+              <span className="stock-badge">
+                <span className="sdot" style={{ background: p.in_stock ? '#16a34a' : '#9ca3af' }} />
+                {p.in_stock ? 'En stock' : 'Sur commande'}
+              </span>
             </div>
             <div className="pbody">
               <h3>{(p.name as { fr: string }).fr}</h3>
-              <p>{(p.description as { fr?: string } | null)?.fr ?? ''}</p>
-              <div className="pfoot">
-                <span className="price">Sur demande</span>
-                <span className="more">Voir →</span>
-              </div>
             </div>
           </a>
         )
