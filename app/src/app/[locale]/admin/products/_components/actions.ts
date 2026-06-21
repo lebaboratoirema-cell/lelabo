@@ -61,8 +61,10 @@ export async function createProduct(formData: FormData) {
 
   await uploadImages(supabase, product.id, formData)
 
-  revalidatePath('/admin/products')
-  revalidatePath('/', 'layout')
+  revalidatePath('/fr/chemicals', 'page')
+  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/lab-equipment', 'page')
+  revalidatePath('/[locale]', 'layout')
   redirect('/fr/admin/products')
 }
 
@@ -94,8 +96,10 @@ export async function updateProduct(id: string, formData: FormData) {
 
   await uploadImages(supabase, id, formData)
 
-  revalidatePath('/admin/products')
-  revalidatePath('/', 'layout')
+  revalidatePath('/fr/chemicals', 'page')
+  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/lab-equipment', 'page')
+  revalidatePath('/[locale]', 'layout')
   redirect('/fr/admin/products')
 }
 
@@ -116,8 +120,10 @@ export async function deleteProduct(id: string) {
 
   const { error } = await supabase.from('products').delete().eq('id', id)
   if (error) throw new Error(error.message)
-  revalidatePath('/admin/products')
-  revalidatePath('/', 'layout')
+  revalidatePath('/fr/chemicals', 'page')
+  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/lab-equipment', 'page')
+  revalidatePath('/[locale]', 'layout')
 }
 
 function parseVariants(formData: FormData) {

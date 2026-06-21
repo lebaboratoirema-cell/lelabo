@@ -7,7 +7,8 @@ import { createProduct, updateProduct } from './actions'
 interface Variant { name_fr: string; sku: string; price: string; stock: string }
 
 interface Props {
-  categories: Category[]
+  parents: Category[]
+  childCategories: Category[]
   product?: Product
   variants?: ProductVariant[]
   images?: ProductImage[]
@@ -15,7 +16,7 @@ interface Props {
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
-export default function ProductForm({ categories, product, variants = [], images = [] }: Props) {
+export default function ProductForm({ parents, childCategories, product, variants = [], images = [] }: Props) {
   const formRef = useRef<HTMLFormElement>(null)
   const fileInputRef = useRef<HTMLInputElement>(null)
 
@@ -32,8 +33,8 @@ export default function ProductForm({ categories, product, variants = [], images
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
 
-  const categoryLabel = categories.find((c) => c.id === categoryId)
-    ? (categories.find((c) => c.id === categoryId)!.name as { fr: string }).fr
+  const categoryLabel = childCategories.find((c) => c.id === categoryId)
+    ? (childCategories.find((c) => c.id === categoryId)!.name as { fr: string }).fr
     : '—'
 
   const allImages = existingImages.length + newImagePreviews.length
@@ -140,8 +141,14 @@ export default function ProductForm({ categories, product, variants = [], images
                       style={{ width: '100%', height: 44, padding: '0 40px 0 14px', border: '1px solid #dcd8cf', borderRadius: 10, background: '#fcfbf9', fontSize: 14, color: '#1c2230', appearance: 'none', fontFamily: 'inherit', cursor: 'pointer' }}
                     >
                       <option value="" disabled>Sélectionner une catégorie…</option>
-                      {categories.map((c) => (
-                        <option key={c.id} value={c.id}>{(c.name as { fr: string }).fr}</option>
+                      {parents.map((parent) => (
+                        <optgroup key={parent.id} label={(parent.name as { fr: string }).fr}>
+                          {childCategories
+                            .filter((c) => c.parent_id === parent.id)
+                            .map((c) => (
+                              <option key={c.id} value={c.id}>{(c.name as { fr: string }).fr}</option>
+                            ))}
+                        </optgroup>
                       ))}
                     </select>
                     <span style={{ position: 'absolute', right: 14, top: '50%', transform: 'translateY(-50%)', pointerEvents: 'none', color: '#9aa3af', fontSize: 11 }}>▼</span>

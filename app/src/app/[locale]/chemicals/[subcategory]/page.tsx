@@ -12,6 +12,8 @@ import {
 } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 
+export const dynamic = 'force-dynamic'
+
 interface Props {
   params: Promise<{ subcategory: string }>
 }

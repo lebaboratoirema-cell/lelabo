@@ -8,9 +8,11 @@ import CategoryChips from '@/components/CategoryChips'
 import {
   getCategoryBySlug,
   getChildCategories,
-  getProductsByCategory,
+  getProductsByFamily,
 } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
+
+export const dynamic = 'force-dynamic'
 
 export default async function GlasswarePage() {
   const meta = CATEGORY_ROUTE_META.glassware
@@ -19,9 +21,7 @@ export default async function GlasswarePage() {
 
   const children = await getChildCategories(parent.id)
 
-  const allProducts = children.length > 0
-    ? (await Promise.all(children.map((c) => getProductsByCategory(c.id)))).flat()
-    : await getProductsByCategory(parent.id)
+  const allProducts = await getProductsByFamily(parent.id)
 
   const chips = children.map((c) => ({
     label: (c.name as { fr: string }).fr,

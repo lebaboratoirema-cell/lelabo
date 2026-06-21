@@ -37,3 +37,24 @@ export async function getProductsByCategory(categoryId: string): Promise<Product
     .order('created_at', { ascending: false })
   return (data as ProductWithImage[]) ?? []
 }
+
+export async function getProductsByFamily(parentId: string): Promise<ProductWithImage[]> {
+  const supabase = await createClient()
+
+  const { data: children } = await supabase
+    .from('categories')
+    .select('id')
+    .eq('parent_id', parentId)
+    .eq('is_active', true)
+
+  const categoryIds = [parentId, ...(children ?? []).map((c) => c.id)]
+
+  const { data } = await supabase
+    .from('products')
+    .select('*, product_images(storage_path, is_primary)')
+    .in('category_id', categoryIds)
+    .eq('is_active', true)
+    .order('created_at', { ascending: false })
+
+  return (data as ProductWithImage[]) ?? []
+}
