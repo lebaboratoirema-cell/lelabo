@@ -84,9 +84,18 @@
 
 ## Next session: start here
 
-1. Product detail page: `/shop/[slug]`
-2. Checkout / quote flow (CMI + COD)
-3. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
+1. **[URGENT] Implement product visibility fix** — spec approved at `docs/superpowers/specs/2026-06-21-product-visibility-fix-design.md`
+   - Invoke `superpowers:writing-plans` first to generate implementation plan
+   - Then invoke `superpowers:executing-plans` or implement directly
+   - Root cause: products assigned to parent categories don't show when child categories exist; also admin category dropdown is flat (no hierarchy)
+   - 11 files, no schema changes — see spec for full file list and exact changes
+2. **[READY] Product detail page** — plan at `docs/superpowers/plans/2026-06-21-product-detail-page.md`
+   - Invoke `superpowers:subagent-driven-development` to execute task-by-task
+   - 9 tasks, 14 files, no schema changes
+   - Spec at `docs/superpowers/specs/2026-06-21-product-detail-page-design.md`
+   - Key: variant pill selectors, image gallery, quote modal (console log MVP), nested URLs under category/subcategory
+3. Checkout / quote flow (CMI + COD)
+4. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 
 ## Known tech debt
 - Admin routes hardcoded to `/fr/` locale — acceptable for French-only MVP, must grep-replace before adding any second locale
