@@ -1,7 +1,7 @@
 # Project State
 
 **Status:** Active development — schema designed, migration ready to run
-**Last updated:** 2026-06-20
+**Last updated:** 2026-06-21
 
 ## Stack (locked)
 - **Framework:** Next.js 16.2.9 (App Router, TypeScript, Tailwind v4)
@@ -99,10 +99,14 @@
    - Then invoke `superpowers:executing-plans` or implement directly
    - Root cause: products assigned to parent categories don't show when child categories exist; also admin category dropdown is flat (no hierarchy)
    - 11 files, no schema changes — see spec for full file list and exact changes
-2. **[DONE] Product detail page** — implemented 2026-06-21, branch `worktree-feature+product-detail-page`, needs smoke test + merge
+2. **[READY] Product card redesign** — plan at `docs/superpowers/plans/2026-06-21-product-card-redesign.md`
+   - Invoke `superpowers:executing-plans` or `superpowers:subagent-driven-development`
+   - **Task 1 is manual**: run SQL migration in Supabase dashboard before anything else
+   - 6 tasks: DB migration → types → CSS → ProductGrid → admin form → actions
+3. **[DONE] Product detail page** — implemented 2026-06-21, branch `worktree-feature+product-detail-page`, needs smoke test + merge
    - Task 8 (manual smoke test) still pending — start dev server and verify product detail pages render
-3. Checkout / quote flow (CMI + COD)
-4. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
+4. Checkout / quote flow (CMI + COD)
+5. Add compliance note to `compliance/regulatory-track.md` (Law 09-08 PII retention)
 
 ## Known tech debt
 - Admin routes hardcoded to `/fr/` locale — acceptable for French-only MVP, must grep-replace before adding any second locale

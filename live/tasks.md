@@ -8,6 +8,9 @@
 - [ ] HTTPS enforced on all routes
 - [ ] No secrets in code or frontend bundle ✅ (verified)
 
+## Ready to execute
+- [ ] **Product card redesign** — plan at `docs/superpowers/plans/2026-06-21-product-card-redesign.md`. Start with manual Supabase SQL migration (Task 1), then invoke `superpowers:executing-plans`.
+
 ## Done this session
 - [x] Homepage implemented (10 components)
 - [x] Tech stack locked: Next.js 16 + Supabase + Tailwind v4 + next-intl
