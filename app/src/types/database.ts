@@ -24,6 +24,8 @@ export interface Product {
   description: LocalizedText | null
   brand: string | null
   is_active: boolean
+  in_stock: boolean
+  promo_label: string | null
   created_at: string
   updated_at: string
 }
