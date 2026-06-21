@@ -58,6 +58,8 @@ export async function createProduct(formData: FormData) {
       description: { fr: formData.get('desc_fr') as string || null },
       brand: (formData.get('brand') as string) || null,
       is_active: formData.get('is_active') === 'on',
+      in_stock: formData.get('in_stock') === 'on',
+      promo_label: (formData.get('promo_label') as string) || null,
     })
     .select('id')
     .single()
@@ -93,6 +95,8 @@ export async function updateProduct(id: string, formData: FormData) {
       description: { fr: formData.get('desc_fr') as string || null },
       brand: (formData.get('brand') as string) || null,
       is_active: formData.get('is_active') === 'on',
+      in_stock: formData.get('in_stock') === 'on',
+      promo_label: (formData.get('promo_label') as string) || null,
     })
     .eq('id', id)
 
@@ -145,10 +149,11 @@ function parseVariants(formData: FormData) {
   while (formData.get(`variant_name_fr_${i}`) !== null) {
     const nameFr = formData.get(`variant_name_fr_${i}`) as string
     const sku = formData.get(`variant_sku_${i}`) as string
-    const price = parseFloat(formData.get(`variant_price_${i}`) as string)
+    const priceRaw = formData.get(`variant_price_${i}`) as string
+    const price = priceRaw ? parseFloat(priceRaw) : 0
     const stock = parseInt(formData.get(`variant_stock_${i}`) as string, 10)
-    if (nameFr && sku && !isNaN(price)) {
-      variants.push({ name: { fr: nameFr }, sku, price, stock: isNaN(stock) ? 0 : stock, position: i })
+    if (nameFr && sku) {
+      variants.push({ name: { fr: nameFr }, sku, price: isNaN(price) ? 0 : price, stock: isNaN(stock) ? 0 : stock, position: i })
     }
     i++
   }
