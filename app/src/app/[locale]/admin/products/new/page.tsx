@@ -14,9 +14,8 @@ export default async function NewProductPage() {
   const childCategories = (allCats ?? []).filter((c) => c.parent_id) as Category[]
 
   return (
-    <div className="max-w-2xl">
-      <h1 className="text-xl font-semibold text-gray-800 mb-6">Nouveau produit</h1>
+    <>
       <ProductForm parents={parents} childCategories={childCategories} />
-    </div>
+    </>
   )
 }

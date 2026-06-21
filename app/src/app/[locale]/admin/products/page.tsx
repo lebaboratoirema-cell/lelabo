@@ -12,7 +12,7 @@ export default async function AdminProductsPage() {
     .order('created_at', { ascending: false })
 
   return (
-    <div style={{ maxWidth: 1080, margin: '0 auto', padding: '32px 32px 80px' }}>
+    <div style={{ padding: '32px 32px 80px' }}>
       <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 28, gap: 16, flexWrap: 'wrap' }}>
         <div>
           <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>Produits</h1>

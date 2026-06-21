@@ -16,7 +16,7 @@ export default async function CategoriesPage() {
   const parentMap = new Map(rows.map((c) => [c.id, (c.name as { fr: string }).fr]))
 
   return (
-    <div style={{ maxWidth: 1080, margin: '0 auto', padding: '32px 32px 80px' }}>
+    <div style={{ padding: '32px 32px 80px' }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 28 }}>
         <div>
           <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>Catégories</h1>

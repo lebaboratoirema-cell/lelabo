@@ -63,7 +63,7 @@ export default function DashboardClient() {
   const [expanded, setExpanded] = useState<number | null>(null)
 
   return (
-    <div style={{ maxWidth: 1180, margin: '0 auto', padding: '32px 32px 80px' }}>
+    <div style={{ padding: '32px 32px 80px' }}>
 
       {/* Header */}
       <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', gap: 20, flexWrap: 'wrap', marginBottom: 26 }}>

@@ -20,8 +20,7 @@ export default async function EditProductPage({ params }: { params: Promise<{ id
   const childCategories = (allCats ?? []).filter((c) => c.parent_id) as Category[]
 
   return (
-    <div className="max-w-2xl">
-      <h1 className="text-xl font-semibold text-gray-800 mb-6">Modifier le produit</h1>
+    <>
       <ProductForm
         parents={parents}
         childCategories={childCategories}
@@ -29,6 +28,6 @@ export default async function EditProductPage({ params }: { params: Promise<{ id
         variants={(variants ?? []) as ProductVariant[]}
         images={(images ?? []) as ProductImage[]}
       />
-    </div>
+    </>
   )
 }
