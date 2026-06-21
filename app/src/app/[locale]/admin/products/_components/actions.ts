@@ -34,7 +34,20 @@ async function uploadImages(supabase: ReturnType<typeof createServiceClient>, pr
 export async function createProduct(formData: FormData) {
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
-  const slug = slugify(nameFr)
+  const baseSlug = slugify(nameFr)
+
+  // Resolve slug collision by appending incrementing suffix
+  let slug = baseSlug
+  let attempt = 0
+  while (true) {
+    const { count } = await supabase
+      .from('products')
+      .select('id', { count: 'exact', head: true })
+      .eq('slug', slug)
+    if (count === 0) break
+    attempt++
+    slug = `${baseSlug}-${attempt}`
+  }
 
   const { data: product, error } = await supabase
     .from('products')
