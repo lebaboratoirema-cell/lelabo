@@ -5,16 +5,16 @@ import type { Category } from '@/types/database'
 
 interface Props {
   parents: Category[]
-  children: Category[]
+  subcategories: Category[]
   selectedCategory: string
   selectedSubcategory: string
 }
 
-export default function FilterBar({ parents, children, selectedCategory, selectedSubcategory }: Props) {
+export default function FilterBar({ parents, subcategories, selectedCategory, selectedSubcategory }: Props) {
   const router = useRouter()
   const pathname = usePathname()
 
-  const visibleChildren = children.filter((c) => c.parent_id === selectedCategory)
+  const visibleChildren = subcategories.filter((c) => c.parent_id === selectedCategory)
 
   function handleCategoryChange(e: React.ChangeEvent<HTMLSelectElement>) {
     const val = e.target.value
@@ -56,7 +56,7 @@ export default function FilterBar({ parents, children, selectedCategory, selecte
           <option value="">Toutes les catégories</option>
           {parents.map((p) => (
             <option key={p.id} value={p.id}>
-              {(p.name as { fr: string }).fr}
+              {p.name.fr}
             </option>
           ))}
         </select>
@@ -74,7 +74,7 @@ export default function FilterBar({ parents, children, selectedCategory, selecte
             <option value="">Toutes les sous-catégories</option>
             {visibleChildren.map((c) => (
               <option key={c.id} value={c.id}>
-                {(c.name as { fr: string }).fr}
+                {c.name.fr}
               </option>
             ))}
           </select>
