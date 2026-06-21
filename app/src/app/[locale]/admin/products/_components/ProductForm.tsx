@@ -33,8 +33,9 @@ export default function ProductForm({ parents, childCategories, product, variant
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
 
-  const categoryLabel = childCategories.find((c) => c.id === categoryId)
-    ? (childCategories.find((c) => c.id === categoryId)!.name as { fr: string }).fr
+  const allCategories = [...parents, ...childCategories]
+  const categoryLabel = allCategories.find((c) => c.id === categoryId)
+    ? (allCategories.find((c) => c.id === categoryId)!.name as { fr: string }).fr
     : '—'
 
   const allImages = existingImages.length + newImagePreviews.length
@@ -141,15 +142,24 @@ export default function ProductForm({ parents, childCategories, product, variant
                       style={{ width: '100%', height: 44, padding: '0 40px 0 14px', border: '1px solid #dcd8cf', borderRadius: 10, background: '#fcfbf9', fontSize: 14, color: '#1c2230', appearance: 'none', fontFamily: 'inherit', cursor: 'pointer' }}
                     >
                       <option value="" disabled>Sélectionner une catégorie…</option>
-                      {parents.map((parent) => (
-                        <optgroup key={parent.id} label={(parent.name as { fr: string }).fr}>
-                          {childCategories
-                            .filter((c) => c.parent_id === parent.id)
-                            .map((c) => (
+                      {parents.map((parent) => {
+                        const children = childCategories.filter((c) => c.parent_id === parent.id)
+                        if (children.length === 0) {
+                          return (
+                            <option key={parent.id} value={parent.id}>
+                              {(parent.name as { fr: string }).fr}
+                            </option>
+                          )
+                        }
+                        return (
+                          <optgroup key={parent.id} label={(parent.name as { fr: string }).fr}>
+                            <option value={parent.id}>— {(parent.name as { fr: string }).fr} (toutes)</option>
+                            {children.map((c) => (
                               <option key={c.id} value={c.id}>{(c.name as { fr: string }).fr}</option>
                             ))}
-                        </optgroup>
-                      ))}
+                          </optgroup>
+                        )
+                      })}
                     </select>
                     <span style={{ position: 'absolute', right: 14, top: '50%', transform: 'translateY(-50%)', pointerEvents: 'none', color: '#9aa3af', fontSize: 11 }}>▼</span>
                   </div>
