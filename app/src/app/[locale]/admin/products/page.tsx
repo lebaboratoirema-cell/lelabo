@@ -8,8 +8,10 @@ export const dynamic = 'force-dynamic'
 export default async function AdminProductsPage({
   searchParams,
 }: {
-  searchParams: { category?: string; subcategory?: string }
+  searchParams: Promise<{ category?: string; subcategory?: string }>
 }) {
+  const { category, subcategory } = await searchParams
+
   const supabase = createServiceClient()
 
   const { data: allCats } = await supabase
@@ -21,8 +23,8 @@ export default async function AdminProductsPage({
   const parents = ((allCats ?? []) as Category[]).filter((c) => !c.parent_id)
   const childCategories = ((allCats ?? []) as Category[]).filter((c) => !!c.parent_id)
 
-  const categoryParam = searchParams.category ?? ''
-  const subcategoryParam = searchParams.subcategory ?? ''
+  const categoryParam = category ?? ''
+  const subcategoryParam = subcategory ?? ''
 
   let query = supabase
     .from('products')
