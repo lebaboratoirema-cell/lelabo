@@ -35,23 +35,10 @@ export default function Header() {
           <nav className="primary">
             <ul>
               <li className="active"><Link href="/">Accueil</Link></li>
-              <li><Link href="/shop">Boutique</Link></li>
-              <li>
-                <a href="/glassware">
-                  Verrerie{' '}
-                  <svg className="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                    <path d="M6 9l6 6 6-6"/>
-                  </svg>
-                </a>
-                <ul className="submenu">
-                  <li><Link href="/glassware">Verrerie</Link></li>
-                  <li><Link href="/glassware">Consommables</Link></li>
-                </ul>
-              </li>
-              <li><Link href="/lab-equipment">Équipements</Link></li>
+              <li><Link href="/lab-equipment">Équipement scientifique</Link></li>
               <li>
                 <a href="/chemicals">
-                  Chimie{' '}
+                  Produit chimie{' '}
                   <svg className="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                     <path d="M6 9l6 6 6-6"/>
                   </svg>
@@ -63,20 +50,20 @@ export default function Header() {
                   <li><Link href="/chemicals">Solutions tampons</Link></li>
                 </ul>
               </li>
-              <li><Link href="/about">À propos</Link></li>
-              <li><Link href="/contact">Contact</Link></li>
               <li>
-                <a href="/catalogues">
-                  Catalogues{' '}
+                <a href="/petit-outillage">
+                  Petit outillage{' '}
                   <svg className="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                     <path d="M6 9l6 6 6-6"/>
                   </svg>
                 </a>
                 <ul className="submenu">
-                  <li><Link href="/catalogues">Catalogue verrerie</Link></li>
-                  <li><Link href="/catalogues">Catalogue consommables</Link></li>
+                  <li><Link href="/petit-outillage/outillage-verrerie">Verrerie</Link></li>
+                  <li><Link href="/petit-outillage/plastique">Plastique</Link></li>
                 </ul>
               </li>
+              <li><Link href="/about">À propos</Link></li>
+              <li><Link href="/contact">Contact</Link></li>
             </ul>
           </nav>
 
@@ -107,23 +94,21 @@ export default function Header() {
           <button className="close" onClick={() => setMobileOpen(false)}>&times;</button>
           <div style={{ clear: 'both', height: 8 }} />
           <Link href="/" onClick={() => setMobileOpen(false)}>Accueil</Link>
-          <Link href="/shop" onClick={() => setMobileOpen(false)}>Boutique</Link>
-          <Link href="/glassware" onClick={() => setMobileOpen(false)}>Verrerie &amp; Consommables</Link>
-          <div className="sub">
-            <Link href="/glassware" onClick={() => setMobileOpen(false)}>— Verrerie</Link>
-            <Link href="/glassware" onClick={() => setMobileOpen(false)}>— Consommables</Link>
-          </div>
-          <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipements de laboratoire</Link>
-          <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Chimie</Link>
+          <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipement scientifique</Link>
+          <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Produit chimie</Link>
           <div className="sub">
             <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Acides</Link>
             <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Réactifs</Link>
             <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Solvants</Link>
             <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Solutions tampons</Link>
           </div>
+          <Link href="/petit-outillage" onClick={() => setMobileOpen(false)}>Petit outillage</Link>
+          <div className="sub">
+            <Link href="/petit-outillage/outillage-verrerie" onClick={() => setMobileOpen(false)}>— Verrerie</Link>
+            <Link href="/petit-outillage/plastique" onClick={() => setMobileOpen(false)}>— Plastique</Link>
+          </div>
           <Link href="/about" onClick={() => setMobileOpen(false)}>À propos</Link>
           <Link href="/contact" onClick={() => setMobileOpen(false)}>Contact</Link>
-          <Link href="/catalogues" onClick={() => setMobileOpen(false)}>Catalogues</Link>
         </div>
       </div>
     </>
