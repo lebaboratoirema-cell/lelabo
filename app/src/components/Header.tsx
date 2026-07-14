@@ -36,20 +36,7 @@ export default function Header() {
             <ul>
               <li className="active"><Link href="/">Accueil</Link></li>
               <li><Link href="/lab-equipment">Équipement scientifique</Link></li>
-              <li>
-                <a href="/chemicals">
-                  Produit chimie{' '}
-                  <svg className="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                    <path d="M6 9l6 6 6-6"/>
-                  </svg>
-                </a>
-                <ul className="submenu">
-                  <li><Link href="/chemicals">Acides</Link></li>
-                  <li><Link href="/chemicals">Réactifs</Link></li>
-                  <li><Link href="/chemicals">Solvants</Link></li>
-                  <li><Link href="/chemicals">Solutions tampons</Link></li>
-                </ul>
-              </li>
+              <li><Link href="/chemicals">Produit chimie</Link></li>
               <li>
                 <a href="/petit-outillage">
                   Petit outillage{' '}
@@ -96,12 +83,6 @@ export default function Header() {
           <Link href="/" onClick={() => setMobileOpen(false)}>Accueil</Link>
           <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipement scientifique</Link>
           <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Produit chimie</Link>
-          <div className="sub">
-            <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Acides</Link>
-            <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Réactifs</Link>
-            <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Solvants</Link>
-            <Link href="/chemicals" onClick={() => setMobileOpen(false)}>— Solutions tampons</Link>
-          </div>
           <Link href="/petit-outillage" onClick={() => setMobileOpen(false)}>Petit outillage</Link>
           <div className="sub">
             <Link href="/petit-outillage/outillage-verrerie" onClick={() => setMobileOpen(false)}>— Verrerie</Link>
