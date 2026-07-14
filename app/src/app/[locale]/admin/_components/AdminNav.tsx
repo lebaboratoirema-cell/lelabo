@@ -42,6 +42,10 @@ export default function AdminNav() {
         Catégories
         <span style={underline('/fr/admin/categories')} />
       </a>
+      <a href="/fr/admin/blog" style={linkStyle('/fr/admin/blog')}>
+        Blog
+        <span style={underline('/fr/admin/blog')} />
+      </a>
       <span style={{ color: '#9aa3af', cursor: 'not-allowed' }}>Commandes</span>
       <div style={{ width: 30, height: 30, borderRadius: '50%', background: '#e2ddd2', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 12, fontWeight: 600, color: '#6b6357' }}>SA</div>
     </nav>

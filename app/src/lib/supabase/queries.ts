@@ -1,5 +1,5 @@
 import { createClient } from './server'
-import type { Category, Product, ProductImage, ProductWithVariants } from '@/types/database'
+import type { BlogPost, Category, Product, ProductImage, ProductWithVariants } from '@/types/database'
 
 export type { ProductWithVariants }
 
@@ -72,6 +72,27 @@ export async function getProductBySlug(slug: string): Promise<ProductWithVariant
     .order('position', { referencedTable: 'product_images', ascending: true })
     .maybeSingle()
   return (data as ProductWithVariants | null) ?? null
+}
+
+export async function getBlogPosts(): Promise<BlogPost[]> {
+  const supabase = await createClient()
+  const { data } = await supabase
+    .from('blog_posts')
+    .select('*')
+    .eq('is_published', true)
+    .order('published_at', { ascending: false })
+  return (data as BlogPost[]) ?? []
+}
+
+export async function getBlogPostBySlug(slug: string): Promise<BlogPost | null> {
+  const supabase = await createClient()
+  const { data } = await supabase
+    .from('blog_posts')
+    .select('*')
+    .eq('slug', slug)
+    .eq('is_published', true)
+    .maybeSingle()
+  return (data as BlogPost | null) ?? null
 }
 
 export async function getRelatedProducts(

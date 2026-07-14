@@ -49,6 +49,7 @@ export default function Header() {
                   <li><Link href="/petit-outillage/plastique">Plastique</Link></li>
                 </ul>
               </li>
+              <li><Link href="/blog">Blog</Link></li>
               <li><Link href="/about">À propos</Link></li>
               <li><Link href="/contact">Contact</Link></li>
             </ul>
@@ -88,6 +89,7 @@ export default function Header() {
             <Link href="/petit-outillage/outillage-verrerie" onClick={() => setMobileOpen(false)}>— Verrerie</Link>
             <Link href="/petit-outillage/plastique" onClick={() => setMobileOpen(false)}>— Plastique</Link>
           </div>
+          <Link href="/blog" onClick={() => setMobileOpen(false)}>Blog</Link>
           <Link href="/about" onClick={() => setMobileOpen(false)}>À propos</Link>
           <Link href="/contact" onClick={() => setMobileOpen(false)}>Contact</Link>
         </div>

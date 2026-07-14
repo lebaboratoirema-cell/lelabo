@@ -98,6 +98,21 @@ export interface OrderItem {
   created_at: string
 }
 
+// ─── Blog ───────────────────────────────────────────────────────────────────
+
+export interface BlogPost {
+  id: string
+  slug: string
+  title: string
+  excerpt: string | null
+  content: string
+  cover_image: string | null
+  is_published: boolean
+  published_at: string | null
+  created_at: string
+  updated_at: string
+}
+
 // ─── Joined shapes (for queries that embed relations) ───────────────────────
 
 export interface ProductWithVariants extends Product {
