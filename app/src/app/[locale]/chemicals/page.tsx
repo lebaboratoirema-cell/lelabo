@@ -11,6 +11,7 @@ import {
   getProductsByFamily,
 } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
+import { CITIES } from '@/lib/pseo/cities'
 
 export const dynamic = 'force-dynamic'
 
@@ -56,6 +57,21 @@ export default async function ChemicalsPage() {
             </div>
           )}
           <ProductGrid products={allProducts} basePath="/fr/chemicals" />
+        </div>
+      </section>
+
+      <section className="block city-links">
+        <div className="wrap">
+          <h2>Livraison dans votre ville</h2>
+          <ul className="city-link-list">
+            {CITIES.map((city) => (
+              <li key={city.slug}>
+                <a href={`/fr/chemicals/villes/${city.slug}`}>
+                  Produits chimiques à {city.name}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
