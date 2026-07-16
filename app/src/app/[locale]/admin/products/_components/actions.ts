@@ -154,6 +154,8 @@ function parseVariants(formData: FormData) {
     const stock = parseInt(formData.get(`variant_stock_${i}`) as string, 10)
     if (nameFr && sku) {
       variants.push({ name: { fr: nameFr }, sku, price: isNaN(price) ? 0 : price, stock: isNaN(stock) ? 0 : stock, position: i })
+    } else if (nameFr || sku) {
+      throw new Error(`Variante ${i + 1}: nom et SKU sont tous deux obligatoires`)
     }
     i++
   }

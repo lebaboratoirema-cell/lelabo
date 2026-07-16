@@ -61,6 +61,13 @@ export default function ProductForm({ parents, childCategories, product, variant
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
     setError(null)
+
+    const incomplete = variantList.some((v) => (v.name_fr.trim() || v.sku.trim()) && (!v.name_fr.trim() || !v.sku.trim()))
+    if (incomplete) {
+      setError('Chaque variante doit avoir un nom et un SKU renseignés.')
+      return
+    }
+
     setLoading(true)
     try {
       const fd = new FormData(e.currentTarget)
@@ -233,7 +240,7 @@ export default function ProductForm({ parents, childCategories, product, variant
 
               {variantList.length > 0 && (
                 <div style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
-                  <span>Nom</span><span>SKU</span><span>Prix (MAD)</span><span>Stock</span><span />
+                  <span>Nom *</span><span>SKU *</span><span>Prix (MAD)</span><span>Stock</span><span />
                 </div>
               )}
 
