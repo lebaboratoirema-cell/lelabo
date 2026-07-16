@@ -13,6 +13,8 @@ export default function BlogForm({ post }: Props) {
   const [excerpt, setExcerpt] = useState(post?.excerpt ?? '')
   const [content, setContent] = useState(post?.content ?? '')
   const [coverImage, setCoverImage] = useState(post?.cover_image ?? '')
+  const [author, setAuthor] = useState(post?.author ?? 'lelaboratoire.ma')
+  const [metaDescription, setMetaDescription] = useState(post?.meta_description ?? '')
   const [published, setPublished] = useState(post?.is_published ?? false)
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
@@ -27,6 +29,8 @@ export default function BlogForm({ post }: Props) {
       fd.set('excerpt', excerpt)
       fd.set('content', content)
       fd.set('cover_image', coverImage)
+      fd.set('author', author)
+      fd.set('meta_description', metaDescription)
       fd.set('is_published', published ? 'on' : '')
       if (post) {
         await updateBlogPost(post.id, fd)
@@ -97,13 +101,23 @@ export default function BlogForm({ post }: Props) {
           </div>
 
           <div>
+            <label style={label}>Auteur</label>
+            <input value={author} onChange={(e) => setAuthor(e.target.value)} placeholder="lelaboratoire.ma" className="admin-input" style={{ ...inp, height: 44 }} />
+          </div>
+
+          <div>
             <label style={label}>Extrait</label>
             <textarea value={excerpt} onChange={(e) => setExcerpt(e.target.value)} rows={2} placeholder="Résumé court affiché dans la liste" className="admin-input" style={{ ...inp, resize: 'vertical' }} />
           </div>
 
           <div>
-            <label style={label}>Contenu <span style={{ color: '#c8643c' }}>*</span></label>
-            <textarea required value={content} onChange={(e) => setContent(e.target.value)} rows={14} placeholder="Un paragraphe par ligne" className="admin-input" style={{ ...inp, resize: 'vertical', fontFamily: 'inherit' }} />
+            <label style={label}>Description meta (SEO, 150-160 caractères)</label>
+            <textarea value={metaDescription} onChange={(e) => setMetaDescription(e.target.value)} rows={2} placeholder="Affichée dans les résultats Google et les partages sociaux" className="admin-input" style={{ ...inp, resize: 'vertical' }} />
+          </div>
+
+          <div>
+            <label style={label}>Contenu (Markdown) <span style={{ color: '#c8643c' }}>*</span></label>
+            <textarea required value={content} onChange={(e) => setContent(e.target.value)} rows={20} placeholder="## Titre de section&#10;&#10;Paragraphe avec [lien](/lab-equipment)." className="admin-input" style={{ ...inp, resize: 'vertical', fontFamily: 'monospace' }} />
           </div>
 
           <div>

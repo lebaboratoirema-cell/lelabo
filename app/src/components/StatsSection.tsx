@@ -56,7 +56,7 @@ export default function StatsSection() {
   return (
     <section className="block stats" ref={ref} id="stats">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img className="bgimg" src="/images/dna.jpg" alt="" />
+      <img className="bgimg" src="/images/dna.webp" alt="" />
       <div className="wrap">
         <div className="stat-grid">
           {stats.map((stat, i) => (

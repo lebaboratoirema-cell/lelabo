@@ -11,7 +11,7 @@ export default function ContactPage() {
       <Header />
 
       <section className="page-banner">
-        <img className="bgimg" src="/images/hero-tech.jpg" alt="" />
+        <img className="bgimg" src="/images/hero-tech.webp" alt="" />
         <div className="wrap">
           <h1>Contactez-nous</h1>
           <div className="breadcrumb">

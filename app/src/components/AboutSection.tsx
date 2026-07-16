@@ -25,10 +25,10 @@ export default function AboutSection() {
         </div>
         <div className="about-media reveal">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="main-img" src="/images/hero-interior.jpg" alt="Équipe en laboratoire" />
+          <img className="main-img" src="/images/hero-interior.webp" alt="Équipe en laboratoire" />
           <div className="badge-years"><b>5+</b><span>Ans</span></div>
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="float-img" src="/images/analysis.jpg" alt="Contrôle qualité" />
+          <img className="float-img" src="/images/analysis.webp" alt="Contrôle qualité" />
         </div>
       </div>
     </section>

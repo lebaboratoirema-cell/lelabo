@@ -21,14 +21,14 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
   const hasVariants = product.product_variants.length > 0
 
   const primaryImage = product.product_images.find((img) => img.is_primary) ?? product.product_images[0]
-  const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.jpg'
+  const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
   const allImages = product.product_images.map((img) => getImageUrl(img.storage_path))
 
   return (
     <>
       {/* Breadcrumb banner */}
       <section className="page-banner" style={{ padding: '54px 0' }}>
-        <img className="bgimg" src={allImages[0] ?? '/images/glassware.jpg'} alt="" />
+        <img className="bgimg" src={allImages[0] ?? '/images/glassware.webp'} alt="" />
         <div className="wrap">
           <div className="breadcrumb">
             <a href="/fr">Accueil</a>

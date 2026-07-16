@@ -4,12 +4,12 @@ import SiteFooter from '@/components/SiteFooter';
 import ScrollReveal from '@/components/ScrollReveal';
 
 const catalogues = [
-  { title: 'Catalogue verrerie 2026', desc: 'Gamme complète de verrerie borosilicatée et volumétrique. · 84 pages', img: '/images/glassware.jpg' },
-  { title: 'Catalogue consommables', desc: 'Jetables, filtration et fournitures courantes de laboratoire. · 60 pages', img: '/images/analysis.jpg' },
-  { title: 'Catalogue produits chimiques', desc: 'Solvants, acides, réactifs et solutions tampons. · 120 pages', img: '/images/hero-chem.jpg' },
-  { title: 'Catalogue équipements', desc: 'Instruments, optique et appareils de mesure. · 96 pages', img: '/images/hero-tech.jpg' },
-  { title: 'Catalogue milieux de culture', desc: 'Milieux bactériologiques, peptones et extraits. · 42 pages', img: '/images/culture.jpg' },
-  { title: 'Catalogue hygiène &amp; sécurité', desc: "Équipements de protection et consommables de sécurité. · 38 pages", img: '/images/safety.jpg' },
+  { title: 'Catalogue verrerie 2026', desc: 'Gamme complète de verrerie borosilicatée et volumétrique. · 84 pages', img: '/images/glassware.webp' },
+  { title: 'Catalogue consommables', desc: 'Jetables, filtration et fournitures courantes de laboratoire. · 60 pages', img: '/images/analysis.webp' },
+  { title: 'Catalogue produits chimiques', desc: 'Solvants, acides, réactifs et solutions tampons. · 120 pages', img: '/images/hero-chem.webp' },
+  { title: 'Catalogue équipements', desc: 'Instruments, optique et appareils de mesure. · 96 pages', img: '/images/hero-tech.webp' },
+  { title: 'Catalogue milieux de culture', desc: 'Milieux bactériologiques, peptones et extraits. · 42 pages', img: '/images/culture.webp' },
+  { title: 'Catalogue hygiène &amp; sécurité', desc: "Équipements de protection et consommables de sécurité. · 38 pages", img: '/images/safety.webp' },
 ];
 
 export default function CataloguesPage() {
@@ -20,7 +20,7 @@ export default function CataloguesPage() {
       <Header />
 
       <section className="page-banner">
-        <img className="bgimg" src="/images/hero-chem.jpg" alt="" />
+        <img className="bgimg" src="/images/hero-chem.webp" alt="" />
         <div className="wrap">
           <h1>Catalogues</h1>
           <div className="breadcrumb">

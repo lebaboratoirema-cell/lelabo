@@ -107,6 +107,8 @@ export interface BlogPost {
   excerpt: string | null
   content: string
   cover_image: string | null
+  author: string
+  meta_description: string | null
   is_published: boolean
   published_at: string | null
   created_at: string

@@ -30,6 +30,8 @@ export async function createBlogPost(formData: FormData) {
     excerpt: (formData.get('excerpt') as string) || null,
     content: formData.get('content') as string,
     cover_image: (formData.get('cover_image') as string) || null,
+    author: (formData.get('author') as string) || 'lelaboratoire.ma',
+    meta_description: (formData.get('meta_description') as string) || null,
     is_published: isPublished,
     published_at: isPublished ? new Date().toISOString() : null,
   })
@@ -60,6 +62,8 @@ export async function updateBlogPost(id: string, formData: FormData) {
       excerpt: (formData.get('excerpt') as string) || null,
       content: formData.get('content') as string,
       cover_image: (formData.get('cover_image') as string) || null,
+      author: (formData.get('author') as string) || 'lelaboratoire.ma',
+      meta_description: (formData.get('meta_description') as string) || null,
       is_published: isPublished,
       published_at: publishedAt,
       updated_at: new Date().toISOString(),

@@ -12,7 +12,7 @@ export default function AboutPage() {
       <Header />
 
       <section className="page-banner">
-        <img className="bgimg" src="/images/hero-interior.jpg" alt="" />
+        <img className="bgimg" src="/images/hero-interior.webp" alt="" />
         <div className="wrap">
           <h1>À propos de nous</h1>
           <div className="breadcrumb">
@@ -50,12 +50,12 @@ export default function AboutPage() {
             </a>
           </div>
           <div className="about-media reveal">
-            <img className="main-img" src="/images/hero-interior.jpg" alt="Équipe en laboratoire" />
+            <img className="main-img" src="/images/hero-interior.webp" alt="Équipe en laboratoire" />
             <div className="badge-years">
               <b>5+</b>
               <span>Ans</span>
             </div>
-            <img className="float-img" src="/images/analysis.jpg" alt="Contrôle qualité" />
+            <img className="float-img" src="/images/analysis.webp" alt="Contrôle qualité" />
           </div>
         </div>
       </section>

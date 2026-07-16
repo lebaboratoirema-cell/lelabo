@@ -4,31 +4,31 @@ import { useState, useEffect, useCallback } from 'react';
 
 const slides = [
   {
-    bg: '/images/hero-interior.jpg',
+    bg: '/images/hero-interior.webp',
     eyebrow: 'Bienvenue chez lelaboratoire.ma',
     title: 'Votre fournisseur d\'équipements de laboratoire & produits chimiques.',
     desc: 'La référence en instruments de laboratoire, produits chimiques, verrerie et consommables — au service des équipes de recherche et de contrôle qualité.',
     cta1: { label: 'Voir le catalogue', href: '/shop' },
     cta2: { label: 'Nous contacter', href: '/contact' },
-    thumbs: ['/images/glassware.jpg', '/images/analysis.jpg', '/images/hero-tech.jpg'],
+    thumbs: ['/images/glassware.webp', '/images/analysis.webp', '/images/hero-tech.webp'],
   },
   {
-    bg: '/images/hero-chem.jpg',
+    bg: '/images/hero-chem.webp',
     eyebrow: 'Fournisseur de produits chimiques',
     title: 'Une large gamme de produits chimiques de haute pureté.',
     desc: 'Solvants, réactifs et acides d\'excellente pureté chimique et nombreuses spécifications, développés en continu pour répondre aux exigences de qualité et de performance.',
     cta1: { label: 'Explorer la chimie', href: '/chemicals' },
     cta2: { label: 'Demander un devis', href: '/contact' },
-    thumbs: ['/images/glassware.jpg', '/images/pipette.jpg', '/images/culture.jpg'],
+    thumbs: ['/images/glassware.webp', '/images/pipette.webp', '/images/culture.webp'],
   },
   {
-    bg: '/images/hero-tech.jpg',
+    bg: '/images/hero-tech.webp',
     eyebrow: 'Équipements & instruments',
     title: 'Équipements de laboratoire pour toutes les disciplines.',
     desc: 'Une large sélection d\'équipements de laboratoire pédagogique, de recherche, industriel et pharmaceutique — instruments de mesure et d\'analyse pour chaque besoin.',
     cta1: { label: 'Voir les équipements', href: '/lab-equipment' },
     cta2: { label: 'Nous contacter', href: '/contact' },
-    thumbs: ['/images/analysis.jpg', '/images/culture.jpg', '/images/safety.jpg'],
+    thumbs: ['/images/analysis.webp', '/images/culture.webp', '/images/safety.webp'],
   },
 ];
 

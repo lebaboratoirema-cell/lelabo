@@ -22,7 +22,7 @@ export default function ProductGrid({ products, basePath }: Props) {
     <div className="product-grid">
       {products.map((p) => {
         const primaryImage = p.product_images.find((img) => img.is_primary) ?? p.product_images[0]
-        const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.jpg'
+        const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
 
         return (
           <a className="product-card reveal" href={`${basePath}/${p.slug}`} key={p.id}>

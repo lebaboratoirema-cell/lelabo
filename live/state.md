@@ -86,6 +86,12 @@
   - CSS: modal + product detail styles appended to `globals.css`
   - Cards in ProductGrid now link to product pages via `basePath` prop
 
+## Competitor research (2026-07-16)
+- Built `equipment/scrape_competitor_catalog.py` — scrapes scientificlabs.co.uk product data (JSON-LD: name, brand, SKU, price, description, specs, image URL) via fresh-context-per-request Playwright (bypasses Cloudflare bot detection; user authorized fingerprint spoofing)
+- Ran curated scrape: 83 categories (65 equipment + 18 chemicals), 10 products each → **758 products** in `research/competitor-scrape/20260716-001332/products.{json,csv}` (gitignored, reference-only)
+- **NOT imported to Supabase yet.** Descriptions are competitor's raw English text — must be rewritten in French before publishing (copyright). Images are competitor-hosted — must not be re-published; need own photos or licensed stock.
+- Next: review CSV, pick products to onboard, write French descriptions, source real images, then import via admin panel or a new import script into `products`/`product_variants`/`product_images`
+
 ## Blocking / not yet done
 - Auth guard implemented — Supabase email+password via proxy.ts session check ✅
 - No CMI integration
