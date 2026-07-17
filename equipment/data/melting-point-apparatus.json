@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "melting-point-apparatus",
+    "parent_slug": "equipements",
+    "name": { "fr": "Appareils de point de fusion", "en": "Melting Point Apparatus" },
+    "description": {
+      "fr": "Appareils manuels et automatiques pour la détermination du point de fusion et d'ébullition, ainsi que leurs accessoires (capillaires, kits d'étalonnage, chargeurs d'échantillons) destinés à l'analyse pharmaceutique et chimique."
+    }
+  },
+  "products": [
+    {
+      "sku": "7251150X25",
+      "slug": "tube-thiele-point-fusion-150x25mm",
+      "brand": null,
+      "name_fr": "Tube capillaire Thiele pour point de fusion — 150 x 25 mm",
+      "description_fr": "Tube capillaire type Thiele destiné à la détermination visuelle du point de fusion par immersion, dimensions 150 x 25 mm. Compatible avec les montages classiques à bain Thiele pour l'analyse manuelle en laboratoire de chimie.",
+      "variant_name_fr": "150 x 25 mm",
+      "price_gbp": 10.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/7251150X25"
+    },
+    {
+      "sku": "EVA4390",
+      "slug": "appareil-point-fusion-automatique-buchi-m-565",
+      "brand": "BUCHI",
+      "name_fr": "Appareil automatique de point de fusion Büchi M-565",
+      "description_fr": "Instrument automatique dédié au contrôle qualité professionnel, déterminant point de fusion, point d'ébullition ou point de fusion sous glissement. Écran couleur avec observation et relecture vidéo de la transition de phase, régulation et mesure de température de haute précision, étalonnage sécurisé avec enregistrement automatique des résultats de calibration. Le chargeur d'échantillons M-569 optionnel homogénéise le tassement du capillaire pour une meilleure reproductibilité, et une double vérification manuelle/automatique reste possible sur les échantillons délicats. Un logiciel PC en option facilite la gestion des méthodes et des résultats. Conforme aux pharmacopées européenne, américaine (USP) et japonaise, avec procédures IQ/OQ complètes pour laboratoires BPL/BPF. Livré avec kit de calibration, 100 tubes capillaires de point de fusion, 10 tubes et 10 capillaires de point d'ébullition, porte-échantillon, outil de nettoyage, logiciel de démonstration, capot de protection, câble USB 2.0 m et manuel d'utilisation.",
+      "variant_name_fr": "Modèle automatique avec caméra et relecture vidéo",
+      "price_gbp": 13059.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4390"
+    },
+    {
+      "sku": "EVA4392",
+      "slug": "logiciel-melting-point-monitor-professional",
+      "brand": "BUCHI",
+      "name_fr": "Logiciel PC Melting Point Monitor Professional",
+      "description_fr": "Logiciel de pilotage à distance pour appareils de point de fusion Büchi de la série M5, permettant la création et la gestion des méthodes d'analyse ainsi que l'enregistrement et l'archivage des résultats de mesure sur ordinateur.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 3639.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4392"
+    },
+    {
+      "sku": "EVA4394",
+      "slug": "kit-etalonnage-buchi-m-560-m-565",
+      "brand": "BUCHI",
+      "name_fr": "Kit d'étalonnage pour appareils de point de fusion Büchi M-560 et M-565",
+      "description_fr": "Jeu de composés de référence certifiés destiné à l'étalonnage des appareils de point de fusion Büchi M-560 et M-565, garantissant la traçabilité des mesures dans les laboratoires soumis aux exigences BPL/BPF.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 537.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4394"
+    },
+    {
+      "sku": "EVA4396",
+      "slug": "clavier-buchi-serie-m5",
+      "brand": "BUCHI",
+      "name_fr": "Clavier de remplacement pour appareils de point de fusion Büchi série M5",
+      "description_fr": "Clavier de rechange compatible avec l'ensemble des appareils de point de fusion Büchi de la série M5, pour la saisie des paramètres de mesure et le pilotage de l'instrument.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 512.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4396"
+    },
+    {
+      "sku": "EVA4398",
+      "slug": "porte-echantillons-12-capillaires-buchi",
+      "brand": "BUCHI",
+      "name_fr": "Porte-échantillons pour 12 capillaires de point de fusion ou d'ébullition",
+      "description_fr": "Support permettant de charger simultanément jusqu'à 12 capillaires de point de fusion ou d'ébullition sur les appareils Büchi, pour accélérer la préparation des séries d'analyses.",
+      "variant_name_fr": "12 capillaires",
+      "price_gbp": 213.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4398"
+    },
+    {
+      "sku": "EVA4402",
+      "slug": "kit-verification-buchi-m-560-m-565",
+      "brand": "BUCHI",
+      "name_fr": "Kit de vérification pour appareils de point de fusion Büchi M-560 et M-565",
+      "description_fr": "Ensemble de composés de vérification permettant de contrôler la justesse des mesures des appareils de point de fusion Büchi M-560 et M-565, en complément du kit d'étalonnage.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 553.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4402"
+    },
+    {
+      "sku": "EVA4404",
+      "slug": "chargeur-echantillons-buchi-m-569",
+      "brand": "BUCHI",
+      "name_fr": "Chargeur d'échantillons Büchi M-569 pour appareils M-565",
+      "description_fr": "Accessoire de chargement automatique des capillaires destiné aux appareils de point de fusion Büchi M-565, assurant un tassement homogène de la poudre échantillon et améliorant ainsi la reproductibilité des déterminations.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 1108.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4404"
+    },
+    {
+      "sku": "MEL1000",
+      "slug": "appareil-point-fusion-cole-parmer-mp-250d-f",
+      "brand": "COLE-PARMER",
+      "name_fr": "Appareil numérique de point de fusion Cole-Parmer MP-250D-F — 100-240 V CA",
+      "description_fr": "Appareil de point de fusion à rampe fixe, conçu pour les tests de base sur jusqu'à trois échantillons simultanés. Rampe de chauffe fixe de 1 °C/minute, ou rampe de recherche rapide à 10 °C/minute lorsque la température de fusion est inconnue, avec mémoire temporaire de quatre températures. Tête d'observation rotative pour une lecture confortable par plusieurs utilisateurs, microprocesseur numérique offrant une résolution de ±0,1 °C, bras réglable équipé d'une loupe grossissante x8 se rabattant pour un rangement compact. Signal sonore indiquant la stabilité de la température, clavier accessible sans quitter l'échantillon des yeux, mode ECO pour l'économie d'énergie. Livré avec 100 tubes capillaires, un kit de clé d'étalonnage et les cordons d'alimentation.",
+      "variant_name_fr": "Rampe fixe, jusqu'à 3 échantillons",
+      "price_gbp": 1531.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MEL1000"
+    },
+    {
+      "sku": "MEL1010",
+      "slug": "appareil-point-fusion-programmable-cole-parmer-mp-250d-p",
+      "brand": "COLE-PARMER",
+      "name_fr": "Appareil numérique de point de fusion programmable Cole-Parmer MP-250D-P — 100-240 V CA",
+      "description_fr": "Appareil de point de fusion à rampe programmable, offrant cinq rampes préréglées ou une programmation libre de 0,2 à 10 °C/minute par pas de 0,1 °C. Mémoire temporaire de quatre températures et mémoire de lot conservant durablement jusqu'à 1000 résultats horodatés et numérotés, avec liaison RS-232 pour connexion à un ordinateur ou une imprimante. Tête d'observation rotative, microprocesseur numérique de résolution ±0,1 °C, bras réglable avec loupe x8 rabattable, signal sonore de stabilité, clavier ergonomique et mode ECO. Livré avec 100 tubes capillaires et les cordons d'alimentation.",
+      "variant_name_fr": "Rampe programmable 0,2 à 10 °C/min",
+      "price_gbp": 2294.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MEL1010"
+    }
+  ]
+}

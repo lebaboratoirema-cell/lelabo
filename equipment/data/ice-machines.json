@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "ice-machines",
+    "parent_slug": "equipements",
+    "name": { "fr": "Machines à glace", "en": "Ice Machines" },
+    "description": {
+      "fr": "Machines à glace pilée et à glaçons, glaçonnières autonomes et bacs de stockage associés, pour les applications médicales, scientifiques et agroalimentaires nécessitant une production de glace hygiénique."
+    }
+  },
+  "products": [
+    {
+      "sku": "ICE2010",
+      "slug": "machine-a-glace-pilee-scotsman-af156-sans-prise",
+      "brand": "SCOTSMAN",
+      "name_fr": "Machine à glace pilée Scotsman AF156 — sans prise",
+      "description_fr": "Machine à glace pilée autonome à refroidissement par air, à commande manuelle et remplissage automatique. Capacité de production adaptée aux besoins moyens, de 70 à 200 kg de glace par jour selon le modèle. Alimentation monophasée 13 A, raccordement à une arrivée d'eau et à l'évacuation requis. Système de désinfection UV XSafe intégré, fonctionnant en continu pour limiter la prolifération bactérienne et virale ainsi que le développement de moisissures, garantissant une glace toujours hygiénique. Version EF disponible avec pompe de relevage de condensats intégrée pour les installations sans évacuation gravitaire. Gamme complète d'accessoires disponible sur demande.",
+      "variant_name_fr": "70 à 200 kg/jour",
+      "price_gbp": 11766.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2010_1"
+    },
+    {
+      "sku": "ICE2018",
+      "slug": "machine-a-glace-pilee-scotsman-ef107-sans-prise",
+      "brand": "SCOTSMAN",
+      "name_fr": "Machine à glace pilée Scotsman EF107 — sans prise",
+      "description_fr": "Machine à glace pilée autonome à pompe de vidange intégrée, produisant 130 kg de glace par tranche de 24 heures avec un bac de stockage de 30 kg. Glace en paillettes granuleuses, dureté 80 %. Commande électronique avec autodiagnostic et voyants d'alarme externes pour une détection rapide des anomalies. Habillage extérieur en acier inoxydable résistant à la corrosion, porte de bac inclinée et escamotable, accès frontal facilitant l'entretien, circulation d'air frontale compatible encastrement. Système PWD de refoulement progressif de l'eau résiduelle jusqu'à 15 mètres. Désinfection naturelle XSafe intégrée, fonctionnant en continu. Adaptée à la restauration, au secteur médical, à l'agroalimentaire et aux applications scientifiques.",
+      "variant_name_fr": "130 kg/24h, bac 30 kg",
+      "price_gbp": 9622.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2018"
+    },
+    {
+      "sku": "ICE2022",
+      "slug": "glaconniere-scotsman-acm47-ecox-r290",
+      "brand": "SCOTSMAN",
+      "name_fr": "Glaçonnière autonome Scotsman ACM47 EcoX au réfrigérant R290 (pieds en option)",
+      "description_fr": "Glaçonnière autonome à encastrer sous plan de travail, produisant des glaçons en forme de dé à coudre, très durs et particulièrement purs. Les glaçons sont formés par projection d'eau vers le haut dans un moule inversé surrefroidi : l'inversion du moule évacue par gravité les sédiments et impuretés, ne laissant que de l'eau pure pour un glaçon cristallin à fonte lente. Capacité de production de 10 à 84 kg par tranche de 24 heures. Technologie Agion limitant le développement des microbes et des odeurs. Voyant d'alerte de nettoyage signalant le moment de changer le filtre à air, accessible en façade. Alimentation monophasée 13 A avec raccordement à une arrivée d'eau filtrée et à l'évacuation. Fonctionne au réfrigérant naturel R290 (propane), à faible potentiel de réchauffement global (PRG ≤ 3), conforme aux réglementations F-Gas actuelles et à venir. Pieds vendus séparément en option.",
+      "variant_name_fr": "10 à 84 kg/24h",
+      "price_gbp": 2138.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2022"
+    },
+    {
+      "sku": "ICE2024",
+      "slug": "glaconniere-scotsman-acm57-ecox-r290",
+      "brand": "SCOTSMAN",
+      "name_fr": "Glaçonnière autonome Scotsman ACM57 EcoX au réfrigérant R290 (pieds en option)",
+      "description_fr": "Glaçonnière autonome à encastrer sous plan de travail, produisant des glaçons en forme de dé à coudre, très durs et particulièrement purs. Les glaçons sont formés par projection d'eau vers le haut dans un moule inversé surrefroidi : l'inversion du moule évacue par gravité les sédiments et impuretés, ne laissant que de l'eau pure pour un glaçon cristallin à fonte lente. Capacité de production de 10 à 84 kg par tranche de 24 heures. Technologie Agion limitant le développement des microbes et des odeurs. Voyant d'alerte de nettoyage signalant le moment de changer le filtre à air, accessible en façade. Alimentation monophasée 13 A avec raccordement à une arrivée d'eau filtrée et à l'évacuation. Fonctionne au réfrigérant naturel R290 (propane), à faible potentiel de réchauffement global (PRG ≤ 3), conforme aux réglementations F-Gas actuelles et à venir. Pieds vendus séparément en option.",
+      "variant_name_fr": "10 à 84 kg/24h",
+      "price_gbp": 3284.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2024"
+    },
+    {
+      "sku": "ICE2039",
+      "slug": "machine-a-glace-pilee-scotsman-mxf327-sans-bac",
+      "brand": "SCOTSMAN",
+      "name_fr": "Machine à glace pilée modulaire Scotsman MXF327 (sans bac de stockage)",
+      "description_fr": "Machine à glace pilée modulaire, destinée à être raccordée à un bac de stockage séparé, produisant 133 kg de glace par tranche de 24 heures. Adaptée à l'agroalimentaire, à la pêche, à la thérapie médicale et aux laboratoires. Habillage supérieur en acier inoxydable AISI 304 avec grille amovible. Système d'évaporation stable à charge axiale et vis sans fin équilibrée à double hélice pour une production régulière et silencieuse, avec motoréducteur amélioré limitant le bruit. Glace en paillettes très sèches (12 % de teneur en eau) pour un rendement optimal. Nettoyage facilité et désinfection XSafe intégrée en standard. Bac à eau avec système de régulation simplifié et capteur de niveau de glace pour un fonctionnement autonome. Écran tactile et application XWave pour la programmation et le suivi électronique. Garantie 2 ans.",
+      "variant_name_fr": "133 kg/24h",
+      "price_gbp": 6513.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2039"
+    },
+    {
+      "sku": "ICE2040",
+      "slug": "machine-a-glace-pilee-scotsman-af206-sans-prise",
+      "brand": "SCOTSMAN",
+      "name_fr": "Machine à glace pilée Scotsman AF206 — sans prise",
+      "description_fr": "Machine à glace pilée autonome à refroidissement par air, à commande manuelle et remplissage automatique. Capacité de production adaptée aux besoins moyens, de 70 à 200 kg de glace par jour selon le modèle. Alimentation monophasée 13 A, raccordement à une arrivée d'eau et à l'évacuation requis. Système de désinfection UV XSafe intégré, fonctionnant en continu pour limiter la prolifération bactérienne et virale ainsi que le développement de moisissures, garantissant une glace toujours hygiénique. Version EF disponible avec pompe de relevage de condensats intégrée pour les installations sans évacuation gravitaire. Gamme complète d'accessoires disponible sur demande.",
+      "variant_name_fr": "70 à 200 kg/jour",
+      "price_gbp": 12135.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2040_1"
+    },
+    {
+      "sku": "ICE2041",
+      "slug": "bac-stockage-glace-scotsman-129kg",
+      "brand": "SCOTSMAN",
+      "name_fr": "Bac de stockage à glace Scotsman 129 kg, pour MXF327/427/627 et MF37",
+      "description_fr": "Bac de stockage de glace d'une capacité de 129 kg, conçu pour être associé aux machines à glace pilée Scotsman MXF327, MXF427, MXF627 et MF37.",
+      "variant_name_fr": "129 kg",
+      "price_gbp": 2352.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2041"
+    },
+    {
+      "sku": "ICE2050",
+      "slug": "machine-a-glace-pilee-scotsman-af87as-sans-prise",
+      "brand": "SCOTSMAN",
+      "name_fr": "Machine à glace pilée Scotsman AF87AS — sans prise",
+      "description_fr": "Machine à glace pilée autonome à refroidissement par air, à commande manuelle et remplissage automatique. Capacité de production adaptée aux besoins moyens, de 70 à 200 kg de glace par jour selon le modèle. Alimentation monophasée 13 A, raccordement à une arrivée d'eau et à l'évacuation requis. Système de désinfection UV XSafe intégré, fonctionnant en continu pour limiter la prolifération bactérienne et virale ainsi que le développement de moisissures, garantissant une glace toujours hygiénique. Version EF disponible avec pompe de relevage de condensats intégrée pour les installations sans évacuation gravitaire. Gamme complète d'accessoires disponible sur demande.",
+      "variant_name_fr": "70 à 200 kg/jour",
+      "price_gbp": 6925.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ICE2050"
+    },
+    {
+      "sku": "LITV-DP150",
+      "slug": "machine-a-glacons-labcold-150kg-jour",
+      "brand": "LABCOLD",
+      "name_fr": "Machine à glaçons cylindriques Labcold — production 150 kg/jour, bac 75 kg",
+      "description_fr": "Machine à glaçons cylindriques Labcold, produisant une glace hygiénique et translucide adaptée aux usages médicaux et de laboratoire. La forme cylindrique caractéristique ralentit la fonte par rapport aux glaçons classiques. Construction robuste en acier inoxydable avec bacs de collecte en plastique isolé et système de pulvérisation limitant l'entartrage. Production de 150 kg de glace par jour avec une capacité de stockage de 75 kg. Nécessite une alimentation en eau, une alimentation électrique et une évacuation au sol.",
+      "variant_name_fr": "150 kg/jour, bac 75 kg",
+      "price_gbp": 8084.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LITV-DP150"
+    },
+    {
+      "sku": "LITV-DP35H",
+      "slug": "machine-a-glacons-labcold-35kg-jour",
+      "brand": "LABCOLD",
+      "name_fr": "Machine à glaçons cylindriques Labcold — production 35 kg/jour, bac 20 kg",
+      "description_fr": "Machine à glaçons cylindriques Labcold, produisant une glace hygiénique et translucide adaptée aux usages médicaux et de laboratoire. La forme cylindrique caractéristique ralentit la fonte par rapport aux glaçons classiques. Construction robuste en acier inoxydable avec bacs de collecte en plastique isolé et système de pulvérisation limitant l'entartrage. Production de 35 kg de glace par jour avec une capacité de stockage de 20 kg. Nécessite une alimentation en eau, une alimentation électrique et une évacuation au sol.",
+      "variant_name_fr": "35 kg/jour, bac 20 kg",
+      "price_gbp": 3830.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LITV-DP35H"
+    }
+  ]
+}

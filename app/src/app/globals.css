@@ -276,7 +276,7 @@ section.block { padding: 90px 0; }
 }
 .product-card:hover { transform: translateY(-8px); box-shadow: var(--shadow); border-color: transparent; }
 .product-card .pimg { position: relative; height: 210px; background: var(--bg-soft); overflow: hidden; }
-.product-card .pimg img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+.product-card .pimg img { width: 100%; height: 100%; object-fit: contain; padding: 16px; transition: transform .5s ease; }
 .product-card:hover .pimg img { transform: scale(1.06); }
 .product-card .tag {
   position: absolute; top: 14px; left: 14px; background: rgba(255,255,255,.92); color: var(--teal);
@@ -614,7 +614,7 @@ footer h4 { color: #fff; font-size: 15px; font-weight: 600; letter-spacing: .04e
 
 .pd-thumb.active { border-color: var(--teal, #1d9e7a); }
 
-.pd-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.pd-thumb img { width: 100%; height: 100%; object-fit: contain; padding: 6px; }
 
 .pd-info { display: flex; flex-direction: column; gap: 20px; }
 

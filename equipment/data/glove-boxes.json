@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "glove-boxes",
+    "parent_slug": "equipements",
+    "name": { "fr": "Enceintes à gants (chambres anaérobies)", "en": "Glove Boxes" },
+    "description": {
+      "fr": "Chambres et enceintes anaérobies à gants pour la culture et la manipulation de micro-organismes sensibles à l'oxygène, avec régulation de l'atmosphère interne par catalyseur au palladium et mélange hydrogène."
+    }
+  },
+  "products": [
+    {
+      "sku": "CHA4094",
+      "slug": "chambre-anaerobie-coy-1-poste-polymere-sans-gants-sas-auto-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 1 poste, polymère, sans gants, sas de purge automatique, chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère à système sans gants : l'opérateur insère les bras dans des manchons équipés d'un dispositif de mise sous vide, qui instaure une atmosphère inerte avant le retrait des bouchons d'accès, permettant de travailler à mains nues ou avec des gants chirurgicaux sans compromettre l'atmosphère interne. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas de purge simple pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès sans effet de piston lors des changements de volume, ce qui contribue aussi à réduire la consommation de gaz. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Système de chauffage et déshumidificateur intégrés, pilotage par écran tactile. Configurations et dimensions personnalisables sur demande.",
+      "variant_name_fr": "1 poste — sans gants, sas automatique, chauffée",
+      "price_gbp": 39172.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4094"
+    },
+    {
+      "sku": "CHA4096",
+      "slug": "chambre-anaerobie-coy-2-postes-polymere-sans-gants-sas-auto-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 2 postes, polymère, sans gants, sas de purge automatique, chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère à système sans gants, version 2 postes : les opérateurs insèrent les bras dans des manchons équipés d'un dispositif de mise sous vide, qui instaure une atmosphère inerte avant le retrait des bouchons d'accès, permettant de travailler à mains nues ou avec des gants chirurgicaux sans compromettre l'atmosphère interne. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas de purge simple pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès sans effet de piston lors des changements de volume. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Système de chauffage et déshumidificateur intégrés, pilotage par écran tactile. Configurations et dimensions personnalisables sur demande.",
+      "variant_name_fr": "2 postes — sans gants, sas automatique, chauffée",
+      "price_gbp": 48240.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4094"
+    },
+    {
+      "sku": "CHA4098",
+      "slug": "chambre-anaerobie-coy-1-poste-polymere-gants-sas-manuel-non-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 1 poste, polymère, avec gants, sas de purge manuel, non chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère gantée, la solution la plus économique de la gamme Coy pour démarrer avec une chambre anaérobie. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %, avec sas de purge manuel pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès et la sortie sans effet de piston lors des changements de volume, ce qui limite aussi la consommation de gaz. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Manchons en néoprène avec gants en latex montés, régulateur et tubulure de mélange gazeux fournis, système d'injection automatique du mélange pour maintenir l'atmosphère anaérobie. Adaptée aux projets de recherche de courte durée et aux budgets restreints ; configurations personnalisables sur demande.",
+      "variant_name_fr": "1 poste — gantée, sas manuel, non chauffée",
+      "price_gbp": 29539.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4098"
+    },
+    {
+      "sku": "CHA4100",
+      "slug": "chambre-anaerobie-coy-1-poste-polymere-gants-sas-manuel-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 1 poste, polymère, avec gants, sas de purge manuel, chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère gantée, la solution la plus économique de la gamme Coy pour démarrer avec une chambre anaérobie. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %, avec sas de purge manuel pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès et la sortie sans effet de piston lors des changements de volume. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Manchons en néoprène avec gants en latex montés, régulateur et tubulure de mélange gazeux fournis, système d'injection automatique du mélange pour maintenir l'atmosphère anaérobie. Chauffage intégré pour le maintien de la température et de l'humidité ; configurations personnalisables sur demande.",
+      "variant_name_fr": "1 poste — gantée, sas manuel, chauffée",
+      "price_gbp": 31218.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4098"
+    },
+    {
+      "sku": "CHA4102",
+      "slug": "chambre-anaerobie-coy-2-postes-polymere-gants-sas-manuel-non-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 2 postes, polymère, avec gants, sas de purge manuel, non chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère gantée, version 2 postes, solution économique pour démarrer avec une chambre anaérobie. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %, avec sas de purge manuel pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès et la sortie sans effet de piston lors des changements de volume. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Manchons en néoprène avec gants en latex montés, régulateur et tubulure de mélange gazeux fournis, système d'injection automatique du mélange pour maintenir l'atmosphère anaérobie. Configurations personnalisables sur demande.",
+      "variant_name_fr": "2 postes — gantée, sas manuel, non chauffée",
+      "price_gbp": 35218.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4098"
+    },
+    {
+      "sku": "CHA4104",
+      "slug": "chambre-anaerobie-coy-2-postes-polymere-gants-sas-manuel-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy 2 postes, polymère, avec gants, sas de purge manuel, chauffée",
+      "description_fr": "Enceinte anaérobie rigide en polymère gantée, version 2 postes, solution économique pour démarrer avec une chambre anaérobie. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %, avec sas de purge manuel pour l'introduction de matériel sans perturber l'environnement interne. Couvercle à diaphragme breveté facilitant l'accès et la sortie sans effet de piston lors des changements de volume. Paroi en polycarbonate transparent pour une bonne visibilité sans éclairage complémentaire. Manchons en néoprène avec gants en latex montés, régulateur et tubulure de mélange gazeux fournis, système d'injection automatique du mélange pour maintenir l'atmosphère anaérobie. Chauffage intégré pour le maintien de la température et de l'humidité ; configurations personnalisables sur demande.",
+      "variant_name_fr": "2 postes — gantée, sas manuel, chauffée",
+      "price_gbp": 36829.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4098"
+    },
+    {
+      "sku": "CHA4106",
+      "slug": "chambre-anaerobie-coy-type-a-vinyle-gantee-sas-auto-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy Type A, vinyle souple, gantée intégralement, sas automatique, chauffée",
+      "description_fr": "Enceinte anaérobie souple en PVC flexible avec base rembourrée et structure de soutien en aluminium, offrant une plus grande liberté de mouvement et un meilleur confort d'utilisation qu'une enceinte rigide grâce à des ports à gants plus larges. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas à vide robuste et programmable permettant le transfert d'échantillons sans perturber l'atmosphère interne, séquence d'échange personnalisable selon le protocole du laboratoire. Vinyle optiquement transparent pour une excellente visibilité, sans effet de résistance des gants car l'enceinte se déforme avec les variations de volume interne au lieu d'expulser du gaz — jusqu'à 60 % d'économie de gaz par an par rapport à une enceinte rigide. Grand port d'entrée d'équipement, gants remplaçables, alimentation intérieure à 5 prises, passages pour tubulures et câbles supplémentaires, pompe à vide incluse. Chauffage intégré et options de régulation de température.",
+      "variant_name_fr": "Type A — vinyle, chauffée",
+      "price_gbp": 39307.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4112"
+    },
+    {
+      "sku": "CHA4108",
+      "slug": "chambre-anaerobie-coy-type-b-vinyle-gantee-sas-auto-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy Type B, vinyle souple, gantée intégralement, sas automatique, chauffée",
+      "description_fr": "Enceinte anaérobie souple en PVC flexible avec base rembourrée et structure de soutien en aluminium, offrant une plus grande liberté de mouvement et un meilleur confort d'utilisation qu'une enceinte rigide grâce à des ports à gants plus larges. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas à vide robuste et programmable permettant le transfert d'échantillons sans perturber l'atmosphère interne, séquence d'échange personnalisable selon le protocole du laboratoire. Vinyle optiquement transparent pour une excellente visibilité, sans effet de résistance des gants car l'enceinte se déforme avec les variations de volume interne au lieu d'expulser du gaz — jusqu'à 60 % d'économie de gaz par an par rapport à une enceinte rigide. Grand port d'entrée d'équipement, gants remplaçables, alimentation intérieure à 5 prises, passages pour tubulures et câbles supplémentaires, pompe à vide incluse. Chauffage intégré et options de régulation de température.",
+      "variant_name_fr": "Type B — vinyle, chauffée",
+      "price_gbp": 42627.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4114"
+    },
+    {
+      "sku": "CHA4110",
+      "slug": "chambre-anaerobie-coy-type-c-vinyle-gantee-sas-auto-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy Type C, vinyle souple, gantée intégralement, sas automatique, chauffée",
+      "description_fr": "Enceinte anaérobie souple en PVC flexible avec base rembourrée et structure de soutien en aluminium, offrant une plus grande liberté de mouvement et un meilleur confort d'utilisation qu'une enceinte rigide grâce à des ports à gants plus larges. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas à vide robuste et programmable permettant le transfert d'échantillons sans perturber l'atmosphère interne, séquence d'échange personnalisable selon le protocole du laboratoire. Vinyle optiquement transparent pour une excellente visibilité, sans effet de résistance des gants car l'enceinte se déforme avec les variations de volume interne au lieu d'expulser du gaz — jusqu'à 60 % d'économie de gaz par an par rapport à une enceinte rigide. Grand port d'entrée d'équipement, gants remplaçables, alimentation intérieure à 5 prises, passages pour tubulures et câbles supplémentaires, pompe à vide incluse. Chauffage intégré et options de régulation de température.",
+      "variant_name_fr": "Type C — vinyle, chauffée",
+      "price_gbp": 37840.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4116"
+    },
+    {
+      "sku": "CHA4112",
+      "slug": "chambre-anaerobie-coy-type-a-vinyle-gantee-sas-auto-non-chauffee",
+      "brand": "COY",
+      "name_fr": "Chambre anaérobie Coy Type A, vinyle souple, gantée intégralement, sas automatique, non chauffée",
+      "description_fr": "Enceinte anaérobie souple en PVC flexible avec base rembourrée et structure de soutien en aluminium, offrant une plus grande liberté de mouvement et un meilleur confort d'utilisation qu'une enceinte rigide grâce à des ports à gants plus larges. Atmosphère anaérobie stricte de 0 à 5 ppm d'oxygène obtenue par catalyseur au palladium et mélange hydrogène à 5 %. Sas à vide robuste et programmable permettant le transfert d'échantillons sans perturber l'atmosphère interne, séquence d'échange personnalisable selon le protocole du laboratoire. Vinyle optiquement transparent pour une excellente visibilité, sans effet de résistance des gants car l'enceinte se déforme avec les variations de volume interne au lieu d'expulser du gaz — jusqu'à 60 % d'économie de gaz par an par rapport à une enceinte rigide. Grand port d'entrée d'équipement, gants remplaçables, alimentation intérieure à 5 prises, passages pour tubulures et câbles supplémentaires, pompe à vide incluse. Version non chauffée ; options de régulation de température disponibles sur demande.",
+      "variant_name_fr": "Type A — vinyle, non chauffée",
+      "price_gbp": 36123.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHA4112"
+    }
+  ]
+}

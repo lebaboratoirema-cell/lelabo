@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "conductivity-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Conductimètres", "en": "Conductivity Meters" },
+    "description": {
+      "fr": "Conductimètres de paillasse et portables, sondes de conductivité et accessoires associés pour la mesure de la conductivité, de la salinité et des TDS en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "19601-28",
+      "slug": "sonde-conductivite-traceable-epoxy-k1-0",
+      "brand": "Traceable",
+      "name_fr": "Sonde de conductivité Traceable — corps époxy, K=1,0",
+      "description_fr": "Sonde de remplacement pour conductimètres et pH/ORP-mètres Traceable, corps en résine époxy et constante de cellule K=1,0. Plage de mesure de 1,0 à 200 000 µS, compatible avec le conductimètre référence 19601-06. Garantie 1 an.",
+      "variant_name_fr": "K=1,0",
+      "price_gbp": 447.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/19601-28"
+    },
+    {
+      "sku": "19601-34",
+      "slug": "adaptateur-secteur-traceable-115-220vac-9vdc",
+      "brand": "Traceable",
+      "name_fr": "Adaptateur secteur Traceable — universel 115/220 VAC vers 9 VDC",
+      "description_fr": "Adaptateur secteur VAC/VDC livré avec quatre fiches d'alimentation interchangeables, convertit le 115/220 VAC en 9 VDC. Compatible avec les conductimètres et instruments de mesure Traceable.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 132.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/19601-34"
+    },
+    {
+      "sku": "B2B2754",
+      "slug": "conductimetre-portable-lovibond-sensodirect-con-110-mallette",
+      "brand": "Lovibond",
+      "name_fr": "Conductimètre portable Lovibond SensoDirect Con 110 avec mallette de transport",
+      "description_fr": "Appareil portable à pile pour la mesure de la conductivité, simple d'utilisation et robuste. Grand écran numérique bien lisible, coque de protection intégrant un support pouvant servir de pince ceinture, fonction de gel d'affichage pour une lecture facilitée et une meilleure reproductibilité des résultats, surveillance continue du niveau de pile. Livré en mallette de transport.",
+      "variant_name_fr": "Avec mallette de transport",
+      "price_gbp": 242.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2754"
+    },
+    {
+      "sku": "B2B2910",
+      "slug": "conductimetre-paillasse-thermo-orion-star-ec112-support-electrode",
+      "brand": "Thermo Scientific",
+      "name_fr": "Conductimètre de paillasse Thermo Scientific Orion Star EC112 (conductivité/salinité/TDS) avec support d'électrode",
+      "description_fr": "Conductimètre de paillasse mesurant conductivité, salinité, TDS et température, doté d'un large écran rétroéclairé et d'un faible encombrement. Plage de mesure : 0,00 µS à 500,0 mS en conductivité, 0 à 80,0 ppt ou 0 à 42,0 PSU en salinité, 0 à 500,0 ppt en TDS, -5,0 à 105,0 °C en température. Étalonnages de 1 à 5 points en conductivité et TDS, 1 point en salinité et en température. Indicateurs de stabilisation à l'écran, journal de 500 mesures horodatées pour la conformité BPL, export des données vers imprimante ou ordinateur. Livré avec support d'électrode, câble PC et adaptateur secteur universel ; électrode vendue séparément.",
+      "variant_name_fr": "Sans électrode, avec support",
+      "price_gbp": 715.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1120"
+    },
+    {
+      "sku": "B2B2912",
+      "slug": "conductimetre-paillasse-thermo-orion-star-ec112-kit-electrode",
+      "brand": "Thermo Scientific",
+      "name_fr": "Conductimètre de paillasse Thermo Scientific Orion Star EC112 (conductivité/salinité/TDS) — kit complet avec électrode",
+      "description_fr": "Conductimètre de paillasse mesurant conductivité, salinité, TDS et température, doté d'un large écran rétroéclairé et d'un faible encombrement. Plage de mesure : 0,00 µS à 500,0 mS en conductivité, 0 à 80,0 ppt ou 0 à 42,0 PSU en salinité, 0 à 500,0 ppt en TDS, -5,0 à 105,0 °C en température. Étalonnages de 1 à 5 points en conductivité et TDS, 1 point en salinité et en température, journal de 500 mesures horodatées pour la conformité BPL. Kit complet livré avec sonde conductivité/ATC 2 cellules en époxy K=1,0, solution étalon de conductivité 1413 µS (5 x 60 mL), support d'électrode, câble PC et adaptateur secteur universel — adapté aux échantillons courants de 1 µS/cm à 20 mS/cm.",
+      "variant_name_fr": "Kit complet avec électrode",
+      "price_gbp": 898.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1125"
+    },
+    {
+      "sku": "B2B7244",
+      "slug": "conductimetre-mettler-toledo-fiveeasy-f30-kit-sonde-le703",
+      "brand": "Mettler Toledo",
+      "name_fr": "Conductimètre Mettler Toledo FiveEasy F30 — kit standard avec sonde LE703",
+      "description_fr": "Conductimètre de paillasse compact de la série FiveEasy, mesure de la conductivité en une simple pression de bouton. Grand écran bien structuré, agencement de touches intuitif et menu simple. Diverses options d'export des données. Kit standard livré avec sonde LE703.",
+      "variant_name_fr": "Kit avec sonde LE703",
+      "price_gbp": 763.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7244"
+    },
+    {
+      "sku": "B2B7246",
+      "slug": "conductimetre-mettler-toledo-fiveeasy-plus-fp30-kit-sonde-le703",
+      "brand": "Mettler Toledo",
+      "name_fr": "Conductimètre Mettler Toledo FiveEasy Plus FP30 — kit standard avec sonde LE703",
+      "description_fr": "Conductimètre de paillasse compact de la série FiveEasy Plus, mesure de la conductivité en une simple pression de bouton. Grand écran bien structuré, agencement de touches intuitif et menu simple. Export des données directement vers une imprimante ou un ordinateur. Kit standard livré avec sonde LE703.",
+      "variant_name_fr": "Kit avec sonde LE703",
+      "price_gbp": 918.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    },
+    {
+      "sku": "B2B9184",
+      "slug": "conductimetre-mettler-toledo-fiveeasy-f30-sans-sonde",
+      "brand": "Mettler Toledo",
+      "name_fr": "Conductimètre Mettler Toledo FiveEasy F30 — sans sonde",
+      "description_fr": "Conductimètre de paillasse compact de la série FiveEasy, mesure de la conductivité en une simple pression de bouton. Grand écran bien structuré, agencement de touches intuitif et menu simple. Diverses options d'export des données. Livré sans sonde ; bras d'électrode vendu séparément.",
+      "variant_name_fr": "Sans sonde",
+      "price_gbp": 681.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    },
+    {
+      "sku": "B2B9186",
+      "slug": "conductimetre-mettler-toledo-fiveeasy-plus-fp30-sans-sonde",
+      "brand": "Mettler Toledo",
+      "name_fr": "Conductimètre Mettler Toledo FiveEasy Plus FP30 — sans sonde",
+      "description_fr": "Conductimètre de paillasse compact de la série FiveEasy Plus, mesure de la conductivité en une simple pression de bouton. Grand écran bien structuré, agencement de touches intuitif et menu simple. Export des données directement vers une imprimante ou un ordinateur. Livré sans sonde ; bras d'électrode vendu séparément.",
+      "variant_name_fr": "Sans sonde",
+      "price_gbp": 786.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    },
+    {
+      "sku": "CON0025",
+      "slug": "conductimetre-portable-mettler-toledo-seven2go-s3-sans-sonde",
+      "brand": "Mettler Toledo",
+      "name_fr": "Conductimètre portable Mettler Toledo Seven2Go S3 — sans sonde",
+      "description_fr": "Conductimètre portable simple et robuste, boîtier étanche IP67 protégeant contre la poussière et l'immersion jusqu'à 1 m de profondeur. Livré avec étui en caoutchouc protégeant des chutes, salissures, produits chimiques et rayons UV. Prise en main à une main facilitée par des protections latérales, navigation rapide dans les menus via pavé T-Pad. Indicateur lumineux StatusLight signalant l'état de l'appareil selon le principe du feu tricolore, interface disponible en 12 langues, écran lisible en plein soleil comme en faible luminosité. Livré sans sonde.",
+      "variant_name_fr": "Sans sonde",
+      "price_gbp": 684.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CON0025"
+    }
+  ]
+}

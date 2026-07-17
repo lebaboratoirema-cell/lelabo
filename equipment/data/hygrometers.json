@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "hygrometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Hygromètres", "en": "Hygrometers" },
+    "description": {
+      "fr": "Hygromètres et thermo-hygromètres pour la surveillance de l'humidité et de la température en laboratoire, salle blanche, entrepôt et chambre environnementale, avec certificat d'étalonnage raccordé NIST."
+    }
+  },
+  "products": [
+    {
+      "sku": "18004-34",
+      "slug": "thermohygrometre-tracable-surveillance-precision-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre Traceable de surveillance de précision avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre numérique assurant une surveillance continue de la température et de l'humidité, avec affichage simultané des valeurs numériques et d'un graphique sur 7 jours. La mémoire ne peut être effacée, seulement écrasée par les mesures du jour suivant, garantissant l'intégrité des données historiques. Capteur interne adapté aux hottes, chambres froides, salles blanches, incubateurs et enceintes climatiques. Plage HR : 0 à 90 % (précision ±4 à ±5 % HR, résolution 0,1 %). Plage de température : -20 à 50 °C (précision ±0,4 °C). Écran LCD 2,5 po, montage sur paillasse ou mural, alimentation par pile AAA. Certificat d'étalonnage Traceable® individuel, raccordé aux étalons NIST via un laboratoire accrédité ISO/IEC 17025 (A2LA).",
+      "variant_name_fr": "0 à 90 % HR, -20 à 50 °C",
+      "price_gbp": 130.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/18004-34_2"
+    },
+    {
+      "sku": "20250-21",
+      "slug": "thermohygrometre-professionnel-tracable-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre professionnel Traceable avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre professionnel portatif au design ergonomique, boîtier double injection renforcé pour les environnements exigeants (laboratoires, salles blanches, entrepôts, usines). Mesure l'humidité relative, le point de rosée, la température humide et la température, avec calcul de l'humidité absolue en grains par pied cube ou par mètre cube. Grand écran rétroéclairé à trois lignes, fonctions Min/Max et Hold, sélection °F/°C, arrêt automatique. Plage HR : 0 à 100 % (précision ±2 à ±4 % HR selon la plage, résolution 0,1 %). Plage de température : -30 à 100 °C (précision ±1,0 à ±1,5 °C), temps de réponse inférieur à 15 secondes. Fourni avec certificat d'étalonnage Traceable®, mallette de transport rigide et pile 9V.",
+      "variant_name_fr": "0 à 100 % HR, -30 à 100 °C",
+      "price_gbp": 408.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/20250-21_1"
+    },
+    {
+      "sku": "37101-00",
+      "slug": "thermohygrometre-tracable-min-max-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre Traceable à fonction Min/Max avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre compact à fonction Min/Max, mémorisant les valeurs extrêmes d'humidité et de température accessibles par simple pression des touches MIN/MAX, remise à zéro par la touche RESET. Écran LCD indique également l'état de confort ambiant (« comfort », « wet », « dry »). Plage HR : 25 à 95 % (précision ±5 à ±8 % HR, résolution 1 %). Plage de température : 0 à 50 °C (précision ±1,0 à ±2,0 °C selon la plage, résolution 1°). Support intégré pour pose sur paillasse et bande auto-agrippante pour fixation murale. Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "25 à 95 % HR, 0 à 50 °C",
+      "price_gbp": 195.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/37101-00"
+    },
+    {
+      "sku": "37803-51",
+      "slug": "thermohygrometre-imprimante-tracable-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre à imprimante intégrée Traceable, avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre à imprimante intégrée, produisant un enregistrement papier permanent de l'humidité, du point de rosée, de la température et des valeurs Min/Max, horodatées. Impression automatique programmable de 6 secondes à 59 minutes, ou déclenchement manuel. Écran à trois lignes (LCD 3/8 po) affichant simultanément l'heure, l'humidité et deux températures. Boîtier en ABS résistant aux chocs et aux produits chimiques, conforme aux exigences CLIA 93.1207 et 493.1252. Capteurs à réponse rapide (moins de 10 secondes), idéal pour salles blanches, fabrication pharmaceutique et chambres environnementales. Fourni avec sonde température/humidité, thermocouple type K, rouleau de papier, mallette et piles ; certificat d'étalonnage Traceable® inclus.",
+      "variant_name_fr": "Avec imprimante intégrée",
+      "price_gbp": 1567.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/37803-51"
+    },
+    {
+      "sku": "37803-83",
+      "slug": "thermohygrometre-numerique-tracable-point-rosee-alarme",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre numérique Traceable avec point de rosée, alarme et certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre numérique avec alarme sonore et voyant LED rouge, se déclenchant à trois seuils d'humidité programmables (55, 60 ou 65 %). Triple affichage grand format pour l'humidité relative, la température et le point de rosée, fonction Min/Max avec remise à zéro, sélection °F/°C, mode toujours actif avec mise à jour chaque seconde. Plage HR : 20 à 95 % (précision ±3 à ±5 % HR, résolution 0,1 %). Plage de température : -10 à 60 °C (précision ±1,0 °C). Écran LCD 3/4 po, montage mural ou de bureau, alimentation par 2 piles AA. Certificat d'étalonnage Traceable® inclus.",
+      "variant_name_fr": "20 à 95 % HR, -10 à 60 °C, avec alarme",
+      "price_gbp": 109.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/37803-83"
+    },
+    {
+      "sku": "56000-10",
+      "slug": "hygrometre-memoire-tracable-horloge",
+      "brand": "Traceable",
+      "name_fr": "Hygromètre à mémoire Traceable avec horloge intégrée",
+      "description_fr": "Hygromètre à mémoire intégrant une horloge, affichant simultanément température, humidité et heure (format 12h/24h, précision ±0,01 %). Capteurs internes adaptés aux hottes, réserves, salles blanches, incubateurs, chambres de séchage et armoires climatiques. Plage de température : 0 à 50 °C (résolution 0,1°, précision ±1 °C). Plage HR : 20 à 90 % (résolution 1 %, précision ±5 à ±8 % HR). Mémoire Min/Max accessible par simple pression, facilement réinitialisée en début de cycle. Fixation magnétique ou pose sur paillasse grâce au support escamotable intégré. Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "20 à 90 % HR, 0 à 50 °C, avec horloge",
+      "price_gbp": 126.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/56000-10"
+    },
+    {
+      "sku": "90080-06",
+      "slug": "thermometre-hygrometre-tracable-horloge-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre-hygromètre Traceable avec horloge et certificat d'étalonnage",
+      "description_fr": "Hygromètre-thermomètre avec horloge intégrée pour la surveillance environnementale en laboratoire, salle blanche, entrepôt, stockage médical ou production alimentaire. Grand afficheur numérique montrant simultanément température, humidité et heure (formats 12h/24h). Boîtier compact fonctionnant sur pile, adapté à une fixation murale ou à un usage portatif. Plage HR : 20 à 90 % (résolution 1 %, précision ±5 à ±8 % HR). Plage de température : 0 à 50 °C (résolution 0,1°). Dimensions compactes, alimentation par pile AAA. Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "20 à 90 % HR, 0 à 50 °C, compact",
+      "price_gbp": 108.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/90080-06_1"
+    },
+    {
+      "sku": "98766-54",
+      "slug": "thermohygrometre-stylo-tracable-portable-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre stylo portable Traceable avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre de poche au format stylo, pour des mesures précises et portables en laboratoire, salle blanche ou installation CVC. Écran LCD à double ligne affichant simultanément température et humidité, fonctions Min/Max et Hold, capuchon de protection du capteur, clip ceinture/poche. Lecture stabilisée en moins de 6 secondes, mise à jour chaque seconde. Plage HR : 20 à 95 % (précision ±3,5 à ±5,5 % HR, résolution 1 %). Plage de température : 0 à 50 °C (précision ±1 °C, résolution 0,1°). Alimentation par pile CR2032. Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "Format stylo portable, 20 à 95 % HR",
+      "price_gbp": 126.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/98766-54"
+    },
+    {
+      "sku": "98766-85",
+      "slug": "thermohygrometre-tracable-alarme-sonde-externe",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre Traceable à alarme et sonde externe, avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre à alarme avec sonde externe déportée (câble de 2,1 m), pour la surveillance de hottes, réfrigérateurs, congélateurs ou tout autre emplacement distant. Alarme sonore programmable sur quatre seuils indépendants (humidité et température haute/basse). Triple affichage grand format des valeurs Min, Max et courantes, sélection °F/°C, montage mural ou sur paillasse. Plage HR : 5 à 95 % (précision ±3 à ±5 % HR, résolution 0,1 %). Plage de température : 0 à 60 °C (précision ±0,5 °C, résolution 0,1°). Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "Sonde externe 2,1 m, alarme programmable",
+      "price_gbp": 160.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/98766-85_3"
+    },
+    {
+      "sku": "98766-86",
+      "slug": "thermohygrometre-tracable-enregistreur-donnees-etalonnage",
+      "brand": "Traceable",
+      "name_fr": "Thermo-hygromètre enregistreur de données Traceable avec certificat d'étalonnage",
+      "description_fr": "Thermo-hygromètre enregistreur à réponse ultra-rapide, capable de mémoriser jusqu'à 99 lectures rappelables à l'écran. Capteur à capacitance à film mince actualisé trois fois par seconde, temps de réponse pouvant descendre à 30 secondes. Grand affichage lisible jusqu'à 3 mètres, autonomie de la pile jusqu'à 100 heures d'utilisation continue, idéal pour la surveillance à distance en salle blanche, chambre environnementale ou laboratoire. Plage HR : 10 à 95 % (précision ±2,5 à ±5 % HR, résolution 0,1 %). Plage de température : -20 à 60 °C (résolution 0,1°). Filetage trépied, mallette rigide, pile 9V. Certificat d'étalonnage Traceable® raccordé NIST inclus.",
+      "variant_name_fr": "Mémoire 99 lectures, enregistrement de données",
+      "price_gbp": 673.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/98766-86"
+    }
+  ]
+}

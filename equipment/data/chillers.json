@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "chillers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Refroidisseurs à recirculation", "en": "Chillers" },
+    "description": {
+      "fr": "Refroidisseurs et groupes de froid à recirculation pour l'évacuation thermique des instruments de laboratoire, du condenseur compact de paillasse aux unités industrielles à forte puissance frigorifique."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B06404T",
+      "slug": "refroidisseur-recirculant-sls-lab-pro-s500-mini-tactile",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Refroidisseur à recirculation SLS Lab Pro S500 Mini, écran tactile",
+      "description_fr": "Refroidisseur compact à recirculation offrant 500 W de puissance frigorifique, piloté par un contrôleur à écran tactile, avec plage de consigne de -10 °C à +60 °C. Compresseur et ventilateur à vitesse variable ajustant en continu le débit de fluide frigorigène pour un fonctionnement silencieux et économe en énergie. Encombrement réduit, comparable à celui d'une unité centrale de bureau. Alimentation universelle 90-260 VAC, 50/60 Hz, adaptée à un usage international. Raccords rapides 12 mm et port USB pour l'export des données de fonctionnement.",
+      "variant_name_fr": "500 W, -10 à +60 °C, écran tactile",
+      "price_gbp": 4794.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS1047"
+    },
+    {
+      "sku": "BAT8050",
+      "slug": "refroidisseur-recirculant-julabo-f250-15lmin",
+      "brand": "Julabo",
+      "name_fr": "Refroidisseur à recirculation Julabo F250, -10 à +40 °C, débit 15 L/min",
+      "description_fr": "Refroidisseur à recirculation compact de la série Julabo F, pensé pour remplacer l'eau de ville dans les tâches de refroidissement courantes tout en limitant l'encombrement et la consommation d'énergie. Clavier à membrane étanche aux projections avec afficheur LED de température, indicateur de niveau et procédure de remplissage/vidange simplifiée. Compatible avec l'eau, un mélange eau/glycol ou le fluide Julabo Thermal G1. Débit de circulation de 15 L/min sur une plage de -10 à +40 °C ; option d'extension de garantie PLUS jusqu'à 24 mois ou 10 000 heures de fonctionnement.",
+      "variant_name_fr": "15 L/min, -10 à +40 °C",
+      "price_gbp": 3880.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT8050"
+    },
+    {
+      "sku": "CHI1002",
+      "slug": "refroidisseur-thermo-scientific-tsc08-08kw-air-standard-t1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC08, 0,8 kW, condenseur à air, plage standard, pompe T1",
+      "description_fr": "Refroidisseur à recirculation compact de la série TSC, doté d'une puissance frigorifique de 0,8 kW et destiné aux instruments de paillasse à faible charge thermique. Condenseur à air et fluide frigorigène à faible potentiel de réchauffement global (PRG), pour une régulation thermique précise sur la plage de température standard. Configuration équipée d'une pompe de type T1.",
+      "variant_name_fr": "0,8 kW, condenseur air, plage standard, pompe T1",
+      "price_gbp": 10828.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1002"
+    },
+    {
+      "sku": "CHI1004",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-etendue-c1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage étendue, pompe C1",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, couvrant une plage de température étendue pour s'adapter à un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG, régulation thermique efficace et précise. Configuration équipée d'une pompe de type C1.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage étendue, pompe C1",
+      "price_gbp": 17684.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1006",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-etendue-c2",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage étendue, pompe C2",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, couvrant une plage de température étendue pour s'adapter à un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG, régulation thermique efficace et précise. Configuration équipée d'une pompe de type C2.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage étendue, pompe C2",
+      "price_gbp": 17684.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1008",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-etendue-t1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage étendue, pompe T1",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, couvrant une plage de température étendue pour s'adapter à un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG, régulation thermique efficace et précise. Configuration équipée d'une pompe de type T1.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage étendue, pompe T1",
+      "price_gbp": 17684.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1010",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-standard-c1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage standard, pompe C1",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, offrant des performances thermiques efficaces et une régulation précise sur la plage de température standard, pour un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG. Configuration équipée d'une pompe de type C1.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage standard, pompe C1",
+      "price_gbp": 13554.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1012",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-standard-c2",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage standard, pompe C2",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, offrant des performances thermiques efficaces et une régulation précise sur la plage de température standard, pour un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG. Configuration équipée d'une pompe de type C2.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage standard, pompe C2",
+      "price_gbp": 13554.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1014",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-air-standard-t1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à air, plage standard, pompe T1",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, offrant des performances thermiques efficaces et une régulation précise sur la plage de température standard, pour un large éventail d'instruments de laboratoire. Condenseur à air, fluide frigorigène à faible PRG. Configuration équipée d'une pompe de type T1.",
+      "variant_name_fr": "1,6 kW, condenseur air, plage standard, pompe T1",
+      "price_gbp": 13554.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    },
+    {
+      "sku": "CHI1016",
+      "slug": "refroidisseur-thermo-scientific-tsc16-16kw-eau-etendue-c1",
+      "brand": "Thermo Scientific",
+      "name_fr": "Refroidisseur à recirculation Thermo Scientific TSC16, 1,6 kW, condenseur à eau, plage étendue, pompe C1",
+      "description_fr": "Refroidisseur à recirculation polyvalent de la série TSC, puissance frigorifique de 1,6 kW, couvrant une plage de température étendue pour s'adapter à un large éventail d'instruments de laboratoire. Condenseur à eau raccordé à un circuit de refroidissement externe, fluide frigorigène à faible PRG, régulation thermique efficace et précise. Configuration équipée d'une pompe de type C1.",
+      "variant_name_fr": "1,6 kW, condenseur eau, plage étendue, pompe C1",
+      "price_gbp": 18072.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHI1004"
+    }
+  ]
+}

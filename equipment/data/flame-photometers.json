@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "flame-photometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Photomètres de flamme", "en": "Flame Photometers" },
+    "description": {
+      "fr": "Photomètres de flamme cliniques, industriels et de recherche pour le dosage du sodium, potassium, lithium, calcium et baryum, ainsi que leurs filtres optiques, détendeurs de gaz et compresseurs d'air associés."
+    }
+  },
+  "products": [
+    {
+      "sku": "FLA0020",
+      "slug": "photometre-flamme-sherwood-m420cs-2-canaux-li-cs",
+      "brand": "SHERWOOD",
+      "name_fr": "Photomètre de flamme Sherwood M420Cs — 2 canaux, référence Lithium et Césium",
+      "description_fr": "Évolution du modèle M420, le M420Cs ajoute un canal de référence au Césium en complément du Lithium, laissant à l'opérateur le choix de l'élément de référence interne selon la matrice de l'échantillon ou les protocoles en place — un atout notamment pour le dosage du lithium dans les échantillons cliniques. Mesure simultanée de deux éléments parmi Sodium, Potassium et Lithium, précision (%CV) de 0,5, réponse sodium linéarisée sur la plage de concentration clinique attendue. Allumage et optimisation de la flamme automatiques, détection optique de flamme et de basse pression d'air pour la coupure de sécurité du gaz combustible. Deux afficheurs numériques pour le calibrage et les résultats de chaque canal, sorties analogiques pour enregistreurs, accès sans outil à la chambre de mélange et à l'ensemble brûleur, sortie RS232 pour imprimante série.",
+      "variant_name_fr": "2 canaux — Réf. Li/Cs",
+      "price_gbp": 11930.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA0020_1"
+    },
+    {
+      "sku": "FLA0022",
+      "slug": "photometre-flamme-clinique-sherwood-m420-2-canaux",
+      "brand": "SHERWOOD",
+      "name_fr": "Photomètre de flamme clinique Sherwood M420 — 2 canaux",
+      "description_fr": "Version clinique du M420, dérivée du modèle 410 monocanal, avec calibrage, mesure et affichage simultanés du Sodium et du Potassium sur deux canaux indépendants. Conserve la simplicité d'utilisation et d'entretien et la stabilité de flamme du modèle 410, tout en ajoutant l'optimisation automatique de la flamme et un référencement interne au Lithium qui réduit les fluctuations de flamme et les erreurs de dilution — fonction désactivable si besoin. Allumage et réglages automatiques réduisant nettement le temps de mise en route et de calibrage, pour un débit d'échantillons et une précision améliorés.",
+      "variant_name_fr": "2 canaux — Usage clinique",
+      "price_gbp": 9306.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA0022_1"
+    },
+    {
+      "sku": "FLA0024",
+      "slug": "photometre-flamme-industriel-sherwood-m420-2-canaux",
+      "brand": "SHERWOOD",
+      "name_fr": "Photomètre de flamme industriel Sherwood M420 — 2 canaux",
+      "description_fr": "Déclinaison industrielle du M420, dérivée du modèle 410 monocanal, permettant le calibrage, la mesure et l'affichage simultanés du Sodium et du Potassium sur deux canaux. Hérite de la robustesse et de la facilité d'entretien du modèle 410, enrichie de l'optimisation automatique de la flamme et d'un référencement interne au Lithium limitant les dérives de flamme et les erreurs de dilution, avec possibilité de désactiver le mode référence. Mise en route et calibrage accélérés grâce à l'allumage automatique, pour un meilleur débit analytique en environnement industriel.",
+      "variant_name_fr": "2 canaux — Usage industriel",
+      "price_gbp": 9306.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA0022_1"
+    },
+    {
+      "sku": "FLA1000",
+      "slug": "photometre-flamme-economique-cole-parmer-ff-200d-i",
+      "brand": "COLE-PARMER",
+      "name_fr": "Photomètre de flamme économique Cole-Parmer FF-200D-I — 230 V CA, 50/60 Hz",
+      "description_fr": "Photomètre de flamme monocanal basse température destiné aux dosages courants de Sodium, Potassium, Calcium, Baryum et Lithium. Système de sécurité anti-extinction de flamme adapté aux environnements industriels et pédagogiques, réglages de sensibilité fine et grossière pour une mesure fiable à chaque utilisation. Fonctionne au propane, butane, gaz naturel ou GPL. Livré avec un filtre pour chacun des éléments Na+, K+, Li+, Ca+ et Ba+, deux mètres de tuyauterie gaz et air, et la visserie nécessaire.",
+      "variant_name_fr": "230 V CA, 50/60 Hz",
+      "price_gbp": 5007.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1000"
+    },
+    {
+      "sku": "FLA1010",
+      "slug": "photometre-flamme-recherche-cole-parmer-ff-200d-r",
+      "brand": "COLE-PARMER",
+      "name_fr": "Photomètre de flamme de recherche Cole-Parmer FF-200D-R — 230 V CA",
+      "description_fr": "Photomètre de flamme monocanal basse température conçu pour les dosages courants de Sodium, Potassium et Lithium en contexte de recherche et d'analyse. Système de sécurité anti-extinction de flamme et circuit linéariseur intégré permettant la lecture directe des résultats Sodium et Potassium en mmol/L. Livré avec filtres Na, K et Li, tuyaux de raccordement et colliers, prise de compresseur, purgeur et fusibles.",
+      "variant_name_fr": "230 V CA",
+      "price_gbp": 6291.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1010"
+    },
+    {
+      "sku": "FLA1020",
+      "slug": "compresseur-air-cole-parmer-photometres-flamme",
+      "brand": "COLE-PARMER",
+      "name_fr": "Compresseur d'air Cole-Parmer pour photomètres de flamme — 230 V, 50/60 Hz",
+      "description_fr": "Compresseur d'air dédié à l'alimentation en air comprimé du brûleur des photomètres de flamme Cole-Parmer de la gamme FF-200, garantissant une pression stable pour un fonctionnement régulier de la flamme. Alimentation 230 V, 50/60 Hz.",
+      "variant_name_fr": "230 V, 50/60 Hz",
+      "price_gbp": 903.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1020"
+    },
+    {
+      "sku": "FLA1022",
+      "slug": "filtre-calcium-cole-parmer-photometre-flamme",
+      "brand": "COLE-PARMER",
+      "name_fr": "Filtre Calcium Cole-Parmer pour photomètre de flamme",
+      "description_fr": "Filtre optique dédié au canal Calcium, compatible avec les photomètres de flamme Cole-Parmer de la gamme FF-200, pour l'isolation sélective de la raie d'émission du Calcium lors du dosage.",
+      "variant_name_fr": "Filtre Ca",
+      "price_gbp": 100.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1022"
+    },
+    {
+      "sku": "FLA1024",
+      "slug": "filtre-baryum-cole-parmer-photometre-flamme",
+      "brand": "COLE-PARMER",
+      "name_fr": "Filtre Baryum Cole-Parmer pour photomètre de flamme",
+      "description_fr": "Filtre optique dédié au canal Baryum, compatible avec les photomètres de flamme Cole-Parmer de la gamme FF-200, pour l'isolation sélective de la raie d'émission du Baryum lors du dosage.",
+      "variant_name_fr": "Filtre Ba",
+      "price_gbp": 153.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1024"
+    },
+    {
+      "sku": "FLA1028",
+      "slug": "ensemble-detendeur-propane-cole-parmer-photometres-flamme",
+      "brand": "COLE-PARMER",
+      "name_fr": "Ensemble détendeur propane Cole-Parmer pour photomètres de flamme",
+      "description_fr": "Détendeur de gaz combustible destiné à réguler la pression d'alimentation en propane des photomètres de flamme Cole-Parmer, pour un fonctionnement stable et sécurisé du brûleur.",
+      "variant_name_fr": "Propane",
+      "price_gbp": 421.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1030"
+    },
+    {
+      "sku": "FLA1030",
+      "slug": "ensemble-detendeur-butane-cole-parmer-photometres-flamme",
+      "brand": "COLE-PARMER",
+      "name_fr": "Ensemble détendeur butane Cole-Parmer pour photomètres de flamme",
+      "description_fr": "Détendeur de gaz combustible destiné à réguler la pression d'alimentation en butane des photomètres de flamme Cole-Parmer, pour un fonctionnement stable et sécurisé du brûleur.",
+      "variant_name_fr": "Butane",
+      "price_gbp": 421.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FLA1030"
+    }
+  ]
+}

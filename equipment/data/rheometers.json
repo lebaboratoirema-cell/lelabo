@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "rheometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Rhéomètres", "en": "Rheometers" },
+    "description": {
+      "fr": "Rhéomètres et accessoires de mesure (plateaux interchangeables, géométries, pièces d'installation) pour la caractérisation des propriétés d'écoulement et de déformation des fluides et matériaux."
+    }
+  },
+  "products": [
+    {
+      "sku": "250000001",
+      "slug": "filtre-regulateur-installation-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Kit filtre/régulateur d'installation pour module DCR — rhéomètres Waters HR x0, DHR et AR",
+      "description_fr": "Pièce d'installation du module DCR (Direct Coupling Rheometer) destinée aux rhéomètres Waters des séries HR x0, DHR et AR. Fournie d'origine avec chaque DCR neuf ; référencée ici uniquement comme pièce de rechange en cas de remplacement.",
+      "variant_name_fr": "Filtre/régulateur",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/250000001"
+    },
+    {
+      "sku": "402491901",
+      "slug": "plateau-interchangeable-inox-20mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en acier inoxydable 20 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en acier inoxydable, diamètre 20 mm, livré avec son support de fixation rapide, pour géométrie plan-plan sur le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Inox, 20 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402491901"
+    },
+    {
+      "sku": "402492901",
+      "slug": "plateau-interchangeable-inox-strie-20mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en acier inoxydable strié 20 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en acier inoxydable à surface striée (cross-hatched), diamètre 20 mm, avec support de fixation rapide. Le motif strié améliore l'accroche de l'échantillon et limite le glissement en paroi lors des essais à fort taux de cisaillement, sur le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Inox strié, 20 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402492901"
+    },
+    {
+      "sku": "402493901",
+      "slug": "plateau-interchangeable-aluminium-anodise-20mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en aluminium anodisé dur 20 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en aluminium anodisé dur, diamètre 20 mm, avec support de fixation rapide. Alternative allégée à l'acier inoxydable, résistante à l'usure, pour le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Aluminium anodisé, 20 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402493901"
+    },
+    {
+      "sku": "402494901",
+      "slug": "plateau-interchangeable-inox-sable-20mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en acier inoxydable sablé 20 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en acier inoxydable à finition sablée, diamètre 20 mm, avec support de fixation rapide. La surface sablée renforce l'adhérence de l'échantillon en géométrie plan-plan, sur le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Inox sablé, 20 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402494901"
+    },
+    {
+      "sku": "402611901",
+      "slug": "plateau-jetable-aluminium-8mm-dcr-waters-pack-20",
+      "brand": "Waters",
+      "name_fr": "Plateaux jetables en aluminium 8 mm (position inférieure) — module DCR Waters, lot de 20",
+      "description_fr": "Plateaux de mesure jetables en aluminium, diamètre 8 mm, destinés à la position inférieure du module DCR. Conditionnement de 20 unités, pensé pour les essais à usage unique évitant le nettoyage entre échantillons sur les rhéomètres Waters.",
+      "variant_name_fr": "8 mm, pack de 20",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402611901"
+    },
+    {
+      "sku": "402612901",
+      "slug": "plateau-jetable-aluminium-20mm-dcr-waters-pack-20",
+      "brand": "Waters",
+      "name_fr": "Plateaux jetables en aluminium 20 mm (position inférieure) — module DCR Waters, lot de 20",
+      "description_fr": "Plateaux de mesure jetables en aluminium, diamètre 20 mm, destinés à la position inférieure du module DCR. Conditionnement de 20 unités, pensé pour les essais à usage unique évitant le nettoyage entre échantillons sur les rhéomètres Waters.",
+      "variant_name_fr": "20 mm, pack de 20",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402612901"
+    },
+    {
+      "sku": "402613901",
+      "slug": "plateau-jetable-aluminium-25mm-dcr-waters-pack-20",
+      "brand": "Waters",
+      "name_fr": "Plateaux jetables en aluminium 25 mm (position inférieure) — module DCR Waters, lot de 20",
+      "description_fr": "Plateaux de mesure jetables en aluminium, diamètre 25 mm, destinés à la position inférieure du module DCR. Conditionnement de 20 unités, pensé pour les essais à usage unique évitant le nettoyage entre échantillons sur les rhéomètres Waters.",
+      "variant_name_fr": "25 mm, pack de 20",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402613901"
+    },
+    {
+      "sku": "402622901",
+      "slug": "plateau-interchangeable-inox-50mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en acier inoxydable 50 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en acier inoxydable, diamètre 50 mm, livré avec son support de fixation rapide, pour géométrie plan-plan de grand diamètre sur le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Inox, 50 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402622901"
+    },
+    {
+      "sku": "402623901",
+      "slug": "plateau-interchangeable-inox-40mm-dcr-waters",
+      "brand": "Waters",
+      "name_fr": "Plateau interchangeable en acier inoxydable 40 mm avec support — module DCR Waters",
+      "description_fr": "Plateau de mesure interchangeable en acier inoxydable, diamètre 40 mm, livré avec son support de fixation rapide, pour géométrie plan-plan sur le module DCR des rhéomètres Waters.",
+      "variant_name_fr": "Inox, 40 mm",
+      "price_gbp": 0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/402623901"
+    }
+  ]
+}

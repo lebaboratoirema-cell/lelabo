@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "refrigeration",
+    "parent_slug": "equipements",
+    "name": { "fr": "Réfrigération de laboratoire", "en": "Refrigeration" },
+    "description": {
+      "fr": "Réfrigérateurs et congélateurs de laboratoire, du modèle sous plan aux grands volumes, pour la conservation d'échantillons, réactifs et matières sensibles à température contrôlée."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2838",
+      "slug": "congelateur-sous-plan-thermo-scientific-tse-77l",
+      "brand": "Thermo Scientific",
+      "name_fr": "Congélateur sous plan Thermo Scientific TSE — 77 L, porte pleine",
+      "description_fr": "Congélateur de laboratoire économique conçu pour un fonctionnement fiable au quotidien : stockage de réactifs, échantillons ou matières critiques avec une performance de température constante. Installation prête à l'emploi, contrôleur numérique à écran clair pour un accès rapide aux consignes et aux réglages d'alarme, maintenance réduite. Réfrigérant hydrocarboné conforme aux normes SNAP et F-Gas.",
+      "variant_name_fr": "77 L",
+      "price_gbp": 1231.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/TSE0420FV"
+    },
+    {
+      "sku": "B2B2848",
+      "slug": "congelateur-thermo-scientific-tse-20c-266l",
+      "brand": "Thermo Scientific",
+      "name_fr": "Congélateur Thermo Scientific TSE -20 °C — 266 L, porte pleine",
+      "description_fr": "Congélateur de laboratoire de la gamme TSE, pensé pour un usage courant en environnement de recherche : performance de température stable, contrôleur numérique intuitif et accès rapide aux réglages de consigne et d'alarme. Maintenance minimale, installation immédiate, réfrigérant hydrocarboné conforme SNAP et F-Gas.",
+      "variant_name_fr": "266 L, -20 °C",
+      "price_gbp": 1852.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/TSE1220FV"
+    },
+    {
+      "sku": "B2B2854",
+      "slug": "congelateur-thermo-scientific-tse-564l",
+      "brand": "Thermo Scientific",
+      "name_fr": "Congélateur Thermo Scientific TSE — 564 L, porte pleine",
+      "description_fr": "Grand congélateur de laboratoire de la série TSE offrant une capacité étendue pour le stockage de réactifs, d'échantillons ou de matières sensibles. Contrôleur numérique à écran lisible, réglages de consigne et d'alarme accessibles rapidement, entretien limité et mise en service immédiate. Réfrigérant hydrocarboné conforme SNAP et F-Gas.",
+      "variant_name_fr": "564 L",
+      "price_gbp": 2352.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/TSE2205SV"
+    },
+    {
+      "sku": "B2B7296",
+      "slug": "congelateur-vertical-haier-dw-25l262-262l",
+      "brand": "Haier Biomedical",
+      "name_fr": "Congélateur vertical Haier Biomedical DW-25L262 — 262 L, -25 °C",
+      "description_fr": "Congélateur biomédical vertical -25 °C optimisant l'espace de stockage grâce à une conception intégrée de l'évaporateur et de l'étagère froide. Réfrigérant chimiquement stable, sans danger pour l'environnement. Isolation en mousse haute densité pour une température de stockage stable, régulation par microprocesseur avec affichage numérique LED et plage réglable. Alarmes multiples (haute/basse température, erreur capteur) avec signal sonore et visuel, verrou de porte et tiroir de rangement intégré.",
+      "variant_name_fr": "262 L, -25 °C",
+      "price_gbp": 1875.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7296"
+    },
+    {
+      "sku": "B2B7298",
+      "slug": "congelateur-sous-plan-haier-dw-25l92-92l",
+      "brand": "Haier Biomedical",
+      "name_fr": "Congélateur sous plan Haier Biomedical DW-25L92 — 92 L, -25 °C",
+      "description_fr": "Congélateur biomédical sous plan -25 °C, conception compacte à évaporateur et étagère froide intégrés pour une efficacité de refroidissement maximale. Réfrigérant chimiquement stable et respectueux de l'environnement, isolation en mousse haute densité, régulation par microprocesseur et affichage numérique LED. Alarmes de haute/basse température et d'erreur capteur (sonore et visuelle), verrou de porte, tiroir de rangement.",
+      "variant_name_fr": "92 L, -25 °C",
+      "price_gbp": 1035.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7298"
+    },
+    {
+      "sku": "FRE1001",
+      "slug": "congelateur-liebherr-sffsg-4001-atex-316l-tiroirs",
+      "brand": "Liebherr",
+      "name_fr": "Congélateur Liebherr SFFfg 4001 Performance ATEX anti-étincelles — 316 L avec tiroirs",
+      "description_fr": "Congélateur de laboratoire à intérieur anti-étincelles, conforme EN/IEC 60079-0 et EN-IEC 60079-7, répondant à la directive ATEX 2014/34/UE (zone intérieure classée Ex II 3 G Ex ec IIC T6, zone 22) : adapté au stockage de substances inflammables en récipients fermés. Fluctuation de température limitée à ±5 °C. Le système SmartFrost réduit la formation de givre et facilite le nettoyage des parois intérieures lisses. Serrure mécanique à deux clés, interface Wi-Fi/LAN installable ultérieurement, réfrigérant respectueux de l'environnement. Poignée à levier antibactérienne, charnières de porte interchangeables, pieds réglables en hauteur, relais et fonction de test d'alarme, disponibilité des pièces détachées pendant dix ans, durée de vie de conception de 15 ans. Dimensions 1884 x 597 x 654 mm.",
+      "variant_name_fr": "316 L, tiroirs",
+      "price_gbp": 2997.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1001"
+    },
+    {
+      "sku": "FRE1103",
+      "slug": "congelateur-liebherr-sffsg-5501-atex-499l-tiroirs",
+      "brand": "Liebherr",
+      "name_fr": "Congélateur Liebherr SFFfg 5501 Performance ATEX anti-étincelles — 499 L avec tiroirs",
+      "description_fr": "Congélateur de laboratoire à intérieur anti-étincelles pour le stockage de substances sensibles, offrant une réfrigération performante à température constante avec une fluctuation limitée à ±5 °C. Conforme EN/IEC 60079-0 et EN-IEC 60079-7, directive ATEX 2014/34/UE (zone classée Ex II 3 G Ex ec IIC T6, zone 22). Le système SmartFrost limite la formation de givre ; l'intérieur en polystyrène recyclable, sans joint caché, se nettoie rapidement. Interface Wi-Fi/LAN installable ultérieurement pour connexion à un système de surveillance à distance, serrure mécanique à deux clés, report d'alarme configurable vers un poste de contrôle, fonction de test d'alarme sans interruption du froid. Poignée ergonomique aux propriétés antimicrobiennes (réduction bactérienne jusqu'à 99,99 % selon ISO 22196:2011), fonction de calibration, charnières de porte interchangeables, compatibilité salle blanche selon DIN EN ISO 14644, écran de contrôle intégré à la porte avec navigation tactile en douze langues. Dimensions 1684 x 747 x 769 mm.",
+      "variant_name_fr": "499 L, tiroirs",
+      "price_gbp": 3358.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1103"
+    },
+    {
+      "sku": "FRE1107",
+      "slug": "congelateur-liebherr-sffsg-5501-performance-499l-tiroirs",
+      "brand": "Liebherr",
+      "name_fr": "Congélateur Liebherr SFFsg 5501 Performance — 499 L avec tiroirs",
+      "description_fr": "Congélateur de laboratoire garantissant une fluctuation de température limitée à ±5 °C pour la protection des substances sensibles au stockage. Intérieur en polystyrène recyclable et sans joint caché, facile à nettoyer. Système SmartFrost réduisant la formation de givre sur les parois et les produits stockés, évaporateur intégré à l'isolation en mousse pour une haute efficacité énergétique. Interface Wi-Fi/LAN installable ultérieurement pour connexion à un système de surveillance externe, fonction de test d'alarme sans impact sur la performance de froid, disponibilité des pièces détachées garantie pendant dix ans. Dimensions 1684 x 747 x 769 mm.",
+      "variant_name_fr": "499 L, tiroirs",
+      "price_gbp": 3322.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1007"
+    },
+    {
+      "sku": "FRE1680",
+      "slug": "congelateur-sous-plan-lec-medical-lsfsf110-98l",
+      "brand": "Lec Medical",
+      "name_fr": "Congélateur sous plan Lec Medical LSFSF110 — 98 L, porte pleine, anti-étincelles",
+      "description_fr": "Congélateur sous plan compact de la gamme Essential, à porte pleine, pour le stockage courant en laboratoire. Verrou intégré livré avec deux clés pour sécuriser l'accès au contenu. Intérieur anti-étincelles : ventilateurs et éclairage ont été supprimés afin d'éliminer tout risque d'inflammation de liquides inflammables entreposés.",
+      "variant_name_fr": "98 L",
+      "price_gbp": 588.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1680"
+    },
+    {
+      "sku": "REF2212",
+      "slug": "congelateur-sous-plan-biocold-bio110fzss-110l",
+      "brand": "BioCold",
+      "name_fr": "Congélateur sous plan BioCold BIO110FZSS Standard — 110 L, anti-étincelles",
+      "description_fr": "Congélateur -20 °C de la série Standard BioCold, conçu pour répondre aux besoins de stockage général en laboratoire. Intérieur anti-étincelles, portes réversibles pour s'adapter à la configuration du poste de travail. Options disponibles : verrou de porte et module d'affichage/alarme monté sur la porte.",
+      "variant_name_fr": "110 L",
+      "price_gbp": 559.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF2212"
+    }
+  ]
+}

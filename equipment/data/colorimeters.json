@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "colorimeters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Colorimètres", "en": "Colorimeters" },
+    "description": {
+      "fr": "Colorimètres portables et de paillasse, comparateurs électroniques et spectrocolorimètres pour l'analyse de l'eau, le contrôle qualité colorimétrique et la mesure du brillant en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "1736320001",
+      "slug": "colorimetre-portable-supelco-move-100",
+      "brand": "SUPELCO",
+      "name_fr": "Colorimètre portable Supelco Move 100",
+      "description_fr": "Colorimètre de terrain robuste, étanche et anti-poussière (IP68), sans pièce mobile. Préprogrammé pour plus de 100 paramètres compatibles avec les kits de test Spectroquant®, il couvre l'essentiel des analyses d'eau avec un seul appareil. Fonctionnement sur piles, livré en mallette de transport, conçu aussi bien pour les mesures in situ que pour le laboratoire.",
+      "variant_name_fr": "100+ paramètres",
+      "price_gbp": 1788.0,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/251/824/83505af2-07ca-47cb-952a-cdb926548b81/640/83505af2-07ca-47cb-952a-cdb926548b81"
+    },
+    {
+      "sku": "1736350001",
+      "slug": "colorimetre-portable-supelco-move-dc",
+      "brand": "SUPELCO",
+      "name_fr": "Colorimètre portable Supelco Move DC",
+      "description_fr": "Colorimètre mobile dédié à cinq paramètres essentiels de l'analyse de l'eau : chlore, ozone, dioxyde de chlore, acide cyanurique et pH. Fonctionnement sur piles avec mallette de transport, conçu pour les interventions sur le terrain et le contrôle en cours de process.",
+      "variant_name_fr": "Cl2/O3/ClO2/CyA/pH",
+      "price_gbp": 753.6,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/772/726/363f31d1-b21e-49bd-9f04-bb5a30e90cb1/640/363f31d1-b21e-49bd-9f04-bb5a30e90cb1"
+    },
+    {
+      "sku": "AQ3140",
+      "slug": "colorimetre-thermo-scientific-orion-aquafast-dco",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Colorimètre Thermo Scientific Orion AQUAfast DCO",
+      "description_fr": "Colorimètre portable dédié à l'analyse de la demande chimique en oxygène (DCO) et aux méthodes par digestion, pour le contrôle des eaux et des effluents. Plus de 260 méthodes préprogrammées pour les chimies réactifs courantes, calibration en un point pour une précision optimale et tests de vérification garantissant l'exactitude des longueurs d'onde. Conception robuste et portable avec option étanche pour le terrain, interface conviviale et compatibilité étendue avec les réactifs.",
+      "variant_name_fr": "DCO",
+      "price_gbp": 976.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/AQ3140"
+    },
+    {
+      "sku": "AQ3170",
+      "slug": "colorimetre-thermo-scientific-orion-aquafast-chlore",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Colorimètre Thermo Scientific Orion AQUAfast Chlore",
+      "description_fr": "Colorimètre portable dédié au dosage du chlore dans les analyses d'eau et d'effluents. Plus de 260 méthodes préprogrammées pour les chimies réactifs courantes, calibration en un point pour une précision optimale et tests de vérification garantissant l'exactitude des longueurs d'onde. Conception robuste et portable avec option étanche pour le terrain, interface conviviale et calibration simplifiée.",
+      "variant_name_fr": "Chlore",
+      "price_gbp": 717.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/AQ3170"
+    },
+    {
+      "sku": "AQ3700",
+      "slug": "colorimetre-thermo-scientific-orion-aquafast-6-longueurs-onde",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Colorimètre Thermo Scientific Orion AQUAfast 6 longueurs d'onde",
+      "description_fr": "Colorimètre multiparamètre à six longueurs d'onde pour la DCO et d'autres méthodes par digestion, destiné aux laboratoires d'analyse des eaux et des effluents. Plus de 260 méthodes préprogrammées, calibration en un point et vérifications de performance intégrées pour garantir l'exactitude des longueurs d'onde. Portable avec option étanche pour un usage terrain, interface intuitive et large compatibilité avec les réactifs.",
+      "variant_name_fr": "6 longueurs d'onde, DCO et digestion",
+      "price_gbp": 2017.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/AQ3700"
+    },
+    {
+      "sku": "COL1002",
+      "slug": "comparateur-lovibond-ec-2000-gardner-sans-bluetooth",
+      "brand": "LOVIBOND",
+      "name_fr": "Comparateur électronique Lovibond EC 2000 Gardner (sans Bluetooth)",
+      "description_fr": "Comparateur colorimétrique numérique préprogrammé sur l'échelle de couleur Gardner, permettant de remplacer l'évaluation visuelle subjective par une mesure électronique objective. Résultats affichés à la fois sous forme de comparaison colorée à l'écran et de valeur numérique, conformes aux normes internationales. Applications : eau potable, produits pétrochimiques, résines, huiles, solvants et produits pétroliers. Écran tactile ou à boutons-poussoirs, tolérances qualité paramétrables par code couleur, livré en mallette avec cellules, étalons de référence, piles, bloc d'alimentation et câble de données.",
+      "variant_name_fr": "Échelle Gardner",
+      "price_gbp": 2982.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1002"
+    },
+    {
+      "sku": "COL1004",
+      "slug": "comparateur-lovibond-ec-3000-astm-sans-bluetooth",
+      "brand": "LOVIBOND",
+      "name_fr": "Comparateur électronique Lovibond EC 3000 Couleur ASTM (sans Bluetooth)",
+      "description_fr": "Comparateur colorimétrique numérique préprogrammé sur l'échelle de couleur ASTM, permettant de remplacer l'évaluation visuelle subjective par une mesure électronique objective. Résultats affichés à la fois sous forme de comparaison colorée à l'écran et de valeur numérique, conformes aux normes internationales. Applications : eau potable, produits pétrochimiques, résines, huiles, solvants et produits pétroliers. Écran tactile ou à boutons-poussoirs, tolérances qualité paramétrables par code couleur, livré en mallette avec cellules, étalons de référence, piles, bloc d'alimentation et câble de données.",
+      "variant_name_fr": "Échelle ASTM",
+      "price_gbp": 5118.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1004"
+    },
+    {
+      "sku": "COL1006",
+      "slug": "comparateur-lovibond-ec-3000-saybolt-sans-bluetooth",
+      "brand": "LOVIBOND",
+      "name_fr": "Comparateur électronique Lovibond EC 3000 Saybolt (sans Bluetooth)",
+      "description_fr": "Comparateur colorimétrique numérique préprogrammé sur l'échelle de couleur Saybolt, permettant de remplacer l'évaluation visuelle subjective par une mesure électronique objective. Résultats affichés à la fois sous forme de comparaison colorée à l'écran et de valeur numérique, conformes aux normes internationales. Applications : eau potable, produits pétrochimiques, résines, huiles, solvants et produits pétroliers. Écran tactile ou à boutons-poussoirs, tolérances qualité paramétrables par code couleur, livré en mallette avec cellules, étalons de référence, piles, bloc d'alimentation et câble de données.",
+      "variant_name_fr": "Échelle Saybolt",
+      "price_gbp": 5118.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1006"
+    },
+    {
+      "sku": "COL1018",
+      "slug": "brillancemetre-lovibond-tg-268-tri-angle-20-60-85",
+      "brand": "LOVIBOND",
+      "name_fr": "Brillancemètre Lovibond TG 268 tri-angle (20°/60°/85°)",
+      "description_fr": "Brillancemètre polyvalent pour le contrôle qualité des matériaux colorés tels que peintures, revêtements métallisés et plastiques. Mesure du brillant, du haut au bas de l'échelle, avec un seul appareil couvrant les trois angles 20°, 60° et 85°. Grand écran tactile permettant de comparer rapidement cinq jeux de données à l'écran, mode de mesure continue pour vérifier l'uniformité sur de grandes surfaces, mémoire de plus de 5000 jeux de données et logiciel de contrôle qualité PC inclus. Conception robuste, compacte et ergonomique adaptée aussi bien à la production qu'au laboratoire.",
+      "variant_name_fr": "20°/60°/85°",
+      "price_gbp": 2726.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1018"
+    },
+    {
+      "sku": "COL1022",
+      "slug": "spectrocolorimetre-reflexion-lovibond-tr-520",
+      "brand": "LOVIBOND",
+      "name_fr": "Spectrocolorimètre à réflexion Lovibond TR 520",
+      "description_fr": "Spectrocolorimètre à réflexion polyvalent pour le contrôle qualité des matériaux et produits colorés, utilisé dans les secteurs des revêtements, de l'agroalimentaire, des produits ménagers, du médical et des plastiques. Conception robuste, compacte et ergonomique pour un usage portable ou en paillasse, adaptée à la correspondance des couleurs sur surfaces ou produits solides. Affichage intuitif à icônes, viseur intégré par caméra pour visualiser l'échantillon avant mesure, zone de mesure définissable par l'utilisateur. Mesure des matériaux fluorescents avec UV inclus ou exclu, paramètres de contrôle qualité personnalisables et logiciel PC pour une analyse statistique approfondie des mesures. Dimensions : 184 x 105 x 77 mm.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 8547.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1022"
+    }
+  ]
+}

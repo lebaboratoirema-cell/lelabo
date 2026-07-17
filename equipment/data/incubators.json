@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "incubators",
+    "parent_slug": "equipements",
+    "name": { "fr": "Incubateurs", "en": "Incubators" },
+    "description": {
+      "fr": "Incubateurs CO2, incubateurs réfrigérés et incubateurs agitateurs pour la culture cellulaire, la microbiologie et les essais de croissance en conditions contrôlées."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2898",
+      "slug": "incubateur-co2-thermo-scientific-bb15-inox",
+      "brand": "Thermo Scientific",
+      "name_fr": "Incubateur CO2 Thermo Scientific BB15 — cuve inox",
+      "description_fr": "Incubateur CO2 conçu pour la culture cellulaire et tissulaire, avec une cuve dont la surface interne réduite (jusqu'à 50 % de moins que les modèles concurrents) limite les points de contamination potentiels. Régulation précise de la température et du taux de CO2 pour des conditions de croissance optimales. Système d'humidification puissant assurant une reprise rapide des paramètres après ouverture de porte. Cuve disponible en acier inoxydable pour un contrôle durable de la contamination.",
+      "variant_name_fr": "Cuve inox",
+      "price_gbp": 5740.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2898"
+    },
+    {
+      "sku": "B2B2900",
+      "slug": "incubateur-co2-thermo-scientific-bb15-cuivre",
+      "brand": "Thermo Scientific",
+      "name_fr": "Incubateur CO2 Thermo Scientific BB15 — cuve cuivre massif",
+      "description_fr": "Incubateur CO2 conçu pour la culture cellulaire et tissulaire, avec une cuve dont la surface interne réduite (jusqu'à 50 % de moins que les modèles concurrents) limite les points de contamination potentiels. Régulation précise de la température et du taux de CO2 pour des conditions de croissance optimales. Système d'humidification puissant assurant une reprise rapide des paramètres après ouverture de porte. Cette version dispose d'une cuve en cuivre massif, matériau naturellement bactériostatique, pour un contrôle renforcé et permanent de la contamination.",
+      "variant_name_fr": "Cuve cuivre massif",
+      "price_gbp": 7476.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2898"
+    },
+    {
+      "sku": "E6734000012",
+      "slug": "incubateur-co2-eppendorf-cellxpert-c170-standard",
+      "brand": "Eppendorf",
+      "name_fr": "Incubateur CO2 Eppendorf CellXpert C170 — affichage standard, poignée de porte intérieure à droite",
+      "description_fr": "Version économique du CellXpert C170i offrant l'essentiel de sa fiabilité et de sa capacité, sans les fonctions les plus avancées réservées aux utilisateurs exigeants. Conception sans ventilateur augmentant le volume utile, réduisant les coûts d'exploitation et limitant les risques de contamination. Cycle de désinfection à haute température (140 °C). Cuve intérieure en acier inoxydable sans jointure pour minimiser les points de contamination, étagères perforées et renforcées en inox de 1,5 mm. Port Ethernet pour l'export des données, capteur CO2 infrarouge à double canal, interface utilisateur intuitive, verrous magnétiques sur la porte intérieure et outil de calcul du gaz intégré.",
+      "variant_name_fr": "Affichage standard, poignée à droite",
+      "price_gbp": 11436.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6734000012_1"
+    },
+    {
+      "sku": "INC1316",
+      "slug": "incubateur-co2-thermo-scientific-vios-idx-165l",
+      "brand": "Thermo Scientific",
+      "name_fr": "Incubateur CO2 Thermo Scientific Vios iDx 165 L — cuve inox, sonde TC",
+      "description_fr": "Incubateur CO2 haute performance combinant flux d'air actif, stérilisation à haute température et filtration HEPA en cuve pour garantir des conditions de culture fiables. La technologie de flux d'air actif THRIVE permet une reprise totale des paramètres critiques en 10 minutes ou moins après une ouverture de porte de 30 secondes, grâce à un ventilateur interne assurant une répartition homogène de l'air conditionné. Le cycle de stérilisation Steri-Run élimine les contaminants microbiens en atteignant 180 °C en 48 points de la cuve, pour un niveau d'assurance de stérilité de 12 log, sans autoclavage séparé des accessoires. La filtration HEPA en cuve offre une qualité d'air ISO classe 5 en 5 minutes après ouverture, avec un renouvellement complet du volume d'air toutes les 60 secondes et un filtre remplaçable sans outil, valable un an. Réservoir d'humidité intégré et couvert limitant la condensation, capteurs de température et de gaz positionnés au plus près des échantillons, port USB en façade, écran tactile 7 pouces et verrouillage électromagnétique de la porte.",
+      "variant_name_fr": "165 L, sonde TC",
+      "price_gbp": 13888.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC1316"
+    },
+    {
+      "sku": "INC2622",
+      "slug": "incubateur-co2-thermo-scientific-forma-steri-cult-323l",
+      "brand": "Thermo Scientific",
+      "name_fr": "Incubateur CO2 Thermo Scientific Forma Steri-Cult 323 L — humidité active, capteur IR",
+      "description_fr": "Incubateur CO2 disponible en 232 L ou 323 L, doté d'un système d'humidité active avec réservoir externe évitant l'usage d'un bac d'eau en cuve, d'une filtration HEPA en cuve et d'un capteur CO2 infrarouge. Cycle de stérilisation à haute température (140 °C) déclenchable à la demande d'une simple pression. Cuve intérieure en acier inoxydable poli, étagères robustes et supports facilement démontables pour le nettoyage. Unité empilable, pilotage et messagerie des paramètres CO2, humidité relative et température assurés par le microprocesseur Enviro-Scan.",
+      "variant_name_fr": "323 L",
+      "price_gbp": 28173.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC2622"
+    },
+    {
+      "sku": "B2B2728",
+      "slug": "incubateur-refrigere-ika-inc-125-fc-125l",
+      "brand": "IKA",
+      "name_fr": "Incubateur réfrigéré numérique IKA INC 125 FC — 125 L",
+      "description_fr": "Incubateur réfrigéré numérique adapté aux applications microbiologiques sur une plage de -5 à 100 °C grâce à une régulation de température précise. La technologie de refroidissement par compresseur utilisant le fluide frigorigène naturel R290 en fait un appareil particulièrement économe en ressources. Capacité de 125 L, la plus grande de sa catégorie, pouvant accueillir jusqu'à six étagères grillagées simultanément. Mode de décontamination à 100 °C pour la désinfection et la prévention des contaminations croisées, cuve en acier inoxydable AISI 304 aux angles arrondis facilitant le nettoyage, fonction de dégivrage avec évacuation continue de l'eau. Stabilité de température excellente (±0,2 K à ±0,3 K), vitesse de ventilation interne réglable électroniquement de 0 à 100 %, porte vitrée intérieure additionnelle pour observer les échantillons sans perte thermique. Jusqu'à deux appareils IKA empilables.",
+      "variant_name_fr": "125 L, -5 à 100 °C",
+      "price_gbp": 4386.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC3256"
+    },
+    {
+      "sku": "B2B8008",
+      "slug": "incubateur-benchmark-mytemp-mini-chauffage-refroidissement",
+      "brand": "Benchmark",
+      "name_fr": "Incubateur numérique compact Benchmark MyTemp Mini — chauffage et refroidissement",
+      "description_fr": "Incubateur compact à régulation de température numérique offrant un fonctionnement simple : il suffit de sélectionner la consigne pour que l'appareil chauffe et surveille la température de la cuve en continu, avec affichage en temps réel sur grand panneau LED, sans thermomètre externe ni réglage manuel répété. Encombrement réduit, accepte flacons et fioles jusqu'à 2 L, deux étagères réglables et une prise interne permettant d'alimenter de petits agitateurs ou secoueurs. Disponible en version chauffage seul ou chauffage/refroidissement.",
+      "variant_name_fr": "Chauffage/refroidissement",
+      "price_gbp": 591.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/H2200HCE"
+    },
+    {
+      "sku": "B2B2598",
+      "slug": "incubateur-agitateur-eppendorf-innova-40r-orbite-19mm",
+      "brand": "Eppendorf",
+      "name_fr": "Incubateur agitateur réfrigéré Eppendorf New Brunswick Innova 40R — orbite 19 mm",
+      "description_fr": "Agitateur incubateur de paillasse conçu pour un fonctionnement fiable sur le long terme, idéal pour démarrer des projets à petite échelle avec perspective de montée en volume. Couvercle transparent autoportant permettant de garder les échantillons en vue à tout moment, capacité jusqu'à 3 L par fiole. Entraînement Innova à triple excentrique monté sur bâti en fonte assurant un fonctionnement sans vibration durant des années. Précision et uniformité de température de ±0,1 °C et ±0,25 °C à 37 °C, précision de vitesse de 1 tr/min. Encombrement réduit de 55,9 x 76,2 cm compatible avec des paillasses étroites. Programmation continue, minutée ou en plusieurs étapes (jusqu'à 15 étapes, 4 programmes mémorisables), circuit d'accélération/décélération limitant les éclaboussures. Bac d'égouttage en option, conformité cETL, UL, CSA et CE.",
+      "variant_name_fr": "Orbite 19 mm",
+      "price_gbp": 12840.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SHA4131"
+    },
+    {
+      "sku": "B2B2602",
+      "slug": "incubateur-agitateur-eppendorf-innova-40r-orbite-25mm",
+      "brand": "Eppendorf",
+      "name_fr": "Incubateur agitateur réfrigéré Eppendorf New Brunswick Innova 40R — orbite 25 mm",
+      "description_fr": "Agitateur incubateur de paillasse conçu pour un fonctionnement fiable sur le long terme, idéal pour démarrer des projets à petite échelle avec perspective de montée en volume. Couvercle transparent autoportant permettant de garder les échantillons en vue à tout moment, capacité jusqu'à 3 L par fiole. Entraînement Innova à triple excentrique monté sur bâti en fonte assurant un fonctionnement sans vibration durant des années. Précision et uniformité de température de ±0,1 °C et ±0,25 °C à 37 °C, précision de vitesse de 1 tr/min. Encombrement réduit de 55,9 x 76,2 cm compatible avec des paillasses étroites. Programmation continue, minutée ou en plusieurs étapes (jusqu'à 15 étapes, 4 programmes mémorisables), circuit d'accélération/décélération limitant les éclaboussures. Bac d'égouttage en option, conformité cETL, UL, CSA et CE.",
+      "variant_name_fr": "Orbite 25 mm",
+      "price_gbp": 12840.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SHA4131"
+    },
+    {
+      "sku": "B2B3068",
+      "slug": "incubateur-agitateur-benchmark-incu-shaker-20lr",
+      "brand": "Benchmark",
+      "name_fr": "Incubateur agitateur réfrigéré empilable Benchmark Incu-Shaker 20LR — tapis antidérapant",
+      "description_fr": "Agitateur incubateur compact et empilable (jusqu'à 2 unités) de la gamme Incu-Shaker, animé par le même moteur à entraînement par induction sans balais que le reste de la famille, éprouvé pour sa fiabilité. Cuve intérieure en acier inoxydable de haute qualité offrant une précision de température de ±0,1 °C et une uniformité de ±0,5 °C. Le modèle 20LR intègre un compresseur puissant permettant de refroidir jusqu'à 4 °C tout en agitant, avec une plage allant jusqu'à 60 °C. Chambre agrandie pouvant accueillir jusqu'à 4 fioles Erlenmeyer de 5 L, étagères réglables au-dessus des plateformes pour l'incubation statique de boîtes de Pétri ou plaques de culture. Plateforme à tapis antidérapant compatible avec les accessoires magnétiques MAGic Clamp (vendus séparément), programmation par étapes, commandes tactiles intuitives et système de porte réversible.",
+      "variant_name_fr": "20 L, réfrigéré",
+      "price_gbp": 9434.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SHA1450"
+    }
+  ]
+}

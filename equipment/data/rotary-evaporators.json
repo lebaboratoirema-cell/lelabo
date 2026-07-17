@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "rotary-evaporators",
+    "parent_slug": "equipements",
+    "name": { "fr": "Évaporateurs rotatifs", "en": "Rotary Evaporators" },
+    "description": {
+      "fr": "Évaporateurs rotatifs Büchi et leurs accessoires (joints, verrerie, pompes à vide, interfaces, bains chauffants) pour la concentration et la distillation sous vide en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "11069167",
+      "slug": "joint-vide-vs26-ptfe-buchi",
+      "brand": "BUCHI",
+      "name_fr": "Joint d'étanchéité à vide VS26 — base PTFE, joint torique NBR",
+      "description_fr": "Joint de vide de rechange pour Rotavapor Büchi, base en PTFE inerte et joint torique en NBR conforme FDA. Assure l'étanchéité de l'arbre de rotation lors de l'évaporation sous vide et limite les pertes de vide dues à l'usure du joint d'origine.",
+      "variant_name_fr": "VS26",
+      "price_gbp": 110.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/11069167"
+    },
+    {
+      "sku": "11R300100N001",
+      "slug": "rotavapor-r-300-buchi-sans-bain-sans-verrerie-230v",
+      "brand": "BUCHI",
+      "name_fr": "Rotavapor R-300 Büchi — unité de base sans bain, sans joint ni verrerie, 230 V",
+      "description_fr": "Évaporateur rotatif modulaire Büchi conçu pour évoluer vers un système intégré piloté par une interface centrale unique associée à une pompe à vide et un refroidisseur en circuit. Retrait du ballon et de la colonne de distillation facilité par le système Combi-Clip, levage électrique ou manuel ergonomique, réglage immédiat de la température de chauffe et de la vitesse de rotation via molettes intuitivement placées, affichage numérique intégré de la température, de la vitesse et de la position du bras. Cette configuration livre uniquement l'unité de base (230 V), sans bain chauffant, sans joint et sans verrerie ; à compléter selon le besoin d'un bain B-301 (1 L, chauffe rapide) ou B-305 (5 L, haute température) et d'un ensemble verrerie.",
+      "variant_name_fr": "Unité de base, sans bain ni verrerie, 230 V",
+      "price_gbp": 2624.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1030"
+    },
+    {
+      "sku": "11R300101A011",
+      "slug": "rotavapor-r-300-buchi-sans-bain-sj29-32",
+      "brand": "BUCHI",
+      "name_fr": "Rotavapor R-300 Büchi — sans bain, rodage verrerie SJ 29/32",
+      "description_fr": "Évaporateur rotatif modulaire Büchi livré avec verrerie à rodage SJ 29/32, extensible en système intégré piloté par une interface centrale, pompe à vide et refroidisseur en option. Retrait rapide du ballon et de la colonne grâce au Combi-Clip, choix entre levage électrique ou manuel, réglages directs de la température de chauffe et de la vitesse de rotation, affichage numérique de la température, de la vitesse et de la position du bras. Fourni sans bain chauffant ; bain B-301 (1 L) ou B-305 (5 L) à sélectionner séparément selon la plage de température souhaitée.",
+      "variant_name_fr": "Rodage SJ 29/32, sans bain",
+      "price_gbp": 4107.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1030"
+    },
+    {
+      "sku": "B2B2436",
+      "slug": "rotavapor-r-80-buchi-verrerie-verticale-v-80-i-80",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-80 Büchi — colonne 29/32, verrerie verticale, pompe à vide V-80 et interface I-80",
+      "description_fr": "Système d'évaporation rotative compact Büchi R-80, réputé pour son encombrement minimal et sa faible consommation énergétique au sein de la gamme. Ensemble complet prêt à l'emploi comprenant colonne de distillation à rodage 29/32, verrerie à assemblage vertical, pompe à vide V-80 et interface de pilotage I-80. Conception robuste et fonctionnement simplifié pour les laboratoires souhaitant une évaporation fiable sans investissement lourd.",
+      "variant_name_fr": "Verrerie verticale, pompe V-80, interface I-80",
+      "price_gbp": 5163.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1244"
+    },
+    {
+      "sku": "B2B2438",
+      "slug": "rotavapor-r-80-buchi-verrerie-piege-froid-v-80-i-80",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-80 Büchi — colonne 29/32, verrerie à piège à froid, pompe à vide V-80 et interface I-80",
+      "description_fr": "Système d'évaporation rotative compact Büchi R-80, au plus petit encombrement de la gamme et à la consommation énergétique optimisée. Ensemble prêt à l'emploi avec colonne à rodage 29/32, verrerie équipée d'un piège à froid pour la rétention des solvants volatils, pompe à vide V-80 et interface de pilotage I-80. Fiabilité et simplicité d'utilisation adaptées aux laboratoires à budget maîtrisé.",
+      "variant_name_fr": "Verrerie piège à froid, pompe V-80, interface I-80",
+      "price_gbp": 5280.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1232"
+    },
+    {
+      "sku": "B2B2440",
+      "slug": "rotavapor-r-80-buchi-verrerie-verticale-v-180-i-180",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-80 Büchi — colonne 29/32, verrerie verticale, pompe à vide V-180 et interface I-180",
+      "description_fr": "Évaporateur rotatif Büchi R-80 au format compact et économe en énergie, associé ici à une pompe à vide V-180 et une interface de pilotage I-180 pour davantage de capacité d'aspiration. Ensemble livré avec colonne de distillation à rodage 29/32 et verrerie à assemblage vertical. Fonctionnement sûr et robuste conçu pour un usage quotidien en laboratoire.",
+      "variant_name_fr": "Verrerie verticale, pompe V-180, interface I-180",
+      "price_gbp": 5983.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1244"
+    },
+    {
+      "sku": "B2B2442",
+      "slug": "rotavapor-r-80-buchi-verrerie-piege-froid-v-180-i-180",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-80 Büchi — colonne 29/32, verrerie à piège à froid, pompe à vide V-180 et interface I-180",
+      "description_fr": "Évaporateur rotatif compact Büchi R-80 combiné à une pompe à vide V-180 et une interface I-180 pour une capacité d'aspiration renforcée. Ensemble comprenant colonne à rodage 29/32 et verrerie à piège à froid, utile pour la récupération des solvants volatils. Encombrement réduit, faible consommation énergétique et sécurité d'utilisation au quotidien.",
+      "variant_name_fr": "Verrerie piège à froid, pompe V-180, interface I-180",
+      "price_gbp": 6148.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA1232"
+    },
+    {
+      "sku": "B2B2444",
+      "slug": "rotavapor-r-180-buchi-verrerie-verticale-v-180-i-180",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-180 Büchi — colonne 29/32, verrerie verticale, pompe à vide V-180 et interface I-180",
+      "description_fr": "Évaporateur rotatif Büchi R-180, conçu pour la fiabilité et la simplicité d'utilisation au quotidien, avec des fonctions de sécurité essentielles intégrées. Accepte des ballons jusqu'à 3 L. Ensemble complet fourni avec colonne à rodage 29/32, verrerie à assemblage vertical, pompe à vide V-180 et interface de pilotage I-180.",
+      "variant_name_fr": "Verrerie verticale, ballons jusqu'à 3 L",
+      "price_gbp": 6363.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2444"
+    },
+    {
+      "sku": "B2B2446",
+      "slug": "rotavapor-r-180-buchi-verrerie-piege-froid-v-180-i-180",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-180 Büchi — colonne 29/32, verrerie à piège à froid, pompe à vide V-180 et interface I-180",
+      "description_fr": "Évaporateur rotatif Büchi R-180, robuste et pensé pour un fonctionnement sûr en usage intensif, acceptant des ballons jusqu'à 3 L. Ensemble livré avec colonne à rodage 29/32, verrerie à piège à froid pour la récupération des solvants volatils, pompe à vide V-180 et interface I-180.",
+      "variant_name_fr": "Verrerie piège à froid, ballons jusqu'à 3 L",
+      "price_gbp": 6670.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2446"
+    },
+    {
+      "sku": "B2B2448",
+      "slug": "rotavapor-r-180-buchi-verrerie-verticale-refroidisseur-v-180",
+      "brand": "BUCHI",
+      "name_fr": "Système Rotavapor R-180 Büchi — colonne 29/32, verrerie verticale, pompe à vide V-180, interface I-180 et refroidisseur V-180",
+      "description_fr": "Configuration complète de l'évaporateur rotatif Büchi R-180, robuste et fiable, acceptant des ballons jusqu'à 3 L. Comprend colonne à rodage 29/32, verrerie à assemblage vertical, pompe à vide V-180, interface de pilotage I-180 et refroidisseur V-180 intégré pour une fonction de refroidissement supplémentaire, utile pour les solvants à point d'ébullition bas ou les cycles prolongés.",
+      "variant_name_fr": "Verrerie verticale + refroidisseur, ballons jusqu'à 3 L",
+      "price_gbp": 9924.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2448"
+    }
+  ]
+}

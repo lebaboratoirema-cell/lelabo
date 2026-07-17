@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "mixers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Agitateurs et mélangeurs", "en": "Mixers" },
+    "description": {
+      "fr": "Agitateurs à bascule, rouleaux mélangeurs et rotateurs pour l'homogénéisation d'échantillons, le lavage de blots et les applications de biologie moléculaire en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B3070",
+      "slug": "agitateur-bascule-corning-lse-plateforme-simple",
+      "brand": "Corning",
+      "name_fr": "Agitateur à bascule Corning LSE — plateforme simple",
+      "description_fr": "Agitateur à bascule compact à forte capacité, adapté au western blot et aux applications générales de mélange. Vitesse réglable de 2 à 60 tr/min et inclinaison fixe de 7°, pour la coloration de gels fragiles comme pour le lavage plus intensif des membranes. Minuterie jusqu'à 2 heures ou fonctionnement continu, utilisable en enceinte à température contrôlée jusqu'à 70 °C. Encombrement réduit, capacité de charge 5 kg, patins antidérapants en caoutchouc pour maintenir les récipients en place. Garantie 5 ans.",
+      "variant_name_fr": "Plateforme simple",
+      "price_gbp": 663.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/6704"
+    },
+    {
+      "sku": "B2B3072",
+      "slug": "agitateur-bascule-corning-lse-plateforme-double",
+      "brand": "Corning",
+      "name_fr": "Agitateur à bascule Corning LSE — plateforme double",
+      "description_fr": "Version haute capacité de l'agitateur à bascule Corning LSE, équipée de deux plateformes superposées pour traiter davantage d'échantillons en parallèle. Vitesse réglable de 2 à 60 tr/min et inclinaison fixe de 7°, adapté au western blot et au mélange général. Minuterie jusqu'à 2 heures ou fonctionnement continu, utilisable jusqu'à 70 °C. Encombrement réduit, capacité de charge 5 kg, patins antidérapants en caoutchouc. Garantie 5 ans.",
+      "variant_name_fr": "Plateforme double",
+      "price_gbp": 663.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/6706"
+    },
+    {
+      "sku": "B2B7080T",
+      "slug": "agitateur-bascule-2d-sls-flowgen-benchrocker",
+      "brand": "SLS Flowgen",
+      "name_fr": "Agitateur à bascule 2D SLS Flowgen Benchrocker",
+      "description_fr": "Agitateur à bascule conçu pour couvrir un large éventail d'applications de mélange en biologie moléculaire, avec vitesse et angle d'inclinaison réglables indépendamment selon la taille du récipient et le volume de liquide. Produit un mouvement ondulant doux sans formation de mousse, adapté au lavage de blots et aux gels, ou une agitation plus vigoureuse à vitesse et inclinaison élevées. Accepte des plateformes empilables (dégagement de 70 mm), tapis de plateforme autoclavables, moteur sans balais sans entretien. Utilisable en chambre froide et en incubateur, plage de température 4 à 65 °C. Vitesse réglable de 2 à 30 tr/min (4 à 60 basculements par minute), angle d'inclinaison réglable de 0 à ±30°, charge admissible 2 kg.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 660.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIX1500"
+    },
+    {
+      "sku": "B2B7082",
+      "slug": "agitateur-3d-sls-flowgen-minimixer",
+      "brand": "SLS Flowgen",
+      "name_fr": "Agitateur 3D SLS Flowgen Minimixer",
+      "description_fr": "Agitateur multifonction produisant un mouvement de nutation tridimensionnel pour un mélange complet et sans mousse, aussi bien dans des tubes de sang ou de centrifugation que dans divers récipients plats. Moteurs sans balais sans entretien, capacité de charge jusqu'à 2 kg, utilisable en chambre froide et en incubateur. Livré avec un tapis alvéolé idéal pour le mélange en tubes de sang et de centrifugation ; des tapis plats optionnels sont disponibles pour d'autres types de récipients. Plateformes d'empilement vendues séparément, doublant la surface utile. Mouvement tri-directionnel pour un mélange uniforme. Garantie 2 ans.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 354.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIX1510"
+    },
+    {
+      "sku": "B2B06224T",
+      "slug": "rouleau-melangeur-sls-lab-basics-digiroll-6-tubes-promo",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Rouleau mélangeur numérique SLS Lab Basics DigiRoll — 6 tubes",
+      "description_fr": "Rouleau mélangeur numérique à commande par microprocesseur, optimisé pour le mélange d'échantillons visqueux, combinant mouvements de bascule et de roulement. Moteur à courant continu sans balais pour un fonctionnement silencieux et durable, écran numérique avec clavier tactile, classe de protection IP21. Minuterie de 1 à 99 minutes ou mode continu, durée d'impulsion réglable de 30 à 99 secondes. Espacement des rouleaux ajustable pour s'adapter à différents diamètres de tubes. Fonction de programmation permettant d'enregistrer et d'exécuter jusqu'à 9 programmes utilisateur. Conception empilable et robuste.",
+      "variant_name_fr": "6 tubes",
+      "price_gbp": 420.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS4234"
+    },
+    {
+      "sku": "B2B9036",
+      "slug": "rouleau-melangeur-sls-lab-basics-10-rouleaux",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Rouleau mélangeur SLS Lab Basics — 10 rouleaux",
+      "description_fr": "Rouleau mélangeur conçu pour un mélange doux et complet des échantillons. À chaque révolution, le côté droit de chaque rouleau s'élève doucement d'environ 13 mm avant de revenir à l'horizontale, ce qui ajoute un léger mouvement de va-et-vient créant un effet de vague garantissant un mélange homogène de bout en bout de l'échantillon. Cette inclinaison intégrée d'environ ±5° offre un niveau d'uniformité de mélange qu'aucun rouleau statique ne peut égaler. Compatible avec les tubes et flacons de 8 à 200 mm de diamètre.",
+      "variant_name_fr": "10 rouleaux",
+      "price_gbp": 792.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS7048"
+    },
+    {
+      "sku": "MIX4238",
+      "slug": "rouleau-melangeur-numerique-ika-roller-10",
+      "brand": "IKA",
+      "name_fr": "Rouleau mélangeur numérique IKA Roller 10 — dix barres de roulement",
+      "description_fr": "Rouleau mélangeur numérique à 10 barres, offrant un mouvement de bascule et de roulement en douceur à vitesse réglable en continu. Destiné au mélange d'échantillons sanguins, de suspensions solides et liquides et d'échantillons visqueux, compatible avec tous les tubes classiques et flacons cylindriques. Fixations facilement démontables pour un nettoyage rapide en cas de déversement. Minuterie à compte à rebours réglable de 1 seconde à 99 h 59 min, compteur du temps d'agitation, affichage des codes d'erreur. Utilisable de 4 à 50 °C en incubateur, adapté au fonctionnement continu. Les rouleaux amovibles permettent d'agiter des tubes de plus grande taille. Commande par clavier, diamètre de rotation 24,5 mm, plage de vitesse de 5 à 80 tr/min.",
+      "variant_name_fr": "10 barres de roulement",
+      "price_gbp": 2407.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIX4238"
+    },
+    {
+      "sku": "SLS4234",
+      "slug": "rouleau-melangeur-sls-lab-basics-digiroll-6-tubes-standard",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Rouleau mélangeur numérique SLS Lab Basics DigiRoll — 6 tubes",
+      "description_fr": "Rouleau mélangeur numérique à commande par microprocesseur, optimisé pour le mélange d'échantillons visqueux, combinant mouvements de bascule et de roulement. Moteur à courant continu sans balais pour un fonctionnement silencieux et durable, écran numérique avec clavier tactile, classe de protection IP21. Minuterie de 1 à 99 minutes ou mode continu, durée d'impulsion réglable de 30 à 99 secondes. Espacement des rouleaux ajustable pour s'adapter à différents diamètres de tubes. Fonction de programmation permettant d'enregistrer et d'exécuter jusqu'à 9 programmes utilisateur. Conception empilable et robuste.",
+      "variant_name_fr": "6 tubes",
+      "price_gbp": 538.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS4234"
+    },
+    {
+      "sku": "B2B7248",
+      "slug": "rotateur-incube-benchmark-roto-therm-plus",
+      "brand": "Benchmark",
+      "name_fr": "Rotateur incubé Benchmark Roto-Therm Plus avec portoirs à tubes",
+      "description_fr": "Rotateur mélangeur incubé couvrant un large éventail d'applications de laboratoire : remise en suspension, liaison protéique, purification d'acides nucléiques, histochimie, hybridation, etc. Portoirs à tubes interchangeables acceptant tous les formats courants de 0,5 à 50 mL. Mouvement réglable, de la rotation verticale (bout en bout) à la rotation horizontale (roulement ou hybridation). Régulation numérique de la température de la chambre entre ambiante +5 °C et 60 °C, avec fonction de calibration en laboratoire. En configuration Plus : vitesse variable de 5 à 70 tr/min, fonction « Mix » (rotation combinée à des oscillations pour un mélange accru), fonction « Pause » (arrêts intermittents pendant la rotation) et fonction « Rock » (bascule douce type balançoire). Livré avec une plateforme de bascule supplémentaire (4,5 x 3 pouces) et un portoir 96 x 0,2 mL pour tubes/bandes/plaques PCR utilisable en mode « Mix ».",
+      "variant_name_fr": "Modèle Plus, incubé",
+      "price_gbp": 493.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7248"
+    },
+    {
+      "sku": "B2B9016",
+      "slug": "rotateur-benchmark-roto-mini-plus-vitesse-variable",
+      "brand": "Benchmark",
+      "name_fr": "Rotateur Benchmark Roto-Mini Plus à vitesse variable avec portoirs à tubes",
+      "description_fr": "Rotateur mélangeur couvrant un large éventail d'applications de laboratoire : remise en suspension, liaison protéique, purification d'acides nucléiques, etc. Portoirs à tubes interchangeables acceptant tous les formats courants de 0,5 à 50 mL, livrés en plusieurs jeux : 11 x 1,5/0,2 mL (par 2), 5 x 10-15 mL (par 2), 5 x 5-7 mL (par 2) et 6 x 50 mL (par 1). Mouvement réglable, de la rotation verticale (bout en bout) à la rotation horizontale (roulement ou hybridation). Vitesse variable de 5 à 70 tr/min, fonction « Mix » (rotation combinée à des oscillations), fonction « Pause » (arrêts intermittents pendant la rotation) et fonction « Rock » (bascule douce type balançoire). Livré avec une plateforme de bascule supplémentaire (4,5 x 3 pouces) et un portoir 96 x 0,2 mL pour tubes/bandes/plaques PCR.",
+      "variant_name_fr": "Modèle Plus",
+      "price_gbp": 309.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B9016"
+    }
+  ]
+}

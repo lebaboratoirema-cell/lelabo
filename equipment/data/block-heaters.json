@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "block-heaters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Blocs chauffants", "en": "Block Heaters" },
+    "description": {
+      "fr": "Bains secs et blocs chauffants numériques pour l'incubation, la dénaturation et le chauffage d'échantillons en biologie moléculaire, chimie et diagnostic clinique."
+    }
+  },
+  "products": [
+    {
+      "sku": "6877-SB",
+      "slug": "bloc-chauffant-corning-simple",
+      "brand": "Corning",
+      "name_fr": "Bloc chauffant numérique Corning — bloc simple",
+      "description_fr": "Bain sec numérique de la gamme Corning, décliné en configurations bloc simple, double ou quadruple, avec une plage de température pouvant atteindre 150 °C. Convient à de nombreuses applications en biologie moléculaire, histologie, diagnostic clinique, contrôle environnemental et industrie. Double affichage pour suivre simultanément la température et le temps, connectivité USB pour la traçabilité des données, et chambre de bloc moulée garantissant une excellente uniformité thermique.",
+      "variant_name_fr": "Bloc simple",
+      "price_gbp": 502.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/6877-SB"
+    },
+    {
+      "sku": "6887-DB",
+      "slug": "bain-sec-corning-lse-double-230v-uk",
+      "brand": "Corning",
+      "name_fr": "Bain sec numérique Corning LSE — bloc double, 230 V, fiche UK",
+      "description_fr": "Bain sec numérique de la gamme Corning LSE, disponible en versions bloc simple, double ou quadruple, avec une plage de température allant jusqu'à 150 °C. Adapté à la biologie moléculaire, l'histologie, le diagnostic clinique, l'environnement et l'industrie. Double affichage numérique pour le suivi de la température et du temps, connectivité USB pour la traçabilité des données, chambre moulée assurant une bonne uniformité thermique. Modèle 230 V équipé d'une fiche UK.",
+      "variant_name_fr": "Bloc double, 230 V, fiche UK",
+      "price_gbp": 595.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/6887-DB"
+    },
+    {
+      "sku": "6897-FB",
+      "slug": "bain-sec-corning-lse-quadruple",
+      "brand": "Corning",
+      "name_fr": "Bain sec numérique Corning LSE — bloc quadruple",
+      "description_fr": "Version quadruple bloc du bain sec numérique Corning LSE, offrant une plage de température jusqu'à 150 °C pour le traitement simultané d'un grand nombre d'échantillons. Double affichage pour la température et le temps, connectivité USB pour l'export des données, et chambre de bloc moulée garantissant une distribution thermique homogène. Conçu pour les laboratoires de biologie moléculaire, histologie, diagnostic clinique et environnement à fort débit d'échantillons.",
+      "variant_name_fr": "Bloc quadruple",
+      "price_gbp": 878.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/6897-FB"
+    },
+    {
+      "sku": "B2B7088",
+      "slug": "bain-sec-sls-flowgen-position-simple",
+      "brand": "SLS Flowgen",
+      "name_fr": "Bain sec numérique SLS Flowgen — position simple",
+      "description_fr": "Bain sec à réglage numérique « programmer et laisser fonctionner », qui supprime le recours à un thermomètre externe et les ajustements manuels répétés d'un bouton de température. La température saisie sur le clavier tactile est maintenue avec précision, avec un suivi en temps réel garantissant une stabilité de ±0,2 °C. Un minuteur numérique intégré (1 à 999 minutes) alerte l'utilisateur en fin de cycle. Les blocs en aluminium de haute qualité sont usinés avec précision pour un transfert thermique optimal ; blocs interchangeables adaptés à différents formats de tubes, vendus séparément. Livré avec une pince de manipulation à poignée isolée thermiquement et une fonction de réétalonnage utilisateur. Plage de température : ambiante +5 à 150 °C, précision ±0,2 °C, incréments de 0,1 °C. Garantie 2 ans.",
+      "variant_name_fr": "Position simple",
+      "price_gbp": 408.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO2250"
+    },
+    {
+      "sku": "B2B7090",
+      "slug": "bain-sec-sls-flowgen-position-double",
+      "brand": "SLS Flowgen",
+      "name_fr": "Bain sec numérique SLS Flowgen — position double",
+      "description_fr": "Version double position du bain sec numérique SLS Flowgen, à réglage « programmer et laisser fonctionner » supprimant le besoin d'un thermomètre externe et les ajustements manuels du bouton de température. Température maintenue avec précision (±0,2 °C) grâce à un suivi en temps réel, minuteur numérique intégré au clavier tactile (1 à 999 minutes). Blocs en aluminium haute qualité usinés avec précision pour un transfert thermique optimal, vendus séparément selon le format des tubes. Pince de manipulation à poignée isolée fournie, fonction de réétalonnage utilisateur pour une précision durable. Plage de température : ambiante +5 à 150 °C, précision ±0,2 °C, incréments de 0,1 °C. Garantie 2 ans.",
+      "variant_name_fr": "Position double",
+      "price_gbp": 504.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO2252"
+    },
+    {
+      "sku": "BLO1032",
+      "slug": "bloc-chauffant-cole-parmer-bh-250d-2-double-100c",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bloc chauffant numérique Cole-Parmer BH-250D-2 — double insert, 100 °C, 230 V",
+      "description_fr": "Source de chaleur sèche à température constante pour de nombreuses applications de laboratoire et de recherche. Voyants indépendants signalant la mise sous tension, le fonctionnement du chauffage et la coupure en cas de surchauffe. Conçu pour recevoir deux blocs simple largeur, ou un seul bloc double largeur ; les versions à trois et quatre blocs de la gamme conviennent aux analyses à haut débit telles que la demande chimique en oxygène (DCO). Large choix de blocs interchangeables (vendus séparément), compatibles avec de nombreux formats de tubes et de plaques. Encombrement réduit grâce à un dessus plat permettant l'empilement des appareils lorsqu'ils ne sont pas utilisés.",
+      "variant_name_fr": "Double insert, 100 °C, 230 V",
+      "price_gbp": 1251.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO1032"
+    },
+    {
+      "sku": "BLO1034",
+      "slug": "bloc-chauffant-cole-parmer-bh-250dc-2-double-regulation",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bloc chauffant numérique Cole-Parmer BH-250DC-2 à double régulation — double insert, 230 V",
+      "description_fr": "Bloc chauffant à double insert doté d'une régulation indépendante de chaque zone de chauffe, offrant une source de chaleur sèche à température constante pour les applications de laboratoire et de recherche. Voyants indépendants pour l'alimentation, le fonctionnement du chauffage et la coupure en cas de surchauffe. Accepte deux blocs simple largeur ou un bloc double largeur ; les blocs interchangeables (vendus séparément) couvrent de nombreux formats de tubes et de plaques. Conception compacte à dessus plat permettant l'empilement des appareils pour un gain de place en laboratoire.",
+      "variant_name_fr": "Double insert, double régulation, 230 V",
+      "price_gbp": 1812.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO1034"
+    },
+    {
+      "sku": "BLO1036",
+      "slug": "bloc-chauffant-cole-parmer-bh-250d-2-ht-double-200c",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bloc chauffant numérique Cole-Parmer BH-250D-2-HT haute température — double insert, 200 °C, 230 V",
+      "description_fr": "Version haute température (jusqu'à 200 °C) du bloc chauffant à double insert Cole-Parmer, fournissant une source de chaleur sèche et constante pour les applications exigeantes de laboratoire et de recherche. Voyants indépendants pour l'alimentation, le chauffage et la coupure en cas de surchauffe. Compatible avec deux blocs simple largeur ou un bloc double largeur ; large choix de blocs interchangeables vendus séparément pour s'adapter aux différents formats de tubes et de plaques. Dessus plat permettant l'empilement pour optimiser l'espace de paillasse.",
+      "variant_name_fr": "Double insert, 200 °C, 230 V",
+      "price_gbp": 1119.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO1036"
+    },
+    {
+      "sku": "BLO1038",
+      "slug": "bloc-chauffant-cole-parmer-bh-250d-3-ht-triple-200c",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bloc chauffant numérique Cole-Parmer BH-250D-3-HT haute température — triple insert, 200 °C, 230 V",
+      "description_fr": "Bloc chauffant à trois inserts fonctionnant jusqu'à 200 °C, conçu comme source de chaleur sèche et constante pour les applications à haut débit telles que la demande chimique en oxygène (DCO). Voyants indépendants pour l'alimentation, le chauffage et la coupure en cas de surchauffe. Blocs interchangeables vendus séparément, compatibles avec de nombreux formats de tubes et de plaques. Dessus plat autorisant l'empilement des appareils pour limiter l'encombrement en laboratoire.",
+      "variant_name_fr": "Triple insert, 200 °C, 230 V",
+      "price_gbp": 1188.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO1038"
+    },
+    {
+      "sku": "BLO1040",
+      "slug": "bloc-chauffant-cole-parmer-bh-250d-3-triple-100c",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bloc chauffant numérique Cole-Parmer BH-250D-3 — triple insert, 100 °C",
+      "description_fr": "Bloc chauffant à trois inserts offrant une source de chaleur sèche et constante jusqu'à 100 °C, adapté aux analyses à haut débit comme la demande chimique en oxygène (DCO) ainsi qu'aux usages courants de laboratoire. Voyants indépendants pour l'alimentation, le chauffage et la coupure en cas de surchauffe. Blocs interchangeables vendus séparément selon le format des tubes et des plaques. Conception compacte à dessus plat permettant l'empilement des appareils.",
+      "variant_name_fr": "Triple insert, 100 °C",
+      "price_gbp": 1140.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BLO1040"
+    }
+  ]
+}

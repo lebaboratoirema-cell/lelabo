@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "furnaces",
+    "parent_slug": "equipements",
+    "name": { "fr": "Fours de laboratoire", "en": "Furnaces" },
+    "description": {
+      "fr": "Fours à chambre et fours moufles pour le traitement thermique à haute température (calcination, recuit, traitement de matériaux), disponibles en plusieurs volumes de chambre et plages de température jusqu'à 1300 °C."
+    }
+  },
+  "products": [
+    {
+      "sku": "FUR1200",
+      "slug": "four-laboratoire-carbolite-elf-116b-6l",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four de laboratoire à chambre Carbolite ELF 116B — 6 L, porte battante",
+      "description_fr": "Four de la gamme Économie Carbolite (série ELF), équipé d'une porte à ouverture battante et d'une chambre monobloc moulée en fibre céramique à faible masse thermique intégrant directement les éléments chauffants. Cette conception permet d'atteindre la température maximale de 1100 °C en environ moitié moins de temps qu'un four moufle classique, avec un régulateur de type 301. Non recommandé pour l'incinération de matières organiques ou d'hydrocarbures — pour cet usage, se reporter à la gamme AAF de fours d'incinération Carbolite.",
+      "variant_name_fr": "6 L, 1100 °C",
+      "price_gbp": 2913.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1200"
+    },
+    {
+      "sku": "FUR1202",
+      "slug": "four-laboratoire-carbolite-elf-114b-14l",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four de laboratoire à chambre Carbolite ELF 114B — 14 L, porte battante",
+      "description_fr": "Four de la gamme Économie Carbolite (série ELF), version 14 L, avec porte à ouverture battante et chambre monobloc moulée en fibre céramique à faible masse thermique intégrant directement les éléments chauffants. La montée en température jusqu'à 1100 °C s'effectue en environ moitié moins de temps qu'un four moufle classique, régulateur de type 301 inclus. Non recommandé pour l'incinération de matières organiques ou d'hydrocarbures — voir la gamme AAF Carbolite pour ces applications.",
+      "variant_name_fr": "14 L, 1100 °C",
+      "price_gbp": 3190.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1200"
+    },
+    {
+      "sku": "FUR1204",
+      "slug": "four-laboratoire-carbolite-elf1123",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four de laboratoire Carbolite ELF1123",
+      "description_fr": "Four de la gamme Économie Carbolite (série ELF), à chambre monobloc moulée en fibre céramique à faible masse thermique et éléments chauffants intégrés. Atteint sa température maximale de 1100 °C en environ moitié moins de temps qu'un four moufle traditionnel, avec régulateur de type 301. Déconseillé pour l'incinération de matières organiques ou d'hydrocarbures — préférer la gamme AAF Carbolite pour ces applications.",
+      "variant_name_fr": "1100 °C",
+      "price_gbp": 4627.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1200"
+    },
+    {
+      "sku": "FUR1205",
+      "slug": "four-chambre-carbolite-cwf11-5-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF11/5, 5 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "5 L, 1100 °C",
+      "price_gbp": 4173.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1207",
+      "slug": "four-chambre-carbolite-cwf11-13-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF11/13, 13 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "13 L, 1100 °C",
+      "price_gbp": 4533.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1209",
+      "slug": "four-chambre-carbolite-cwf11-23-3016p1",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF11/23, 23 L, régulateur 3016P1",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016P1.",
+      "variant_name_fr": "23 L, 1100 °C",
+      "price_gbp": 6444.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1210",
+      "slug": "four-chambre-carbolite-cwf12-5-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF12/5, 5 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "5 L, 1200 °C",
+      "price_gbp": 4170.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1218",
+      "slug": "four-chambre-carbolite-cwf1213-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF1213, 13 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "13 L, 1200 °C",
+      "price_gbp": 5030.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1226",
+      "slug": "four-chambre-carbolite-cwf1223-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF1223, 23 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "23 L, 1200 °C",
+      "price_gbp": 6945.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    },
+    {
+      "sku": "FUR1229",
+      "slug": "four-chambre-carbolite-cwf13-5-3016",
+      "brand": "CARBOLITE GERO",
+      "name_fr": "Four à chambre Carbolite CWF13/5, 5 L, régulateur 3016",
+      "description_fr": "Four à chambre Carbolite série CWF, doté de deux résistances filaires à rayonnement libre montées dans des revêtements céramiques de haute qualité résistants à l'usure, disposés de part et d'autre de la chambre. Cette conception atteint la température de service en environ 50 % du temps requis par un four moufle traditionnel à éléments couverts, avec une consommation électrique réduite. Porte à levage parallèle et fermeture en douceur. La gamme CWF existe en chambres de 5, 13 ou 23 L et en trois températures maximales (1100, 1200 ou 1300 °C), avec plusieurs options de régulateurs/programmateurs. Ce modèle est livré avec le régulateur 3016.",
+      "variant_name_fr": "5 L, 1300 °C",
+      "price_gbp": 5024.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FUR1205"
+    }
+  ]
+}

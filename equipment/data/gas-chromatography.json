@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "gas-chromatography",
+    "parent_slug": "equipements",
+    "name": { "fr": "Chromatographie en phase gazeuse", "en": "Gas Chromatography" },
+    "description": {
+      "fr": "Consommables et accessoires pour chromatographie en phase gazeuse (CPG) : tuyauteries, raccords, détecteurs de fuites et fournitures pour injecteurs, destinés aux laboratoires d'analyse."
+    }
+  },
+  "products": [
+    {
+      "sku": "20411",
+      "slug": "laine-verre-silanisee-50g",
+      "brand": "SUPELCO",
+      "name_fr": "Laine de verre silanisée — 50 g",
+      "description_fr": "Laine de verre silanisée utilisée comme bouchon dans les inserts d'injecteur en chromatographie en phase gazeuse, favorisant une vaporisation homogène de l'échantillon et retenant les composés non volatils avant leur entrée en colonne. Convient également au remplissage de colonnes garnies, aux tubes de désorption thermique ou par solvant, et aux pièges de purge pour retenir le lit adsorbant. Matériau ininflammable, traitement silanisé pour un usage général en laboratoire.",
+      "variant_name_fr": "50 g",
+      "price_gbp": 103.92,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/835/560/8d3cf6e7-6d55-4166-839f-3bd59649e7c7/640/8d3cf6e7-6d55-4166-839f-3bd59649e7c7"
+    },
+    {
+      "sku": "20434",
+      "slug": "detecteur-fuites-snoop-236ml",
+      "brand": "SUPELCO",
+      "name_fr": "Détecteur de fuites liquide SNOOP — flacon 236 mL (8 oz)",
+      "description_fr": "Détecteur de fuites liquide à usage général pour contrôler l'étanchéité des raccords et lignes de gaz sur les systèmes de chromatographie en phase gazeuse. Application par pulvérisation ou au pinceau sur les connexions ; la formation de bulles signale une fuite. Flacon de 236 mL (8 oz).",
+      "variant_name_fr": "236 mL (8 oz)",
+      "price_gbp": 25.32,
+      "image_url": "https://www.sigmaaldrich.com/content/dam/sigma-aldrich/product8/139/p000226b.tif/_jcr_content/renditions/p000226b-large"
+    },
+    {
+      "sku": "20488",
+      "slug": "tuyauterie-cuivre-nettoyee-50ft-18in",
+      "brand": "SUPELCO",
+      "name_fr": "Tuyauterie cuivre nettoyée — 50 ft x 1/8 in (3,18 mm) x 0,065 in (1,65 mm)",
+      "description_fr": "Tuyauterie en cuivre nettoyée au solvant selon la norme ASTM B-280, avec un traitement complémentaire propriétaire pour éliminer les hydrocarbures résiduels. Adaptée à la majorité des raccordements de plomberie gaz en chromatographie en phase gazeuse. Longueur 50 ft (15,2 m), diamètre extérieur 1/8 in (3,18 mm), diamètre intérieur 0,065 in (1,65 mm).",
+      "variant_name_fr": "50 ft x 1/8 in x 0,065 in",
+      "price_gbp": 142.8,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/264/259/d1e13764-cd16-457a-b420-7d5e9dff182e/640/d1e13764-cd16-457a-b420-7d5e9dff182e"
+    },
+    {
+      "sku": "20526-U",
+      "slug": "tuyauterie-inox-304-50ft-085in",
+      "brand": "SUPELCO",
+      "name_fr": "Tuyauterie acier inoxydable 304 qualité premium — 50 ft x 1/8 in (3,18 mm) x 0,085 in (2,1 mm)",
+      "description_fr": "Tuyauterie en acier inoxydable de type 304, qualité premium, spécialement nettoyée pour garantir son inertie chimique. Recommandée pour les applications GC-MS sensibles où la contamination croisée doit être évitée. Le film protecteur d'oxyhydroxyde de chrome propre à ce grade offre une bonne résistance à la corrosion, à l'exception des solutions d'acide chlorhydrique. Longueur 50 ft (15,2 m), diamètre extérieur 1/8 in (3,18 mm), diamètre intérieur 0,085 in (2,1 mm).",
+      "variant_name_fr": "50 ft x 1/8 in x 0,085 in",
+      "price_gbp": 270.0,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/103/821/4655ba41-628d-4a06-9a33-ed5ccf496fa6/640/4655ba41-628d-4a06-9a33-ed5ccf496fa6"
+    },
+    {
+      "sku": "20533",
+      "slug": "tuyauterie-ptfe-25ft-14in",
+      "brand": "SUPELCO",
+      "name_fr": "Tuyauterie PTFE — 25 ft x 1/4 in (6,35 mm) x 0,228 in (5,8 mm)",
+      "description_fr": "Tuyauterie en PTFE (polytétrafluoroéthylène), polymère à très faible coefficient de friction, offrant une excellente hydrophobicité, une inertie chimique élevée et une bonne tenue en pression. Utilisée pour raccorder les lignes de gaz aux ports d'un système de chromatographie en phase gazeuse couplée à la spectrométrie de masse. Température maximale d'utilisation : 240 °C. Longueur 25 ft (7,6 m), diamètre extérieur 1/4 in (6,35 mm), diamètre intérieur 0,228 in (5,8 mm).",
+      "variant_name_fr": "25 ft x 1/4 in x 0,228 in",
+      "price_gbp": 181.2,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/378/058/63024b78-a09a-4c8c-94c5-646475ed1a14/640/63024b78-a09a-4c8c-94c5-646475ed1a14"
+    },
+    {
+      "sku": "20553",
+      "slug": "tuyauterie-inox-304-100ft-030in",
+      "brand": "SUPELCO",
+      "name_fr": "Tuyauterie acier inoxydable 304 qualité premium — 100 ft x 1/16 in (1,59 mm) x 0,030 in (0,762 mm)",
+      "description_fr": "Tuyauterie en acier inoxydable de type 304, qualité premium, spécialement nettoyée pour garantir son inertie chimique et recommandée pour les applications GC-MS sensibles. Le film protecteur d'oxyhydroxyde de chrome assure une bonne résistance à la corrosion, hormis en présence de solutions d'acide chlorhydrique. Longueur 100 ft (30,5 m), diamètre extérieur 1/16 in (1,59 mm), diamètre intérieur 0,030 in (0,762 mm).",
+      "variant_name_fr": "100 ft x 1/16 in x 0,030 in",
+      "price_gbp": 369.6,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/370/536/5722c6c1-89fe-49e7-a4d7-e118b621dfec/640/5722c6c1-89fe-49e7-a4d7-e118b621dfec"
+    },
+    {
+      "sku": "20640-U",
+      "slug": "detecteur-fuites-snoop-3-8l",
+      "brand": "SUPELCO",
+      "name_fr": "Détecteur de fuites liquide SNOOP — bidon 3,8 L (1 gal)",
+      "description_fr": "Détecteur de fuites liquide à usage général pour contrôler l'étanchéité des raccords et lignes de gaz sur les systèmes de chromatographie en phase gazeuse. Application par pulvérisation ou au pinceau ; la formation de bulles signale la présence d'une fuite. Bidon de 3,8 L (1 gal), format économique pour un usage intensif en laboratoire.",
+      "variant_name_fr": "3,8 L (1 gal)",
+      "price_gbp": 308.4,
+      "image_url": "https://www.sigmaaldrich.com/content/dam/sigma-aldrich/product0/054/20640-u.tif/_jcr_content/renditions/20640-u-large"
+    },
+    {
+      "sku": "21978-U",
+      "slug": "raccord-swagelok-npt-femelle-18-14in",
+      "brand": "MERCK THIRD PARTY",
+      "name_fr": "Raccord Swagelok vers NPT femelle — laiton, 1/8 in Swagelok x 1/4 in NPT femelle",
+      "description_fr": "Raccord Swagelok en laiton permettant la transition entre un tube de 1/8 in au format Swagelok et un raccordement fileté femelle NPT de 1/4 in. Écrou et bagues de serrage (ferrules) fournis. Swagelok est une marque déposée de la société Swagelok.",
+      "variant_name_fr": "1/8 in Swagelok x 1/4 in NPT femelle",
+      "price_gbp": 37.68,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/419/125/866b336c-7e0e-4773-bec8-fa2e4f50e1ef/640/866b336c-7e0e-4773-bec8-fa2e4f50e1ef"
+    },
+    {
+      "sku": "22004",
+      "slug": "union-swagelok-laiton-14in",
+      "brand": "MERCK THIRD PARTY",
+      "name_fr": "Union Swagelok — laiton, 1/4 in",
+      "description_fr": "Union Swagelok en laiton pour le raccordement de deux tubes de 1/4 in de même diamètre. Type de raccord vissé (swage) très répandu, permettant d'assembler des matériaux identiques ou différents, comme métal et verre ou métal et plastique. Écrou et bagues de serrage fournis. Swagelok est une marque déposée de la société Swagelok.",
+      "variant_name_fr": "1/4 in",
+      "price_gbp": 27.84,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/148/320/b7afde8b-34a5-42c3-b0fe-a1b8717d7181/640/b7afde8b-34a5-42c3-b0fe-a1b8717d7181"
+    },
+    {
+      "sku": "22005",
+      "slug": "union-reductrice-swagelok-laiton-14in",
+      "brand": "MERCK THIRD PARTY",
+      "name_fr": "Union réductrice Swagelok — laiton, 1/4 in",
+      "description_fr": "Union réductrice Swagelok en laiton, permettant de raccorder un tube en verre à un tube en acier inoxydable de diamètre différent au moyen de bagues de serrage en PTFE. Alésage central d'environ 6 mm de long pour un diamètre intérieur de 1,2 mm, avec un alésage plus large côté non réducteur ; utilisée notamment comme terminaison de colonne métallique, avec possibilité de modification pour limiter l'élargissement des pics. Écrou et bagues de serrage fournis. Swagelok est une marque déposée de la société Swagelok.",
+      "variant_name_fr": "1/4 in réduit",
+      "price_gbp": 21.0,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/148/320/b7afde8b-34a5-42c3-b0fe-a1b8717d7181/640/b7afde8b-34a5-42c3-b0fe-a1b8717d7181"
+    }
+  ]
+}

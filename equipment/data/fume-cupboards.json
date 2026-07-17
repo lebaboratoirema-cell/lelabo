@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "fume-cupboards",
+    "parent_slug": "equipements",
+    "name": { "fr": "Sorbonnes", "en": "Fume Cupboards" },
+    "description": {
+      "fr": "Sorbonnes et enceintes de confinement, à conduit ou sans conduit avec filtration carbone/HEPA, pour la manipulation sécurisée de produits chimiques, poudres et vapeurs toxiques en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "BAL5582",
+      "slug": "enceinte-pesee-esco-powdermax-09m",
+      "brand": "ESCO",
+      "name_fr": "Enceinte de pesée Esco Powdermax — 0,9 m",
+      "description_fr": "Enceinte dédiée à la pesée, au mélange et au dosage de poudres dangereuses, conçue pour préserver la stabilité de la balance jusqu'à la 4e décimale sans compromettre le confinement. Vantail à double charnière incliné à 13° réduisant les reflets et facilitant l'accès tout en protégeant l'opérateur de l'exposition chimique. Filtre HEPA principal haute efficacité et chicanes de flux d'air limitant l'accumulation de poudres et de fumées dans la zone de travail. Plan de travail en phénolique massif minimisant les vibrations transmises à la balance. Revêtement antimicrobien Isocide éliminant 99,9 % des bactéries de surface en 24 heures. Disponible en plusieurs largeurs, avec option de chariot mobile.",
+      "variant_name_fr": "0,9 m (3 pieds)",
+      "price_gbp": 4950.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAL5582"
+    },
+    {
+      "sku": "CAB1390",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-standard-06m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max Standard — 0,6 m (ADC-2B1)",
+      "description_fr": "Sorbonne sans conduit assurant un confinement supérieur des fumées chimiques par filtration carbone, sans rejet de gaz toxiques vers l'extérieur ni raccordement à un système d'extraction. Grande zone de travail avec plan en acier inoxydable grade 304 résistant à la corrosion, et rebord frontal retenant les déversements accidentels. Vantail coulissant fluide, paroi en acier électrogalvanisé, revêtement antimicrobien Isocide. Système de contrôle à microprocesseur Sentinel avec alarmes sonores et visuelles en cas de conditions dangereuses ; entretien et remplacement des filtres accessibles par l'avant, permettant un placement contre le mur. Capteur COV, robinetterie col-de-cygne et prises électriques disponibles en option.",
+      "variant_name_fr": "0,6 m (2 pieds) — ADC-2B1",
+      "price_gbp": 6932.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1392",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-carbone-secondaire-09m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre carbone secondaire — 0,9 m (ADC-3C1)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-C, dotée d'un filtre carbone actif Nanocarb principal et d'un second filtre carbone de secours en sortie, offrant une double couche de protection et un intervalle de remplacement allongé pour un éventail plus large de produits chimiques. Construction robuste avec composants clés placés hors du flux d'air pour faciliter la maintenance ; ventilateur centrifuge à rotor externe lubrifié en permanence, silencieux et économe en énergie. Clampage périphérique des filtres évitant les fuites. Plan de travail en inox de série, avec options phénolique ou époxy pour une meilleure résistance chimique. Capteur COV en option signalant la saturation des filtres. Disponible en plusieurs largeurs (0,9 à 1,8 m).",
+      "variant_name_fr": "0,9 m (3 pieds) — ADC-3C1",
+      "price_gbp": 7298.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1394",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-carbone-secondaire-15m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre carbone secondaire — 1,5 m (ADC-5C1)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-C, dotée d'un filtre carbone actif Nanocarb principal et d'un second filtre carbone de secours en sortie, offrant une double couche de protection et un intervalle de remplacement allongé pour un éventail plus large de produits chimiques. Construction robuste avec composants clés placés hors du flux d'air pour faciliter la maintenance ; ventilateur centrifuge à rotor externe lubrifié en permanence, silencieux et économe en énergie. Clampage périphérique des filtres évitant les fuites. Plan de travail en inox de série, avec options phénolique ou époxy pour une meilleure résistance chimique. Capteur COV en option signalant la saturation des filtres.",
+      "variant_name_fr": "1,5 m (5 pieds) — ADC-5C1",
+      "price_gbp": 8004.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1396",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-carbone-secondaire-18m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre carbone secondaire — 1,8 m (6 pieds)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-C, dotée d'un filtre carbone actif Nanocarb principal et d'un second filtre carbone de secours en sortie, offrant une double couche de protection et un intervalle de remplacement allongé pour un éventail plus large de produits chimiques. Construction robuste avec composants clés placés hors du flux d'air pour faciliter la maintenance ; ventilateur centrifuge à rotor externe lubrifié en permanence, silencieux et économe en énergie. Clampage périphérique des filtres évitant les fuites. Plan de travail en inox de série, avec options phénolique ou époxy pour une meilleure résistance chimique. Capteur COV en option signalant la saturation des filtres.",
+      "variant_name_fr": "1,8 m (6 pieds)",
+      "price_gbp": 8004.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1398",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-hepa-secondaire-09m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre HEPA secondaire — 0,9 m (ADC-3E1)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-E, associant un filtre carbone actif Nanocarb principal à un filtre HEPA secondaire placé en sortie d'air, adaptée aux applications en salle blanche et à la manipulation de produits chimiques sous forme pulvérulente ou solide. Composants clés montés hors du flux d'air et à l'écart des zones contaminées pour faciliter l'entretien ; ventilateur centrifuge à rotor externe silencieux et économe en énergie. Clampage périphérique des filtres limitant les fuites. Plan de travail inox de série, revêtement antimicrobien Isocide. Capteur COV en option détectant les composés organiques volatils et signalant la saturation des filtres. Disponible en plusieurs largeurs (0,9 à 1,8 m).",
+      "variant_name_fr": "0,9 m (3 pieds) — ADC-3E1",
+      "price_gbp": 8484.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1400",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-hepa-secondaire-15m",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre HEPA secondaire — 1,5 m (ADC-5E1)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-E, associant un filtre carbone actif Nanocarb principal à un filtre HEPA secondaire placé en sortie d'air, adaptée aux applications en salle blanche et à la manipulation de produits chimiques sous forme pulvérulente ou solide. Composants clés montés hors du flux d'air et à l'écart des zones contaminées pour faciliter l'entretien ; ventilateur centrifuge à rotor externe silencieux et économe en énergie. Clampage périphérique des filtres limitant les fuites. Plan de travail inox de série, revêtement antimicrobien Isocide. Capteur COV en option détectant les composés organiques volatils et signalant la saturation des filtres.",
+      "variant_name_fr": "1,5 m (5 pieds) — ADC-5E1",
+      "price_gbp": 9543.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1402",
+      "slug": "sorbonne-sans-conduit-esco-ascent-max-filtre-hepa-secondaire-6pieds",
+      "brand": "ESCO",
+      "name_fr": "Sorbonne sans conduit Esco Ascent Max avec filtre HEPA secondaire — 6 pieds (ADC-6E1)",
+      "description_fr": "Sorbonne sans conduit de la série Ascent Max-E, associant un filtre carbone actif Nanocarb principal à un filtre HEPA secondaire placé en sortie d'air, adaptée aux applications en salle blanche et à la manipulation de produits chimiques sous forme pulvérulente ou solide. Composants clés montés hors du flux d'air et à l'écart des zones contaminées pour faciliter l'entretien ; ventilateur centrifuge à rotor externe silencieux et économe en énergie. Clampage périphérique des filtres limitant les fuites. Plan de travail inox de série, revêtement antimicrobien Isocide. Capteur COV en option détectant les composés organiques volatils et signalant la saturation des filtres.",
+      "variant_name_fr": "6 pieds — ADC-6E1",
+      "price_gbp": 9265.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7530"
+    },
+    {
+      "sku": "CAB1578",
+      "slug": "sorbonne-sans-conduit-faster-chemfast-elite-06",
+      "brand": "FASTER",
+      "name_fr": "Sorbonne sans conduit Faster ChemFAST Elite 06",
+      "description_fr": "Sorbonne sans conduit de nouvelle génération à filtration moléculaire, garantissant un environnement de travail sûr et un confinement efficace des fumées, vapeurs et aérosols chimiques. Système de surveillance à microprocesseur suivant le type et la référence du filtre, la date d'installation, la durée d'utilisation maximale et la date d'alerte de remplacement ; alarmes sonores et visuelles en cas de flux d'air anormal, panne de ventilateur, encrassement des préfiltres, coupure secteur ou défaillance des capteurs. Structure externe en acier galvanisé peint époxy résistant aux solvants chimiques, paroi et plan de travail en PVC résistant aux acides. Vantail avant en verre de sécurité feuilleté à charnières, maintenu ouvert par vérins à gaz. Moto-ventilateur centrifuge IP54 compensant l'encrassement des préfiltres pour un débit d'air constant. Collerette de 200 mm pour raccordement optionnel à une gaine d'extraction. Éclairage fluorescent déporté hors zone de travail, écran LCD rétroéclairé affichant la vitesse frontale.",
+      "variant_name_fr": "Modèle 06",
+      "price_gbp": 8350.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1578_1"
+    },
+    {
+      "sku": "CAB1580",
+      "slug": "sorbonne-sans-conduit-faster-chemfast-elite-09",
+      "brand": "FASTER",
+      "name_fr": "Sorbonne sans conduit Faster ChemFAST Elite 09",
+      "description_fr": "Sorbonne sans conduit de nouvelle génération à filtration moléculaire, garantissant un environnement de travail sûr et un confinement efficace des fumées, vapeurs et aérosols chimiques. Système de surveillance à microprocesseur suivant le type et la référence du filtre, la date d'installation, la durée d'utilisation maximale et la date d'alerte de remplacement ; alarmes sonores et visuelles en cas de flux d'air anormal, panne de ventilateur, encrassement des préfiltres, coupure secteur ou défaillance des capteurs. Structure externe en acier galvanisé peint époxy résistant aux solvants chimiques, paroi et plan de travail en PVC résistant aux acides. Vantail avant en verre de sécurité feuilleté à charnières, maintenu ouvert par vérins à gaz. Moto-ventilateur centrifuge IP54 compensant l'encrassement des préfiltres pour un débit d'air constant. Collerette de 200 mm pour raccordement optionnel à une gaine d'extraction. Éclairage fluorescent déporté hors zone de travail, écran LCD rétroéclairé affichant la vitesse frontale.",
+      "variant_name_fr": "Modèle 09",
+      "price_gbp": 8728.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1578_1"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "microtomes",
+    "parent_slug": "equipements",
+    "name": { "fr": "Microtomes", "en": "Microtomes" },
+    "description": {
+      "fr": "Microtomes manuels, motorisés et automatisés pour la coupe de sections en paraffine ou semi-fines, destinés à l'histologie, l'anatomopathologie et la recherche biomédicale."
+    }
+  },
+  "products": [
+    {
+      "sku": "HIS2298",
+      "slug": "microtome-manuel-leica-rm2125-rts-pince-cassette-universelle",
+      "brand": "Leica Biosystems",
+      "name_fr": "Microtome manuel Leica Biosystems RM2125 RTS avec pince universelle pour cassettes",
+      "description_fr": "Microtome rotatif manuel conçu pour une coupe de sections fiable dans un format économique, adapté aux laboratoires recherchant un équipement essentiel sans compromis sur la sécurité. Orientation de l'échantillon selon les axes X/Y, système d'échange rapide des pinces à échantillon, molette d'avance grossière à sens de rotation réglable par l'utilisateur, fonction de rétraction activable/désactivable et deux crans de dégrossissage mécaniques. Porte-lame pour lames jetables et pince universelle pour cassettes inclus. Volant contrepoids pour un fonctionnement en douceur.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 14115.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2298"
+    },
+    {
+      "sku": "HIS2300",
+      "slug": "microtome-rotatif-motorise-leica-histocore-nanocut-r",
+      "brand": "Leica Biosystems",
+      "name_fr": "Microtome rotatif motorisé Leica Biosystems HistoCore NANOCUT R",
+      "description_fr": "Microtome rotatif motorisé polyvalent capable de traiter des échantillons variés, des applications de recherche biomédicale aux usages industriels. Permet la coupe de sections jusqu'à 250 nm (semi-fines) pour préparation en microscopie optique et électronique, grâce à une broche spéciale et un réglage de vitesse lente étendu préservant l'intégrité de l'échantillon. Arrêt précis de la tête porte-objet en position optimale pour la capture photographique des surfaces coupées, utile pour les programmes de reconstruction 3D. Modes automatique et manuel, frein électronique automatique, retour systématique à une position zéro quel que soit l'historique d'orientation. Large gamme d'accessoires disponibles : porte-lames jetables acier et carbure de tungstène, couteaux réutilisables, support dédié aux couteaux en verre et diamant. Livré avec plateau de récupération des déchets et plateau supérieur. Réservé à un usage de recherche, non destiné aux procédures diagnostiques.",
+      "variant_name_fr": "Coupes semi-fines dès 250 nm",
+      "price_gbp": 36180.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2300"
+    },
+    {
+      "sku": "HIS2302",
+      "slug": "microtome-rotatif-manuel-leica-histocore-biocut",
+      "brand": "Leica Biosystems",
+      "name_fr": "Microtome rotatif manuel Leica Biosystems HistoCore BIOCUT avec pince universelle pour cassettes et porte-lame 2 en 1",
+      "description_fr": "Microtome manuel pensé pour concilier rapidité de coupe et confort d'utilisation, parmi les modèles les plus ergonomiques du marché. Molette d'avance grossière personnalisable selon le sens de rotation préféré de l'opérateur, plateau de récupération des déchets antistatique réduisant le temps de nettoyage de plusieurs minutes à quelques secondes, et porte-lame 2 en 1 permettant de passer d'une lame haut profil à basse profil sans changer de support. Surface de travail supérieure agrandie de 40 % (23,5 x 27,5 cm contre 21,7 x 21,2 cm sur la série RM22xx) pour ranger pinceaux, lames et consommables. Retour automatique à la position zéro, tête porte-objet équilibrée limitant les risques de blessure, fonctionnement silencieux lors de la rétraction. Livré avec plateau de récupération antistatique, plateau supérieur, système de serrage rapide et pince universelle pour cassettes.",
+      "variant_name_fr": "Pince universelle + porte-lame 2 en 1",
+      "price_gbp": 19551.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2302"
+    },
+    {
+      "sku": "HIS2304",
+      "slug": "microtome-rotatif-semi-automatise-leica-histocore-multicut",
+      "brand": "Leica Biosystems",
+      "name_fr": "Microtome rotatif semi-automatisé Leica Biosystems HistoCore MULTICUT avec pince universelle pour cassettes et porte-lame 2 en 1",
+      "description_fr": "Microtome semi-automatisé combinant la précision d'une coupe manuelle avec l'efficacité d'une avance motorisée de l'échantillon, pour des sections reproductibles. Avance ou rétraction de l'échantillon au choix, via la molette d'avance grossière manuelle ou une simple pression sur un bouton ; fonctions de retour rapide en position d'origine et de mémorisation de la position optimale de coupe pour un dégrossissage rapide et sans effort. Plateau de récupération des déchets antistatique limitant l'adhérence de la paraffine et réduisant le temps de nettoyage. Compatible avec la pince RM CoolClamp pour la production de sections de qualité en immunohistochimie. Surface de travail supérieure agrandie de 40 % par rapport à la série RM22xx, retour automatique à la position zéro, tête porte-objet équilibrée. Livré avec plateau de récupération antistatique, plateau supérieur, pince universelle pour cassettes et porte-lame 2 en 1 pour lames haut et bas profil.",
+      "variant_name_fr": "Pince universelle + porte-lame 2 en 1",
+      "price_gbp": 23416.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2304"
+    },
+    {
+      "sku": "HIS2306",
+      "slug": "microtome-rotatif-automatise-leica-histocore-autocut-pedale",
+      "brand": "Leica Biosystems",
+      "name_fr": "Microtome rotatif automatisé Leica Biosystems HistoCore AUTOCUT avec pince universelle pour cassettes, porte-lame 2 en 1 et pédale de commande",
+      "description_fr": "Microtome rotatif offrant trois modes de coupe au choix de l'opérateur : automatique par simple pression sur un bouton, semi-automatique avec avance et rétraction motorisées de l'échantillon, ou manuel pour un contrôle intégral. Frein électronique automatique renforçant la sécurité : dès l'interruption de la coupe automatisée, il ramène et maintient immédiatement l'échantillon en position éloignée de la lame, limitant les risques de blessure. Plateau de récupération des déchets antistatique, surface de travail supérieure agrandie de 40 % par rapport à la série RM22xx, retour automatique à la position zéro, tête porte-objet équilibrée. Livré avec pédale de commande, plateau de récupération antistatique, plateau supérieur, pince universelle pour cassettes et porte-lame 2 en 1 pour lames haut et bas profil.",
+      "variant_name_fr": "Avec pédale de commande",
+      "price_gbp": 26841.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2306"
+    },
+    {
+      "sku": "HIS3002",
+      "slug": "microtome-rotatif-epredia-hm-325",
+      "brand": "Epredia",
+      "name_fr": "Microtome rotatif Epredia HM 325",
+      "description_fr": "Microtome manuel destiné à la coupe de sections en paraffine, fonctionnant sans alimentation électrique. Rétraction de l'échantillon lors de la course de retour pour préserver l'intégrité de la pièce, avance grossière manuelle pour un travail rapide. Tête d'orientation zéro actionnable d'une seule main, bouton de dégrossissage rapide, compteur de sections et guidage sur rail pour le porte-couteau. Grand plateau de récupération des déchets facile à nettoyer, s'étendant sous le porte-lame. Livré avec les outils standards, un capot en aluminium brossé, une housse de protection contre la poussière et le manuel d'utilisation. Le porte-lame/couteau doit être commandé séparément, sauf achat sous forme de pack.",
+      "variant_name_fr": "Microtome seul (porte-lame non inclus)",
+      "price_gbp": 9627.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3002"
+    },
+    {
+      "sku": "HIS3003",
+      "slug": "microtome-epredia-hm-325-pack-pince-porte-lame-e",
+      "brand": "Epredia",
+      "name_fr": "Pack microtome Epredia HM 325 avec pince universelle pour cassettes et porte-lame jetable E",
+      "description_fr": "Pack complet associant le microtome manuel Epredia HM 325, sans alimentation électrique, à une pince universelle pour cassettes, un porte-lame jetable de type E et des lames jetables. Rétraction de l'échantillon lors de la course de retour, avance grossière manuelle, tête d'orientation zéro actionnable d'une seule main, bouton de dégrossissage rapide, compteur de sections et guidage sur rail pour le porte-couteau. Grand plateau de récupération des déchets facile à nettoyer. Livré avec les outils standards, capot en aluminium brossé, housse de protection contre la poussière et manuel d'utilisation.",
+      "variant_name_fr": "Pack pince universelle + porte-lame E + lames",
+      "price_gbp": 14720.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3002"
+    },
+    {
+      "sku": "HIS3005",
+      "slug": "microtome-epredia-hm-325-pack-pince-porte-lame-er",
+      "brand": "Epredia",
+      "name_fr": "Pack microtome Epredia HM 325 avec pince universelle pour échantillons et porte-lame jetable ER",
+      "description_fr": "Pack complet associant le microtome manuel Epredia HM 325, sans alimentation électrique, à un porte-lame jetable de type ER, une pince universelle pour échantillons et des lames jetables. Rétraction de l'échantillon lors de la course de retour, avance grossière manuelle, tête d'orientation zéro actionnable d'une seule main, bouton de dégrossissage rapide, compteur de sections et guidage sur rail pour le porte-couteau. Grand plateau de récupération des déchets facile à nettoyer. Livré avec les outils standards, capot en aluminium brossé, housse de protection contre la poussière et manuel d'utilisation.",
+      "variant_name_fr": "Pack pince universelle + porte-lame ER + lames",
+      "price_gbp": 14595.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3002"
+    },
+    {
+      "sku": "HIS3006",
+      "slug": "microtome-rotatif-electrique-epredia-hm-340e",
+      "brand": "Epredia",
+      "name_fr": "Microtome rotatif électrique Epredia HM 340E",
+      "description_fr": "Microtome rotatif à commande électrique de la gamme Epredia HM 340, destiné à la coupe de sections en paraffine dans un laboratoire d'histologie.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 11899.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3006"
+    },
+    {
+      "sku": "HIS3007",
+      "slug": "microtome-epredia-hm-340e-pack-pince-porte-lame-e",
+      "brand": "Epredia",
+      "name_fr": "Pack microtome électrique Epredia HM 340E avec pince universelle pour cassettes et porte-lame jetable E",
+      "description_fr": "Pack associant le microtome rotatif électrique Epredia HM 340E à une pince universelle pour cassettes, un porte-lame jetable de type E et des lames jetables, pour équiper rapidement un poste de coupe en histologie.",
+      "variant_name_fr": "Pack pince universelle + porte-lame E + lames",
+      "price_gbp": 17832.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3006"
+    }
+  ]
+}

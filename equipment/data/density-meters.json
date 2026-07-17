@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "density-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Densimètres", "en": "Density Meters" },
+    "description": {
+      "fr": "Densimètres portables et de paillasse, pycnomètres à gaz et capteurs de densité en ligne pour le contrôle qualité et la caractérisation de liquides et de solides en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "DEN1014",
+      "slug": "densimetre-portable-mettler-toledo-densito",
+      "brand": "METTLER",
+      "name_fr": "Densimètre portable Mettler Toledo Densito",
+      "description_fr": "Densimètre portable conçu pour une utilisation à une seule main, au laboratoire comme sur le terrain. Les résultats, compensés en température, s'expriment en densité, densité spécifique, Brix, degrés API ou autres unités selon l'application. Le joystick pilote la pompe d'aspiration automatique de l'échantillon, évitant l'effort d'un prélèvement manuel. Précision au troisième chiffre après la virgule, limites de tolérance paramétrables avec code couleur pour repérer instantanément les résultats hors norme, mémoire de 1100 résultats horodatés (identifiant, unité, coefficient de correction, instrument). Écran couleur rétroéclairé offrant une bonne lisibilité en intérieur comme en extérieur.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 3774.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1014_1"
+    },
+    {
+      "sku": "DEN1016",
+      "slug": "densimetre-portable-mettler-toledo-densitopro",
+      "brand": "METTLER",
+      "name_fr": "Densimètre portable Mettler Toledo DensitoPro",
+      "description_fr": "Version Pro du Densito, conçue pour une utilisation à une seule main au laboratoire comme sur le terrain. Lecteur RFID et code-barres intégré : il suffit de viser l'échantillon pour l'identifier automatiquement, sans saisie manuelle. Un mode de travail guidé accompagne l'opérateur tout au long du cycle de mesure et de nettoyage. Résultats compensés en température (densité, densité spécifique, Brix, API...), précision au troisième chiffre après la virgule, mémoire de 1100 résultats horodatés, écran couleur rétroéclairé à forte visibilité.",
+      "variant_name_fr": "Pro — RFID et code-barres",
+      "price_gbp": 4230.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1016_1"
+    },
+    {
+      "sku": "DEN1088",
+      "slug": "densimetre-portable-anton-paar-dma-35-basic",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre portable Anton Paar DMA 35 Basic",
+      "description_fr": "Densimètre portable d'entrée de gamme qui prélève l'échantillon directement dans son contenant grâce à une pompe intégrée et effectue la mesure sur site. Résultats exprimés en densité ou en concentration (°Brix, % v/v d'alcool, % m/m H2SO4 selon l'application). Format compact et plat (345 g) permettant d'accéder à des échantillons difficiles — batteries automobiles sur racks étroits ou fûts de vin empilés. Résultat obtenu en quelques secondes à partir de seulement 2 mL d'échantillon ; se glisse dans une poche cargo.",
+      "variant_name_fr": "Basic",
+      "price_gbp": 2209.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1088"
+    },
+    {
+      "sku": "DEN1090",
+      "slug": "densimetre-vitesse-son-anton-paar-dma-6002-sv",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre et analyseur de vitesse du son Anton Paar DMA 6002 SV",
+      "description_fr": "Combine mesure de densité et de vitesse du son sur un même instrument pour déterminer automatiquement et rapidement la concentration de solutions à deux ou trois composants. Volume d'échantillon minimal de 3,5 mL, cadence jusqu'à 30 échantillons par heure. Répétabilité en densité jusqu'à 0,000001 g/cm³ et en vitesse du son jusqu'à 0,1 m/s ; reproductibilité de 0,000005 g/cm³ et 0,5 m/s. Plus de 30 méthodes de mesure intégrées.",
+      "variant_name_fr": "Densité + vitesse du son",
+      "price_gbp": 0.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1090"
+    },
+    {
+      "sku": "DEN1092",
+      "slug": "capteur-densite-liquide-anton-paar-l-dens-2300",
+      "brand": "ANTON PAAR",
+      "name_fr": "Capteur de densité liquide Anton Paar L-Dens 2300",
+      "description_fr": "Module OEM compact destiné à l'intégration dans des systèmes de mesure, avec une exactitude de 1 kg/m³. Le tube en U oscillant de 2 mm ne nécessite qu'un très faible débit et tolère des particules jusqu'à 0,7 mm. Disponible avec oscillateur en acier inoxydable ou en verre selon le milieu à mesurer — fluides non corrosifs tels que les carburants, ou milieux agressifs tels que l'acide sulfurique. Mesure de densité en continu pour l'optimisation de procédés, encombrement réduit, solution économique pour les intégrateurs.",
+      "variant_name_fr": "Module OEM",
+      "price_gbp": 0.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1092"
+    },
+    {
+      "sku": "DEN1094",
+      "slug": "pycnometre-gaz-anton-paar-ultrapyc-3000",
+      "brand": "ANTON PAAR",
+      "name_fr": "Pycnomètre à gaz Anton Paar Ultrapyc 3000",
+      "description_fr": "Pycnomètre à gaz qui sélectionne automatiquement les réglages optimaux et régule précisément la température, supprimant les ajustements manuels et réduisant le risque d'erreur opérateur. Mesure fiable d'échantillons solides standards, résultats précis pour des volumes compris entre 4,5 et 135 cm³. Modes de préparation d'échantillon en flux continu ou par impulsions.",
+      "variant_name_fr": "4,5 à 135 cm³",
+      "price_gbp": 11004.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1094"
+    },
+    {
+      "sku": "DEN1096",
+      "slug": "densimetre-portable-anton-paar-dma-35-standard",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre portable Anton Paar DMA 35 Standard",
+      "description_fr": "Densimètre portable qui mesure densité et concentration directement sur site à partir de seulement 2 mL d'échantillon, conçu pour résister aux chocs et éclaboussures en usage extérieur. Interface RFID pour l'identification rapide des échantillons et liaison Bluetooth® pour la gestion des données sur le terrain. Contrôle qualité du vin et du moût (°Brix, °KMW, Oechsle, Baumé), du moût de bière et de l'extrait apparent (°Plato), avec courbe de fermentation affichée directement à l'écran pour chaque cuve. Remplace l'ensemble des aréomètres en verre du poste de travail.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 3552.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1096"
+    },
+    {
+      "sku": "DEN1098",
+      "slug": "densimetre-portable-anton-paar-dma-35-ex-petrol",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre portable Anton Paar DMA 35 Ex Petrol",
+      "description_fr": "Densimètre portable pour la mesure de densité et de concentration sur site, à partir de 2 mL d'échantillon, résistant aux chocs et projections en usage extérieur. Version dédiée aux échantillons pétroliers en zone à risque, conforme aux normes ASTM D7777 et IP 559, indice de protection IP54. Interface RFID et liaison Bluetooth® pour l'identification des échantillons et la gestion des données sur le terrain.",
+      "variant_name_fr": "Ex Petrol — ASTM D7777 / IP54",
+      "price_gbp": 4243.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1098"
+    },
+    {
+      "sku": "DEN1100",
+      "slug": "densimetre-portable-anton-paar-dma-35-ex",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre portable Anton Paar DMA 35 Ex",
+      "description_fr": "Densimètre portable pour la mesure de densité et de concentration sur site à partir de 2 mL d'échantillon. Version destinée aux produits chimiques inflammables en zone à risque, boîtier scellé étanche résistant aux conditions difficiles, indice de protection IP54. Interface RFID et liaison Bluetooth® pour l'identification des échantillons et la gestion des données sur le terrain.",
+      "variant_name_fr": "Ex — IP54",
+      "price_gbp": 4243.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1100"
+    },
+    {
+      "sku": "DEN1102",
+      "slug": "densimetre-portable-anton-paar-dma-35-ampere",
+      "brand": "ANTON PAAR",
+      "name_fr": "Densimètre portable Anton Paar DMA 35 Ampere",
+      "description_fr": "Densimètre portable qui mesure en une seconde la densité de l'acide sulfurique des batteries au plomb, sur site et à partir de 2 mL d'échantillon. Conçu pour la production de batteries au plomb et la maintenance des onduleurs (UPS), indice de protection IP54, forte résistance chimique adaptée aux environnements agressifs. Interface RFID et liaison Bluetooth® pour l'identification des échantillons et la gestion des données sur le terrain.",
+      "variant_name_fr": "Ampere — acide sulfurique",
+      "price_gbp": 4498.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1102"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "drying-cabinets",
+    "parent_slug": "equipements",
+    "name": { "fr": "Étuves de séchage", "en": "Drying Cabinets" },
+    "description": {
+      "fr": "Étuves et armoires de séchage pour verrerie, instruments et consommables de laboratoire, avec régulation de température et circulation d'air assurant un séchage rapide et homogène."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B06324T",
+      "slug": "etuve-sechage-eco-sls-lab-pro-227l",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Étuve de séchage éco SLS Lab Pro — 227 L",
+      "description_fr": "Étuve de séchage économe en énergie, isolée thermiquement sur 5 faces pour limiter la consommation électrique. Régulateur numérique à écran tactile couleur 5 pouces avec minuterie programmable sur 7 jours / 24 h. Double ventilateur de circulation assurant une répartition homogène de la chaleur, chambre intérieure en acier inoxydable résistant à la corrosion et habillage extérieur en peinture poudre anti-microbienne. Plage de température : 30 à 80 °C. Livrée avec 3 clayettes et montée sur roulettes pour un déplacement facile.",
+      "variant_name_fr": "227 L",
+      "price_gbp": 2994.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5024"
+    },
+    {
+      "sku": "B2B06326T",
+      "slug": "etuve-sechage-eco-sls-lab-pro-113l",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Étuve de séchage éco SLS Lab Pro — 113 L",
+      "description_fr": "Version compacte de la gamme éco-conçue SLS Lab Pro, avec isolation thermique sur 5 faces pour réduire la consommation électrique. Commande numérique à écran tactile couleur 5 pouces, minuterie programmable 7 jours / 24 h, double ventilation à circulation d'air. Chambre intérieure en acier inoxydable, finition extérieure en peinture poudre anti-microbienne. Plage de température : 30 à 80 °C. Livrée avec 3 clayettes et roulettes de manutention.",
+      "variant_name_fr": "113 L",
+      "price_gbp": 2544.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5022"
+    },
+    {
+      "sku": "B2B06328T",
+      "slug": "etuve-sechage-eco-sls-lab-pro-426l",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Étuve de séchage éco SLS Lab Pro — 426 L",
+      "description_fr": "Modèle grand volume de la gamme éco-conçue SLS Lab Pro, isolé thermiquement sur 5 faces pour une faible consommation électrique. Régulateur numérique à écran tactile couleur 5 pouces, minuterie 7 jours / 24 h programmable, double ventilateur de circulation pour une chaleur homogène dans toute la chambre. Cuve intérieure en acier inoxydable, extérieur en peinture poudre anti-microbienne. Plage de température : 30 à 80 °C. Livrée avec 4 clayettes et roulettes pour une installation au sol.",
+      "variant_name_fr": "426 L",
+      "price_gbp": 4890.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5026"
+    },
+    {
+      "sku": "B2B06330T",
+      "slug": "etuve-sechage-eco-sls-lab-pro-885l",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Étuve de séchage éco SLS Lab Pro — 885 L",
+      "description_fr": "Modèle le plus grand de la gamme éco-conçue SLS Lab Pro, avec isolation thermique sur 5 faces pour limiter les déperditions et la consommation électrique. Régulateur numérique à écran tactile couleur 5 pouces, minuterie 7 jours / 24 h, double ventilation à circulation d'air garantissant une température homogène dans un grand volume. Chambre en acier inoxydable, habillage extérieur en peinture poudre anti-microbienne. Plage de température : 30 à 80 °C. Livrée avec 4 clayettes et roulettes de manutention pour un modèle au sol.",
+      "variant_name_fr": "885 L",
+      "price_gbp": 6720.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5028"
+    },
+    {
+      "sku": "DRY1000",
+      "slug": "etuve-sechage-genlab-125l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage Genlab — 125 L",
+      "description_fr": "Étuve de séchage et de réchauffage adaptée à la verrerie, aux instruments et aux circuits imprimés. Régulation thermostatique simple d'utilisation avec thermostat de sécurité de surchauffe indépendant. Corps extérieur en tôle d'acier avec peinture poudre facile d'entretien, clayettes grillagées plaquées amovibles sur glissières réglables, sorties de ventilation. Porte coulissante en verre trempé sur ce modèle compact. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "125 L",
+      "price_gbp": 1164.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1000"
+    },
+    {
+      "sku": "DRY1002",
+      "slug": "etuve-sechage-genlab-250l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage Genlab — 250 L",
+      "description_fr": "Étuve de séchage et de réchauffage pour verrerie, instruments et circuits imprimés. Régulation thermostatique simple avec thermostat de sécurité de surchauffe indépendant. Structure extérieure en tôle d'acier à peinture poudre facile à nettoyer, clayettes grillagées plaquées amovibles sur glissières réglables et sorties de ventilation. Porte coulissante en verre trempé. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "250 L",
+      "price_gbp": 1680.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1002"
+    },
+    {
+      "sku": "DRY1006",
+      "slug": "etuve-sechage-genlab-500l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage Genlab — 500 L",
+      "description_fr": "Étuve de séchage et de réchauffage grand volume pour verrerie, instruments et circuits imprimés. Régulation thermostatique avec thermostat de sécurité de surchauffe indépendant. Corps extérieur en tôle d'acier à peinture poudre facile d'entretien, clayettes grillagées plaquées amovibles sur glissières réglables. Porte vitrée à charnière en verre trempé et ventilation forcée par circulateur pour une meilleure homogénéité thermique dans ce grand volume. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "500 L",
+      "price_gbp": 3804.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1006"
+    },
+    {
+      "sku": "DRY1014",
+      "slug": "etuve-sechage-genlab-1000l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage Genlab — 1000 L",
+      "description_fr": "Étuve de séchage et de réchauffage de très grand volume pour verrerie, instruments et circuits imprimés. Régulation thermostatique avec thermostat de sécurité de surchauffe indépendant. Corps extérieur en tôle d'acier à peinture poudre facile d'entretien, clayettes grillagées plaquées amovibles sur glissières réglables. Porte vitrée à charnière en verre trempé et ventilation forcée par circulateur pour homogénéiser la température sur l'ensemble du volume. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "1000 L",
+      "price_gbp": 4968.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1014"
+    },
+    {
+      "sku": "DRY1020",
+      "slug": "etuve-sechage-isolee-genlab-100l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage isolée Genlab — 100 L",
+      "description_fr": "Version isolée thermiquement de la gamme Genlab, offrant une régulation de température plus précise et une économie d'énergie supérieure à 30 % par rapport aux modèles non isolés. Chambre intérieure en acier inoxydable, corps extérieur en tôle à peinture poudre facile d'entretien, clayettes grillagées plaquées amovibles sur glissières réglables et sorties de ventilation. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "100 L isolée",
+      "price_gbp": 1590.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1020"
+    },
+    {
+      "sku": "DRY1022",
+      "slug": "etuve-sechage-isolee-genlab-200l",
+      "brand": "Genlab",
+      "name_fr": "Étuve de séchage isolée Genlab — 200 L",
+      "description_fr": "Version isolée thermiquement de la gamme Genlab, garantissant un contrôle de température plus précis et une réduction de la consommation énergétique de plus de 30 % par rapport aux modèles non isolés. Chambre intérieure en acier inoxydable, corps extérieur en tôle à peinture poudre facile d'entretien, clayettes grillagées plaquées amovibles sur glissières réglables et sorties de ventilation. Plage de température : 30 °C à (ambiante + 50 °C). Garantie deux ans.",
+      "variant_name_fr": "200 L isolée",
+      "price_gbp": 2268.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DRY1022"
+    }
+  ]
+}

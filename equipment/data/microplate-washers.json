@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "laveurs-microplaques",
+    "parent_slug": "equipements",
+    "name": { "fr": "Laveurs de microplaques", "en": "Microplate Washers" },
+    "description": {
+      "fr": "Laveurs de microplaques automatisés pour le lavage de plaques ELISA, tests cellulaires et billes magnétiques, avec filtration sous vide et têtes de lavage interchangeables."
+    }
+  },
+  "products": [
+    {
+      "sku": "MIC9288",
+      "slug": "laveur-microplaques-tecan-hydroflex-plus-8-canaux-1-entree",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroFlex Plus — tête 8 canaux, 1 entrée réactif",
+      "description_fr": "Plateforme modulaire et évolutive dédiée au lavage automatisé de bandelettes et à la filtration sous vide sur microplaques 96 puits, conçue pour les applications cellulaires, enzymatiques et sur ADN en recherche, biotech, pharma et diagnostic clinique. Les porte-plaques interchangeables permettent de basculer facilement entre lavage ELISA, lavage en douceur de cellules adhérentes ou faiblement adhérentes, lavage de puces à protéines/anticorps, filtration sous vide (nettoyage post-PCR) et lavage de billes magnétiques via le porte-plaque MBS. Capteur de bulles pour un dosage fiable des tampons, aspiration multipoint sur plaques à fond plat pour un volume résiduel minimal, pilotage logiciel individuel de la vitesse et des positions de la tête de lavage. Intégrable sur les postes Freedom EVO et Freedom EVOlyzer. Conforme IVDR.",
+      "variant_name_fr": "Tête 8 canaux, 1 entrée réactif",
+      "price_gbp": 7062.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9288"
+    },
+    {
+      "sku": "MIC9290",
+      "slug": "laveur-microplaques-tecan-hydroflex-plus-8-canaux-2-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroFlex Plus — tête 8 canaux, 2 entrées réactifs",
+      "description_fr": "Plateforme modulaire et évolutive dédiée au lavage automatisé de bandelettes et à la filtration sous vide sur microplaques 96 puits, conçue pour les applications cellulaires, enzymatiques et sur ADN en recherche, biotech, pharma et diagnostic clinique. Les porte-plaques interchangeables permettent de basculer facilement entre lavage ELISA, lavage en douceur de cellules adhérentes ou faiblement adhérentes, lavage de puces à protéines/anticorps, filtration sous vide (nettoyage post-PCR) et lavage de billes magnétiques via le porte-plaque MBS. Capteur de bulles pour un dosage fiable des tampons, aspiration multipoint sur plaques à fond plat pour un volume résiduel minimal, pilotage logiciel individuel de la vitesse et des positions de la tête de lavage. Deux entrées réactifs pour une plus grande souplesse de protocole. Intégrable sur les postes Freedom EVO et Freedom EVOlyzer. Conforme IVDR.",
+      "variant_name_fr": "Tête 8 canaux, 2 entrées réactifs",
+      "price_gbp": 6339.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9288"
+    },
+    {
+      "sku": "MIC9294",
+      "slug": "laveur-microplaques-tecan-hydroflex-plus-16-canaux-1-entree",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroFlex Plus — tête 16 canaux, 1 entrée réactif",
+      "description_fr": "Version haut débit de la plateforme HydroFlex Plus, équipée d'une tête à 16 canaux pour accélérer le lavage automatisé de microplaques 96 puits tout en conservant la modularité de la gamme : porte-plaques interchangeables pour lavage ELISA, lavage doux de cellules adhérentes, lavage de puces protéines/anticorps, filtration sous vide et lavage de billes magnétiques (porte-plaque MBS). Capteur de bulles pour un dosage fiable, aspiration multipoint à volume résiduel minimal, contrôle logiciel indépendant de la vitesse et du positionnement de la tête. Intégrable sur les postes Freedom EVO et Freedom EVOlyzer. Conforme IVDR.",
+      "variant_name_fr": "Tête 16 canaux, 1 entrée réactif",
+      "price_gbp": 7716.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9288"
+    },
+    {
+      "sku": "MIC9296",
+      "slug": "laveur-microplaques-tecan-hydroflex-plus-16-canaux-2-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroFlex Plus — tête 16 canaux, 2 entrées réactifs",
+      "description_fr": "Version haut débit de la plateforme HydroFlex Plus, équipée d'une tête à 16 canaux et de deux entrées réactifs pour accélérer le lavage automatisé de microplaques 96 puits tout en conservant la modularité de la gamme : porte-plaques interchangeables pour lavage ELISA, lavage doux de cellules adhérentes, lavage de puces protéines/anticorps, filtration sous vide et lavage de billes magnétiques (porte-plaque MBS). Capteur de bulles pour un dosage fiable, aspiration multipoint à volume résiduel minimal, contrôle logiciel indépendant de la vitesse et du positionnement de la tête. Intégrable sur les postes Freedom EVO et Freedom EVOlyzer. Conforme IVDR.",
+      "variant_name_fr": "Tête 16 canaux, 2 entrées réactifs",
+      "price_gbp": 6603.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9288"
+    },
+    {
+      "sku": "MIC9342",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-ht-1-entree",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête HT 96 canaux, 1 entrée réactif",
+      "description_fr": "Laveur de microplaques avancé pour formats 96 et 384 puits, offrant un contrôle fin des paramètres de lavage afin d'optimiser les tests cellulaires, sur billes et ELISA. Fonction Cell Protection à puissance de lavage ajustable pour ménager les cellules fragiles, écran tactile 5,7 pouces pilotant l'ensemble des réglages, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête HT 96 canaux, 1 entrée réactif",
+      "price_gbp": 17899.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    },
+    {
+      "sku": "MIC9344",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-ht-2-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête HT 96 canaux, 2 entrées réactifs",
+      "description_fr": "Laveur de microplaques avancé pour formats 96 et 384 puits, offrant un contrôle fin des paramètres de lavage afin d'optimiser les tests cellulaires, sur billes et ELISA, avec deux entrées réactifs pour plus de souplesse de protocole. Fonction Cell Protection à puissance de lavage ajustable, écran tactile 5,7 pouces, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête HT 96 canaux, 2 entrées réactifs",
+      "price_gbp": 17410.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    },
+    {
+      "sku": "MIC9346",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-ht-3-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête HT 96 canaux, 3 entrées réactifs",
+      "description_fr": "Laveur de microplaques avancé pour formats 96 et 384 puits, équipé de trois entrées réactifs pour enchaîner des protocoles multi-tampons sur des tests cellulaires, sur billes et ELISA. Fonction Cell Protection à puissance de lavage ajustable, écran tactile 5,7 pouces, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête HT 96 canaux, 3 entrées réactifs",
+      "price_gbp": 17924.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    },
+    {
+      "sku": "MIC9348",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-ht-4-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête HT 96 canaux, 4 entrées réactifs",
+      "description_fr": "Laveur de microplaques avancé pour formats 96 et 384 puits, équipé de quatre entrées réactifs pour les protocoles les plus complexes sur tests cellulaires, sur billes et ELISA. Fonction Cell Protection à puissance de lavage ajustable, écran tactile 5,7 pouces, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête HT 96 canaux, 4 entrées réactifs",
+      "price_gbp": 19009.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    },
+    {
+      "sku": "MIC9350",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-indexation-1-entree",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête à indexation 96 canaux, 1 entrée réactif",
+      "description_fr": "Variante de l'HydroSpeed dotée d'une tête de lavage à indexation 96 canaux, pour un positionnement puits par puits plus précis lors des protocoles cellulaires, sur billes et ELISA en formats 96 et 384 puits. Fonction Cell Protection à puissance de lavage ajustable, écran tactile 5,7 pouces, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête à indexation 96 canaux, 1 entrée réactif",
+      "price_gbp": 17595.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    },
+    {
+      "sku": "MIC9352",
+      "slug": "laveur-microplaques-tecan-hydrospeed-96-canaux-indexation-2-entrees",
+      "brand": "TECAN",
+      "name_fr": "Laveur de microplaques Tecan HydroSpeed — tête à indexation 96 canaux, 2 entrées réactifs",
+      "description_fr": "Variante de l'HydroSpeed dotée d'une tête de lavage à indexation 96 canaux et de deux entrées réactifs, pour un positionnement puits par puits plus précis lors des protocoles multi-tampons cellulaires, sur billes et ELISA en formats 96 et 384 puits. Fonction Cell Protection à puissance de lavage ajustable, écran tactile 5,7 pouces, optimisation en ligne de la position de distribution pour réduire la turbulence. Taux de récupération cellulaire typique ≥ 85 % et taux de récupération de billes ≥ 90 % grâce aux réglages d'aspiration ajustables. Fonction Anti-Clogging limitant le colmatage des aiguilles, rinçage et trempage automatiques de la tête de lavage, double aimant par puits pour une sédimentation et une récupération optimales des billes. Têtes de lavage interchangeables (X-change) facilitant le nettoyage par ultrasons. Disponible en deux coloris, rouge ou bleu.",
+      "variant_name_fr": "Tête à indexation 96 canaux, 2 entrées réactifs",
+      "price_gbp": 18625.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC9342"
+    }
+  ]
+}

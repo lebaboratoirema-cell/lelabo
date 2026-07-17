@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "microplate-readers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Lecteurs de microplaques", "en": "Microplate Readers" },
+    "description": {
+      "fr": "Lecteurs de microplaques à absorbance pour dosages ELISA, quantification d'acides nucléiques et de protéines, ainsi que leurs accessoires (plaques, filtres, consommables d'impression)."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B1480",
+      "slug": "lecteur-absorbance-accuris-smartreader-96-regulation-temperature",
+      "brand": "Benchmark",
+      "name_fr": "Lecteur d'absorbance de microplaques Accuris SmartReader 96 avec régulation de température — Offre promotionnelle",
+      "description_fr": "Lecteur autonome pour plaques 96 puits, piloté par écran tactile couleur 7 pouces, sans ordinateur ni logiciel externe requis. Livré avec 4 filtres courants (405, 450, 492 et 630 nm) ; 26 filtres supplémentaires disponibles séparément couvrent la plage 340-750 nm. Roue à filtres intégrée acceptant jusqu'à 8 filtres chargés simultanément, sélectionnables directement en programmation. Interface de cartographie des puits intuitive (étalon connu, échantillon inconnu, blanc, contrôle qualité, témoins positif/négatif, puits vide), avec sélection multiple pour gagner du temps. Plage d'absorbance de 0,0 à 4,000 Abs, trajet optique vertical 8 canaux à dispersion nulle. Agitateur de plaque intégré multi-vitesses et incubation à température régulée, de 5 °C au-dessus de l'ambiante jusqu'à 50 °C, pour les cinétiques enzymatiques et essais de croissance bactérienne. Port USB pour export des données au format .csv universel, port de données pour ordinateur ou imprimante.",
+      "variant_name_fr": "Absorbance, régulation de température",
+      "price_gbp": 5350.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1202"
+    },
+    {
+      "sku": "MIC1003",
+      "slug": "lecteur-absorbance-uv-vis-accuris-mr9610-smartreader",
+      "brand": "Benchmark",
+      "name_fr": "Lecteur d'absorbance UV-Vis de microplaques Accuris MR9610 SmartReader",
+      "description_fr": "Lecteur autonome à base de monochromateur, sans filtres à changer, couvrant une plage de longueur d'onde de 200 à 1000 nm — adapté aux dosages ELISA, Bradford/Lowry, turbidité, ainsi qu'à la quantification d'acides nucléiques et de protéines. Accepte les plaques 96 et 384 puits pour un criblage à haute densité. Modes de lecture Endpoint, cinétique et balayage spectral. Écran tactile couleur 10 pouces pour une prise en main rapide des protocoles. Agitation linéaire à intensité et durée réglables (avant lecture ou entre lectures en cinétique) et incubation régulée de l'ambiante +5 °C jusqu'à 45 °C. Compatible avec la plaque accessoire SmartDrop pour la mesure de très petits volumes. Port USB pour transfert de données, aucun PC ni logiciel dédié nécessaire.",
+      "variant_name_fr": "Absorbance UV-Vis, 96/384 puits",
+      "price_gbp": 20144.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1003"
+    },
+    {
+      "sku": "MIC1009",
+      "slug": "plaque-accessoire-smartdrop-accuris-mic1003",
+      "brand": "Benchmark",
+      "name_fr": "Plaque accessoire SmartDrop Accuris pour lecteur MIC1003",
+      "description_fr": "Plaque accessoire dédiée aux lecteurs d'absorbance Accuris SmartReader, permettant la mesure de volumes d'échantillon extrêmement faibles (moins de 0,5 µL). Capacité de 16 échantillons, idéale pour le contrôle de concentration et de pureté d'acides nucléiques en séquençage nouvelle génération, ou pour le dosage de protéines.",
+      "variant_name_fr": "16 échantillons, micro-volumes",
+      "price_gbp": 5007.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1009"
+    },
+    {
+      "sku": "MIC1017",
+      "slug": "lecteur-absorbance-uv-vis-accuris-mr9611-port-cuve",
+      "brand": "Benchmark",
+      "name_fr": "Lecteur d'absorbance UV-Vis de microplaques Accuris MR9611 SmartReader avec port cuvette",
+      "description_fr": "Variante du SmartReader UV-Vis intégrant un port cuvette, à base de monochromateur sans filtres, couvrant 200 à 1000 nm pour les dosages ELISA, Bradford/Lowry, turbidité et la quantification d'acides nucléiques et de protéines. Accepte les plaques 96 et 384 puits, modes Endpoint, cinétique et balayage spectral. Écran tactile couleur 10 pouces, agitation linéaire réglable et incubation régulée de l'ambiante +5 °C à 45 °C. Fonctionne en autonome, sans PC ni logiciel dédié, avec port USB pour l'export des données.",
+      "variant_name_fr": "Absorbance UV-Vis, port cuvette",
+      "price_gbp": 20967.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1003"
+    },
+    {
+      "sku": "MIC1101",
+      "slug": "plaque-etalonnage-accuris-mr9600-smartreader",
+      "brand": "Benchmark",
+      "name_fr": "Plaque d'étalonnage pour lecteur Accuris MR9600 SmartReader",
+      "description_fr": "Plaque d'étalonnage dédiée au contrôle et à la vérification des performances du lecteur de microplaques Accuris MR9600 SmartReader.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 3086.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1101"
+    },
+    {
+      "sku": "MIC1121",
+      "slug": "lecteur-absorbance-accuris-mr9600-smartreader-96",
+      "brand": "Benchmark",
+      "name_fr": "Lecteur d'absorbance de microplaques Accuris MR9600 SmartReader 96 puits",
+      "description_fr": "Lecteur autonome pour plaques 96 puits, existant en versions MR9600 et MR9600-T. Écran tactile couleur 7 pouces et interface graphique intuitive, sans ordinateur ni logiciel externe requis. 4 filtres fournis (405, 450, 492, 630 nm), 26 filtres additionnels disponibles séparément pour couvrir 340 à 750 nm, roue à filtres acceptant jusqu'à 8 positions chargées. Cartographie de plaque avec étiquetage multiple des puits (étalon, échantillon, blanc, contrôles positif/négatif). Plage d'absorbance 0,0 à 4,000 Abs, trajet optique vertical 8 canaux à dispersion nulle, agitateur de plaque intégré multi-vitesses. La version MR9600-T ajoute une incubation régulée en température de 5 °C au-dessus de l'ambiante jusqu'à 50 °C. Port USB pour export .csv et logiciel PC compatible Windows pour un pilotage à distance.",
+      "variant_name_fr": "Absorbance, 96 puits",
+      "price_gbp": 8871.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1121"
+    },
+    {
+      "sku": "MIC1123",
+      "slug": "imprimante-thermique-accuris-lecteur-microplaques",
+      "brand": "Benchmark",
+      "name_fr": "Imprimante thermique pour lecteur de microplaques Accuris",
+      "description_fr": "Accessoire d'impression thermique compatible avec les lecteurs de microplaques Accuris SmartReader, pour l'édition directe des résultats de lecture.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 514.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1123"
+    },
+    {
+      "sku": "MIC1124",
+      "slug": "rouleaux-papier-imprimante-accuris-lecteur-microplaques",
+      "brand": "Benchmark",
+      "name_fr": "Rouleaux de papier supplémentaires pour imprimante de lecteur de microplaques Accuris",
+      "description_fr": "Consommable de recharge : rouleaux de papier pour l'imprimante thermique des lecteurs de microplaques Accuris SmartReader.",
+      "variant_name_fr": "Consommable",
+      "price_gbp": 50.28,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1124"
+    },
+    {
+      "sku": "MIC1125",
+      "slug": "filtre-340nm-lecteur-microplaques-accuris",
+      "brand": "Benchmark",
+      "name_fr": "Filtre 340 nm pour lecteur de microplaques Accuris",
+      "description_fr": "Filtre optique additionnel de longueur d'onde 340 nm, compatible avec la roue à filtres des lecteurs de microplaques Accuris SmartReader, pour étendre la couverture spectrale des dosages d'absorbance.",
+      "variant_name_fr": "340 nm",
+      "price_gbp": 465.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1125"
+    },
+    {
+      "sku": "MIC1126",
+      "slug": "filtre-380nm-lecteur-microplaques-accuris",
+      "brand": "Benchmark",
+      "name_fr": "Filtre 380 nm pour lecteur de microplaques Accuris",
+      "description_fr": "Filtre optique additionnel de longueur d'onde 380 nm, compatible avec la roue à filtres des lecteurs de microplaques Accuris SmartReader, pour étendre la couverture spectrale des dosages d'absorbance.",
+      "variant_name_fr": "380 nm",
+      "price_gbp": 430.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1126"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "electroporators",
+    "parent_slug": "equipements",
+    "name": { "fr": "Électroporateurs", "en": "Electroporators" },
+    "description": {
+      "fr": "Générateurs d'électroporation et cuvettes associées pour la transformation et la transfection des cellules bactériennes, levures, végétales et mammifères en laboratoire de biologie moléculaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "450000",
+      "slug": "electroporateur-btx-ecm-399-systeme-complet-cuvettes",
+      "brand": "BTX",
+      "name_fr": "Système d'électroporation BTX ECM 399 — pack complet avec cuvettes",
+      "description_fr": "Générateur d'électroporation à onde de décroissance exponentielle, conçu pour délivrer les intensités de champ et durées d'impulsion nécessaires à la transformation de bactéries et de levures. Le mode basse tension permet également la transfection de certaines lignées de cellules mammifères, pour un usage de recherche ou d'enseignement simple à mettre en œuvre, compact et économique. Ce pack complet comprend le générateur, la sonde PEP, un assortiment de 30 cuvettes (10 x 1 mm, 10 x 2 mm, 10 x 4 mm) et un portoir à cuvettes référence 660.",
+      "variant_name_fr": "Pack complet avec 30 cuvettes",
+      "price_gbp": 5166.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450000"
+    },
+    {
+      "sku": "450050",
+      "slug": "electroporateur-btx-ecm-399-generateur-seul",
+      "brand": "BTX",
+      "name_fr": "Électroporateur BTX ECM 399 — générateur seul",
+      "description_fr": "Générateur d'électroporation à onde de décroissance exponentielle destiné à la transformation de bactéries et de levures, avec une capacité limitée en mode basse tension pour la transfection de certaines lignées mammifères. Format compact et portable, adapté aux laboratoires de recherche et d'enseignement recherchant un appareil simple d'utilisation. Livré sans cuvettes ni accessoires ; compatible avec le pack complet référence 450000.",
+      "variant_name_fr": "Générateur seul",
+      "price_gbp": 4939.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450000"
+    },
+    {
+      "sku": "450124",
+      "slug": "cuvette-electroporation-btx-plus-pipette-1mm-50pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 1 mm, 90 µL, stériles (lot de 50)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 1 mm et volume de 90 µL, adaptés à la transformation de bactéries et de levures. Conditionnement en lot de 50 unités emballées individuellement avec une pipette de transfert stérile facilitant la récupération de l'échantillon. Cuvettes à usage unique, stérilisées par irradiation gamma, sans entretien.",
+      "variant_name_fr": "Écart 1 mm, 90 µL, lot de 50 avec pipette",
+      "price_gbp": 331.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450125",
+      "slug": "cuvette-electroporation-btx-plus-pipette-2mm-50pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 2 mm, 400 µL, stériles (lot de 50)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 2 mm et volume de 400 µL, compatibles avec tous types cellulaires. Conditionnement en lot de 50 unités emballées individuellement avec une pipette de transfert stérile facilitant la récupération de l'échantillon. Cuvettes à usage unique, stérilisées par irradiation gamma, sans entretien.",
+      "variant_name_fr": "Écart 2 mm, 400 µL, lot de 50 avec pipette",
+      "price_gbp": 331.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450126",
+      "slug": "cuvette-electroporation-btx-plus-pipette-4mm-50pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 4 mm, 800 µL, stériles (lot de 50)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 4 mm et volume de 800 µL, recommandés pour les cellules de mammifères. Conditionnement en lot de 50 unités emballées individuellement avec une pipette de transfert stérile facilitant la récupération de l'échantillon. Cuvettes à usage unique, stérilisées par irradiation gamma, sans entretien.",
+      "variant_name_fr": "Écart 4 mm, 800 µL, lot de 50 avec pipette",
+      "price_gbp": 331.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450134",
+      "slug": "cuvette-electroporation-btx-plus-pipette-1mm-10pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 1 mm, 90 µL, stériles (lot de 10)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 1 mm et volume de 90 µL, adaptés à la transformation de bactéries et de levures. Conditionnement en petit lot de 10 unités emballées individuellement avec pipette de transfert stérile, format économique pour un usage occasionnel. Cuvettes à usage unique, stérilisées par irradiation gamma.",
+      "variant_name_fr": "Écart 1 mm, 90 µL, lot de 10 avec pipette",
+      "price_gbp": 98.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450135",
+      "slug": "cuvette-electroporation-btx-plus-pipette-2mm-10pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 2 mm, 400 µL, stériles (lot de 10)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 2 mm et volume de 400 µL, compatibles avec tous types cellulaires. Conditionnement en petit lot de 10 unités emballées individuellement avec pipette de transfert stérile, format économique pour un usage occasionnel. Cuvettes à usage unique, stérilisées par irradiation gamma.",
+      "variant_name_fr": "Écart 2 mm, 400 µL, lot de 10 avec pipette",
+      "price_gbp": 105.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450136",
+      "slug": "cuvette-electroporation-btx-plus-pipette-4mm-10pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus avec pipette — écart 4 mm, 800 µL, stériles (lot de 10)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 4 mm et volume de 800 µL, recommandés pour les cellules de mammifères. Conditionnement en petit lot de 10 unités emballées individuellement avec pipette de transfert stérile, format économique pour un usage occasionnel. Cuvettes à usage unique, stérilisées par irradiation gamma.",
+      "variant_name_fr": "Écart 4 mm, 800 µL, lot de 10 avec pipette",
+      "price_gbp": 105.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450140",
+      "slug": "cuvette-electroporation-btx-1mm-vrac-2400pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus — écart 1 mm, 90 µL, stériles (conditionnement en vrac)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 1 mm et volume de 90 µL, adaptés à la transformation de bactéries et de levures. Conditionnement en vrac : 24 sachets de 100 cuvettes, sans pipette de transfert, destiné aux laboratoires à forte consommation. Cuvettes à usage unique, stérilisées par irradiation gamma, sans entretien.",
+      "variant_name_fr": "Écart 1 mm, 90 µL, vrac 24 x 100 sans pipette",
+      "price_gbp": 7651.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    },
+    {
+      "sku": "450141",
+      "slug": "cuvette-electroporation-btx-2mm-vrac-2400pcs",
+      "brand": "BTX",
+      "name_fr": "Cuvettes d'électroporation BTX Plus — écart 2 mm, 400 µL, stériles (conditionnement en vrac)",
+      "description_fr": "Cuvettes d'électroporation conçues pour l'électroporation et l'électrofusion de cellules bactériennes, de levures, d'insectes, de végétaux et de mammifères. Électrodes en aluminium poli surmoulées, autorisant des champs électriques jusqu'à 25 kV/cm. Bouchon rond anti-fuite, retirable d'un seul geste. Écart inter-électrodes de 2 mm et volume de 400 µL, compatibles avec tous types cellulaires. Conditionnement en vrac : 24 sachets de 100 cuvettes, sans pipette de transfert, destiné aux laboratoires à forte consommation. Cuvettes à usage unique, stérilisées par irradiation gamma, sans entretien.",
+      "variant_name_fr": "Écart 2 mm, 400 µL, vrac 24 x 100 sans pipette",
+      "price_gbp": 7651.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/450124"
+    }
+  ]
+}

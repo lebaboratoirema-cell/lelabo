@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "biological-safety-cabinets",
+    "parent_slug": "equipements",
+    "name": { "fr": "Postes de sécurité microbiologique", "en": "Biological Safety Cabinets" },
+    "description": {
+      "fr": "Postes de sécurité microbiologique de Classe I et Classe II pour la protection de l'opérateur, du produit et de l'environnement lors de la manipulation d'agents biologiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "CAB1320",
+      "slug": "armoire-securite-microbiologique-haier-hr700-iia2-classe-i-06m",
+      "brand": "HAIER",
+      "name_fr": "Poste de sécurité microbiologique Haier HR700-IIA2 Classe I — largeur utile 0,6 m",
+      "description_fr": "Équipement de confinement compact conçu pour les environnements de travail restreints : postes de prélèvement, stations d'échantillonnage, laboratoires embarqués ou opérations mono-poste. Filtration sur médias AAF de classe 1, offrant une protection renforcée du personnel, de l'environnement et des échantillons. Écran LCD affichant en temps réel les paramètres de fonctionnement et la durée de vie restante des consommables. Lampe UV programmable en un clic (de 0 minute à 24 heures) avec cycle de désinfection automatique, verrouillage croisé entre UV, éclairage fluorescent et façade vitrée, deux prises étanches à ouverture/fermeture temporisée, alarmes sonores et visuelles en cas de défaut matériel ou de dépassement de seuil. Ventilateur EBM associé à une distribution d'air étudiée pour un flux homogène et un niveau sonore réduit. Conçu selon la norme européenne EN 12469.",
+      "variant_name_fr": "Largeur 0,6 m",
+      "price_gbp": 8040.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/H-HR700-IIA2"
+    },
+    {
+      "sku": "CAB1354",
+      "slug": "armoire-securite-microbiologique-tecnilabo-safemate-eco-plus-one-classe-i-12m",
+      "brand": "TECNILABO",
+      "name_fr": "Poste de sécurité microbiologique Tecnilabo Bioair SafeMate Eco+ ONE Classe I — 1,2 m, avec prises internes, lampe UVC et 2 tubes fluorescents",
+      "description_fr": "Poste de sécurité Classe I de paillasse pour la protection du personnel et de l'environnement contre les risques biologiques. Reprend la technologie des gammes SafeMate Eco Plus avec moteur-ventilateur à commande électronique et façade vitrée motorisée inclinée à 5°, pour un confort d'utilisation accru. Cuve de travail en acier inoxydable AISI 304 à finition SB, structure extérieure en acier carbone à revêtement époxy. Vitesse d'entrée d'air moyenne de 0,75 à 1 m/s, lampe UV 254 nm intégrée, alarmes optiques et sonores. Vitre de sécurité frontale coulissante de 6 mm avec alarme acoustique en cas de mauvais positionnement. Filtre HEPA H14 en sortie, efficacité supérieure à 99,995 % sur MPPS selon EN 1822-1, accessible en façade pour la maintenance, plénum à étanchéité dynamique sous pression négative. Deux tubes fluorescents de 30 W disposés hors de la zone de travail, deux prises internes et un robinet intégré pour vide ou air comprimé. Garantie constructeur de 2 ans.",
+      "variant_name_fr": "1,2 m",
+      "price_gbp": 11970.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1354"
+    },
+    {
+      "sku": "CAB1652",
+      "slug": "armoire-securite-microbiologique-faster-safefast-elite-109-classe-i",
+      "brand": "FASTER",
+      "name_fr": "Poste de sécurité microbiologique Faster SafeFAST Elite 109 Classe I",
+      "description_fr": "Poste de sécurité microbiologique Classe I de dernière génération à flux d'air maîtrisé, alliant exigences de sécurité strictes et construction soignée, conçu selon la norme EN 12469. Comme tous les postes Classe I, la façade ouverte laisse l'air ambiant pénétrer par l'ouverture avant pour assurer la protection de l'opérateur ; l'air « sale » traverse la zone de travail puis passe par un préfiltre G3 suivi d'un filtre HEPA H14 avant d'être rejeté « propre » dans le laboratoire. Convient à un large éventail de disciplines : microbiologie, virologie, hématologie, culture cellulaire, ADN recombinant et manipulation d'agents dangereux pour l'homme ou l'animal. Façade vitrée motorisée, plan de travail amovible multi-éléments en acier inoxydable 316, préfiltre à retrait aisé, prises électriques intégrées, faible niveau sonore. Accessoires disponibles sur demande : lampe UV, prises supplémentaires, robinets à gaz et support sur pieds ou à roulettes.",
+      "variant_name_fr": "Modèle 109",
+      "price_gbp": 12517.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1652"
+    },
+    {
+      "sku": "CAB1654",
+      "slug": "armoire-securite-microbiologique-faster-safefast-elite-112-classe-i",
+      "brand": "FASTER",
+      "name_fr": "Poste de sécurité microbiologique Faster SafeFAST Elite 112 Classe I",
+      "description_fr": "Poste appartenant à la gamme SafeFAST Elite Classe I, dernière génération de postes à flux d'air maîtrisé conçus selon la norme EN 12469, combinant sécurité renforcée et construction de qualité. La façade ouverte typique des postes Classe I permet à l'air ambiant d'entrer par l'ouverture avant pour protéger l'opérateur ; l'air passe ensuite à travers la zone de travail, un préfiltre G3 puis un filtre HEPA H14 avant rejet en air « propre » dans le laboratoire. Utilisation possible en microbiologie, virologie, hématologie, culture cellulaire, ADN recombinant et manipulation d'agents à risque pour l'homme ou l'animal. Équipement d'une façade vitrée motorisée, d'un plan de travail multi-éléments démontable en acier inoxydable 316, d'un préfiltre facile à retirer et de prises électriques intégrées ; fonctionnement à faible niveau sonore. Accessoires disponibles en option : lampe UV, prises additionnelles, robinets à gaz, support à pieds ou à roulettes.",
+      "variant_name_fr": "Modèle 112",
+      "price_gbp": 13138.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1654"
+    },
+    {
+      "sku": "CAB1656",
+      "slug": "armoire-securite-microbiologique-faster-safefast-elite-115-classe-i",
+      "brand": "FASTER",
+      "name_fr": "Poste de sécurité microbiologique Faster SafeFAST Elite 115 Classe I",
+      "description_fr": "Poste de la gamme SafeFAST Elite Classe I, conçu selon la norme EN 12469, associant exigences de sécurité strictes et construction robuste. Fonctionnement à façade ouverte propre aux postes Classe I : l'air ambiant entre par l'ouverture avant pour la protection de l'opérateur, traverse la zone de travail puis un préfiltre G3 et un filtre HEPA H14 avant d'être renvoyé « propre » dans le laboratoire. Champ d'application étendu : microbiologie, virologie, hématologie, culture cellulaire, ADN recombinant, manipulation d'agents dangereux pour l'homme ou l'animal. Doté d'une façade vitrée motorisée, d'un plan de travail amovible multi-éléments en acier inoxydable 316, d'un accès facilité pour le remplacement du préfiltre, de prises électriques intégrées et d'un fonctionnement silencieux. Accessoires disponibles sur demande : lampe UV, prises supplémentaires, robinets à gaz, support sur pieds ou roulettes.",
+      "variant_name_fr": "Modèle 115",
+      "price_gbp": 15068.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1652"
+    },
+    {
+      "sku": "CAB1658",
+      "slug": "armoire-securite-microbiologique-faster-safefast-elite-118-classe-i",
+      "brand": "FASTER",
+      "name_fr": "Poste de sécurité microbiologique Faster SafeFAST Elite 118 Classe I",
+      "description_fr": "Poste haut de gamme de la série SafeFAST Elite Classe I, développé selon la norme EN 12469, réunissant des exigences de sécurité strictes et une construction de haute qualité. Comme tous les postes Classe I, la façade reste ouverte pour laisser entrer l'air ambiant et protéger l'opérateur ; l'air traverse ensuite la zone de travail avant filtration par un préfiltre G3 puis un filtre HEPA H14, avant rejet en air « propre » dans le laboratoire. Adapté à la microbiologie, la virologie, l'hématologie, la culture cellulaire, l'ADN recombinant et la manipulation d'agents dangereux pour l'homme ou l'animal. Façade vitrée motorisée, plan de travail multi-éléments démontable en acier inoxydable 316, préfiltre à retrait rapide, prises électriques intégrées, faible niveau sonore. En option : lampe UV, prises supplémentaires, robinets à gaz et support à pieds ou à roulettes.",
+      "variant_name_fr": "Modèle 118",
+      "price_gbp": 16028.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1652"
+    },
+    {
+      "sku": "B2B2618",
+      "slug": "armoire-securite-biologique-esco-ac2-2e8-classe-ii-serie-e-vitres-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste de sécurité biologique Esco Airstream AC2-2E8 Classe II — Série E, 0,6 m (2 pieds), parois vitrées, lampe UV, prises et support offerts",
+      "description_fr": "Poste de sécurité biologique Esco Airstream G3 Classe II assurant la protection de l'opérateur, du produit et de l'environnement, certifié EN 12469. Flux d'air stable et auto-compensé malgré les variations de tension secteur et le colmatage progressif du filtre. Revêtement antimicrobien sur l'ensemble des surfaces peintes internes et externes pour une sécurité accrue. Pilotage par microprocesseur Sentinel Gold, ventilateur DC-ECM à haut rendement énergétique (jusqu'à 70 % d'économie face à un moteur AC classique), filtration ULPA offrant une efficacité dix fois supérieure à un filtre HEPA standard. Façade sans cadre, incassable et facile d'entretien, avec un champ de vision élargi. Série E à parois latérales en verre trempé, améliorant la visibilité et réduisant la sensation de confinement ; plateau de travail multi-éléments autoclavable pour un nettoyage aisé. Offre promotionnelle incluant l'armoire, la lampe UV, les prises secteur et le support (valeur jusqu'à 951 £) ; des frais de livraison additionnels peuvent s'appliquer.",
+      "variant_name_fr": "Série E — 0,6 m (2 pieds)",
+      "price_gbp": 5250.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7500"
+    },
+    {
+      "sku": "B2B2620",
+      "slug": "armoire-securite-biologique-esco-ac2-2s8-classe-ii-serie-s-inox-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste de sécurité biologique Esco Airstream AC2-2S8 Classe II — Série S, 0,6 m (2 pieds), parois inox, lampe UV, prises et support offerts",
+      "description_fr": "Poste de sécurité biologique Esco Airstream G3 Classe II assurant la protection de l'opérateur, du produit et de l'environnement, certifié EN 12469. Flux d'air stable et auto-compensé malgré les variations de tension secteur et le colmatage progressif du filtre. Revêtement antimicrobien sur l'ensemble des surfaces peintes internes et externes pour une sécurité accrue. Pilotage par microprocesseur Sentinel Gold, ventilateur DC-ECM à haut rendement énergétique (jusqu'à 70 % d'économie face à un moteur AC classique), filtration ULPA offrant une efficacité dix fois supérieure à un filtre HEPA standard. Façade sans cadre, incassable et facile d'entretien, avec un champ de vision élargi. Série S en acier inoxydable une pièce à coins arrondis pour faciliter le nettoyage ; zones de capture latérale et parois à dépression optimisant le confinement. Offre promotionnelle incluant l'armoire, la lampe UV, les prises secteur et le support (valeur jusqu'à 951 £) ; des frais de livraison additionnels peuvent s'appliquer.",
+      "variant_name_fr": "Série S — 0,6 m (2 pieds)",
+      "price_gbp": 5721.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7510"
+    },
+    {
+      "sku": "B2B2622",
+      "slug": "armoire-securite-biologique-esco-ac2-3e8-classe-ii-serie-e-vitres-09m",
+      "brand": "ESCO",
+      "name_fr": "Poste de sécurité biologique Esco Airstream AC2-3E8 Classe II — Série E, 0,9 m (3 pieds), parois vitrées, lampe UV, prises et support offerts",
+      "description_fr": "Poste de sécurité biologique Esco Airstream G3 Classe II assurant la protection de l'opérateur, du produit et de l'environnement, certifié EN 12469. Flux d'air stable et auto-compensé malgré les variations de tension secteur et le colmatage progressif du filtre. Revêtement antimicrobien sur l'ensemble des surfaces peintes internes et externes pour une sécurité accrue. Pilotage par microprocesseur Sentinel Gold, ventilateur DC-ECM à haut rendement énergétique (jusqu'à 70 % d'économie face à un moteur AC classique), filtration ULPA offrant une efficacité dix fois supérieure à un filtre HEPA standard. Façade sans cadre, incassable et facile d'entretien, avec un champ de vision élargi. Série E à parois latérales en verre trempé, améliorant la visibilité et réduisant la sensation de confinement ; plateau de travail multi-éléments autoclavable pour un nettoyage aisé. Offre promotionnelle incluant l'armoire, la lampe UV, les prises secteur et le support (valeur jusqu'à 951 £) ; des frais de livraison additionnels peuvent s'appliquer.",
+      "variant_name_fr": "Série E — 0,9 m (3 pieds)",
+      "price_gbp": 6175.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7500"
+    },
+    {
+      "sku": "B2B2624",
+      "slug": "armoire-securite-biologique-esco-ac2-3s8-classe-ii-serie-s-inox-09m",
+      "brand": "ESCO",
+      "name_fr": "Poste de sécurité biologique Esco Airstream AC2-3S8 Classe II — Série S, 0,9 m (3 pieds), parois inox, lampe UV, prises et support offerts",
+      "description_fr": "Poste de sécurité biologique Esco Airstream G3 Classe II assurant la protection de l'opérateur, du produit et de l'environnement, certifié EN 12469. Flux d'air stable et auto-compensé malgré les variations de tension secteur et le colmatage progressif du filtre. Revêtement antimicrobien sur l'ensemble des surfaces peintes internes et externes pour une sécurité accrue. Pilotage par microprocesseur Sentinel Gold, ventilateur DC-ECM à haut rendement énergétique (jusqu'à 70 % d'économie face à un moteur AC classique), filtration ULPA offrant une efficacité dix fois supérieure à un filtre HEPA standard. Façade sans cadre, incassable et facile d'entretien, avec un champ de vision élargi. Série S en acier inoxydable une pièce à coins arrondis pour faciliter le nettoyage ; zones de capture latérale et parois à dépression optimisant le confinement. Offre promotionnelle incluant l'armoire, la lampe UV, les prises secteur et le support (valeur jusqu'à 951 £) ; des frais de livraison additionnels peuvent s'appliquer.",
+      "variant_name_fr": "Série S — 0,9 m (3 pieds)",
+      "price_gbp": 6580.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB7510"
+    }
+  ]
+}

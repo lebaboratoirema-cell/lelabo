@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "balances",
+    "parent_slug": "equipements",
+    "name": { "fr": "Balances", "en": "Balances" },
+    "description": {
+      "fr": "Balances analytiques et de précision pour la pesée en laboratoire, avec calibration interne ou externe et connectivité RS-232 pour le transfert de données."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B06106T",
+      "slug": "balance-analytique-sls-a-series-102g-etalonnage-externe",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 102 g — étalonnage externe",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 102 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé pour une lecture facile des résultats, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Étalonnage externe.",
+      "variant_name_fr": "102 g — étalonnage externe",
+      "price_gbp": 679.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B06108T",
+      "slug": "balance-analytique-sls-a-series-152g-etalonnage-externe",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 152 g — étalonnage externe",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 152 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé pour une lecture facile des résultats, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Étalonnage externe.",
+      "variant_name_fr": "152 g — étalonnage externe",
+      "price_gbp": 740.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B06110T",
+      "slug": "balance-analytique-sls-a-series-152g-etalonnage-interne",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 152 g — étalonnage interne",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 152 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Calibration interne automatique — pas de poids étalon externe requis.",
+      "variant_name_fr": "152 g — étalonnage interne",
+      "price_gbp": 866.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B06112T",
+      "slug": "balance-analytique-sls-a-series-252g-etalonnage-externe",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 252 g — étalonnage externe",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 252 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Étalonnage externe.",
+      "variant_name_fr": "252 g — étalonnage externe",
+      "price_gbp": 870.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B06250T",
+      "slug": "balance-analytique-sls-a-series-102g-etalonnage-interne",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 102 g — étalonnage interne",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 102 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Calibration interne automatique.",
+      "variant_name_fr": "102 g — étalonnage interne",
+      "price_gbp": 824.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B06252T",
+      "slug": "balance-analytique-sls-a-series-252g-etalonnage-interne",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Balance analytique SLS Lab Pro A-Series 252 g — étalonnage interne",
+      "description_fr": "Balance analytique à chargement par le dessus, encombrement compact, portée 252 g et lisibilité 0,1 mg. Pare-brise à portes coulissantes rotatives amovibles en un geste. Affichage LCD rétroéclairé inversé, fonction de calcul statistique intégrée, sortie RS-232C, capteur SHS rapide (réponse ~2 s). Calibration interne automatique.",
+      "variant_name_fr": "252 g — étalonnage interne",
+      "price_gbp": 1040.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS5058"
+    },
+    {
+      "sku": "B2B1004",
+      "slug": "balance-analytique-ohaus-pr124e-120g-etalonnage-externe",
+      "brand": "OHAUS",
+      "name_fr": "Balance analytique OHAUS PR124/E 120 g — étalonnage externe",
+      "description_fr": "Balance analytique et de précision série PR, portée 120 g et lisibilité 0,1 mg, pour applications de pesée en laboratoire, industrie et enseignement. Trois modes de pesée essentiels, connectivité RS-232 pour le transfert et l'archivage des données, écran rétroéclairé lisible et interface simple. Faible encombrement, grand plateau de pesée, plateau en acier inoxydable pour un usage quotidien intensif. Étalonnage externe.",
+      "variant_name_fr": "120 g — étalonnage externe",
+      "price_gbp": 856.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAL1480"
+    },
+    {
+      "sku": "B2B1006",
+      "slug": "balance-analytique-ohaus-pr124-120g-etalonnage-interne",
+      "brand": "OHAUS",
+      "name_fr": "Balance analytique OHAUS PR124 120 g — étalonnage interne",
+      "description_fr": "Balance analytique et de précision série PR, portée 120 g et lisibilité 0,1 mg, pour applications de pesée en laboratoire, industrie et enseignement. Trois modes de pesée essentiels, connectivité RS-232, écran rétroéclairé lisible et interface simple. Faible encombrement, grand plateau de pesée, plateau en acier inoxydable. Calibration interne automatique.",
+      "variant_name_fr": "120 g — étalonnage interne",
+      "price_gbp": 985.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAL1480"
+    },
+    {
+      "sku": "B2B1008",
+      "slug": "balance-analytique-ohaus-pr224e-220g-etalonnage-externe",
+      "brand": "OHAUS",
+      "name_fr": "Balance analytique OHAUS PR224/E 220 g — étalonnage externe",
+      "description_fr": "Balance analytique et de précision série PR, portée 220 g et lisibilité 0,1 mg, pour applications de pesée en laboratoire, industrie et enseignement. Trois modes de pesée essentiels, connectivité RS-232, écran rétroéclairé lisible et interface simple. Faible encombrement, grand plateau de pesée, plateau en acier inoxydable. Étalonnage externe.",
+      "variant_name_fr": "220 g — étalonnage externe",
+      "price_gbp": 928.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAL1480"
+    },
+    {
+      "sku": "B2B1010",
+      "slug": "balance-analytique-ohaus-pr224-220g-etalonnage-interne",
+      "brand": "OHAUS",
+      "name_fr": "Balance analytique OHAUS PR224 220 g — étalonnage interne",
+      "description_fr": "Balance analytique et de précision série PR, portée 220 g et lisibilité 0,1 mg, pour applications de pesée en laboratoire, industrie et enseignement. Trois modes de pesée essentiels, connectivité RS-232, écran rétroéclairé lisible et interface simple. Faible encombrement, grand plateau de pesée, plateau en acier inoxydable. Calibration interne automatique.",
+      "variant_name_fr": "220 g — étalonnage interne",
+      "price_gbp": 1065.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAL1480"
+    }
+  ]
+}

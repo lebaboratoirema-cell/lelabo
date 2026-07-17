@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "hydrometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Densimètres et aréomètres", "en": "Hydrometers" },
+    "description": {
+      "fr": "Densimètres, aréomètres Baumé et instruments de mesure de la densité spécifique pour le contrôle qualité des liquides en laboratoire et en industrie."
+    }
+  },
+  "products": [
+    {
+      "sku": "DAI2410",
+      "slug": "densimetre-lait-1025-1035-sg",
+      "brand": null,
+      "name_fr": "Lactomètre densimètre à lait — 1,025 à 1,035 SG, subdivision 0,001",
+      "description_fr": "Densimètre spécifique pour le contrôle de la densité du lait, étalonné à 15,6 °C. Longueur totale 160 mm, diamètre du bulbe 16 mm, échelle graduée en densité spécifique. Fabriqué au Royaume-Uni en verre sodocalcique avec lest de billes d'acier et résine de cire synthétique, livré dans un étui plastique refermable protecteur. Précision à 20 °C : ±0,002.",
+      "variant_name_fr": "1,025 – 1,035 SG",
+      "price_gbp": 20.26,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DAI2410"
+    },
+    {
+      "sku": "HYD1006",
+      "slug": "densimetre-usage-general-120-140-sg",
+      "brand": null,
+      "name_fr": "Densimètre série 200 usage général — 1,20 à 1,40 SG (tension superficielle moyenne)",
+      "description_fr": "Aréomètre à densité spécifique comparant la densité relative d'un liquide à celle de l'eau à 15,6 °C (échelle 60/60 °F), du type visé par la norme ISO 650 et par l'ancienne British Standard 718 (édition 1960, aujourd'hui remplacée). Longueur 250 mm, étendue de mesure de 0,200° SG, subdivisions de 0,002° SG. Livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "1,20 – 1,40 SG",
+      "price_gbp": 29.76,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1048"
+    },
+    {
+      "sku": "HYD1032",
+      "slug": "areometre-baume-0-30",
+      "brand": null,
+      "name_fr": "Aréomètre Baumé 0 à 30° — subdivision 0,5",
+      "description_fr": "Aréomètre en degrés Baumé destiné aux liquides plus denses que l'eau ; 0° Baumé correspond à une densité spécifique de 1,00 sur l'échelle 60/60 °F. Bulbe d'un diamètre maximal de 19 mm, étalonné à 15,6 °C, adapté aux liquides à tension superficielle moyenne. Fabriqué au Royaume-Uni, livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "0 – 30° Baumé",
+      "price_gbp": 24.36,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1032"
+    },
+    {
+      "sku": "HYD1034",
+      "slug": "areometre-baume-0-50",
+      "brand": null,
+      "name_fr": "Aréomètre Baumé 0 à 50° — subdivision 1,0",
+      "description_fr": "Aréomètre en degrés Baumé destiné aux liquides plus denses que l'eau ; 0° Baumé correspond à une densité spécifique de 1,00 sur l'échelle 60/60 °F. Bulbe d'un diamètre maximal de 19 mm, étalonné à 15,6 °C, adapté aux liquides à tension superficielle moyenne. Fabriqué au Royaume-Uni, livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "0 – 50° Baumé",
+      "price_gbp": 24.36,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1032"
+    },
+    {
+      "sku": "HYD1036",
+      "slug": "areometre-baume-0-70",
+      "brand": null,
+      "name_fr": "Aréomètre Baumé 0 à 70° — subdivision 1,0",
+      "description_fr": "Aréomètre en degrés Baumé destiné aux liquides plus denses que l'eau ; 0° Baumé correspond à une densité spécifique de 1,00 sur l'échelle 60/60 °F. Bulbe d'un diamètre maximal de 19 mm, étalonné à 15,6 °C, adapté aux liquides à tension superficielle moyenne. Fabriqué au Royaume-Uni, livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "0 – 70° Baumé",
+      "price_gbp": 24.36,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1032"
+    },
+    {
+      "sku": "HYD1038",
+      "slug": "densimetre-recherche-plage-070-100-sg",
+      "brand": null,
+      "name_fr": "Densimètre de recherche de plage — 0,70 à 1,00 SG, subdivision 0,005 (tension superficielle faible)",
+      "description_fr": "Instrument d'orientation destiné à des lectures moins précises, utilisé pour identifier rapidement la plage de densité d'un liquide avant de sélectionner le densimètre de précision approprié pour une détermination fine. Échelle étendue facilitant ce choix, compare la densité relative du liquide à celle de l'eau. Étalonné à 15,6 °C (60 °F), livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "0,70 – 1,00 SG",
+      "price_gbp": 27.12,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1038"
+    },
+    {
+      "sku": "HYD1040",
+      "slug": "densimetre-recherche-plage-100-150-sg",
+      "brand": null,
+      "name_fr": "Densimètre de recherche de plage — 1,00 à 1,50 SG, subdivision 0,005 (tension superficielle moyenne)",
+      "description_fr": "Instrument d'orientation destiné à des lectures moins précises, utilisé pour identifier rapidement la plage de densité d'un liquide avant de sélectionner le densimètre de précision approprié pour une détermination fine. Échelle étendue facilitant ce choix, compare la densité relative du liquide à celle de l'eau. Étalonné à 15,6 °C (60 °F), livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "1,00 – 1,50 SG",
+      "price_gbp": 27.12,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1038"
+    },
+    {
+      "sku": "HYD1042",
+      "slug": "densimetre-recherche-plage-150-200-sg",
+      "brand": null,
+      "name_fr": "Densimètre de recherche de plage — 1,50 à 2,00 SG, subdivision 0,005 (tension superficielle moyenne)",
+      "description_fr": "Instrument d'orientation destiné à des lectures moins précises, utilisé pour identifier rapidement la plage de densité d'un liquide avant de sélectionner le densimètre de précision approprié pour une détermination fine. Échelle étendue facilitant ce choix, compare la densité relative du liquide à celle de l'eau. Étalonné à 15,6 °C (60 °F), livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "1,50 – 2,00 SG",
+      "price_gbp": 27.12,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1038"
+    },
+    {
+      "sku": "HYD1044",
+      "slug": "densimetre-recherche-plage-070-200-sg",
+      "brand": null,
+      "name_fr": "Densimètre de recherche de plage — 0,70 à 2,00 SG, subdivision 0,010 (tension superficielle moyenne)",
+      "description_fr": "Instrument d'orientation destiné à des lectures moins précises, utilisé pour identifier rapidement la plage de densité d'un liquide avant de sélectionner le densimètre de précision approprié pour une détermination fine. Échelle très étendue facilitant ce choix, compare la densité relative du liquide à celle de l'eau. Étalonné à 15,6 °C (60 °F), livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "0,70 – 2,00 SG",
+      "price_gbp": 27.12,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1038"
+    },
+    {
+      "sku": "HYD1046",
+      "slug": "densimetre-recherche-plage-100-200-sg",
+      "brand": null,
+      "name_fr": "Densimètre de recherche de plage — 1,00 à 2,00 SG, subdivision 0,010 (tension superficielle moyenne)",
+      "description_fr": "Instrument d'orientation destiné à des lectures moins précises, utilisé pour identifier rapidement la plage de densité d'un liquide avant de sélectionner le densimètre de précision approprié pour une détermination fine. Échelle étendue facilitant ce choix, compare la densité relative du liquide à celle de l'eau. Étalonné à 15,6 °C (60 °F), livré dans un étui plastique refermable protecteur.",
+      "variant_name_fr": "1,00 – 2,00 SG",
+      "price_gbp": 27.12,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYD1038"
+    }
+  ]
+}

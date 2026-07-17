@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "ovens",
+    "parent_slug": "equipements",
+    "name": { "fr": "Étuves de laboratoire", "en": "Ovens" },
+    "description": {
+      "fr": "Étuves de séchage, de chauffage et de tempérage pour le laboratoire, à convection naturelle ou forcée, couvrant des volumes de chambre de quelques litres à plusieurs centaines de litres."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2730",
+      "slug": "etuve-ika-oven-125-basic-dry-125l",
+      "brand": "IKA",
+      "name_fr": "Étuve universelle IKA Oven 125 basic dry — 125 L",
+      "description_fr": "Étuve polyvalente pour le tempérage, le séchage, le vieillissement et le chauffage en laboratoire. Montée en température rapide et régulation précise pour des résultats reproductibles. Isolation spéciale sans odeur réduisant la consommation énergétique. Pilotage par USB avec enregistrement des paramètres d'essai pour analyse ultérieure. Plage de température : ambiante +5 °C à 250 °C. Ventilation réglable électroniquement, écran et menu de commande clairs, verrouillage par code, minuterie et limite de température réglable. Deux grilles métalliques fournies.",
+      "variant_name_fr": "125 L, 250 °C max",
+      "price_gbp": 2349.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/OVE2192"
+    },
+    {
+      "sku": "INC1017",
+      "slug": "etuve-binder-ed56-avantgarde-line-convection-naturelle-57l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de séchage BINDER ED56 Avantgarde.Line à convection naturelle — 57 L",
+      "description_fr": "Étuve de séchage et de chauffage dédiée aux tâches courantes de séchage et de stérilisation jusqu'à 300 °C. La convection naturelle assure des process thermiques particulièrement efficaces et un séchage rapide et homogène. Efficacité énergétique élevée (jusqu'à 30 % de consommation en moins que les modèles classiques du marché), précision spatiale et temporelle de température grâce à la technologie APT.line, connexion USB pour l'enregistrement des données. Plage de température : ambiante +5 °C à 300 °C. Volet d'évacuation d'air à commande électromécanique, écran LCD, deux grilles chromées, empilable jusqu'à 115 L. Dispositif de sécurité de température classe 2 indépendant et réglable (DIN 12880) avec alarme visuelle, poignée ergonomique.",
+      "variant_name_fr": "57 L, convection naturelle, 300 °C max",
+      "price_gbp": 1728.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC1017"
+    },
+    {
+      "sku": "INC1038",
+      "slug": "etuve-binder-fed400-classic-line-400l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de chauffe BINDER FED400 Classic.Line — 400 L",
+      "description_fr": "Étuve de chauffe grande capacité de la série FED, particulièrement adaptable grâce à des fonctions de programmation horaire avancées et une ventilation à vitesse réglable pour un contrôle fin de la température et de la convection. Efficacité énergétique élevée (jusqu'à 30 % de consommation en moins), précision de température grâce à la technologie APT.line, connexion USB et interface Ethernet pour l'enregistrement des données. Plage de température : ambiante +10 °C à 300 °C. Volet d'évacuation d'air à commande électromécanique, écran LCD avec fonctions horaires étendues, deux grilles chromées. Dispositif de sécurité de température classe 2 réglable (DIN 12880) avec alarme visuelle.",
+      "variant_name_fr": "400 L, 300 °C max",
+      "price_gbp": 7735.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC1038"
+    },
+    {
+      "sku": "INC1154",
+      "slug": "etuve-binder-fd-s115-solid-line-115l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de séchage BINDER FD-S115 Solid.Line à ventilation forcée — 115 L",
+      "description_fr": "Étuve de la gamme Solid.Line conçue pour les tâches de séchage et de chauffage en recherche et en contrôle qualité, alliant fiabilité et simplicité d'utilisation. Manipulation aisée, régulation de température précise, ouverture de porte ergonomique. Technologie de préchauffe de chambre APT.line, convection naturelle ou forcée selon réglage, volet d'évacuation d'air réglable, commande avec fonction minuterie. Une grille chromée avec supports fournie. Dispositif de sécurité de température classe 2 indépendant et réglable (DIN 12880) avec alarme visuelle.",
+      "variant_name_fr": "115 L, convection forcée",
+      "price_gbp": 2386.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/INC1154"
+    },
+    {
+      "sku": "OVE8000",
+      "slug": "etuve-binder-ed23-classic-line-convection-naturelle-20l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de séchage BINDER ED23 Classic.Line à convection naturelle — 20 L",
+      "description_fr": "Petite étuve dédiée au séchage et à la stérilisation de routine jusqu'à 300 °C. La convection naturelle garantit des conditions de séchage homogènes et des conditions d'essai identiques dans toute la chambre, quelle que soit la taille ou la quantité d'échantillons. Isolation thermique renforcée réduisant les coûts d'exploitation, grâce à la technologie APT.line. Plage de température : ambiante +5 °C à 300 °C. Volet d'évacuation d'air réglable, commande avec fonctions de minuterie, deux grilles chromées. Dispositif de sécurité de température classe 2 réglable (DIN 12880) avec alarme visuelle.",
+      "variant_name_fr": "20 L, convection naturelle, 300 °C max",
+      "price_gbp": 2156.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/OVE8000"
+    },
+    {
+      "sku": "OVE8010",
+      "slug": "etuve-binder-ed720-avantgarde-line-convection-naturelle-743l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de séchage BINDER ED720 Avantgarde.Line à convection naturelle — 743 L",
+      "description_fr": "Étuve grande capacité pour tâches courantes de séchage et de stérilisation jusqu'à 300 °C. Convection naturelle assurant des process thermiques efficaces et un séchage rapide et homogène. Efficacité énergétique élevée, précision spatiale et temporelle grâce à la technologie APT.line, connexion USB pour l'enregistrement des données. Plage de température : ambiante +5 °C à 300 °C. Volet d'évacuation d'air à commande électromécanique, écran LCD, deux grilles chromées, empilable jusqu'à 115 L. Dispositif de sécurité de température classe 2 réglable (DIN 12880) avec alarme visuelle, poignée ergonomique.",
+      "variant_name_fr": "743 L, convection naturelle, 300 °C max",
+      "price_gbp": 8434.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/OVE8010"
+    },
+    {
+      "sku": "OVE8024",
+      "slug": "etuve-binder-fd115-avantgarde-line-convection-forcee-116l",
+      "brand": "BINDER",
+      "name_fr": "Étuve de séchage BINDER FD115 Avantgarde.Line à convection forcée — 116 L",
+      "description_fr": "Étuve de chauffe de la série FD Avantgarde.Line conçue pour un séchage et une stérilisation rapides. Distribution de température parfaitement homogène, dynamique rapide et ventilateur puissant permettant de gagner un temps précieux. Efficacité énergétique élevée, précision de température grâce à la technologie APT.line, connexion USB pour l'enregistrement des données. Plage de température : ambiante +10 °C à 300 °C. Convection forcée, volet d'évacuation d'air à commande électromécanique, écran LCD, deux grilles chromées, empilable. Dispositif de sécurité de température classe 2 réglable (DIN 12880) avec alarme visuelle, poignée ergonomique.",
+      "variant_name_fr": "116 L, convection forcée, 300 °C max",
+      "price_gbp": 3148.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/OVE8024"
+    },
+    {
+      "sku": "EVA4026",
+      "slug": "etuve-verre-buchi-b-585-kugelrohr",
+      "brand": "BUCHI",
+      "name_fr": "Étuve à verre Büchi B-585 Kugelrohr",
+      "description_fr": "Étuve à verre de conception compacte permettant de sécher rapidement, avec précaution et de façon reproductible une large gamme d'échantillons de petite et moyenne taille. L'élément chauffant est un tube de verre à revêtement conducteur chauffant sur toute la longueur de la chambre jusqu'à 300 °C. En version Kugelrohr, l'appareil peut également servir de mini-distillateur pour de faibles quantités de solvants à bas point d'ébullition ou d'autres substances, ou de sécheur rotatif. Encombrement réduit, forte efficacité énergétique, excellente visibilité de l'échantillon, rotation optionnelle jusqu'à 50 tr/min, angle de travail réglable de 0 à 90°, programmation de la température et du temps sur 3 paliers.",
+      "variant_name_fr": "Version Kugelrohr, 300 °C max",
+      "price_gbp": 9207.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4026"
+    },
+    {
+      "sku": "EVA4028",
+      "slug": "etuve-verre-buchi-b-585-drying",
+      "brand": "BUCHI",
+      "name_fr": "Étuve à verre Büchi B-585 Drying",
+      "description_fr": "Étuve à verre de conception compacte dédiée au séchage rapide, précautionneux et reproductible d'échantillons de petite et moyenne taille en laboratoire. Élément chauffant en tube de verre à revêtement conducteur, chauffant toute la longueur de la chambre jusqu'à 300 °C. Encombrement réduit, forte efficacité énergétique, excellente visibilité de l'échantillon pendant le séchage. Rotation optionnelle de l'échantillon jusqu'à 50 tr/min, angle de travail réglable de 0 à 90°, programmation de la température et de la durée sur 3 paliers.",
+      "variant_name_fr": "Version Drying, 300 °C max",
+      "price_gbp": 5169.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/EVA4026"
+    },
+    {
+      "sku": "B2B2410",
+      "slug": "etuve-numerique-benchmark-suretemp-30l",
+      "brand": "BENCHMARK",
+      "name_fr": "Étuve numérique Benchmark SureTemp — 30 L",
+      "description_fr": "Étuve numérique offrant une régulation précise jusqu'à 200 °C, sans thermomètre externe ni réglage manuel répété d'un bouton analogique. Adaptée aux applications agricoles et industrielles de chauffage, séchage, stérilisation et cuisson. Programmation simple de la température et du temps, convection par gravité pour un maintien précis de la température de chambre, mode continu disponible pour les applications longues. Régulation PID compensant automatiquement les variations de charge ou l'ouverture de porte. Double paroi, isolation en fibre de verre sur 6 faces, portes hermétiques, chambre en acier inoxydable, étalonnage en usine, grande fenêtre de visualisation. Stabilité de ±0,5 °C à 100 °C et ±1,0 °C à 200 °C, incréments de 0,1 °C, minuterie de 0 à 999 minutes ou mode continu.",
+      "variant_name_fr": "30 L, convection par gravité, 200 °C max",
+      "price_gbp": 1056.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/OVE9320"
+    }
+  ]
+}

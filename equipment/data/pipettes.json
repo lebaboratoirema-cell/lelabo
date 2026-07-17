@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "pipettes",
+    "parent_slug": "equipements",
+    "name": { "fr": "Pipettes", "en": "Pipettes" },
+    "description": {
+      "fr": "Pipettes manuelles et électroniques, mono et multicanaux, ainsi que distributeurs répétitifs pour le prélèvement et la distribution précise de liquides en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2418",
+      "slug": "distributeur-repetitif-brand-handystep-s",
+      "brand": "BRAND",
+      "name_fr": "Distributeur répétitif BRAND HandyStep S",
+      "description_fr": "Distributeur à déplacement direct pour la distribution répétitive de liquides en routine ou en recherche (diagnostic, biologie moléculaire, analyse environnementale). Le principe de déplacement direct autorise la manipulation de milieux visqueux, denses ou à forte tension de vapeur sans formation d'aérosols, donc sans risque de contamination croisée. Compatible avec les cônes PD-Tips BRAND ainsi qu'avec les cônes Encode, Repet et Combitips (plus) d'autres fabricants. Jusqu'à 59 volumes partiels accessibles selon le cône et le réglage de course utilisés, pour une plage globale de distribution de 2 µL à 5 mL. Boîtier en plastique à résistance chimique renforcée. Fourni avec certificat de conformité, certificat de performance, manuel d'utilisation, support de fixation et cônes 0,1, 1 et 10 mL.",
+      "variant_name_fr": "2 µL – 5 mL",
+      "price_gbp": 232.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PIP9340"
+    },
+    {
+      "sku": "B2B2858",
+      "slug": "pipette-electronique-thermo-cliptip-0-5-10ul",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Pipette électronique monocanal Thermo Scientific FluidEase Pro ClipTip — 0,5-10 µL",
+      "description_fr": "Pipette électronique monocanal à écran tactile haute résolution, pensée pour standardiser le pipetage électronique tout en simplifiant la prise en main. Plage de vitesses d'aspiration et de distribution particulièrement étendue, permettant un maniement en douceur des échantillons fragiles comme une exécution rapide pour les protocoles chronométrés. Modes préréglés pour une utilisation immédiate et programmation avancée multi-étapes pour les protocoles complexes. Commande à l'index avec angle de rotation élargi pour s'adapter à différentes tailles de main. Cônes ClipTip à verrouillage sécurisé garantissant la reproductibilité des volumes délivrés, éjection électronique des cônes avec voyant lumineux signalant le moment propice à l'éjection. Protection par mot de passe et jusqu'à cinq profils utilisateurs pour un usage partagé en environnement réglementé. Calibration personnalisable selon le liquide ou les conditions ambiantes, suivi intégré des échéances de maintenance et d'étalonnage.",
+      "variant_name_fr": "0,5 – 10 µL",
+      "price_gbp": 946.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/4674010"
+    },
+    {
+      "sku": "B2B2860",
+      "slug": "pipette-electronique-thermo-cliptip-2-5-100ul",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Pipette électronique monocanal Thermo Scientific FluidEase Pro ClipTip — 2,5-100 µL",
+      "description_fr": "Pipette électronique monocanal à écran tactile haute résolution, pensée pour standardiser le pipetage électronique tout en simplifiant la prise en main. Plage de vitesses d'aspiration et de distribution particulièrement étendue, permettant un maniement en douceur des échantillons fragiles comme une exécution rapide pour les protocoles chronométrés. Modes préréglés pour une utilisation immédiate et programmation avancée multi-étapes pour les protocoles complexes. Commande à l'index avec angle de rotation élargi pour s'adapter à différentes tailles de main. Cônes ClipTip à verrouillage sécurisé garantissant la reproductibilité des volumes délivrés, éjection électronique des cônes avec voyant lumineux signalant le moment propice à l'éjection. Protection par mot de passe et jusqu'à cinq profils utilisateurs pour un usage partagé en environnement réglementé. Calibration personnalisable selon le liquide ou les conditions ambiantes, suivi intégré des échéances de maintenance et d'étalonnage.",
+      "variant_name_fr": "2,5 – 100 µL",
+      "price_gbp": 946.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/4674020"
+    },
+    {
+      "sku": "B2B2862",
+      "slug": "pipette-electronique-thermo-cliptip-5-200ul",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Pipette électronique monocanal Thermo Scientific FluidEase Pro ClipTip — 5-200 µL",
+      "description_fr": "Pipette électronique monocanal à écran tactile haute résolution, pensée pour standardiser le pipetage électronique tout en simplifiant la prise en main. Plage de vitesses d'aspiration et de distribution particulièrement étendue, permettant un maniement en douceur des échantillons fragiles comme une exécution rapide pour les protocoles chronométrés. Modes préréglés pour une utilisation immédiate et programmation avancée multi-étapes pour les protocoles complexes. Commande à l'index avec angle de rotation élargi pour s'adapter à différentes tailles de main. Cônes ClipTip à verrouillage sécurisé garantissant la reproductibilité des volumes délivrés, éjection électronique des cônes avec voyant lumineux signalant le moment propice à l'éjection. Protection par mot de passe et jusqu'à cinq profils utilisateurs pour un usage partagé en environnement réglementé. Calibration personnalisable selon le liquide ou les conditions ambiantes, suivi intégré des échéances de maintenance et d'étalonnage.",
+      "variant_name_fr": "5 – 200 µL",
+      "price_gbp": 946.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/4674030"
+    },
+    {
+      "sku": "TPIP2828",
+      "slug": "pipette-electronique-sartorius-picus-2-5-120ul",
+      "brand": "SARTORIUS",
+      "name_fr": "Pipette électronique monocanal Sartorius Picus 2 — 5-120 µL",
+      "description_fr": "Pipette électronique monocanal de la gamme Picus 2, reconnue pour sa précision et sa fiabilité en usage intensif. Offre proposée dans le cadre du programme de reprise Sartorius : l'achat d'une pipette neuve à ce tarif préférentiel implique le retour d'une ancienne pipette (toute marque, tout état) via le service de reprise gratuit de Sartorius, accompagné du formulaire de décontamination signé, dans les 30 jours suivant la réception. Le nombre de pipettes de remplacement commandées doit correspondre au nombre de pipettes retournées ; les pipettes reprises sont recyclées.",
+      "variant_name_fr": "5 – 120 µL",
+      "price_gbp": 546.78,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PIP2828"
+    },
+    {
+      "sku": "TPIP2830",
+      "slug": "pipette-electronique-sartorius-picus-2-10-300ul",
+      "brand": "SARTORIUS",
+      "name_fr": "Pipette électronique monocanal Sartorius Picus 2 — 10-300 µL",
+      "description_fr": "Pipette électronique monocanal de la gamme Picus 2, reconnue pour sa précision et sa fiabilité en usage intensif. Offre proposée dans le cadre du programme de reprise Sartorius : l'achat d'une pipette neuve à ce tarif préférentiel implique le retour d'une ancienne pipette (toute marque, tout état) via le service de reprise gratuit de Sartorius, accompagné du formulaire de décontamination signé, dans les 30 jours suivant la réception. Le nombre de pipettes de remplacement commandées doit correspondre au nombre de pipettes retournées ; les pipettes reprises sont recyclées.",
+      "variant_name_fr": "10 – 300 µL",
+      "price_gbp": 546.78,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PIP2830"
+    },
+    {
+      "sku": "TPIP2832",
+      "slug": "pipette-electronique-sartorius-picus-2-50-1000ul",
+      "brand": "SARTORIUS",
+      "name_fr": "Pipette électronique monocanal Sartorius Picus 2 — 50-1000 µL",
+      "description_fr": "Pipette électronique monocanal de la gamme Picus 2, reconnue pour sa précision et sa fiabilité en usage intensif. Offre proposée dans le cadre du programme de reprise Sartorius : l'achat d'une pipette neuve à ce tarif préférentiel implique le retour d'une ancienne pipette (toute marque, tout état) via le service de reprise gratuit de Sartorius, accompagné du formulaire de décontamination signé, dans les 30 jours suivant la réception. Le nombre de pipettes de remplacement commandées doit correspondre au nombre de pipettes retournées ; les pipettes reprises sont recyclées.",
+      "variant_name_fr": "50 – 1000 µL",
+      "price_gbp": 546.78,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PIP2832"
+    },
+    {
+      "sku": "TPIP2834",
+      "slug": "pipette-electronique-sartorius-picus-2-100-5000ul",
+      "brand": "SARTORIUS",
+      "name_fr": "Pipette électronique monocanal Sartorius Picus 2 — 100-5000 µL",
+      "description_fr": "Pipette électronique monocanal de la gamme Picus 2, reconnue pour sa précision et sa fiabilité en usage intensif. Offre proposée dans le cadre du programme de reprise Sartorius : l'achat d'une pipette neuve à ce tarif préférentiel implique le retour d'une ancienne pipette (toute marque, tout état) via le service de reprise gratuit de Sartorius, accompagné du formulaire de décontamination signé, dans les 30 jours suivant la réception. Le nombre de pipettes de remplacement commandées doit correspondre au nombre de pipettes retournées ; les pipettes reprises sont recyclées.",
+      "variant_name_fr": "100 – 5000 µL",
+      "price_gbp": 546.78,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PIP2834"
+    },
+    {
+      "sku": "B2B06492",
+      "slug": "pipette-multicanaux-gilson-pipetman-p8x20-2-20ul",
+      "brand": "GILSON",
+      "name_fr": "Pipette multicanaux Gilson PIPETMAN P8x20 — 8 canaux, 2-20 µL",
+      "description_fr": "Pipette à déplacement d'air entièrement réglable, référence historique du pipetage de laboratoire pour sa fiabilité et sa durabilité éprouvées. Fonctionne avec des cônes à usage unique et couvre une large gamme de volumes en version 8 canaux, avec des forces de pipetage réduites pour un confort d'utilisation prolongé. Construction en PVDF et acier inoxydable pour une robustesse durable. Entretien simple grâce à un accès facilité aux pièces d'usure, porte-cônes et éjecteur entièrement autoclavables.",
+      "variant_name_fr": "8 canaux, 2 – 20 µL",
+      "price_gbp": 522.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B06492"
+    },
+    {
+      "sku": "B2B06494",
+      "slug": "pipette-multicanaux-gilson-pipetman-p8x200-20-200ul",
+      "brand": "GILSON",
+      "name_fr": "Pipette multicanaux Gilson PIPETMAN P8x200 — 8 canaux, 20-200 µL",
+      "description_fr": "Pipette à déplacement d'air entièrement réglable, référence historique du pipetage de laboratoire pour sa fiabilité et sa durabilité éprouvées. Fonctionne avec des cônes à usage unique et couvre une large gamme de volumes en version 8 canaux, avec des forces de pipetage réduites pour un confort d'utilisation prolongé. Construction en PVDF et acier inoxydable pour une robustesse durable. Entretien simple grâce à un accès facilité aux pièces d'usure, porte-cônes et éjecteur entièrement autoclavables.",
+      "variant_name_fr": "8 canaux, 20 – 200 µL",
+      "price_gbp": 522.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B06494"
+    }
+  ]
+}

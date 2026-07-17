@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "ph-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "pH-mètres", "en": "pH Meters" },
+    "description": {
+      "fr": "pH-mètres de paillasse et portables pour la mesure du pH, du potentiel redox (mV) et de la température en laboratoire, avec kits d'électrodes adaptés aux échantillons courants, biologiques ou difficiles."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2148",
+      "slug": "ph-metre-thermo-scientific-orion-labstar-ph111-support-electrode",
+      "brand": "Thermo Scientific",
+      "name_fr": "pH-mètre de paillasse Thermo Scientific Orion Lab Star PH111 — sans électrode",
+      "description_fr": "pH-mètre de paillasse mesurant simultanément pH, mV et température, livré avec support d'électrode, câble PC et adaptateur secteur universel ; électrode à commander séparément. Grand écran rétroéclairé facilitant la lecture sur un faible encombrement de paillasse. Plage de mesure : -2,000 à 18,000 pH, -2000,0 à +2000,0 mV et -5,0 à 105,0 °C. Calibration pH en un à cinq points, calibration ORP en un point et ajustement température en un point. Indicateurs de stabilisation et de fin de mesure à l'écran, icône d'état de l'électrode pH, journal de 500 mesures et journaux de calibration horodatés pour la traçabilité GLP, export vers imprimante ou PC.",
+      "variant_name_fr": "Support d'électrode seul (électrode vendue séparément)",
+      "price_gbp": 595.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1110"
+    },
+    {
+      "sku": "B2B2150",
+      "slug": "ph-metre-thermo-scientific-orion-labstar-ph111-kit-standard",
+      "brand": "Thermo Scientific",
+      "name_fr": "pH-mètre de paillasse Thermo Scientific Orion Lab Star PH111 — kit standard",
+      "description_fr": "pH-mètre de paillasse mesurant simultanément pH, mV et température, ici en kit complet avec électrode pH/ATC à corps époxy rechargeable 9157BNMD et solution tampon/nettoyage pH 4/7/10 en flacons de 60 mL, adapté aux échantillons courants (eau potable, eau du robinet, tampons non-TRIS, usage pédagogique). Plage de mesure : -2,000 à 18,000 pH, -2000,0 à +2000,0 mV et -5,0 à 105,0 °C. Calibration pH en un à cinq points, calibration ORP en un point, grand écran rétroéclairé, journal de 500 mesures et journaux de calibration horodatés pour la traçabilité GLP.",
+      "variant_name_fr": "Kit standard avec électrode pH/ATC 9157BNMD",
+      "price_gbp": 814.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1115"
+    },
+    {
+      "sku": "B2B2152",
+      "slug": "ph-metre-thermo-scientific-orion-labstar-ph111-kit-bio-facile-nettoyer",
+      "brand": "Thermo Scientific",
+      "name_fr": "pH-mètre de paillasse Thermo Scientific Orion Lab Star PH111 — kit bio facile à nettoyer",
+      "description_fr": "pH-mètre de paillasse mesurant simultanément pH, mV et température, en kit avec électrode pH à double jonction à corps époxy rechargeable GD9156BNWP, sonde de température ATC inox 927007MD et solution tampon/nettoyage pH 4/7/10 (60 mL). Électrode conçue pour les échantillons contenant tampons TRIS, protéines, sulfures ou halogénures pouvant interférer avec le chlorure d'argent, facile à nettoyer et à régénérer. Plage de mesure : -2,000 à 18,000 pH, -2000,0 à +2000,0 mV et -5,0 à 105,0 °C. Calibration pH en un à cinq points, journal de 500 mesures et journaux de calibration horodatés.",
+      "variant_name_fr": "Kit bio facile à nettoyer avec électrode à double jonction GD9156BNWP",
+      "price_gbp": 876.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1116"
+    },
+    {
+      "sku": "B2B2154",
+      "slug": "ph-metre-thermo-scientific-orion-labstar-ph111-kit-bio-bas-entretien",
+      "brand": "Thermo Scientific",
+      "name_fr": "pH-mètre de paillasse Thermo Scientific Orion Lab Star PH111 — kit bio bas entretien",
+      "description_fr": "pH-mètre de paillasse mesurant simultanément pH, mV et température, en kit avec électrode pH à double jonction à corps époxy à gel GD9106BNWP, sonde de température ATC inox 927007MD et solution tampon/nettoyage pH 4/7/10 (60 mL). Électrode à gel scellée, à faible entretien et simple d'utilisation, destinée aux échantillons contenant tampons TRIS, protéines, sulfures ou halogénures. Plage de mesure : -2,000 à 18,000 pH, -2000,0 à +2000,0 mV et -5,0 à 105,0 °C. Calibration pH en un à cinq points, journal de 500 mesures et journaux de calibration horodatés.",
+      "variant_name_fr": "Kit bio bas entretien avec électrode à gel GD9106BNWP",
+      "price_gbp": 825.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1117"
+    },
+    {
+      "sku": "B2B2156",
+      "slug": "ph-metre-thermo-scientific-orion-labstar-ph111-kit-echantillons-difficiles",
+      "brand": "Thermo Scientific",
+      "name_fr": "pH-mètre de paillasse Thermo Scientific Orion Lab Star PH111 — kit échantillons difficiles",
+      "description_fr": "pH-mètre de paillasse mesurant simultanément pH, mV et température, en kit avec électrode pH Sure-Flow à corps époxy rechargeable 9165 BNWP et sonde ATC inox 927007MD, conçu pour les échantillons épais, visqueux ou semi-solides : aliments, boissons, eaux résiduaires, émulsions, sols, boues ou suspensions. Solution tampon/nettoyage pH 4/7/10 fournie (60 mL). Plage de mesure : -2,000 à 18,000 pH, -2000,0 à +2000,0 mV et -5,0 à 105,0 °C. Calibration pH en un à cinq points, journal de 500 mesures et journaux de calibration horodatés pour la traçabilité GLP.",
+      "variant_name_fr": "Kit échantillons difficiles avec électrode Sure-Flow 9165 BNWP",
+      "price_gbp": 948.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1118"
+    },
+    {
+      "sku": "B2B2430",
+      "slug": "ph-metre-numerique-jenway-3510-kit-standard",
+      "brand": "Jenway",
+      "name_fr": "pH-mètre numérique Jenway 3510 — kit standard",
+      "description_fr": "pH-mètre numérique polyvalent pour l'analyse de routine, mesurant simultanément pH, mV et température avec une résolution pH jusqu'à trois décimales. Calibration en un, deux ou trois points, sélection automatique ou manuelle des tampons selon les normes DIN, JIS ou NIST, ou saisie manuelle des valeurs. Mémorisation de 32 résultats et sortie RS232 vers imprimante ou PC via DataWay pour l'export des données.",
+      "variant_name_fr": "Kit standard",
+      "price_gbp": 724.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM1212"
+    },
+    {
+      "sku": "B2B2752",
+      "slug": "ph-metre-portable-lovibond-sensodirect-ph-110-mallette",
+      "brand": "Lovibond",
+      "name_fr": "pH-mètre portable Lovibond SensoDirect pH 110 — avec mallette de transport",
+      "description_fr": "pH-mètre portable fonctionnant sur pile, de la gamme SensoDirect 110, permettant la mesure du pH, de la salinité et de la conductivité selon le modèle. Boîtier léger à protection renforcée contre les chutes, avec support arrière utilisable comme béquille ou clip ceinture. Grand afficheur numérique et fonction de gel d'affichage (« hold ») pour faciliter la lecture et améliorer la reproductibilité des résultats. Surveillance continue du niveau de pile pour anticiper le remplacement. Livré en mallette de transport.",
+      "variant_name_fr": "Avec mallette de transport",
+      "price_gbp": 220.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2752"
+    },
+    {
+      "sku": "B2B7234",
+      "slug": "ph-metre-mettler-toledo-fiveeasy-f20-kit-standard-le438",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre de paillasse Mettler Toledo FiveEasy F20 — kit standard avec sonde LE438",
+      "description_fr": "pH-mètre de paillasse compact de la gamme FiveEasy, mesurant le pH et le mV en une simple pression de bouton, livré ici avec la sonde LE438. Écran large et bien structuré avec navigation par boutons intuitive et menu simplifié, conçu pour un encombrement réduit sur la paillasse. Le bras d'électrode se commande séparément pour la version meuble seul (référence PHM0047).",
+      "variant_name_fr": "Kit standard avec sonde LE438",
+      "price_gbp": 524.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    },
+    {
+      "sku": "B2B7236",
+      "slug": "ph-metre-mettler-toledo-fiveeasy-plus-fp20-kit-standard-le438",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre de paillasse Mettler Toledo FiveEasy Plus FP20 — kit standard avec sonde LE438",
+      "description_fr": "pH-mètre de paillasse de la gamme FiveEasy Plus, mesurant le pH et le mV en une simple pression de bouton, livré ici avec la sonde LE438. Écran large et bien structuré, navigation par boutons intuitive et menu simplifié, conception compacte économe en espace de paillasse. Export des données directement vers une imprimante ou un PC. Bras d'électrode disponible séparément pour la version meuble seul (référence PHM0047).",
+      "variant_name_fr": "Kit standard avec sonde LE438",
+      "price_gbp": 664.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    },
+    {
+      "sku": "B2B7238",
+      "slug": "ph-metre-mettler-toledo-fiveeasy-plus-fp20-kit-bio-le410",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre de paillasse Mettler Toledo FiveEasy Plus FP20 — kit bio avec sonde LE410",
+      "description_fr": "pH-mètre de paillasse de la gamme FiveEasy Plus, mesurant le pH et le mV en une simple pression de bouton, livré ici avec la sonde LE410 adaptée aux applications biologiques. Écran large et bien structuré, navigation par boutons intuitive et menu simplifié, conception compacte économe en espace de paillasse. Export des données directement vers une imprimante ou un PC. Bras d'électrode disponible séparément pour la version meuble seul (référence PHM0047).",
+      "variant_name_fr": "Kit bio avec sonde LE410",
+      "price_gbp": 685.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B7234"
+    }
+  ]
+}

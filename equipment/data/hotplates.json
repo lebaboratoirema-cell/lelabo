@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "hotplates",
+    "parent_slug": "equipements",
+    "name": { "fr": "Plaques chauffantes", "en": "Hotplates" },
+    "description": {
+      "fr": "Plaques chauffantes de laboratoire, céramique ou métal, à régulation analogique ou numérique, pour le chauffage uniforme de liquides, réactifs et échantillons en paillasse."
+    }
+  },
+  "products": [
+    {
+      "sku": "F26992T",
+      "slug": "plaque-chauffante-infrarouge-cole-parmer-hp-200-ir-l-30x30-promo",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante infrarouge Cole-Parmer HP-200-IR-L — céramique, 30 x 30 cm (offre promotionnelle)",
+      "description_fr": "Plaque chauffante à chauffage infrarouge offrant une montée en température plus rapide qu'une plaque céramique classique : environ 30 % de temps en moins pour porter un litre d'eau à ébullition. Molette de réglage simple, plateau céramique résistant aux produits chimiques et adapté au chauffage de grands volumes de liquide. Voyant d'alerte de surface chaude, actif même hors tension tant que la température reste supérieure à 50 °C. Surface de travail 30 x 30 cm, alimentation 230 V CA.",
+      "variant_name_fr": "30 x 30 cm — Offre promotionnelle",
+      "price_gbp": 901.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1016"
+    },
+    {
+      "sku": "HOT1004",
+      "slug": "plaque-chauffante-numerique-cole-parmer-hp-200d-l-c-ceramique-30x30",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante numérique Cole-Parmer HP-200D-L-C — céramique, 30 x 30 cm",
+      "description_fr": "Plaque chauffante à régulation par microprocesseur assurant un suivi précis de la température du plateau. Carrosserie profilée détournant les éventuels débordements loin de l'utilisateur. Voyant « Hot » clignotant dès que la surface dépasse 50 °C, circuit de sécurité indépendant contre la surchauffe et composants électroniques protégés de la corrosion. Plateau céramique pouvant accueillir plusieurs récipients, un grand contenant ou des lames de microscope. Réglage numérique précis de la température via boutons poussoirs et molette. Surface 30 x 30 cm, alimentation 230 V CA.",
+      "variant_name_fr": "Céramique, 30 x 30 cm",
+      "price_gbp": 1008.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1004"
+    },
+    {
+      "sku": "HOT1008",
+      "slug": "plaque-chauffante-numerique-cole-parmer-hp-200d-xl-c-ceramique-30x50",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante numérique Cole-Parmer HP-200D-XL-C — céramique, 30 x 50 cm",
+      "description_fr": "Version grand format de la gamme HP-200D, à régulation par microprocesseur pour un suivi précis de la température du plateau. Carrosserie profilée détournant les éventuels débordements loin de l'utilisateur, voyant « Hot » clignotant au-delà de 50 °C et circuit de sécurité indépendant contre la surchauffe. Plateau céramique en 30 x 50 cm permettant de disposer plusieurs récipients ou un grand contenant simultanément. Réglage numérique précis via boutons poussoirs et molette. Alimentation 230 V CA.",
+      "variant_name_fr": "Céramique, 30 x 50 cm",
+      "price_gbp": 1318.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1008"
+    },
+    {
+      "sku": "HOT1012",
+      "slug": "plaque-chauffante-numerique-cole-parmer-hp-200d-l-s-metal-30x30",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante numérique Cole-Parmer HP-200D-L-S — métal, 30 x 30 cm",
+      "description_fr": "Plaque chauffante à plateau métallique et régulation par microprocesseur pour un suivi précis de la température. Carrosserie profilée détournant les éventuels débordements loin de l'utilisateur, voyant « Hot » clignotant au-delà de 50 °C et circuit de sécurité indépendant contre la surchauffe, composants électroniques protégés de la corrosion. Accueille plusieurs récipients, un grand contenant ou des lames de microscope. Réglage numérique précis via boutons poussoirs et molette. Surface 30 x 30 cm, alimentation 230 V.",
+      "variant_name_fr": "Métal, 30 x 30 cm",
+      "price_gbp": 1537.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1012"
+    },
+    {
+      "sku": "HOT1014",
+      "slug": "plaque-chauffante-numerique-cole-parmer-hp-200d-xl-s-metal-30x50",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante numérique Cole-Parmer HP-200D-XL-S — métal, 30 x 50 cm",
+      "description_fr": "Version grand format à plateau métallique, régulation par microprocesseur pour un suivi précis de la température. Carrosserie profilée détournant les éventuels débordements loin de l'utilisateur, voyant « Hot » clignotant au-delà de 50 °C et circuit de sécurité indépendant contre la surchauffe. Plateau 30 x 50 cm permettant de disposer plusieurs récipients ou un grand contenant. Réglage numérique précis via boutons poussoirs et molette. Alimentation 230 V.",
+      "variant_name_fr": "Métal, 30 x 50 cm",
+      "price_gbp": 1387.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1014"
+    },
+    {
+      "sku": "HOT1016",
+      "slug": "plaque-chauffante-infrarouge-cole-parmer-hp-200-ir-l-ceramique-30x30",
+      "brand": "Cole-Parmer",
+      "name_fr": "Plaque chauffante infrarouge Cole-Parmer HP-200-IR-L — céramique, 30 x 30 cm",
+      "description_fr": "Plaque chauffante à chauffage infrarouge offrant une montée en température plus rapide qu'une plaque céramique classique : environ 30 % de temps en moins pour porter un litre d'eau à ébullition. Molette de réglage simple, plateau céramique résistant aux produits chimiques et adapté au chauffage de grands volumes de liquide. Voyant d'alerte de surface chaude, actif même hors tension tant que la température reste supérieure à 50 °C. Surface de travail 30 x 30 cm, alimentation 230 V CA.",
+      "variant_name_fr": "Céramique, 30 x 30 cm",
+      "price_gbp": 1251.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1016"
+    },
+    {
+      "sku": "HOT1026",
+      "slug": "plaque-chauffante-ika-c-mag-hp-4-250w",
+      "brand": "IKA",
+      "name_fr": "Plaque chauffante de laboratoire IKA C-MAG HP 4 — 250 W",
+      "description_fr": "Plateau en vitrocéramique offrant une excellente résistance chimique. Circuit de sécurité fixe se déclenchant à 550 °C et voyant « Hot Top » signalant une surface encore chaude pour prévenir les brûlures. Réglage précis de la température via afficheur numérique LED. Douille conforme à la norme DIN 12878 permettant le raccordement d'une sonde de contact (par exemple ETS-D5) pour une régulation fine. Affichage numérique des codes d'erreur, panneau de commande surélevé protégé des projections de liquide. Puissance 250 W.",
+      "variant_name_fr": "250 W",
+      "price_gbp": 826.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1026"
+    },
+    {
+      "sku": "HOT1028",
+      "slug": "plaque-chauffante-ika-c-mag-hp-7-1000w",
+      "brand": "IKA",
+      "name_fr": "Plaque chauffante de laboratoire IKA C-MAG HP 7 — 1000 W",
+      "description_fr": "Plateau en vitrocéramique offrant une excellente résistance chimique. Circuit de sécurité fixe se déclenchant à 550 °C et voyant « Hot Top » signalant une surface encore chaude pour prévenir les brûlures. Réglage précis de la température via afficheur numérique LED. Douille conforme à la norme DIN 12878 permettant le raccordement d'une sonde de contact (par exemple ETS-D5) pour une régulation fine. Affichage numérique des codes d'erreur, panneau de commande surélevé protégé des projections de liquide. Puissance 1000 W, adaptée aux volumes plus importants.",
+      "variant_name_fr": "1000 W",
+      "price_gbp": 907.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1028"
+    },
+    {
+      "sku": "HOT1030",
+      "slug": "plaque-chauffante-ika-c-mag-hp-10-1500w",
+      "brand": "IKA",
+      "name_fr": "Plaque chauffante de laboratoire IKA C-MAG HP 10 — 1500 W",
+      "description_fr": "Plateau en vitrocéramique offrant une excellente résistance chimique. Circuit de sécurité fixe se déclenchant à 550 °C et voyant « Hot Top » signalant une surface encore chaude pour prévenir les brûlures. Réglage précis de la température via afficheur numérique LED. Douille conforme à la norme DIN 12878 permettant le raccordement d'une sonde de contact (par exemple ETS-D5) pour une régulation fine. Affichage numérique des codes d'erreur, panneau de commande surélevé protégé des projections de liquide. Puissance 1500 W, pour les besoins de chauffe les plus exigeants de la gamme C-MAG.",
+      "variant_name_fr": "1500 W",
+      "price_gbp": 1239.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1030"
+    },
+    {
+      "sku": "HOT1150",
+      "slug": "plaque-chauffante-analogique-clifton-hp1-1-305x240mm",
+      "brand": "Clifton",
+      "name_fr": "Plaque chauffante analogique Clifton HP1-1 — 305 x 240 mm",
+      "description_fr": "Plaque chauffante analogique à grande surface de travail, régulation thermostatique, interrupteur marche/arrêt lumineux et voyant d'alerte de surface chaude au-delà de 60 °C. Plateau en aluminium massif de 12 mm d'épaisseur débordant du corps de l'appareil pour empêcher les projections d'atteindre les commandes, garantissant une excellente conductivité thermique et une répartition uniforme de la chaleur. Surfaces peintes et panneau de commande à protection antibactérienne, résistants aux produits chimiques et faciles à nettoyer. Pieds antidérapants, interrupteur étanche contre l'humidité. Plage de température du plateau : ambiante +10 à 320 °C. Compatible avec les tiges de statif standard de laboratoire et les kits de bain de sable proposés en accessoire. Garantie trois ans.",
+      "variant_name_fr": "305 x 240 mm",
+      "price_gbp": 877.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOT1150_1"
+    }
+  ]
+}

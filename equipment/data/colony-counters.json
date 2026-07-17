@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "colony-counters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Compteurs de colonies", "en": "Colony Counters" },
+    "description": {
+      "fr": "Compteurs de colonies manuels et automatiques pour le dénombrement rapide et traçable des colonies bactériennes sur boîtes de Petri, avec ou sans lecture des zones d'inhibition."
+    }
+  },
+  "products": [
+    {
+      "sku": "COL1034",
+      "slug": "compteur-colonies-automatique-interscience-scan-300",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies automatique Interscience Scan 300",
+      "description_fr": "Compteur de colonies équipé d'une caméra numérique et d'un logiciel dédié, relié à un PC par USB pour une lecture complète et fiable des boîtes de Petri. Détecte jusqu'à 1000 colonies en moins d'une seconde, quel que soit le type de boîte, grâce à un ajustement automatique du contraste et de l'éclairage. Technologie Dark Field et images en direct haute définition pour une visualisation optimale, interface à fenêtre unique, paramètres préréglés selon les milieux de culture, résultats traçables et exportables.",
+      "variant_name_fr": "Scan 300",
+      "price_gbp": 6240.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1034"
+    },
+    {
+      "sku": "COL1036",
+      "slug": "compteur-colonies-lecteur-zones-inhibition-interscience-scan-500",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies automatique et lecteur de zones d'inhibition Interscience Scan 500",
+      "description_fr": "Modèle intermédiaire de la gamme Scan, associant caméra numérique et logiciel de reconnaissance pour une lecture rapide, complète et traçable des boîtes de Petri, avec liaison PC par USB. Compte jusqu'à 1000 colonies en moins d'une seconde et s'adapte automatiquement au contraste et à l'éclairage de chaque boîte. Lit les géloses chromogènes et différencie les colonies par couleur, avec fonction de lecteur de zones d'inhibition pour tester l'efficacité des antibiotiques. Technologie Dark Field, six combinaisons d'éclairage et de fond, réglages automatiques de luminosité et de sensibilité.",
+      "variant_name_fr": "Scan 500",
+      "price_gbp": 10336.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1036"
+    },
+    {
+      "sku": "COL1038",
+      "slug": "compteur-colonies-lecteur-zones-inhibition-interscience-scan-1200",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies automatique et lecteur de zones d'inhibition Interscience Scan 1200",
+      "description_fr": "Modèle haut de gamme de la série Scan, conçu pour les laboratoires à fort volume d'analyses microbiologiques. Caméra numérique et logiciel embarqué assurent une lecture complète et traçable des boîtes de Petri en moins d'une seconde par boîte, avec ajustement automatique du contraste et de l'éclairage quel que soit le format. Capable de lire les géloses chromogènes et de différencier les colonies par couleur, ainsi que de mesurer les zones d'inhibition pour l'évaluation d'antibiotiques. Technologie Dark Field, six combinaisons d'éclairage et de fond, réglages logiciels automatiques de luminosité, contraste et sensibilité.",
+      "variant_name_fr": "Scan 1200",
+      "price_gbp": 17310.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1038"
+    },
+    {
+      "sku": "COL1040",
+      "slug": "compteur-colonies-hd-couleur-interscience-scan-4000",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies HD couleur Interscience Scan 4000, avec lecture des zones d'inhibition",
+      "description_fr": "Compteur automatique couleur haute définition adapté à tous les formats de boîtes de Petri et tous les milieux de culture, jusqu'à 150 mm de diamètre en boîtes rondes et 120 mm en boîtes carrées. Éclairage indirect pour un grand confort d'utilisation, une précision élevée et une excellente reproductibilité. Détecte des colonies dès 0,05 mm grâce à une caméra 5 mégapixels avec zoom x69 (objectif japonais). Compte en mode étalement, coulage, spirale ou cercle, sur géloses chromogènes, Petrifilm, MC-Media Pad, Compact Dry, Easy Plate ou membranes de filtration, avec lecture des zones d'inhibition. Précision de comptage jusqu'à 98 %, logiciel conforme aux recommandations FDA (piste d'audit et sécurité des résultats), exports en formats sca, PDF, JPG, XLS et CSV. Éclairage White LED Dome sans reflets ni ombres, fonction dataLink pour le suivi de l'échantillon de l'ensemencement au comptage.",
+      "variant_name_fr": "Scan 4000",
+      "price_gbp": 24064.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1040"
+    },
+    {
+      "sku": "COL1042",
+      "slug": "compteur-colonies-ia-interscience-scan-3000-ai",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies automatique à intelligence artificielle Interscience Scan 3000 Ai, avec licence logicielle",
+      "description_fr": "Compteur de la gamme Scan Ai qui automatise et standardise le dénombrement des colonies caractéristiques et non caractéristiques en microbiologie. L'intelligence artificielle embarquée améliore la vitesse et la précision d'analyse des boîtes de Petri, avec une précision supérieure de 25 % à celle d'un compteur standard. Adapté à tous les formats de boîtes jusqu'à 150 mm et à la plupart des milieux de culture selon le modèle. Détecte des colonies dès 0,03 mm, comptage automatique en une seconde avec une précision constante pouvant atteindre 98 %. Compte en mode étalement, coulage, spirale ou cercle, sur géloses chromogènes, Petrifilm, MC-Media Pad, Compact Dry, Easy Plate, membranes de filtration, Milliflex Oasis, BioCapt, lames de contact Hycon ou lames Envirocheck. Lecture des zones d'inhibition jusqu'à 16 antibiotiques par boîte, éclairage diffusant White LED Dome, cadence de 400 boîtes par heure, caméra 12,2 mégapixels avec zoom numérique x69, traçabilité complète des résultats.",
+      "variant_name_fr": "Scan 3000 Ai",
+      "price_gbp": 28374.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1042"
+    },
+    {
+      "sku": "COL1044",
+      "slug": "compteur-colonies-ia-interscience-scan-5000-ai",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies automatique à intelligence artificielle Interscience Scan 5000 Ai, avec licence logicielle",
+      "description_fr": "Modèle haut de gamme de la série Scan Ai, destiné à l'automatisation et à la standardisation du comptage des colonies caractéristiques et non caractéristiques en analyse microbiologique. L'intelligence artificielle offre une précision supérieure de 25 % à celle d'un compteur standard ainsi que des perspectives d'évolution continue. Compatible avec tous les formats de boîtes de Petri jusqu'à 150 mm et la plupart des milieux de culture selon le modèle. Détecte des colonies dès 0,03 mm avec un comptage automatique en une seconde et une précision constante jusqu'à 98 %. Compte en mode étalement, coulage, spirale ou cercle, sur géloses chromogènes, Petrifilm, MC-Media Pad, Compact Dry, Easy Plate, membranes de filtration, Milliflex Oasis, BioCapt, lames de contact Hycon ou lames Envirocheck. Lecture des zones d'inhibition jusqu'à 16 antibiotiques par boîte, éclairage diffusant White LED Dome, cadence de 400 boîtes par heure, caméra ultra HD 12,2 mégapixels avec zoom numérique x69.",
+      "variant_name_fr": "Scan 5000 Ai",
+      "price_gbp": 43778.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1044"
+    },
+    {
+      "sku": "COL1046",
+      "slug": "compteur-colonies-manuel-interscience-scan-50",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies manuel Interscience Scan 50",
+      "description_fr": "Compteur de colonies manuel à ergonomie étudiée pour préserver la posture, la vision et l'audition de l'utilisateur. Éclairage contrasté des colonies protégeant les yeux, traçabilité assurée par un port USB. Adapté aux boîtes de Petri de 55 à 90 mm de diamètre, ainsi qu'aux Petrifilm, MC-Media Pad, Compact Dry, Easy Plate et membranes de filtration. Système d'éclairage indirect Dark Field 2 à intensité réglable, surface tactile à sensibilité ajustable, export des données via USB ou LIMS aux formats CSV (Excel) ou texte (Word). Facile à nettoyer et à désinfecter. Loupe grossissante disponible en option, non fournie avec l'appareil.",
+      "variant_name_fr": "Scan 50",
+      "price_gbp": 1218.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1046"
+    },
+    {
+      "sku": "COL1048",
+      "slug": "compteur-colonies-manuel-interscience-scan-50-pro-handpad",
+      "brand": "Interscience",
+      "name_fr": "Compteur de colonies manuel Interscience Scan 50 Pro avec HandPad",
+      "description_fr": "Version Pro du compteur manuel Scan, à ergonomie renforcée pour préserver la posture, la vision et l'audition de l'utilisateur. Éclairage contrasté des colonies protégeant les yeux, traçabilité assurée par un port USB. Adapté aux boîtes de Petri de 55 à 90 mm, ainsi qu'aux Petrifilm, MC-Media Pad, Compact Dry, Easy Plate et membranes de filtration. Système d'éclairage indirect Dark Field 2 à intensité réglable, surface tactile à sensibilité ajustable, export des données via USB ou LIMS aux formats CSV (Excel) ou texte (Word). Équipé d'un HandPad, accoudoir ambidextre pouvant être déplacé d'un côté ou de l'autre d'un simple geste et servant aussi de mise en marche. Casque audio inclus sur ce modèle Pro. Loupe grossissante disponible en option, non fournie avec l'appareil.",
+      "variant_name_fr": "Scan 50 Pro avec HandPad",
+      "price_gbp": 1740.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL1048"
+    },
+    {
+      "sku": "COL3220",
+      "slug": "compteur-colonies-numerique-cole-parmer-cc-200",
+      "brand": "Cole-Parmer",
+      "name_fr": "Compteur de colonies numérique Cole-Parmer CC-200, 90-230 V CA, 50/60 Hz",
+      "description_fr": "Compteur enregistrant chaque comptage à la pression d'un marqueur feutre sur la boîte de Petri, avec cumul affiché numériquement et confirmation par un signal sonore désactivable. Sensibilité de pression réglable selon l'utilisateur. Éclairage par le dessous à LED basse consommation pour une observation sans éblouissement, filtre de fond noir fourni pour améliorer la lecture des colonies translucides ou difficiles à voir. Fonction de moyenne sur plusieurs boîtes, résultats et statistiques (dont l'écart type) transférables vers une imprimante ou un ordinateur via le câble USB fourni. Compatible avec les boîtes de Petri de 50 à 90 mm, revêtement antimicrobien, adaptateurs de grossissement x1,7 et x3 disponibles en option.",
+      "variant_name_fr": "90-230 VAC, 50/60 Hz",
+      "price_gbp": 976.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COL3220"
+    },
+    {
+      "sku": "COU1030",
+      "slug": "compteur-colonies-automatise-synbiosis-protos-3",
+      "brand": "Synbiosis",
+      "name_fr": "Compteur de colonies automatisé Synbiosis Protos 3",
+      "description_fr": "Compteur de colonies haute performance conçu pour délivrer des résultats rapides et reproductibles dans les laboratoires de microbiologie à forte activité. Associe une caméra 1,4 mégapixel et un système d'éclairage intégré offrant une résolution de 1280 x 1024, à un logiciel d'analyse intelligent garantissant des comptages fiables sur une large gamme de géloses et de morphologies de colonies, en éliminant l'erreur manuelle. Modules intégrés en standard pour boîtes coulées, boîtes en spirale, géloses chromogènes d'identification et séries de dilution. Compte jusqu'à 10 000 colonies par seconde sur des boîtes jusqu'à 100 mm, utilisation en un clic pour les laboratoires à haut débit. Export des résultats vers Excel, PDF ou LIMS, pistes d'audit intégrées et gestion des accès par utilisateur, adapté aux laboratoires réglementés et de recherche.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 10732.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COU1030"
+    }
+  ]
+}

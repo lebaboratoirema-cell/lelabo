@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "homogenisers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Homogénéisateurs", "en": "Homogenisers" },
+    "description": {
+      "fr": "Billes de broyage, outils de dispersion, rotors et accessoires pour homogénéisateurs de laboratoire, utilisés pour la lyse, le broyage et la préparation d'échantillons biologiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "GS/2",
+      "slug": "billes-verre-2mm-500g",
+      "brand": null,
+      "name_fr": "Billes de verre 2 mm — 500 g",
+      "description_fr": "Billes de verre sodocalcique calibrées à 2 mm, conditionnées par sachet de 500 g. Utilisées comme média de broyage pour la lyse et l'homogénéisation d'échantillons biologiques dans les homogénéisateurs à billes.",
+      "variant_name_fr": "2 mm, 500 g",
+      "price_gbp": 19.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/GS2"
+    },
+    {
+      "sku": "GS/3",
+      "slug": "billes-verre-3mm-500g",
+      "brand": null,
+      "name_fr": "Billes de verre 3 mm — 500 g",
+      "description_fr": "Billes de verre sodocalcique de 3 mm de diamètre, conditionnées en sachet de 500 g. Média de broyage adapté aux homogénéisateurs à billes utilisés en préparation d'échantillons biologiques.",
+      "variant_name_fr": "3 mm, 500 g",
+      "price_gbp": 18.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/GS2"
+    },
+    {
+      "sku": "GS/5",
+      "slug": "billes-verre-5mm-500g",
+      "brand": null,
+      "name_fr": "Billes de verre 5 mm — 500 g",
+      "description_fr": "Billes de verre sodocalcique de 5 mm, conditionnement de 500 g, adaptées au broyage d'échantillons dans les homogénéisateurs à billes de laboratoire.",
+      "variant_name_fr": "5 mm, 500 g",
+      "price_gbp": 18.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/GS2"
+    },
+    {
+      "sku": "HOM2444",
+      "slug": "outil-dispersion-ika-s25n-18g-t25-ultra-turrax",
+      "brand": "IKA",
+      "name_fr": "Outil de dispersion IKA S25N-18G pour ULTRA-TURRAX T 25",
+      "description_fr": "Élément disperseur compatible avec l'appareil de dispersion T 25 digital. Plage de traitement de 10 à 1500 mL, profondeur d'immersion de 40 à 165 mm. Matériaux en contact avec le produit : PTFE et acier inoxydable AISI 316L, compatible avec les solvants. Température maximale 180 °C, stérilisable par toutes les méthodes usuelles.",
+      "variant_name_fr": "10 - 1500 mL",
+      "price_gbp": 1533.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOM2444"
+    },
+    {
+      "sku": "HOM2456",
+      "slug": "outil-dispersion-ika-s10d-7g-ks-65-t10-ultra-turrax",
+      "brand": "IKA",
+      "name_fr": "Outil de dispersion IKA S10D-7G-KS-65 pour ULTRA-TURRAX T 10",
+      "description_fr": "Élément disperseur en plastique conçu pour les appareils T 10 basic et T 10 standard. Plage de traitement de 1 à 20 mL, diamètre 7 mm, profondeur d'immersion de 20 à 65 mm. Matériaux PC/PSU, température maximale 100 °C, autoclavable.",
+      "variant_name_fr": "1 - 20 mL",
+      "price_gbp": 585.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOM2456"
+    },
+    {
+      "sku": "HOM3058",
+      "slug": "billes-acier-inox-benchmark-2-8mm-lavees-acide",
+      "brand": "Benchmark",
+      "name_fr": "Billes en acier inoxydable Benchmark 2,8 mm, lavées à l'acide — vrac",
+      "description_fr": "Billes d'acier de 2,8 mm de diamètre en conditionnement vrac, destinées à l'homogénéisation d'échantillons difficiles : tissus musculaires, matériel végétal, graines et échantillons séchés. Billes lavées à l'alcool et traitées thermiquement pour éliminer les contaminants, garanties sans nucléase ni protéase. Compatibles avec tout homogénéisateur à billes.",
+      "variant_name_fr": "2,8 mm, vrac",
+      "price_gbp": 663.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOM3058"
+    },
+    {
+      "sku": "HOM6112",
+      "slug": "support-tige-branson-sfx150-sfx250-sfx550",
+      "brand": "Branson",
+      "name_fr": "Support avec tige Branson pour SFX150, SFX250 et SFX550 (pince vendue séparément)",
+      "description_fr": "Statif de support avec tige en acier inoxydable, conçu pour recevoir le convertisseur 20 kHz Branson. Le porte-convertisseur maintient l'ensemble ultrasonique (convertisseur et sonotrode) et permet un positionnement précis de la sonde dans l'échantillon. Embase en fonte émaillée noire, tige zinguée. Dimensions embase : 229 x 140 mm ; tige : 609 mm x 13 mm de diamètre. Pince de convertisseur HOM6120 pour SFX150 et Sonifiers SLP, ou HOM6122 pour SFX250, SFX550, 250A, 250D, 450A, 450D — vendues séparément.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 213.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HOM6112"
+    },
+    {
+      "sku": "MIL1014",
+      "slug": "couteau-etoile-ika-a10-basic",
+      "brand": "IKA",
+      "name_fr": "Couteau en étoile IKA pour broyeur A10 Basic",
+      "description_fr": "Élément de coupe en étoile pour le broyeur discontinu A10 Basic, conçu pour le broyage de matériaux durs, cassants, tendres ou fibreux, jusqu'à 50 mL. Le broyeur ne démarre qu'une fois le couvercle fermé et ne peut être ouvert qu'à l'arrêt complet, avec fonction d'arrêt rapide pour la sécurité de l'utilisateur. Minuteur numérique avec affichage du temps de broyage, fonctionnement par intervalles, moteur sans balais pour une longue durée de vie et un faible niveau sonore, connexions de refroidissement intégrées, affichage des codes d'erreur. Couteau/batteur facilement interchangeable selon l'application ; réducteur de chambre de broyage fourni pour les petits volumes d'échantillon.",
+      "variant_name_fr": "Jusqu'à 50 mL",
+      "price_gbp": 202.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIL1012"
+    },
+    {
+      "sku": "MIL2172",
+      "slug": "tube-rotor-stator-ika-dt-20-m-gamma-20ml",
+      "brand": "IKA",
+      "name_fr": "Tube rotor-stator IKA DT-20-M-Gamma à membrane perçable, stérile, 20 mL",
+      "description_fr": "Tube à usage unique hermétiquement scellé pour le système ULTRA-TURRAX Tube Drive, conçu pour le broyage, la dispersion et le mélange d'échantillons infectieux, toxiques ou à forte odeur en toute sécurité. Élimine les risques de contamination croisée liés au nettoyage entre échantillons, utilisable seul ou en série. Le système Tube Drive fonctionne à une vitesse réglable de 300 à 6000 tr/min par pas de 10 tr/min, pour des volumes d'échantillon de 2 à 50 mL (tubes de 20 ou 50 mL). Écran OLED pour une navigation simple et précise, interface USB pour le contrôle et la documentation, bibliothèque de conditions programmables, fonction marche arrière réglable et touche turbo pour un mélange, une homogénéisation ou un broyage intensif de courte durée. Tubes disponibles avec dispositifs d'agitation, éléments rotor/stator, billes de verre ou d'acier inoxydable, membranes perçables, et versions stérilisées par irradiation gamma.",
+      "variant_name_fr": "20 mL, membrane perçable, stérile",
+      "price_gbp": 393.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIL2190"
+    },
+    {
+      "sku": "SLS1403",
+      "slug": "rotor-12-tubes-5ml-sls-velociruptor-v2",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Rotor 12 x 5 mL pour VelociRuptor V2 — tubes diamètre 20 mm",
+      "description_fr": "Rotor porte-tubes en acier inoxydable pour l'homogénéisateur VelociRuptor 24, permettant la lyse, le broyage et l'homogénéisation d'une large variété d'échantillons biologiques, y compris les plus résistants, souvent en 35 secondes ou moins. Soumet jusqu'à 24 échantillons simultanément à un mouvement 3D haute vitesse optimisé, générant des impacts à haute énergie entre les échantillons et les micro-billes pour libérer le contenu cellulaire. Moteur sans balais, action de mélange puissante pour la lyse, le broyage ou l'homogénéisation, plus rapide et plus efficace que les broyeurs à tissus classiques, sans contamination croisée liée aux homogénéisateurs manuels. Programmation possible en cycles courts consécutifs avec période de repos pour protéger les échantillons fragiles ou thermosensibles. Ce rotor 12 x 5 mL est une alternative au rotor optionnel 6 x 5 mL pour volumes d'échantillon plus importants (version V2 uniquement).",
+      "variant_name_fr": "12 x 5 mL",
+      "price_gbp": 205.92,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS1406"
+    }
+  ]
+}

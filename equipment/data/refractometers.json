@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "refractometres",
+    "parent_slug": "equipements",
+    "name": { "fr": "Réfractomètres", "en": "Refractometers" },
+    "description": {
+      "fr": "Réfractomètres portables et de paillasse pour la mesure de l'indice de réfraction, du taux de Brix et de la concentration en sucres ou en sel, destinés aux laboratoires agroalimentaires, viticoles, chimiques et industriels."
+    }
+  },
+  "products": [
+    {
+      "sku": "PHM2632",
+      "slug": "refractometre-mettler-toledo-refracto-30gs",
+      "brand": "METTLER",
+      "name_fr": "Réfractomètre Mettler Toledo Refracto 30GS",
+      "description_fr": "Réfractomètre portable et de paillasse combinant méthode de réflexion totale et mesure précise de la température pour des résultats fiables en quelques secondes. Prisme saphir serti dans une bague en laiton doré, offrant la plus large plage de mesure de sa catégorie. Compensation automatique ramenant l'indice de réfraction à une température de référence de 20 °C, avec jusqu'à 10 coefficients de correction personnalisables. Cellule immersible ou utilisable à plat pour un dépôt direct d'échantillon. Mémoire de 1100 résultats horodatés, transfert des données par interface infrarouge vers PC ou imprimante.",
+      "variant_name_fr": "Prisme saphir, cellule immergeable",
+      "price_gbp": 4156.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM2632"
+    },
+    {
+      "sku": "REF0020",
+      "slug": "refractometre-hanna-hi-96813-vin-brix-alcool",
+      "brand": "HANNA",
+      "name_fr": "Réfractomètre numérique Hanna HI-96813 pour le vin — Brix et alcool potentiel",
+      "description_fr": "Réfractomètre numérique dédié au suivi de la concentration en sucres dans le vin, robuste, léger et étanche (IP65) pour un usage en cave comme sur le terrain. Affiche simultanément le taux de Brix et l'alcool potentiel en % V/V, avec un facteur de conversion ajustable entre 0,50 et 0,70 selon le cépage. Mise à zéro à l'eau pure, compensation automatique de température, cuve en acier inoxydable facile à nettoyer. Mesure en 1,5 seconde, fonctionnement sur pile avec arrêt automatique.",
+      "variant_name_fr": "Brix / alcool potentiel",
+      "price_gbp": 409.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF0020"
+    },
+    {
+      "sku": "REF1012",
+      "slug": "refractometre-hanna-hi-96821-sel-agroalimentaire",
+      "brand": "HANNA",
+      "name_fr": "Réfractomètre numérique Hanna HI-96821 pour la mesure du sel en agroalimentaire",
+      "description_fr": "Réfractomètre numérique portable mesurant la concentration en chlorure de sodium des solutions aqueuses utilisées en préparation alimentaire (non destiné à la salinité de l'eau de mer). Calibration simple à l'eau distillée ou déminéralisée, lecture en quelques secondes avec une résolution de 0,1 et une précision de 0,2 %. Écran LCD double affichant simultanément mesure et température, compensation automatique de température, boîtier étanche à cuve inox facile d'entretien. Fonctionne sur pile 9 V avec arrêt automatique après 3 minutes d'inactivité.",
+      "variant_name_fr": "Mesure du sel, précision 0,2 %",
+      "price_gbp": 409.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1012"
+    },
+    {
+      "sku": "REF1044",
+      "slug": "refractometre-bellingham-stanley-rfm712-m",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM712-M",
+      "description_fr": "Réfractomètre numérique automatique de la série RFM700-M, économique et robuste, couvrant une plage de 0 à 50 Brix avec une précision à une décimale. Conçu pour les environnements de production agroalimentaire et de boissons ne nécessitant pas de régulation de température. Prisme saphir plat monté dans une cuve inox facile à nettoyer, clavier alphanumérique, boîtier scellé résistant aux projections. Modes de lecture continue, unique ou auto-détection intelligente ; calibration Span sur tout point de la plage et compensation AG disponibles.",
+      "variant_name_fr": "0-50 Brix, 1 décimale",
+      "price_gbp": 8136.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1044"
+    },
+    {
+      "sku": "REF1046",
+      "slug": "refractometre-bellingham-stanley-rfm732-m",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM732-M",
+      "description_fr": "Réfractomètre numérique de la série RFM700-M couvrant toute la plage 0-100 Brix avec une précision à une décimale, adapté à la mesure de solutions faiblement comme fortement concentrées, notamment les sirops de sucre en fabrication de boissons ou de confiserie. Prisme saphir plat, cuve inox facile à nettoyer, boîtier scellé résistant aux projections et à l'humidité. Résultats compensés en température à 20 °C selon la norme ICUMSA, échelles utilisateur additionnelles (vin, indice de réfraction, FSII) et calibration Span sur tout point de la plage.",
+      "variant_name_fr": "0-100 Brix, 1 décimale",
+      "price_gbp": 8532.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1046"
+    },
+    {
+      "sku": "REF1048",
+      "slug": "refractometre-bellingham-stanley-rfm742-m",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM742-M",
+      "description_fr": "Réfractomètre numérique de la série RFM700-M offrant une précision à deux décimales sur toute la plage 0-100 Brix, conçu pour les usines de boissons nécessitant une résolution fine. Prisme saphir plat monté en cuve inox facile à nettoyer, boîtier scellé résistant aux projections, clavier alphanumérique et modes de lecture continue, unique ou auto-détection intelligente. Compensation de température à 20 °C conforme ICUMSA, échelles utilisateur additionnelles et calibration Span sur tout point de la plage.",
+      "variant_name_fr": "0-100 Brix, 2 décimales",
+      "price_gbp": 10190.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1048"
+    },
+    {
+      "sku": "REF1144",
+      "slug": "refractometre-bellingham-stanley-rfm330-t-tactile",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM330-T à écran tactile, régulation Peltier",
+      "description_fr": "Réfractomètre numérique tactile à deux décimales couvrant 0-100 Brix (indice de réfraction 1,58), avec régulation de température Peltier intégrée pour les applications agroalimentaires, chimiques et industrielles exigeantes. Faisceau large permettant la mesure d'échantillons non homogènes (jus avec pulpe, émulsions, composés opaques), prisme plat en cuve inox à nettoyage facile entourée d'une barrière anti-projection en PEEK. Écran tactile haute définition utilisable avec des gants, technologie RFID pour la traçabilité des opérateurs, conforme 21 CFR Part 11. Mémoire de 8000 résultats avec limites préréglées pour l'audit.",
+      "variant_name_fr": "Écran tactile, régulation Peltier",
+      "price_gbp": 11853.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1144"
+    },
+    {
+      "sku": "REF1146",
+      "slug": "refractometre-bellingham-stanley-rfm330-m-membrane",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM330-M à clavier membrane, régulation Peltier",
+      "description_fr": "Réfractomètre numérique à deux décimales couvrant 0-100 Brix (indice de réfraction 1,58) avec régulation de température Peltier, destiné aux applications agroalimentaires, chimiques et industrielles exigeantes. Faisceau large pour la mesure d'échantillons non homogènes (jus avec pulpe, émulsions, composés opaques), prisme plat en cuve inox facile à nettoyer entourée d'une barrière anti-projection en PEEK. Clavier membrane robuste résistant aux produits chimiques et aux rayures, écran 4 pouces haute résolution, technologie RFID conforme 21 CFR Part 11.",
+      "variant_name_fr": "Clavier membrane, régulation Peltier",
+      "price_gbp": 12909.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1146"
+    },
+    {
+      "sku": "REF1148",
+      "slug": "refractometre-bellingham-stanley-rfm340-t-tactile",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique Bellingham + Stanley RFM340-T à écran tactile 7 pouces, régulation Peltier",
+      "description_fr": "Réfractomètre numérique tactile à trois décimales couvrant 0-100 Brix (six décimales en indice de réfraction, 1,58 RI), avec régulation de température Peltier pour les applications agroalimentaires, chimiques et industrielles exigeantes. Écran tactile capacitif haute définition de 7 pouces, faisceau large pour échantillons non homogènes, prisme plat en cuve inox entourée d'une barrière anti-projection en PEEK. Technologie RFID pour la traçabilité des opérateurs, mémoire de 8000 résultats avec limites préréglées pour l'audit qualité.",
+      "variant_name_fr": "Écran tactile 7'', précision 3 décimales",
+      "price_gbp": 12700.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1148"
+    },
+    {
+      "sku": "REF11580",
+      "slug": "refractometre-opti-portable-multi-echelles",
+      "brand": "BELLINGHAM STANLEY",
+      "name_fr": "Réfractomètre numérique portable OPTi à échelles multiples",
+      "description_fr": "Réfractomètre numérique de poche couvrant 0-95 Brix et plus de 40 échelles additionnelles, avec une bibliothèque embarquée de 50 échelles dont 3 activables simultanément. Boîtier ergonomique étanche IP65, cuve prisme en acier inoxydable moulée par injection, écran LCD à lecture directe en quatre décimales. Lecture en 2 secondes, capteur de détection de forte luminosité ambiante, mode « AG Test » compatible matériaux de référence longue durée sans saccharose, compensation automatique de température et délai de lecture programmable pour la stabilisation thermique de l'échantillon.",
+      "variant_name_fr": "0-95 Brix, bibliothèque de 50 échelles",
+      "price_gbp": 7050.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/REF1158"
+    }
+  ]
+}

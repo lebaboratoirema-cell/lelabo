@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "microscopes",
+    "parent_slug": "equipements",
+    "name": { "fr": "Microscopes", "en": "Microscopes" },
+    "description": {
+      "fr": "Microscopes optiques binoculaires et trinoculaires pour l'enseignement, la clinique et la recherche, du champ clair au contraste de phase et à la fluorescence."
+    }
+  },
+  "products": [
+    {
+      "sku": "MIC0122",
+      "slug": "microscope-optique-binoculaire-sls-lab-basics-magnum-4-objectifs",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Microscope optique binoculaire SLS Lab Basics Magnum — objectifs plan achromatiques 4x/10x/40x/100x, éclairage LED",
+      "description_fr": "Microscope de la gamme Magnum, construit sur une embase en T offrant une grande stabilité et un confort d'utilisation adapté aux observations prolongées. Objectifs plan achromatiques à l'infini (4x, 10x, 40x et 100x à immersion, montés sur ressort), oculaires grand champ 10x/20 mm. Condenseur Abbe champ clair NA 0,9 (1,25 à l'huile) avec diaphragme iris et porte-filtre, mise au point par crémaillère. Platine 210 x 410 mm avec déplacements transversal 90 mm et longitudinal 60 mm, vernier au 1/10 mm. Éclairage LED 3 W à intensité réglable (version halogène disponible).",
+      "variant_name_fr": "Binoculaire, 4 objectifs (4x/10x/40x/100x)",
+      "price_gbp": 2385.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC0105"
+    },
+    {
+      "sku": "MIC0124",
+      "slug": "microscope-optique-trinoculaire-sls-lab-basics-magnum-4-objectifs",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Microscope optique trinoculaire SLS Lab Basics Magnum — objectifs plan achromatiques 4x/10x/40x/100x, éclairage LED",
+      "description_fr": "Version trinoculaire de la gamme Magnum, permettant le raccordement d'une caméra numérique pour l'enregistrement et l'analyse d'image. Embase en T stable, objectifs plan achromatiques à l'infini 4x, 10x, 40x et 100x à immersion (montés sur ressort), oculaires grand champ 10x/20 mm. Condenseur Abbe champ clair NA 0,9 (1,25 à l'huile) avec diaphragme iris et porte-filtre. Platine 210 x 410 mm, déplacements 90 x 60 mm, vernier au 1/10 mm. Éclairage LED 3 W à intensité réglable.",
+      "variant_name_fr": "Trinoculaire, 4 objectifs (4x/10x/40x/100x)",
+      "price_gbp": 2496.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC0105"
+    },
+    {
+      "sku": "MIC1112",
+      "slug": "microscope-optique-trinoculaire-olympus-cx43-contraste-phase",
+      "brand": "Olympus",
+      "name_fr": "Microscope optique trinoculaire Olympus CX43 — champ clair, contraste de phase et fond noir, objectifs 4x/10x/20x/40x/100x",
+      "description_fr": "Microscope clinique polyvalent à condenseur universel intégré permettant l'observation en champ clair, contraste de phase et fond noir. Platine et margeur abaissés pour un meilleur confort d'utilisation et un débit d'échantillons accru. Éclairage LED intégré offrant une lumière stable et uniforme à faible consommation, avec restitution fidèle des couleurs. Objectifs UIS2 PLCN plan achromatiques (4x, 10x, 40x, 100x à l'huile), oculaires grand champ 10x F.N. 20, réglage de l'écart interpupillaire de 48 à 75 mm. Nosepiece quintuple à révolution vers l'intérieur pour un changement rapide de lames, traitement antifongique des parties optiques. Module de fluorescence LED disponible en option.",
+      "variant_name_fr": "Trinoculaire, champ clair + contraste de phase + fond noir",
+      "price_gbp": 8314.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1104"
+    },
+    {
+      "sku": "MIC1582",
+      "slug": "microscope-recherche-trinoculaire-motic-ba410e-elite",
+      "brand": "Motic",
+      "name_fr": "Microscope de recherche trinoculaire Motic BA410 Elite — nosepiece sextuple, illumination Köhler 100 W",
+      "description_fr": "Plateforme de recherche destinée aux universités et laboratoires (hématologie, cytologie, histologie) offrant une excellente qualité d'image en optique comme en mécanique. Optiques CCIS à l'infini avec planéité de champ jusqu'à 22 mm pour des couleurs fidèles et une fatigue oculaire réduite. Objectifs EC-H multicouches pour le champ clair et le contraste de phase, corrigés de l'aberration sphérique. Platine mécanique coaxiale rackless à faible position, course 80 x 55 mm, avec insert céramique. Illumination Köhler externe 12V/50W halogène quartz (version 100W disponible) à intensité réglable, fonctions de coupure et mémoire automatiques. Compatible contraste de phase, fond noir, polarisation et évolution vers l'épifluorescence (jusqu'à 4 cubes de filtres).",
+      "variant_name_fr": "Trinoculaire, nosepiece sextuple, 100 W",
+      "price_gbp": 5313.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC1582"
+    },
+    {
+      "sku": "MIC2004",
+      "slug": "microscope-optique-binoculaire-motic-ba210-led",
+      "brand": "Motic",
+      "name_fr": "Microscope optique binoculaire Motic BA210 LED",
+      "description_fr": "Microscope droit destiné à l'observation d'échantillons transparents (coupes, frottis, préparations natives) en sciences naturelles, conçu pour l'enseignement et les petits laboratoires. Objectifs plan achromatiques CCIS EC, oculaires grand champ N-WF 10x/20 pour une prise en main rapide et un ajustement individuel aisé. Éclairage LED 3 W en configuration Köhler fixe, condenseur NA 1,25 permettant l'observation d'échantillons faiblement ou non colorés. Platine traditionnelle à porte-lame revêtue durcie pour un usage intensif quotidien, mise au point coaxiale coarse/fine avec réglage de tension et incrément minimal de 2 µm. Contraste de phase positif ou négatif et fond noir (jusqu'à NA 0,65) disponibles en option.",
+      "variant_name_fr": "Binoculaire",
+      "price_gbp": 1674.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC2004"
+    },
+    {
+      "sku": "MIC2006",
+      "slug": "microscope-optique-trinoculaire-motic-ba210-led",
+      "brand": "Motic",
+      "name_fr": "Microscope optique trinoculaire Motic BA210 LED",
+      "description_fr": "Version trinoculaire du BA210 LED, autorisant l'ajout d'une caméra numérique pour la documentation. Objectifs plan achromatiques CCIS EC pour échantillons transparents, oculaires grand champ N-WF 10x/20. Éclairage LED 3 W en configuration Köhler fixe, condenseur NA 1,25 pour échantillons faiblement ou non colorés. Platine à porte-lame revêtue durcie, mise au point coaxiale coarse/fine avec incrément minimal de 2 µm. Contraste de phase positif ou négatif et fond noir (jusqu'à NA 0,65) disponibles en option.",
+      "variant_name_fr": "Trinoculaire",
+      "price_gbp": 1603.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC2006"
+    },
+    {
+      "sku": "MIC2018",
+      "slug": "microscope-optique-trinoculaire-motic-ba310-led",
+      "brand": "Motic",
+      "name_fr": "Microscope optique trinoculaire Motic BA310 LED",
+      "description_fr": "Microscope destiné aux universités, cliniques et laboratoires de sciences de la vie, équipé des optiques à l'infini CCIS avec objectifs EC Plan Achromat en configuration Köhler complète pour une illumination optimale des échantillons les plus exigeants. Tête trinoculaire Siedentopf inclinée à 30°, rotation 360°, oculaires grand champ N-WF 10x/20 à dioptrie réglable sur les deux tubes. Nosepiece quintuple inversé, objectifs CCIS EF-N Plan Achromatique 4x, 10x, 40x (S) et 100x (S, huile). Mise au point coaxiale coarse/fine avec réglage de tension, platine mécanique coaxiale basse position intégrée. Condenseur Abbe focalisable NA 0,90/1,25 avec diaphragme iris, éclairage LED 3 W à intensité réglable. Livré avec filtre bleu 45 mm, huile à immersion et housse de protection.",
+      "variant_name_fr": "Trinoculaire",
+      "price_gbp": 2554.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC2018"
+    },
+    {
+      "sku": "MIC2935",
+      "slug": "microscope-optique-binoculaire-motic-ba310e-elite",
+      "brand": "Motic",
+      "name_fr": "Microscope optique binoculaire Motic BA310E Elite",
+      "description_fr": "Version Elite du BA310 à platine rackless, offrant une course étendue de 80 x 55 mm et un porte-échantillon adapté à un débit important de lames. Optiques à l'infini CCIS avec objectifs EC Plan Achromat en configuration Köhler complète. Options d'éclairage interchangeables : ampoule halogène 6V/30W ou modules LED de températures de couleur différentes (4500K, 6000K) sur la même douille. Modules de fluorescence LED disponibles en complément pour une excitation efficace en mode plug-and-play, avec réglage d'intensité protégeant l'échantillon du blanchiment.",
+      "variant_name_fr": "Binoculaire",
+      "price_gbp": 2362.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC2935"
+    },
+    {
+      "sku": "MIC2937",
+      "slug": "microscope-optique-trinoculaire-motic-ba310e-elite",
+      "brand": "Motic",
+      "name_fr": "Microscope optique trinoculaire Motic BA310E Elite",
+      "description_fr": "Version trinoculaire Elite du BA310, à platine rackless et course étendue 80 x 55 mm, permettant le raccordement d'une caméra numérique. Optiques à l'infini CCIS avec objectifs EC Plan Achromat en configuration Köhler complète. Éclairage interchangeable halogène 6V/30W ou LED (4500K/6000K), modules de fluorescence LED disponibles en option avec réglage d'intensité pour protéger l'échantillon du blanchiment.",
+      "variant_name_fr": "Trinoculaire",
+      "price_gbp": 2677.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC2937"
+    },
+    {
+      "sku": "MIC5206",
+      "slug": "microscope-optique-leica-dm500-systeme-4-contraste-phase",
+      "brand": "Leica Microsystems",
+      "name_fr": "Microscope optique Leica DM500 Système 4 — champ clair et contraste de phase",
+      "description_fr": "Microscope conçu pour les premiers niveaux d'enseignement en sciences de la vie, à mise en service immédiate : allumage, dépôt de la lame, mise au point. Statif droit avec nosepiece 4 positions, platine mécanique à crémaillère non extensible et porte-lame, condenseur Abbe précentré et préréglé avec fente pour curseurs de phase et fond noir, éclairage LED. Tube binoculaire 30° avec oculaires 10x/18 à dioptrie préréglée. Objectifs plan HI PLAN pour contraste de phase 10x/0,25 PH1, 20x/0,40 PH1, 40x/0,65 PH2 et 100x/1,25 à l'huile PH3, curseur de phase 4 positions (champ clair, 10x, 20x, 40x, 100x). Livré avec huile à immersion et cordon secteur UK.",
+      "variant_name_fr": "Binoculaire, champ clair + contraste de phase",
+      "price_gbp": 3058.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MIC5200"
+    }
+  ]
+}

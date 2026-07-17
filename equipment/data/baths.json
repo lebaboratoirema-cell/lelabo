@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "bains",
+    "parent_slug": "equipements",
+    "name": { "fr": "Bains thermostatés", "en": "Baths" },
+    "description": {
+      "fr": "Bains-marie thermostatés, circulateurs, bains agités et leurs accessoires (fluides, désinfectants, portoirs) pour le contrôle de température en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "8940006GB",
+      "slug": "desinfectant-aqua-stabil-phmb-free-6x100ml",
+      "brand": "Julabo",
+      "name_fr": "Désinfectant Aqua Stabil sans PHMB — 6 x 100 mL",
+      "description_fr": "Désinfectant pour l'eau des bains ouverts, prévient la contamination du fluide de bain et prolonge sa durée de vie lors des applications de régulation thermique. Effet germicide empêchant la formation d'algues, bactéries et micro-organismes. Excellente conductivité thermique, odeur minimale. Dosage : 2 mL par litre d'eau. Remplacer l'eau et le produit si la couleur bleue s'estompe, ou tous les trois mois maximum.",
+      "variant_name_fr": "6 x 100 mL",
+      "price_gbp": 301.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/8940006GB"
+    },
+    {
+      "sku": "BAT5644",
+      "slug": "isolation-tuyauterie-julabo-14mm-1m",
+      "brand": "Julabo",
+      "name_fr": "Isolation de tuyauterie Julabo 14 mm DI, pour tubes 8/10 mm DI, 1 m",
+      "description_fr": "Manchon isolant pour tuyauterie de circulation de bains thermostatés Julabo, diamètre intérieur 14 mm, compatible tubes de 8 et 10 mm DI. Longueur 1 mètre. Limite les pertes thermiques et la condensation sur les circuits de circulation externe.",
+      "variant_name_fr": "1 m",
+      "price_gbp": 31.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT5638"
+    },
+    {
+      "sku": "BAT7182",
+      "slug": "portoir-tubes-essai-clifton-26x17mm",
+      "brand": "Nickel Electro",
+      "name_fr": "Portoir à tubes à essai Clifton — trous 26 x 17 mm",
+      "description_fr": "Portoir à tubes à essai en acier inoxydable 304 (18/8) non magnétique, finition brillante. Livré à plat pour montage, démontable facilement pour le nettoyage et la stérilisation. Idéal pour l'organisation des tubes dans les bains-marie.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 76.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT7180"
+    },
+    {
+      "sku": "BAT8172",
+      "slug": "fluide-bain-julabo-thermal-g-10l",
+      "brand": "Julabo",
+      "name_fr": "Fluide de bain Julabo Thermal G — 10 L",
+      "description_fr": "Fluide de bain à base d'eau-glycol (monoéthylèneglycol avec additifs anticorrosion), sélectionné et testé pour des propriétés thermodynamiques optimales avec les instruments Julabo. Excellente conductivité thermique, faible viscosité, protection antigel permettant l'usage sous 0 °C. Plage de travail : -30 à +80 °C. Respecter le ratio de mélange indiqué (50:50 eau/glycol) et contrôler régulièrement la proportion lors d'un usage prolongé.",
+      "variant_name_fr": "10 L",
+      "price_gbp": 356.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT8171"
+    },
+    {
+      "sku": "BAT8266",
+      "slug": "couvercle-pignon-memmert-cdp115",
+      "brand": "Memmert",
+      "name_fr": "Couvercle pignon spécial Memmert pour dispositif d'agitation ou unité de refroidissement Peltier CDP115",
+      "description_fr": "Couvercle pignon compatible avec dispositif d'agitation et unité de refroidissement Peltier, pour bains Memmert 29 L et 45 L (références BAT8212, BAT8214, BAT8224, BAT8226, BAT8238, BAT8240, BAT8228).",
+      "variant_name_fr": "Standard",
+      "price_gbp": 237.34,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT8266"
+    },
+    {
+      "sku": "DD670935",
+      "slug": "desinfectant-aquabator-clean-250ml",
+      "brand": null,
+      "name_fr": "Désinfectant pour bain-marie Aquabator-Clean (100x) — 250 mL",
+      "description_fr": "Désinfectant concentré actif contre bactéries et champignons dans les bains-marie. Dosage : 10 mL par litre d'eau ; renouveler l'eau toutes les 4 à 6 semaines et ajouter le produit toutes les une à deux semaines. Stable jusqu'à 100 °C, biodégradable.",
+      "variant_name_fr": "250 mL",
+      "price_gbp": 75.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DD670935"
+    },
+    {
+      "sku": "B2B2404",
+      "slug": "bain-circulant-benchmark-mybath-cr-10l",
+      "brand": "Benchmark",
+      "name_fr": "Bain-marie circulant Benchmark myBath CR — 10 L",
+      "description_fr": "Bain-marie à circulation continue assurant une température uniforme dans toute la cuve, sans zones froides, avec récupération rapide après insertion d'échantillons congelés. Régulation numérique PID précise, affichage numérique des températures consigne et réelle. Cuve et serpentin chauffant en acier inoxydable, facile à nettoyer. Plage : ambiante +5 à 100 °C. Accessoires optionnels : portoirs à tubes et couvercle en gable.",
+      "variant_name_fr": "10 L",
+      "price_gbp": 844.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT1134"
+    },
+    {
+      "sku": "B2B2406",
+      "slug": "bain-circulant-benchmark-mybath-cr-20l",
+      "brand": "Benchmark",
+      "name_fr": "Bain-marie circulant Benchmark myBath CR — 20 L",
+      "description_fr": "Bain-marie à circulation continue assurant une température uniforme dans toute la cuve, sans zones froides, avec récupération rapide après insertion d'échantillons congelés. Régulation numérique PID précise, affichage numérique des températures consigne et réelle. Cuve et serpentin chauffant en acier inoxydable, facile à nettoyer. Plage : ambiante +5 à 100 °C. Accessoires optionnels : portoirs à tubes et couvercle en gable.",
+      "variant_name_fr": "20 L",
+      "price_gbp": 985.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT1136"
+    },
+    {
+      "sku": "B2B2434",
+      "slug": "bain-agite-cole-parmer-wbs-300-24l",
+      "brand": "Cole-Parmer",
+      "name_fr": "Bain agité Cole-Parmer WBS-300 Stuart — 24 L",
+      "description_fr": "Bain-marie polyvalent : agitation linéaire, orbitale ou statique selon la plateforme installée, changement rapide par accouplement magnétique. Plateformes en acier inoxydable à ressorts haute tension, capacité jusqu'à 8 x 250 mL, 6 x 500 mL ou 4 x 1 L en fioles Erlenmeyer. Réglages analogiques de vitesse et température, affichage LED. Cuve inox à vidange intégrée. Vitesse d'agitation 20 à 130 tr/min, course 20 mm. Sécurités de surchauffe et de niveau bas.",
+      "variant_name_fr": "24 L",
+      "price_gbp": 2595.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BAT1100"
+    },
+    {
+      "sku": "B2B9374T",
+      "slug": "bain-agite-sls-lab-pro-28l-couvercle-polycarbonate",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Bain agité SLS Lab Pro 28 L avec couvercle en polycarbonate transparent",
+      "description_fr": "Bain-marie agité à régulation PID précise, affichage LED des températures consigne et réelle au 0,1 °C, réglages tactiles. Résistances et sonde dissimulées sous la cuve pour un plan de travail dégagé et facile à nettoyer, chauffe rapide et faible consommation. Cuve en acier inoxydable résistant à la corrosion, coffret peint à finition anti-bactérienne. Vitesse d'agitation réglable de 0 à 380 tr/min par molette graduée, course variable jusqu'à 40 mm. Alarme de sur/sous-température automatique (±4 °C), coupure thermique de sécurité, pieds antidérapants.",
+      "variant_name_fr": "28 L",
+      "price_gbp": 2070.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS1528_7"
+    }
+  ]
+}

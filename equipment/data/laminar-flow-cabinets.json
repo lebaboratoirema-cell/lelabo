@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "laminar-flow-cabinets",
+    "parent_slug": "equipements",
+    "name": { "fr": "Postes à flux laminaire", "en": "Laminar Flow Cabinets" },
+    "description": {
+      "fr": "Postes à flux laminaire horizontal pour la protection des échantillons contre les contaminations particulaires, avec filtration HEPA/ULPA et classes d'air ISO adaptées aux laboratoires, à la pharmacie et aux salles blanches."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2902",
+      "slug": "poste-flux-laminaire-thermo-heraguard-eco-09m",
+      "brand": "Thermo Scientific",
+      "name_fr": "Poste à flux laminaire horizontal Thermo Scientific Heraguard ECO — 0,9 m",
+      "description_fr": "Poste à flux laminaire horizontal pensé pour protéger les échantillons tout en limitant la consommation électrique grâce à sa motorisation à courant continu (DC). Assure une classe ISO 5 minimum dans la zone de travail et un environnement conforme EU GMP Grade A, validable dans le temps. Convient aux usages hospitaliers, pharmaceutiques, en salle blanche et en milieu industriel où la protection de l'échantillon contre la contamination est requise.",
+      "variant_name_fr": "0,9 m",
+      "price_gbp": 6408.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2902"
+    },
+    {
+      "sku": "B2B2904",
+      "slug": "poste-flux-laminaire-thermo-heraguard-eco-12m",
+      "brand": "Thermo Scientific",
+      "name_fr": "Poste à flux laminaire horizontal Thermo Scientific Heraguard ECO — 1,2 m",
+      "description_fr": "Poste à flux laminaire horizontal pensé pour protéger les échantillons tout en limitant la consommation électrique grâce à sa motorisation à courant continu (DC). Assure une classe ISO 5 minimum dans la zone de travail et un environnement conforme EU GMP Grade A, validable dans le temps. Convient aux usages hospitaliers, pharmaceutiques, en salle blanche et en milieu industriel où la protection de l'échantillon contre la contamination est requise.",
+      "variant_name_fr": "1,2 m",
+      "price_gbp": 6520.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2902"
+    },
+    {
+      "sku": "B2B2906",
+      "slug": "poste-flux-laminaire-thermo-heraguard-eco-15m",
+      "brand": "Thermo Scientific",
+      "name_fr": "Poste à flux laminaire horizontal Thermo Scientific Heraguard ECO — 1,5 m",
+      "description_fr": "Poste à flux laminaire horizontal pensé pour protéger les échantillons tout en limitant la consommation électrique grâce à sa motorisation à courant continu (DC). Assure une classe ISO 5 minimum dans la zone de travail et un environnement conforme EU GMP Grade A, validable dans le temps. Convient aux usages hospitaliers, pharmaceutiques, en salle blanche et en milieu industriel où la protection de l'échantillon contre la contamination est requise.",
+      "variant_name_fr": "1,5 m",
+      "price_gbp": 7616.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2902"
+    },
+    {
+      "sku": "B2B2908",
+      "slug": "poste-flux-laminaire-thermo-heraguard-eco-18m",
+      "brand": "Thermo Scientific",
+      "name_fr": "Poste à flux laminaire horizontal Thermo Scientific Heraguard ECO — 1,8 m",
+      "description_fr": "Poste à flux laminaire horizontal pensé pour protéger les échantillons tout en limitant la consommation électrique grâce à sa motorisation à courant continu (DC). Assure une classe ISO 5 minimum dans la zone de travail et un environnement conforme EU GMP Grade A, validable dans le temps. Convient aux usages hospitaliers, pharmaceutiques, en salle blanche et en milieu industriel où la protection de l'échantillon contre la contamination est requise.",
+      "variant_name_fr": "1,8 m",
+      "price_gbp": 7946.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B2902"
+    },
+    {
+      "sku": "CAB1203",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-09m-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 0,9 m, hauteur de travail 0,6 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 0,9 m / hauteur 0,6 m",
+      "price_gbp": 5832.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    },
+    {
+      "sku": "CAB1204",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-12m-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 1,2 m, hauteur de travail 0,6 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 1,2 m / hauteur 0,6 m",
+      "price_gbp": 5832.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    },
+    {
+      "sku": "CAB1205",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-15m-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 1,5 m, hauteur de travail 0,6 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 1,5 m / hauteur 0,6 m",
+      "price_gbp": 8150.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    },
+    {
+      "sku": "CAB1206",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-18m-06m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 1,8 m, hauteur de travail 0,6 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 1,8 m / hauteur 0,6 m",
+      "price_gbp": 8150.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    },
+    {
+      "sku": "CAB1207",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-09m-08m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 0,9 m, hauteur de travail 0,8 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 0,9 m / hauteur 0,8 m",
+      "price_gbp": 6862.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    },
+    {
+      "sku": "CAB1208",
+      "slug": "poste-flux-laminaire-esco-airstream-gen3-12m-08m",
+      "brand": "ESCO",
+      "name_fr": "Poste à flux laminaire horizontal Esco Airstream Gen 3, vitres latérales — largeur 1,2 m, hauteur de travail 0,8 m",
+      "description_fr": "Nouvelle génération de postes à flux laminaire Esco Airstream alliant haute protection et faible consommation d'énergie grâce à un moteur DC ECM, jusqu'à 70 % d'économie face à un moteur AC classique, avec mode veille. Fonctionnement silencieux et flux d'air stable et auto-compensé. Revêtement poudre antimicrobien Isocide, filtration ULPA permettant d'atteindre la classe ISO 3, surveillance du débit d'air en temps réel via le contrôleur Sentinel Gold à écran LCD.",
+      "variant_name_fr": "Largeur 1,2 m / hauteur 0,8 m",
+      "price_gbp": 6862.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CAB1203"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "dissolved-oxygen-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Oxymètres à oxygène dissous", "en": "Dissolved Oxygen Meters" },
+    "description": {
+      "fr": "Oxymètres de paillasse et portables pour la mesure de l'oxygène dissous en laboratoire, en environnement et en process industriels, avec sondes, kits et accessoires de calibration."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2914",
+      "slug": "oxymetre-paillasse-thermo-orion-do113-support-electrode",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Oxymètre de paillasse Thermo Scientific Orion Star DO113 — avec support d'électrode",
+      "description_fr": "Oxymètre de paillasse pour la mesure du taux de saturation en oxygène dissous ou de la concentration (ppm / mg/L) avec compensation de température. Écran rétroéclairé de 5 pouces et encombrement réduit sur la paillasse. Plage de mesure : 0 à 300 % de saturation, 0 à 30 mg/L (ou ppm), -5 à 105 °C. Calibrations à 100 % et 0 % de saturation, calibration en concentration à un point (méthode de Winkler) et ajustement de température. Compensation automatique de la pression barométrique (saisie manuelle en mmHg ou bar) et de la salinité (0 à 50 ppt). Journal de 500 points horodatés, export des données vers imprimante ou ordinateur pour la traçabilité GLP. Livré avec support d'électrode, câble de liaison PC et adaptateur secteur universel ; la sonde à oxygène dissous se commande séparément.",
+      "variant_name_fr": "Sans sonde, support d'électrode",
+      "price_gbp": 806.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1130"
+    },
+    {
+      "sku": "B2B2916",
+      "slug": "oxymetre-paillasse-thermo-orion-do113-kit-sonde-polarographique",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Oxymètre de paillasse Thermo Scientific Orion Star DO113 — kit complet avec sonde polarographique",
+      "description_fr": "Oxymètre de paillasse pour la mesure du taux de saturation en oxygène dissous ou de la concentration (ppm / mg/L) avec compensation de température. Écran rétroéclairé de 5 pouces et encombrement réduit sur la paillasse. Plage de mesure : 0 à 300 % de saturation, 0 à 30 mg/L (ou ppm), -5 à 105 °C. Calibrations à 100 % et 0 % de saturation, calibration en concentration à un point (méthode de Winkler) et ajustement de température. Compensation automatique de la pression barométrique et de la salinité (0 à 50 ppt). Journal de 500 points horodatés, export des données vers imprimante ou ordinateur pour la traçabilité GLP. Kit complet incluant la sonde polarographique DO/ATC avec manchon de calibration, le kit d'entretien de sonde, l'adaptateur pour essais DBO, le support d'électrode, le câble PC et l'adaptateur secteur universel — adapté à un large éventail d'échantillons, y compris la demande biochimique en oxygène (DBO).",
+      "variant_name_fr": "Kit complet, sonde 083005MD",
+      "price_gbp": 1266.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1135"
+    },
+    {
+      "sku": "DIS1028",
+      "slug": "oxymetre-portable-hanna-hi-9146-04",
+      "brand": "HANNA",
+      "name_fr": "Oxymètre portable Hanna Instruments HI-9146-04",
+      "description_fr": "Oxymètre portable robuste et résistant à l'eau, conçu pour la mesure de l'oxygène dissous et de la température dans l'eau, les eaux usées et les applications de pisciculture. Compense l'altitude (jusqu'à 4000 m) et la salinité (jusqu'à 80 g/L). Plage de mesure en oxygène dissous jusqu'à 300 %. Écran rétroéclairé pour une utilisation en faible luminosité, messages tutoriels à l'écran, indicateur de batterie faible. Calibration automatique dans l'air. Fourni avec sonde polarographique et câble de 4 m, deux membranes de rechange, mallette de transport rigide et notice d'utilisation.",
+      "variant_name_fr": "Sonde polarographique, câble 4 m",
+      "price_gbp": 968.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS1028"
+    },
+    {
+      "sku": "DIS1090",
+      "slug": "oxymetre-portable-mettler-fivego-f4-sans-capteur",
+      "brand": "METTLER",
+      "name_fr": "Oxymètre portable Mettler Toledo FiveGo F4 — sans capteur",
+      "description_fr": "Oxymètre portable ergonomique et robuste, conçu pour les mesures mobiles en laboratoire, à proximité des lignes de production ou en extérieur. Conception compacte et légère, utilisable à une seule main. Grand écran clair et bien structuré, boutons intuitifs et menu simple. Protection IP67 contre l'eau et la poussière, adaptée aux environnements exigeants. Vendu sans capteur : à associer à un capteur d'oxygène dissous compatible selon l'application.",
+      "variant_name_fr": "Sans capteur",
+      "price_gbp": 462.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS1090"
+    },
+    {
+      "sku": "DIS1091",
+      "slug": "oxymetre-portable-mettler-fivego-f4-kit-standard-le621",
+      "brand": "METTLER",
+      "name_fr": "Oxymètre portable Mettler Toledo FiveGo F4 — kit standard avec capteur LE621 IP67",
+      "description_fr": "Oxymètre portable ergonomique et robuste, conçu pour les mesures mobiles en laboratoire, à proximité des lignes de production ou en extérieur. Conception compacte et légère, utilisable à une seule main. Grand écran clair et bien structuré, boutons intuitifs et menu simple. Protection IP67 contre l'eau et la poussière. Kit standard livré avec le capteur d'oxygène dissous LE621, lui-même certifié IP67, pour un ensemble complet prêt à l'emploi.",
+      "variant_name_fr": "Kit standard, capteur LE621 IP67",
+      "price_gbp": 843.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS1091"
+    },
+    {
+      "sku": "DIS1092",
+      "slug": "oxymetre-portable-mettler-fivego-f4-kit-terrain-le621",
+      "brand": "METTLER",
+      "name_fr": "Oxymètre portable Mettler Toledo FiveGo F4 — kit terrain avec capteur LE621 IP67 et mallette de transport",
+      "description_fr": "Oxymètre portable ergonomique et robuste, conçu pour les mesures mobiles en laboratoire, à proximité des lignes de production ou en extérieur. Conception compacte et légère, utilisable à une seule main. Grand écran clair et bien structuré, boutons intuitifs et menu simple. Protection IP67 contre l'eau et la poussière. Kit terrain complet comprenant le capteur d'oxygène dissous LE621 IP67 et une mallette de transport pour les interventions hors laboratoire.",
+      "variant_name_fr": "Kit terrain, capteur LE621 IP67, mallette",
+      "price_gbp": 912.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS1092"
+    },
+    {
+      "sku": "DIS1132",
+      "slug": "oxymetre-paillasse-multiparametre-mettler-nf4000-ninefocus",
+      "brand": "METTLER",
+      "name_fr": "Oxymètre de paillasse multiparamètre Mettler Toledo NF4000 NineFocus — kit",
+      "description_fr": "Instrument de paillasse multiparamètre haute performance pour la mesure du pH, de la conductivité, de la concentration ionique, du potentiel redox et de l'oxygène dissous. Module intégré mesurant jusqu'à 4 paramètres, extensible par modules additionnels. Gestion des utilisateurs entièrement paramétrable pour l'intégrité des données, diagnostic des capteurs avec assistance au dépannage. Transfert automatique des données vers LabX pour la conformité réglementaire (21 CFR Part 11, ALCOA++). Terminal détachable avec écran tactile 7 pouces, interface intuitive One Click en 14 langues. Indice de protection IP54 contre la poussière et les projections d'eau. Compatible avec les capteurs analogiques (ISM) via module dédié. Le kit comprend un module de mesure, une sonde optique InLab OptiOx Pro-DES, un bras d'électrode et les étalons de calibration initiale.",
+      "variant_name_fr": "Kit avec sonde optique InLab OptiOx Pro-DES",
+      "price_gbp": 3936.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS1132"
+    },
+    {
+      "sku": "DIS2110",
+      "slug": "oxymetre-paillasse-jenway-9500-230vac-uk",
+      "brand": "JENWAY",
+      "name_fr": "Oxymètre de paillasse Jenway 9500 — 230 V CA, prise UK",
+      "description_fr": "Oxymètre de paillasse de qualité recherche, adapté à un large éventail d'applications : pisciculture, aquaculture, contrôle de la pollution et analyse environnementale. Mémorise jusqu'à 250 points de mesure d'oxygène dissous, à intervalles programmés, manuellement ou sur déclenchement d'alarme, et jusqu'à 20 séries de DBO de 10 échantillons chacune, conformes au protocole de test sur 5 jours. Écran LCD affichant directement le pourcentage d'oxygène dissous, les mg/L ou la DBO des échantillons. Export des données vers ordinateur ou imprimante via RS-232 ou IrDA. Plage de saturation de 0 à 199 % ou 0 à 25 %, précision de ±2 % à 10 °C de la température de calibration. Compensation manuelle de la salinité et de la pression barométrique. Horloge temps réel intégrée.",
+      "variant_name_fr": "230 V CA, prise UK",
+      "price_gbp": 2062.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DIS2110"
+    },
+    {
+      "sku": "LSTAR1130",
+      "slug": "oxymetre-paillasse-thermo-orion-do113-support-cable-pc",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Oxymètre de paillasse Thermo Scientific Orion Star DO113 — support d'électrode et câble PC",
+      "description_fr": "Oxymètre de paillasse pour la mesure du taux de saturation en oxygène dissous ou de la concentration (ppm / mg/L) avec compensation de température. Écran rétroéclairé de 5 pouces et encombrement réduit sur la paillasse. Plage de mesure : 0 à 300 % de saturation, 0 à 30 mg/L (ou ppm), -5 à 105 °C. Calibrations à 100 % et 0 % de saturation, calibration en concentration à un point (méthode de Winkler) et ajustement de température. Compensation automatique de la pression barométrique (saisie manuelle en mmHg ou bar) et de la salinité (0 à 50 ppt). Journal de 500 points horodatés, export des données vers imprimante ou ordinateur pour la traçabilité GLP. Livré avec support d'électrode, câble de liaison PC et adaptateur secteur universel ; la sonde à oxygène dissous se commande séparément.",
+      "variant_name_fr": "Sans sonde, câble PC inclus",
+      "price_gbp": 1075.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1130"
+    },
+    {
+      "sku": "LSTAR1135",
+      "slug": "oxymetre-paillasse-thermo-orion-do113-kit-sonde-entretien-dbo",
+      "brand": "THERMO SCIENTIFIC",
+      "name_fr": "Oxymètre de paillasse Thermo Scientific Orion Star DO113 — kit complet sonde, entretien et adaptateur DBO",
+      "description_fr": "Oxymètre de paillasse pour la mesure du taux de saturation en oxygène dissous ou de la concentration (ppm / mg/L) avec compensation de température. Écran rétroéclairé de 5 pouces et encombrement réduit sur la paillasse. Plage de mesure : 0 à 300 % de saturation, 0 à 30 mg/L (ou ppm), -5 à 105 °C. Calibrations à 100 % et 0 % de saturation, calibration en concentration à un point (méthode de Winkler) et ajustement de température. Compensation automatique de la pression barométrique et de la salinité (0 à 50 ppt). Journal de 500 points horodatés, export des données vers imprimante ou ordinateur pour la traçabilité GLP. Kit complet incluant la sonde polarographique DO/ATC avec manchon de calibration, le kit d'entretien de sonde, l'adaptateur pour essais DBO, le support d'électrode, le câble PC et l'adaptateur secteur universel — adapté à un large éventail d'échantillons, y compris la demande biochimique en oxygène (DBO).",
+      "variant_name_fr": "Kit complet, sonde, entretien, adaptateur DBO",
+      "price_gbp": 1688.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/LSTAR1135"
+    }
+  ]
+}

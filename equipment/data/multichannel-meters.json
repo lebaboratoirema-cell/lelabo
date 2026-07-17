@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "multichannel-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Appareils de mesure multiparamètres", "en": "Multichannel Meters" },
+    "description": {
+      "fr": "Appareils portables de mesure multiparamètres — pH, conductivité, TDS, température, hygrométrie, anémométrie et luminosité — pour le contrôle environnemental et analytique en laboratoire comme sur le terrain."
+    }
+  },
+  "products": [
+    {
+      "sku": "ANE2004",
+      "slug": "anemometre-brannan-mini-thermo",
+      "brand": "Brannan",
+      "name_fr": "Anémomètre thermique compact Brannan Mini",
+      "description_fr": "Anémomètre de poche pour la mesure de la vitesse d'air et de la température, avec sélection d'unités (m/s, ft/min, km/h, mph, nœuds) et écran LCD couleur rétroéclairé. Fonctions Max/Min et maintien de la valeur affichée, arrêt automatique après 15 minutes d'inactivité (désactivable). Plage de vitesse d'air 0,4 à 30 m/s, plage de température -20 à +70 °C, précision ±3 % de la lecture et ±1,5 °C. Fourni avec certificat d'étalonnage 3 points, piles et notice d'utilisation. Conforme CE et RoHS/DEEE.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 98.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANE2004"
+    },
+    {
+      "sku": "CON3246",
+      "slug": "multimetre-hanna-991300-ph-ec-tds-temperature-etanche",
+      "brand": "Hanna",
+      "name_fr": "Multimètre portable étanche Hanna HI-991300 — pH, conductivité, TDS et température",
+      "description_fr": "Multimètre portable léger et étanche (IP67) combinant mesure du pH, de la conductivité, du TDS et de la température, adapté aux applications de terrain : serres, hydroponie, surveillance des eaux souterraines. Pilotage à deux boutons pour l'étalonnage et le réglage des paramètres. Étalonnage pH automatique à un ou deux points, étalonnage conductivité en un point, facteurs TDS réglables de 0,45 à 1,00 et coefficients de température de 0 à 2,4 % pour la compensation. Fourni avec la sonde multiparamètres HI-12883 (électrode pH 0-13, référence Ag/Cl à électrolyte gélifié, cellule EC/TDS en graphite et capteur de température intégré, préamplificateur intégré contre les interférences électriques), sachets tampons pH 4,01 et 7,01, solution de conductivité, solution de nettoyage d'électrode, bécher 100 mL, piles alcalines et mallette de transport. Certificats d'étalonnage du boîtier et de la sonde inclus.",
+      "variant_name_fr": "Avec sonde HI-12883",
+      "price_gbp": 1040.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CON3246"
+    },
+    {
+      "sku": "CON3248",
+      "slug": "multimetre-hanna-991301-haute-gamme-ec-tds-ph-temperature",
+      "brand": "Hanna",
+      "name_fr": "Multimètre portable haute gamme Hanna HI-991301 — pH, conductivité, TDS et température",
+      "description_fr": "Multimètre portable haute précision pour la mesure du pH, de la conductivité électrique, du TDS et de la température sur des plages élevées, conçu pour une bonne reproductibilité des mesures. Facteurs TDS réglables de 0,45 à 1,00 et coefficients de température de 0 à 2,4 %. Électrode remplaçable indépendamment du boîtier, interface PC via port USB ou câble RS232 pour le transfert des résultats. Fourni avec la sonde multiparamètres HI-12883 (pH 0-13, référence Ag/Cl à électrolyte gélifié, cellule EC/TDS en graphite, capteur de température, préamplificateur intégré), sachets tampons pH 4,01 et 7,01, solution étalon conductivité 12880 µS/cm, solution étalon 6,44 ppt, solution de nettoyage d'électrode, bécher 100 mL, piles alcalines et mallette de transport. Certificats d'étalonnage du boîtier et de la sonde inclus.",
+      "variant_name_fr": "Haute gamme, avec sonde HI-12883",
+      "price_gbp": 998.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CON3248"
+    },
+    {
+      "sku": "ELE1220",
+      "slug": "luxmetre-brannan-mini-thermo-light",
+      "brand": "Brannan",
+      "name_fr": "Luxmètre thermique compact Brannan Mini",
+      "description_fr": "Luxmètre de poche associant mesure de l'éclairement lumineux et de la température, équipé d'une photodiode silicium avec filtre de correction spectrale. Écran LCD couleur rétroéclairé, fonctions Max/Min, mesure automatique, indicateur de pile faible et arrêt automatique désactivable, avec compensation automatique pour les sources d'éclairage non standard. Plage d'éclairement 0 à 200 lux, plage de température -20 à +70 °C, précision ±3 % de la lecture. Fourni avec certificat d'étalonnage 3 points, pile et notice. Conforme CE et RoHS/DEEE.",
+      "variant_name_fr": "0-200 lux",
+      "price_gbp": 97.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ELE1220"
+    },
+    {
+      "sku": "HYG1013",
+      "slug": "hygrometre-brannan-mini-thermo-humidity",
+      "brand": null,
+      "name_fr": "Hygromètre thermique compact Brannan Mini",
+      "description_fr": "Instrument numérique combinant les fonctions de thermomètre et d'hygromètre, avec calcul du point de rosée et de la température humide. Écran LCD couleur rétroéclairé, fonctions Max/Min et maintien de valeur, unités °C/F sélectionnables, indicateur de pile faible et arrêt automatique désactivable. Plage d'humidité 0 à 100 % HR, plage de température -20 à +70 °C, précision ±1 °C et ±3,5 % HR. Fourni avec certificat d'étalonnage 3 points, pile et notice d'utilisation. Conforme CE et RoHS/DEEE.",
+      "variant_name_fr": "0-100% HR",
+      "price_gbp": 97.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HYG1013"
+    },
+    {
+      "sku": "PHM0013",
+      "slug": "ph-metre-mettler-seven2go-s2-sans-sonde",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre portable Mettler Toledo Seven2Go S2 — sans sonde",
+      "description_fr": "pH-mètre portable de la gamme Seven2Go pour la mesure du pH et du mV relatif, conçu pour une utilisation à une seule main et une bonne robustesse de terrain. Compatibilité ISM pour la reconnaissance automatique des sondes, fonction uFocus limitant l'affichage aux données pertinentes lors de mesures répétées, touches T-pad pour la manipulation à une main, protection IP67 contre l'eau et les chutes, écran lisible en plein soleil. Plage de mesure pH -2,00 à 20,00 (résolution/précision 0,01/±0,01), plage mV relatif -1999 à 1999 (résolution/précision 1/±1), 5 points d'étalonnage et 4 groupes de tampons prédéfinis. Livré sans sonde.",
+      "variant_name_fr": "Sans sonde",
+      "price_gbp": 630.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM0013"
+    },
+    {
+      "sku": "PHM0014",
+      "slug": "ph-metre-mettler-seven2go-s2-kit-standard-inlab-expert-go",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre portable Mettler Toledo Seven2Go S2 — kit standard avec sonde ISM InLab Expert Go",
+      "description_fr": "pH-mètre portable de la gamme Seven2Go pour la mesure du pH et du mV relatif, conçu pour une utilisation à une seule main et une bonne robustesse de terrain. Compatibilité ISM pour la reconnaissance automatique des sondes, fonction uFocus limitant l'affichage aux données pertinentes lors de mesures répétées, touches T-pad, protection IP67, écran lisible en plein soleil. Plage de mesure pH -2,00 à 20,00 (résolution/précision 0,01/±0,01), plage mV relatif -1999 à 1999 (résolution/précision 1/±1), 5 points d'étalonnage et 4 groupes de tampons prédéfinis. Livré en kit standard avec la sonde ISM InLab Expert Go, adaptée aux applications générales de laboratoire.",
+      "variant_name_fr": "Kit standard, sonde InLab Expert Go",
+      "price_gbp": 786.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM0014"
+    },
+    {
+      "sku": "PHM0015",
+      "slug": "ph-metre-mettler-seven2go-s2-kit-terrain-inlab-expert-go",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre portable Mettler Toledo Seven2Go S2 — kit terrain avec sonde ISM InLab Expert Go et mallette",
+      "description_fr": "pH-mètre portable de la gamme Seven2Go pour la mesure du pH et du mV relatif, conçu pour une utilisation à une seule main et une bonne robustesse de terrain. Compatibilité ISM pour la reconnaissance automatique des sondes, fonction uFocus, touches T-pad, protection IP67, écran lisible en plein soleil. Plage de mesure pH -2,00 à 20,00 (résolution/précision 0,01/±0,01), plage mV relatif -1999 à 1999 (résolution/précision 1/±1), 5 points d'étalonnage et 4 groupes de tampons prédéfinis. Livré en kit terrain avec la sonde ISM InLab Expert Go et une mallette de transport, pour les mesures hors laboratoire.",
+      "variant_name_fr": "Kit terrain, sonde InLab Expert Go + mallette",
+      "price_gbp": 852.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM0015"
+    },
+    {
+      "sku": "PHM0016",
+      "slug": "ph-metre-mettler-seven2go-s2-kit-agroalimentaire-inlab-solids-go",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre portable Mettler Toledo Seven2Go S2 — kit agroalimentaire avec sonde ISM InLab Solids Go et mallette",
+      "description_fr": "pH-mètre portable de la gamme Seven2Go pour la mesure du pH et du mV relatif, conçu pour une utilisation à une seule main et une bonne robustesse de terrain. Compatibilité ISM pour la reconnaissance automatique des sondes, fonction uFocus, touches T-pad, protection IP67, écran lisible en plein soleil. Plage de mesure pH -2,00 à 20,00 (résolution/précision 0,01/±0,01), plage mV relatif -1999 à 1999 (résolution/précision 1/±1), 5 points d'étalonnage et 4 groupes de tampons prédéfinis. Livré en kit agroalimentaire avec la sonde ISM InLab Solids Go, conçue pour la pénétration directe dans les produits solides et semi-solides, et une mallette de transport.",
+      "variant_name_fr": "Kit agroalimentaire, sonde InLab Solids Go + mallette",
+      "price_gbp": 912.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM0016"
+    },
+    {
+      "sku": "PHM0017",
+      "slug": "ph-metre-mettler-seven2go-s2-kit-light-inlab-versatile-pro",
+      "brand": "Mettler Toledo",
+      "name_fr": "pH-mètre portable Mettler Toledo Seven2Go S2 — kit light avec sonde InLab Versatile Pro",
+      "description_fr": "pH-mètre portable de la gamme Seven2Go pour la mesure du pH et du mV relatif, conçu pour une utilisation à une seule main et une bonne robustesse de terrain. Compatibilité ISM pour la reconnaissance automatique des sondes, fonction uFocus, touches T-pad, protection IP67, écran lisible en plein soleil. Plage de mesure pH -2,00 à 20,00 (résolution/précision 0,01/±0,01), plage mV relatif -1999 à 1999 (résolution/précision 1/±1), 5 points d'étalonnage et 4 groupes de tampons prédéfinis. Livré en kit light avec la sonde InLab Versatile Pro, sonde polyvalente adaptée à un usage général en laboratoire.",
+      "variant_name_fr": "Kit light, sonde InLab Versatile Pro",
+      "price_gbp": 702.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHM0017"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "freeze-dryers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Lyophilisateurs", "en": "Freeze Dryers" },
+    "description": {
+      "fr": "Lyophilisateurs de laboratoire et de recherche, du modèle compact de paillasse aux systèmes modulaires à chambres multiples, pour la dessiccation sous vide d'échantillons biologiques et chimiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "FRE1054",
+      "slug": "lyophilisateur-buchi-lyovapor-l-200-rack-manifold-12-places",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-200 — rack manifold 12 places",
+      "description_fr": "Lyophilisateur compact atteignant -55 °C pour une capacité de glace de 6 kg, avec un haut niveau d'automatisation. La fonction Infinite-Control permet de créer et lancer des méthodes, d'enregistrer les données et de suivre le procédé en temps réel, avec possibilité d'interruption à distance depuis un appareil mobile et notifications push. L'état de protection d'échantillon préserve les produits sensibles pendant le cycle. Plusieurs configurations de chambre de séchage sont disponibles selon l'application, avec installation facile sur chariot, paillasse ou sous hotte, et détermination du point final pour optimiser le procédé. Livré avec rack manifold 12 places.",
+      "variant_name_fr": "Rack manifold 12 places",
+      "price_gbp": 16179.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1054"
+    },
+    {
+      "sku": "FRE1056",
+      "slug": "lyophilisateur-buchi-lyovapor-l-200-rack-manifold-12-places-pompe-pfeiffer-duo",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-200 — rack manifold 12 places et pompe à vide Pfeiffer Duo",
+      "description_fr": "Lyophilisateur compact atteignant -55 °C pour une capacité de glace de 6 kg, avec un haut niveau d'automatisation. La fonction Infinite-Control permet de créer et lancer des méthodes, d'enregistrer les données et de suivre le procédé en temps réel, avec possibilité d'interruption à distance depuis un appareil mobile et notifications push. L'état de protection d'échantillon préserve les produits sensibles pendant le cycle. Cette configuration inclut le rack manifold 12 places et une pompe à vide Pfeiffer Duo prête à l'emploi, pour une installation clé en main sur chariot, paillasse ou sous hotte.",
+      "variant_name_fr": "Rack manifold 12 places + pompe Pfeiffer Duo",
+      "price_gbp": 19584.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1056"
+    },
+    {
+      "sku": "FRE1058",
+      "slug": "lyophilisateur-buchi-lyovapor-l-200-chambre-4-etageres",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-200 — chambre à 4 étagères",
+      "description_fr": "Lyophilisateur compact atteignant -55 °C pour une capacité de glace de 6 kg, avec un haut niveau d'automatisation. La fonction Infinite-Control permet de créer et lancer des méthodes, d'enregistrer les données et de suivre le procédé en temps réel, avec possibilité d'interruption à distance depuis un appareil mobile et notifications push. L'état de protection d'échantillon préserve les produits sensibles pendant le cycle. Configuré avec une chambre de séchage à 4 étagères, adaptée au traitement de flacons et plateaux, installation facile sur chariot, paillasse ou sous hotte.",
+      "variant_name_fr": "Chambre 4 étagères",
+      "price_gbp": 16305.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1058"
+    },
+    {
+      "sku": "FRE1062",
+      "slug": "lyophilisateur-buchi-lyovapor-l-200-chambre-4-etageres-pompe-pfeiffer-duo",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-200 — chambre à 4 étagères et pompe à vide Pfeiffer Duo",
+      "description_fr": "Lyophilisateur compact atteignant -55 °C pour une capacité de glace de 6 kg, avec un haut niveau d'automatisation. La fonction Infinite-Control permet de créer et lancer des méthodes, d'enregistrer les données et de suivre le procédé en temps réel, avec possibilité d'interruption à distance depuis un appareil mobile et notifications push. L'état de protection d'échantillon préserve les produits sensibles pendant le cycle. Cette configuration associe la chambre à 4 étagères et une pompe à vide Pfeiffer Duo, pour une installation complète sur chariot, paillasse ou sous hotte.",
+      "variant_name_fr": "Chambre 4 étagères + pompe Pfeiffer Duo",
+      "price_gbp": 20431.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1062"
+    },
+    {
+      "sku": "FRE1270",
+      "slug": "lyophilisateur-buchi-lyovapor-l-250-basic",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-250 — version Basic",
+      "description_fr": "Le Lyovapor L-250 intègre la technologie EcoStream, une conception de compresseur à faible impact environnemental (potentiel de réchauffement global de seulement 4, fluides frigorigènes naturels) qui abaisse la consommation électrique, la chaleur dégagée et le bruit tout en permettant au condenseur d'atteindre -85 °C. Capacité de condenseur de 4 kg de glace par 24 h, pour une capacité totale de 5 kg, garantissant une collecte efficace de l'eau et des solvants organiques. La conception modulaire accepte différentes chambres de séchage (étagères chauffées ou non, manifold, couvercle plein ou à bouchons, rack manifold de 12 à 24 connexions). La version Basic sèche liquides et solides en ballons et plateaux, avec une température de condenseur stable assurant une collecte complète du solvant et une détermination précise du point final.",
+      "variant_name_fr": "Basic",
+      "price_gbp": 17684.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1270"
+    },
+    {
+      "sku": "FRE1272",
+      "slug": "lyophilisateur-buchi-lyovapor-l-250-pro",
+      "brand": "BUCHI",
+      "name_fr": "Lyophilisateur Buchi Lyovapor L-250 — version Pro",
+      "description_fr": "Le Lyovapor L-250 intègre la technologie EcoStream, une conception de compresseur à faible impact environnemental (potentiel de réchauffement global de seulement 4, fluides frigorigènes naturels) qui abaisse la consommation électrique, la chaleur dégagée et le bruit tout en permettant au condenseur d'atteindre -85 °C. Capacité de condenseur de 4 kg de glace par 24 h, pour une capacité totale de 5 kg. La version Pro sèche en flacons et plateaux avec un contrôle précis de l'humidité résiduelle et des temps de séchage réduits, une programmation de méthode personnalisable et une étagère chauffante robuste. La détermination du point final s'appuie sur les écarts de pression et de température ; un état de protection d'échantillon s'active automatiquement si la température dépasse le seuil de collapsus défini. Le suivi du procédé affiche en temps réel la pression de chambre, la température d'échantillon et la température d'étagère, consultable via l'interface ou l'application dédiée.",
+      "variant_name_fr": "Pro",
+      "price_gbp": 23005.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE1270"
+    },
+    {
+      "sku": "FRE4500",
+      "slug": "lyophilisateur-labogene-scanvac-coolsafe-55c-4l-basic",
+      "brand": "SCANVAC",
+      "name_fr": "Lyophilisateur Labogene ScanVac CoolSafe -55 °C — 4 L, version Basic",
+      "description_fr": "Gamme de lyophilisateurs de recherche couvrant des volumes de 4 à 15 L et des températures de -55 à -110 °C. Le condenseur monobloc à serpentin de refroidissement externe supprime le besoin de joints, évitant les fuites, tout en offrant une large surface de givrage facile à nettoyer et à dégivrer. Cette configuration -55 °C, 4 L en version Basic propose un affichage numérique de la température, avec flexible et bride de raccordement à la pompe à vide et vanne de mise à l'air commandée depuis la face avant. Couvercles, manifolds, chambres et accessoires vendus séparément.",
+      "variant_name_fr": "-55 °C, 4 L, Basic",
+      "price_gbp": 5420.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE4500"
+    },
+    {
+      "sku": "FRE4502",
+      "slug": "lyophilisateur-labogene-scanvac-coolsafe-110c-4l-basic",
+      "brand": "SCANVAC",
+      "name_fr": "Lyophilisateur Labogene ScanVac CoolSafe -110 °C — 4 L, version Basic",
+      "description_fr": "Gamme de lyophilisateurs de recherche couvrant des volumes de 4 à 15 L et des températures de -55 à -110 °C. Le condenseur monobloc à serpentin de refroidissement externe supprime le besoin de joints, évitant les fuites, tout en offrant une large surface de givrage facile à nettoyer et à dégivrer. Cette configuration -110 °C, 4 L en version Basic, adaptée aux applications exigeant une température de condensation très basse, propose un affichage numérique de la température, avec flexible et bride de raccordement à la pompe à vide et vanne de mise à l'air commandée depuis la face avant. Couvercles, manifolds, chambres et accessoires vendus séparément.",
+      "variant_name_fr": "-110 °C, 4 L, Basic",
+      "price_gbp": 6410.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE4502"
+    },
+    {
+      "sku": "FRE4504",
+      "slug": "lyophilisateur-labogene-scanvac-coolsafe-55c-9l-basic",
+      "brand": "SCANVAC",
+      "name_fr": "Lyophilisateur Labogene ScanVac CoolSafe -55 °C — 9 L, version Basic",
+      "description_fr": "Gamme de lyophilisateurs de recherche couvrant des volumes de 4 à 15 L et des températures de -55 à -110 °C. Le condenseur monobloc à serpentin de refroidissement externe supprime le besoin de joints, évitant les fuites, tout en offrant une large surface de givrage facile à nettoyer et à dégivrer. Cette configuration -55 °C, 9 L en version Basic convient aux volumes d'échantillons plus importants, avec affichage numérique de la température, flexible et bride de raccordement à la pompe à vide, et vanne de mise à l'air commandée depuis la face avant. Couvercles, manifolds, chambres et accessoires vendus séparément.",
+      "variant_name_fr": "-55 °C, 9 L, Basic",
+      "price_gbp": 5948.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE4504"
+    },
+    {
+      "sku": "FRE4511",
+      "slug": "plaque-raccordement-scanvac-acpl-manifold-chambre",
+      "brand": "SCANVAC",
+      "name_fr": "Plaque de raccordement manifold et chambre Scanvac ACpl",
+      "description_fr": "Couvercle acrylique (ACpl) se positionnant sur le dessus du CoolSafe, intégrant la vanne de mise à l'air. Il permet le raccordement des chambres non chauffées CCS200 et CCS300 ainsi que du manifold M4 basic. Compatible avec les lyophilisateurs CoolSafe des versions Basic, Pro et Touch.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 424.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/FRE4511"
+    }
+  ]
+}

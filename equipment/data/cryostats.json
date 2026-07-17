@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "cryostats",
+    "parent_slug": "equipements",
+    "name": { "fr": "Cryostats", "en": "Cryostats" },
+    "description": {
+      "fr": "Cryostats de paillasse pour la coupe histologique en congélation, destinés à l'anatomopathologie peropératoire et à la routine clinique, avec systèmes de refroidissement de chambre et d'échantillon."
+    }
+  },
+  "products": [
+    {
+      "sku": "HIS2286",
+      "slug": "cryostat-leica-cm1860-porte-lame-premium",
+      "brand": "Leica Biosystems",
+      "name_fr": "Cryostat Leica Biosystems CM1860 avec porte-lame Premium pour lames jetables haut et bas profil",
+      "description_fr": "Cryostat de paillasse pour sections histologiques en contexte peropératoire, conçu pour une qualité de coupe reproductible en quelques minutes. Revêtement AgProtect à nano-argent antimicrobien sur le carter de l'instrument, réduisant le risque de contamination par contact. Porte-lame Premium à garde-doigt intégré, éjecteur de lame et brosse magnétique permettant de retirer la lame sans contact direct. Étagères de rangement dédiées aux échantillons, porte-objets et outils, avec espace de stockage à température ambiante en partie supérieure. Touches de fonction uniques et afficheur LED pour un accès direct aux commandes, sans navigation dans les menus.",
+      "variant_name_fr": "Porte-lame Premium",
+      "price_gbp": 31292.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2286"
+    },
+    {
+      "sku": "HIS2288",
+      "slug": "cryostat-leica-cm1860-uv-desinfection-porte-lame-premium",
+      "brand": "Leica Biosystems",
+      "name_fr": "Cryostat Leica Biosystems CM1860 UV avec désinfection UV et porte-lame Premium pour lames jetables haut et bas profil",
+      "description_fr": "Variante UV du cryostat Leica CM1860, intégrant une désinfection UVC certifiée qui réduit efficacement la contamination par pathogènes, y compris le SARS-CoV-2. Conserve les atouts de la version standard : revêtement AgProtect antimicrobien sur le carter, porte-lame Premium à garde-doigt intégré, éjecteur de lame et brosse magnétique pour une manipulation sans contact direct. Étagères dédiées aux échantillons, porte-objets et outils, espace de stockage ambiant en partie supérieure. Touches de fonction uniques et afficheur LED pour un accès direct aux réglages.",
+      "variant_name_fr": "Version UV",
+      "price_gbp": 35443.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2286"
+    },
+    {
+      "sku": "HIS2290",
+      "slug": "cryostat-leica-cm1950-desinfection-uv-refroidissement-echantillon",
+      "brand": "Leica Biosystems",
+      "name_fr": "Cryostat Leica Biosystems CM1950 avec désinfection UV, refroidissement de l'échantillon et porte-lame pour lames jetables",
+      "description_fr": "Cryostat Leica CM1950 destiné aux laboratoires traitant de nombreux échantillons de types variés — chirurgie ORL, biopsies cérébrales, ganglions lymphatiques. Cryocabinet spacieux pour organiser outils, milieux de congélation et lames. Disque à échantillon conçu pour une congélation efficace et une manipulation aisée, tête d'objet à serrage fiable et alignement précis, conception CryoZone assurant un refroidissement efficace de la lame et du guide anti-enroulement. Cette configuration intègre la désinfection UV, le refroidissement réglable de l'échantillon selon le type de tissu et un porte-lame pour lames jetables. Précision du microtome Leica Biosystems garantissant des coupes reproductibles.",
+      "variant_name_fr": "Refroidissement échantillon + désinfection UV",
+      "price_gbp": 41704.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2290"
+    },
+    {
+      "sku": "HIS2292",
+      "slug": "cryostat-leica-cm1950-motorise-vide-refroidissement-echantillon",
+      "brand": "Leica Biosystems",
+      "name_fr": "Cryostat Leica Biosystems CM1950 motorisé avec aspiration sous vide et refroidissement de l'échantillon",
+      "description_fr": "Version motorisée du cryostat Leica CM1950, avec entraînement moteur assurant une course constante pour les échantillons durs ou les séries de coupes nombreuses. Refroidissement réglable de la tête d'objet permettant d'ajuster la température selon le tissu, y compris pour les échantillons difficiles ou graisseux. Système d'aspiration sous vide intégré et cryocabinet spacieux pour l'organisation des outils, milieux de congélation et lames. Précision du microtome Leica Biosystems garantissant des coupes reproductibles, quel que soit le volume d'échantillons traités.",
+      "variant_name_fr": "Motorisé, vide + refroidissement échantillon",
+      "price_gbp": 55224.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2290"
+    },
+    {
+      "sku": "HIS2294",
+      "slug": "cryostat-leica-cm3050-s-motorise-controle-temperature-echantillon",
+      "brand": "Leica Biosystems",
+      "name_fr": "Cryostat Leica Biosystems CM3050 S motorisé, contrôle de température de l'échantillon, porte-couteau pour lames jetables bas profil",
+      "description_fr": "Cryostat Leica CM3050 S à hauteur de travail réduite et espace pour les genoux, permettant de travailler assis confortablement lors de séries de coupes prolongées. Entraînement motorisé et compteur de sections pour une meilleure productivité en coupe sérielle. Système d'orientation précise de l'échantillon avec position zéro et ajustement x/y jusqu'à 8°, avance horizontale de 25 mm pour des coupes fines reproductibles, particulièrement adapté aux échantillons délicats comme les prélèvements cérébraux. Refroidissement indépendant de la tête d'objet pour ajuster la température selon les tissus difficiles (cérébraux, graisseux). Matériaux isolants performants et système de refroidissement dédié maintenant une température de chambre stable toute la journée. Pédale pour l'entraînement moteur libérant les deux mains, totalisateur d'épaisseur et compteur de sections avec réinitialisation, comptage inversé disponible en coupe comme en parage.",
+      "variant_name_fr": "Motorisé, contrôle température échantillon",
+      "price_gbp": 54925.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS2294"
+    },
+    {
+      "sku": "HIS3102",
+      "slug": "cryostat-epredia-hm525nx",
+      "brand": "Epredia",
+      "name_fr": "Cryostat Epredia HM525NX",
+      "description_fr": "Cryostat Thermo Scientific HM525 NX associant les capacités du HM525 à l'ergonomie et l'interface intuitive de la série NX. Verrouillage mécanique du volant à rotation souple, rétraction automatique de l'échantillon au retour de course, écran tactile adapté à une utilisation par plusieurs opérateurs. Refroidissement de la chambre jusqu'à -35 °C, 27 emplacements de stockage cryobar dont 4 positions de congélation rapide. Dispositif Peltier intégré pour une congélation rapide, de -55 à ±2 °C. Options de dégivrage programmable ou immédiat, fonction mémoire pour l'avance et le positionnement de l'échantillon. Dimensions (l x p x h) : 64 x 76 x 115 cm hors volant ; poids : 143 kg. Lames et porte-lames non fournis.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 27998.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3102"
+    },
+    {
+      "sku": "HIS3104",
+      "slug": "cryostat-epredia-hm525nx-uv",
+      "brand": "Epredia",
+      "name_fr": "Cryostat Epredia HM525NX UV",
+      "description_fr": "Cryostat Thermo Scientific HM525 NX équipé de la désinfection UV, associant les capacités du HM525 à l'ergonomie de la série NX. Verrouillage mécanique du volant à rotation souple, rétraction automatique de l'échantillon au retour de course, écran tactile pour utilisation multi-opérateurs. Refroidissement de la chambre jusqu'à -35 °C, 27 emplacements de stockage cryobar dont 4 positions de congélation rapide, dispositif Peltier intégré descendant de -55 à ±2 °C. Dégivrage programmable ou immédiat, fonction mémoire de positionnement de l'échantillon. Dimensions : 64 x 76 x 115 cm hors volant, poids 143 kg. Lames et porte-lames non fournis.",
+      "variant_name_fr": "Avec désinfection UV",
+      "price_gbp": 29466.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3102"
+    },
+    {
+      "sku": "HIS3106",
+      "slug": "cryostat-epredia-cryostar-nx50",
+      "brand": "Epredia",
+      "name_fr": "Cryostat Epredia CryoStar NX50",
+      "description_fr": "Cryostat manuel Thermo Scientific CryoStar NX50, conçu pour le laboratoire clinique de routine, disponible avec options de réglage en hauteur, vacutome et désinfection à froid. Avance grossière motorisée jusqu'à 3 mm/s, verrouillage du volant, garde-lame et outil d'extraction magnétique de la lame. Trois mémoires de programme pour les paramètres de coupe courants, écran tactile pour utilisation multi-opérateurs. Cryochambre spacieuse en acier inoxydable, refroidie jusqu'à -25 ± 2 °C (à 20 °C ambiant), refroidissement séparé de la tête d'objet jusqu'à -43 ± 2 °C, porte-lame refroidi en continu jusqu'à -27 ± 2 °C. 18 emplacements de stockage cryobar dont 1 position de congélation rapide, dispositif Peltier intégré descendant jusqu'à -57 ± 3 °C. Lames et porte-lames non fournis.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 34854.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3106"
+    },
+    {
+      "sku": "HIS3108",
+      "slug": "cryostat-epredia-cryostar-nx50-reglage-hauteur",
+      "brand": "Epredia",
+      "name_fr": "Cryostat Epredia CryoStar NX50 avec réglage de hauteur",
+      "description_fr": "Cryostat manuel Thermo Scientific CryoStar NX50 équipé du réglage de hauteur (82 à 112 cm), permettant de travailler debout ou assis selon le poste. Avance grossière motorisée jusqu'à 3 mm/s, verrouillage du volant, garde-lame et outil d'extraction magnétique de la lame. Trois mémoires de programme, écran tactile pour utilisation multi-opérateurs. Cryochambre spacieuse en acier inoxydable refroidie jusqu'à -25 ± 2 °C, refroidissement séparé de la tête d'objet jusqu'à -43 ± 2 °C, porte-lame refroidi en continu jusqu'à -27 ± 2 °C. 18 emplacements de stockage cryobar dont 1 position de congélation rapide, dispositif Peltier intégré descendant jusqu'à -57 ± 3 °C. Lames et porte-lames non fournis.",
+      "variant_name_fr": "Réglage de hauteur 82-112 cm",
+      "price_gbp": 35253.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3106"
+    },
+    {
+      "sku": "HIS3110",
+      "slug": "cryostat-epredia-cryostar-nx50-desinfection-froid",
+      "brand": "Epredia",
+      "name_fr": "Cryostat Epredia CryoStar NX50 avec désinfection à froid",
+      "description_fr": "Cryostat manuel Thermo Scientific CryoStar NX50 équipé de la désinfection à froid, qui décontamine la cryochambre en seulement 50 minutes. Avance grossière motorisée jusqu'à 3 mm/s, verrouillage du volant, garde-lame et outil d'extraction magnétique de la lame. Trois mémoires de programme, écran tactile pour utilisation multi-opérateurs. Cryochambre en acier inoxydable refroidie jusqu'à -25 ± 2 °C, refroidissement séparé de la tête d'objet jusqu'à -43 ± 2 °C, porte-lame refroidi en continu jusqu'à -27 ± 2 °C. 18 emplacements de stockage cryobar dont 1 position de congélation rapide, dispositif Peltier intégré descendant jusqu'à -57 ± 3 °C. Lames et porte-lames non fournis.",
+      "variant_name_fr": "Avec désinfection à froid",
+      "price_gbp": 36670.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HIS3106"
+    }
+  ]
+}

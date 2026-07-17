@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "glass-washers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Laveurs de verrerie", "en": "Glass Washers" },
+    "description": {
+      "fr": "Laveurs-désinfecteurs automatiques pour la verrerie et le matériel de laboratoire, avec cycles de lavage, rinçage et séchage haute performance adaptés aux exigences de traçabilité et de qualité."
+    }
+  },
+  "products": [
+    {
+      "sku": "1600LXP",
+      "slug": "laveur-verrerie-getinge-lancer-ultima-premium-1600lxp",
+      "brand": "Getinge",
+      "name_fr": "Laveur-désinfecteur de verrerie GETINGE Lancer ULTIMA Premium 1600LXP, sur pieds",
+      "description_fr": "Laveur-désinfecteur de verrerie de laboratoire GETINGE Lancer ULTIMA, gamme Premium : reprend l'ensemble des fonctions de la gamme intermédiaire avec un écran tactile 7 pouces et un automate plus puissant, autorisant l'ajout d'options de contrôle process avancé, un suivi de validation indépendant, une mesure de conductivité et une imprimante embarquée. Modèle sur pieds, alimentation triphasée 380-400 V + neutre + terre, 50 Hz.",
+      "variant_name_fr": "380-400V, 3PH+N+E, 50Hz",
+      "price_gbp": 44046.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/1600LXP_1"
+    },
+    {
+      "sku": "WAS1060",
+      "slug": "laveur-laboratoire-miele-plw-8615-el",
+      "brand": "Miele",
+      "name_fr": "Laveur de laboratoire grande capacité Miele PLW 8615 EL",
+      "description_fr": "Laveur de laboratoire grande capacité Miele PLW 8615 EL, système de lavage entièrement repensé par rapport à la série précédente. Pompe à vitesse variable ajustant pression de circulation et consommation d'eau selon la charge, surveillance des bras de lavage et capteur de conductivité pour garantir la qualité du cycle. Écran tactile couleur 7 pouces et éclairage multicolore de la cuve pour un contrôle visuel intuitif du statut machine. Système de chargement EasyLoad facilitant le positionnement de la verrerie, concept de paniers modulaires adaptable à différentes configurations de charge. Deux largeurs de machine disponibles, cuve préchauffée pour des cycles plus courts, cuve de recyclage pour économiser eau et énergie. Deux unités de séchage avec filtre HEPA H14 placé à l'entrée de la cuve. Capacité type : 216 fioles, 588 flacons ou 294 pipettes par cycle, 200 emplacements de programme. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 49849.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1060"
+    },
+    {
+      "sku": "WAS1062",
+      "slug": "laveur-laboratoire-miele-plw-8615-el-ct-cuve-combinee",
+      "brand": "Miele",
+      "name_fr": "Laveur de laboratoire grande capacité Miele PLW 8615 EL CT avec cuve combinée",
+      "description_fr": "Variante du laveur de laboratoire Miele PLW 8615 EL équipée d'une cuve combinée (Combi Tank) assurant préchauffage et recyclage de l'eau pour réduire la durée des cycles et la consommation en eau et en énergie. Mêmes caractéristiques que la version standard : pompe à vitesse variable, surveillance des bras de lavage, capteur de conductivité, écran tactile couleur 7 pouces, éclairage multicolore de cuve, système de chargement EasyLoad, deux unités de séchage avec filtre HEPA H14. Capacité type : 216 fioles, 588 flacons ou 294 pipettes par cycle, 200 emplacements de programme. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Avec cuve combinée (Combi Tank)",
+      "price_gbp": 54092.4,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1060"
+    },
+    {
+      "sku": "WAS1064",
+      "slug": "laveur-laboratoire-miele-plw-8615-el-s-chauffage-vapeur",
+      "brand": "Miele",
+      "name_fr": "Laveur de laboratoire grande capacité Miele PLW 8615 EL/S à chauffage vapeur",
+      "description_fr": "Variante du laveur de laboratoire Miele PLW 8615 EL à chauffage vapeur, adaptée aux installations disposant d'un réseau de vapeur industrielle pour une montée en température plus rapide de la cuve. Mêmes caractéristiques que la version standard : pompe à vitesse variable, surveillance des bras de lavage, capteur de conductivité, écran tactile couleur 7 pouces, éclairage multicolore de cuve, système de chargement EasyLoad, deux unités de séchage avec filtre HEPA H14. Capacité type : 216 fioles, 588 flacons ou 294 pipettes par cycle, 200 emplacements de programme. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Chauffage vapeur",
+      "price_gbp": 52012.8,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1060"
+    },
+    {
+      "sku": "WAS1066",
+      "slug": "laveur-laboratoire-miele-plw-8615-el-s-ct-vapeur-cuve-combinee",
+      "brand": "Miele",
+      "name_fr": "Laveur de laboratoire grande capacité Miele PLW 8615 EL/S CT, chauffage vapeur et cuve combinée",
+      "description_fr": "Variante du laveur de laboratoire Miele PLW 8615 EL combinant chauffage vapeur et cuve combinée (Combi Tank), pour une montée en température rapide et une réduction de la consommation en eau et en énergie via le préchauffage et le recyclage. Mêmes caractéristiques que la version standard : pompe à vitesse variable, surveillance des bras de lavage, capteur de conductivité, écran tactile couleur 7 pouces, éclairage multicolore de cuve, système de chargement EasyLoad, deux unités de séchage avec filtre HEPA H14. Capacité type : 216 fioles, 588 flacons ou 294 pipettes par cycle, 200 emplacements de programme. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Chauffage vapeur + cuve combinée",
+      "price_gbp": 56256.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1060"
+    },
+    {
+      "sku": "WAS1114",
+      "slug": "laveur-verrerie-miele-plw-7111-s-1001-slimline",
+      "brand": "Miele",
+      "name_fr": "Laveur de verrerie de laboratoire compact Miele PLW 7111 S-1001 SlimLine",
+      "description_fr": "Laveur de verrerie de laboratoire compact de la série Miele PLW 7111 SlimLine, encombrement réduit avec une largeur de 650 mm. Trois niveaux équipés de rampes à injecteurs, compatible bonbonnes jusqu'à 50 L. Capacité jusqu'à 192 flacons de 100 mL ou 108 flacons de 250 mL par cycle. Pompe à vitesse variable ajustant pression de circulation et consommation d'eau selon la charge, cuve chauffée pour des cycles courts (selon modèle). Système SmartLoad : jusqu'à trois paniers sur glissières télescopiques, positionnables et raccordés au circuit d'eau sur quatre niveaux différents. Écran tactile couleur 7 pouces, 20 emplacements de programme libres, port USB intégré en façade, compatible Miele MOVE pour le diagnostic à distance. Porte vitrée intégrale pour le contrôle visuel du cycle, éclairage de cuve à 3 couleurs, verrouillage automatique de la porte. Cuve, bras de lavage et filtres en acier inoxydable électropoli (DIN 1.4404 / AISI 316L), filtre HEPA H14 pour un séchage exempt de germes. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 29371.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1114"
+    },
+    {
+      "sku": "WAS1116",
+      "slug": "laveur-verrerie-miele-plw-7111-s-1002-slimline-adoucisseur-anti-huile",
+      "brand": "Miele",
+      "name_fr": "Laveur de verrerie de laboratoire compact Miele PLW 7111 S-1002 SlimLine, avec adoucisseur d'eau et résistance aux huiles",
+      "description_fr": "Variante du laveur de verrerie compact Miele PLW 7111 SlimLine intégrant un adoucisseur d'eau et une résistance renforcée aux huiles, pour le traitement de verrerie exposée à des résidus huileux. Mêmes caractéristiques que la version standard : trois niveaux à rampes à injecteurs, capacité jusqu'à 192 flacons de 100 mL ou 108 flacons de 250 mL par cycle, pompe à vitesse variable, système SmartLoad multi-niveaux, écran tactile couleur 7 pouces, 20 emplacements de programme, cuve et bras de lavage en inox électropoli 316L, filtre HEPA H14.",
+      "variant_name_fr": "Adoucisseur d'eau + résistance aux huiles",
+      "price_gbp": 31956.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1114"
+    },
+    {
+      "sku": "WAS1118",
+      "slug": "laveur-verrerie-miele-plw-7111-s-1003-slimline-adoucisseur",
+      "brand": "Miele",
+      "name_fr": "Laveur de verrerie de laboratoire compact Miele PLW 7111 S-1003 SlimLine, avec adoucisseur d'eau",
+      "description_fr": "Variante du laveur de verrerie compact Miele PLW 7111 SlimLine intégrant un adoucisseur d'eau, limitant l'entartrage du circuit et améliorant la qualité du rinçage final. Mêmes caractéristiques que la version standard : trois niveaux à rampes à injecteurs, capacité jusqu'à 192 flacons de 100 mL ou 108 flacons de 250 mL par cycle, pompe à vitesse variable, système SmartLoad multi-niveaux, écran tactile couleur 7 pouces, 20 emplacements de programme, cuve et bras de lavage en inox électropoli 316L, filtre HEPA H14.",
+      "variant_name_fr": "Adoucisseur d'eau",
+      "price_gbp": 30081.6,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1114"
+    },
+    {
+      "sku": "WAS1120",
+      "slug": "laveur-verrerie-miele-plw-7111-s-1004-slimline-adoucisseur-imprimante-conductivimetre",
+      "brand": "Miele",
+      "name_fr": "Laveur de verrerie de laboratoire compact Miele PLW 7111 S-1004 SlimLine, avec adoucisseur d'eau, imprimante et conductivimètre",
+      "description_fr": "Variante du laveur de verrerie compact Miele PLW 7111 SlimLine la plus complète, intégrant adoucisseur d'eau, imprimante et conductivimètre pour la documentation et le contrôle qualité de chaque cycle. Mêmes caractéristiques que la version standard : trois niveaux à rampes à injecteurs, capacité jusqu'à 192 flacons de 100 mL ou 108 flacons de 250 mL par cycle, pompe à vitesse variable, système SmartLoad multi-niveaux, écran tactile couleur 7 pouces, 20 emplacements de programme, cuve et bras de lavage en inox électropoli 316L, filtre HEPA H14.",
+      "variant_name_fr": "Adoucisseur d'eau + imprimante + conductivimètre",
+      "price_gbp": 32940.0,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1114"
+    },
+    {
+      "sku": "WAS1130",
+      "slug": "laveur-laboratoire-miele-plw-8616-el",
+      "brand": "Miele",
+      "name_fr": "Laveur de laboratoire grande capacité Miele PLW 8616 EL",
+      "description_fr": "Laveur de laboratoire grande capacité Miele PLW 8616 EL, système de lavage entièrement repensé par rapport à la série précédente. Pompe à vitesse variable ajustant pression de circulation et consommation d'eau selon la charge, surveillance des bras de lavage et capteur de conductivité pour garantir la qualité du cycle. Écran tactile couleur 7 pouces et éclairage multicolore de la cuve pour un contrôle visuel intuitif du statut machine. Système de chargement EasyLoad facilitant le positionnement de la verrerie, deux largeurs de machine disponibles (modèle barrière deux portes possible en encastrement de cloison). Cuve préchauffée pour des cycles plus courts, cuve de recyclage pour économiser eau et énergie, deux unités de séchage avec filtre HEPA H14 placé à l'entrée de la cuve. Capacité type : 216 fioles, 588 flacons ou 294 pipettes par cycle, 200 emplacements de programme. Tiroirs, paniers et accessoires vendus séparément.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 51091.2,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAS1060"
+    }
+  ]
+}

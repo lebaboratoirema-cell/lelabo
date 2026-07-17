@@ -1,0 +1,112 @@
+{
+  "category": {
+    "slug": "centrifuges",
+    "parent_slug": "equipements",
+    "name": { "fr": "Centrifugeuses", "en": "Centrifuges" },
+    "description": {
+      "fr": "Centrifugeuses de paillasse réfrigérées et ventilées, avec rotors et adaptateurs, pour la séparation d'échantillons biologiques et chimiques en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2578",
+      "slug": "centrifugeuse-refrigeree-eppendorf-5804-r-rotor-a-4-44",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse réfrigérée Eppendorf 5804 R — rotor A-4-44 avec adaptateurs 15/50 mL",
+      "description_fr": "Centrifugeuse de paillasse réfrigérée de la gamme Eppendorf 5804, réputée pour sa fiabilité et son bon rapport performance/prix sur les applications à débit moyen. Vitesse maximale de 20 913 x g (14 000 tr/min), plage de température de -9 à 40 °C avec fonction FastTemp pour un préréfroidissement rapide et maintien du froid en continu après le cycle. Large choix de rotors et adaptateurs compatibles avec tubes et flacons de 0,2 à 250 mL ainsi que microplaques, PCR et deep-well. Couvercle à fermeture douce, hauteur d'accès réduite (29 cm), fonctionnement silencieux, reconnaissance automatique du rotor et détection de déséquilibre. Arrêt ECO après 8 heures d'inactivité et régulation dynamique du compresseur (DCC) pour optimiser le refroidissement. Livrée avec rotor A-4-44 et adaptateurs pour tubes de 15 et 50 mL.",
+      "variant_name_fr": "Rotor A-4-44, 15/50 mL",
+      "price_gbp": 6877.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5805000365"
+    },
+    {
+      "sku": "B2B2580",
+      "slug": "centrifugeuse-refrigeree-eppendorf-5804-r-rotor-s-4-72",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse réfrigérée Eppendorf 5804 R — rotor S-4-72 avec adaptateurs 15/50 mL",
+      "description_fr": "Centrifugeuse de paillasse réfrigérée de la gamme Eppendorf 5804, réputée pour sa fiabilité et son bon rapport performance/prix sur les applications à débit moyen. Vitesse maximale de 20 913 x g (14 000 tr/min), plage de température de -9 à 40 °C avec fonction FastTemp pour un préréfroidissement rapide et maintien du froid en continu après le cycle. Large choix de rotors et adaptateurs compatibles avec tubes et flacons de 0,2 à 250 mL ainsi que microplaques, PCR et deep-well. Couvercle à fermeture douce, hauteur d'accès réduite (29 cm), fonctionnement silencieux, reconnaissance automatique du rotor et détection de déséquilibre. Arrêt ECO après 8 heures d'inactivité et régulation dynamique du compresseur (DCC) pour optimiser le refroidissement. Livrée avec rotor S-4-72 et adaptateurs pour tubes de 15 et 50 mL.",
+      "variant_name_fr": "Rotor S-4-72, 15/50 mL",
+      "price_gbp": 7644.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5805000665"
+    },
+    {
+      "sku": "E5811000360",
+      "slug": "centrifugeuse-refrigeree-eppendorf-5810-r-rotor-a-4-62",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse réfrigérée Eppendorf 5810 R — rotor à godets basculants A-4-62",
+      "description_fr": "Centrifugeuse de paillasse réfrigérée de la gamme Eppendorf 5810, conçue pour les applications à débit moyen à élevé. Vitesse maximale de 20 913 x g (14 000 tr/min), plage de température de -9 à 40 °C, fonction FastTemp et maintien du froid en continu après le cycle. Nouvelle génération de rotors portant la capacité jusqu'à 4 x 750 mL (ou 28 x 50 mL / 56 x 15 mL) : le rotor à godets basculants accueille tubes et flacons de 0,2 à 750 mL, le rotor à angle fixe de 0,2 à 85 mL, et un rotor plaques permet la centrifugation de microplaques PCR, culture cellulaire ou deep-well. Bouchons et couvercles Eppendorf QuickLock® étanches aux aérosols, couvercle à fermeture douce, hauteur d'accès réduite (29 cm), reconnaissance automatique du rotor et détection de déséquilibre. Arrêt ECO après 8 heures d'inactivité et régulation dynamique du compresseur (DCC). Livrée avec rotor à godets basculants A-4-62.",
+      "variant_name_fr": "Rotor A-4-62, jusqu'à 750 mL",
+      "price_gbp": 11574.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5811000360"
+    },
+    {
+      "sku": "E5811000660",
+      "slug": "centrifugeuse-refrigeree-eppendorf-5810-r-rotor-s-4-104",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse réfrigérée Eppendorf 5810 R — rotor à godets basculants S-4-104",
+      "description_fr": "Centrifugeuse de paillasse réfrigérée de la gamme Eppendorf 5810, conçue pour les applications à débit moyen à élevé. Vitesse maximale de 20 913 x g (14 000 tr/min), plage de température de -9 à 40 °C, fonction FastTemp et maintien du froid en continu après le cycle. Nouvelle génération de rotors portant la capacité jusqu'à 4 x 750 mL (ou 28 x 50 mL / 56 x 15 mL) : le rotor à godets basculants accueille tubes et flacons de 0,2 à 750 mL, le rotor à angle fixe de 0,2 à 85 mL, et un rotor plaques permet la centrifugation de microplaques PCR, culture cellulaire ou deep-well. Bouchons et couvercles Eppendorf QuickLock® étanches aux aérosols, couvercle à fermeture douce, hauteur d'accès réduite (29 cm), reconnaissance automatique du rotor et détection de déséquilibre. Arrêt ECO après 8 heures d'inactivité et régulation dynamique du compresseur (DCC). Livrée avec rotor à godets basculants S-4-104, capacité jusqu'à 28 x 50 mL ou 56 x 15 mL.",
+      "variant_name_fr": "Rotor S-4-104, jusqu'à 56 x 15 mL",
+      "price_gbp": 13188.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5811000660"
+    },
+    {
+      "sku": "B2B2582",
+      "slug": "centrifugeuse-eppendorf-5804-rotor-a-4-44",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse de paillasse Eppendorf 5804 — rotor A-4-44 avec adaptateurs 15/50 mL",
+      "description_fr": "Centrifugeuse de paillasse ventilée (non réfrigérée) de la gamme Eppendorf 5804, réputée pour sa fiabilité et son bon rapport performance/prix sur les applications à débit moyen. Vitesse maximale de 20 913 x g (14 000 tr/min). Large choix de rotors et adaptateurs compatibles avec tubes et flacons de 0,2 à 250 mL ainsi que microplaques, PCR et deep-well. Couvercle à fermeture douce, hauteur d'accès réduite (29 cm), fonctionnement silencieux, encombrement compact, reconnaissance automatique du rotor et détection de déséquilibre. Livrée avec rotor A-4-44 et adaptateurs pour tubes de 15 et 50 mL.",
+      "variant_name_fr": "Rotor A-4-44, 15/50 mL",
+      "price_gbp": 4513.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5804000360"
+    },
+    {
+      "sku": "B2B2584",
+      "slug": "centrifugeuse-eppendorf-5804-rotor-s-4-72",
+      "brand": "Eppendorf",
+      "name_fr": "Centrifugeuse de paillasse Eppendorf 5804 — rotor S-4-72 avec adaptateurs 15/50 mL",
+      "description_fr": "Centrifugeuse de paillasse ventilée (non réfrigérée) de la gamme Eppendorf 5804, réputée pour sa fiabilité et son bon rapport performance/prix sur les applications à débit moyen. Vitesse maximale de 20 913 x g (14 000 tr/min). Large choix de rotors et adaptateurs compatibles avec tubes et flacons de 0,2 à 250 mL ainsi que microplaques, PCR et deep-well. Couvercle à fermeture douce, hauteur d'accès réduite (29 cm), fonctionnement silencieux, encombrement compact, reconnaissance automatique du rotor et détection de déséquilibre. Livrée avec rotor S-4-72 et adaptateurs pour tubes de 15 et 50 mL.",
+      "variant_name_fr": "Rotor S-4-72, 15/50 mL",
+      "price_gbp": 5425.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5804000565"
+    },
+    {
+      "sku": "B2B2710",
+      "slug": "centrifugeuse-paillasse-grant-bio-lmc-56-sans-rotor",
+      "brand": "Grant",
+      "name_fr": "Centrifugeuse de paillasse Grant-Bio LMC-56 — sans rotor",
+      "description_fr": "Centrifugeuse de paillasse polyvalente conçue pour la sédimentation et la centrifugation courantes : tubes, systèmes de prélèvement sanguin, cartes gel, plaques microtest et ELISA. Vitesse maximale de 6 000 tr/min (3 750 x g). Boîtier et couvercle métalliques, coupure automatique en cas de déséquilibre, verrouillage du couvercle pendant le cycle. Réglage de la vitesse en tr/min ou en force centrifuge relative, plusieurs modes d'accélération et de décélération dont un mode de décélération sans freinage forcé. Chambre optimisée pour limiter l'échauffement des échantillons. Livrée sans rotor ; large choix de rotors et adaptateurs disponibles séparément.",
+      "variant_name_fr": "Sans rotor, jusqu'à 6 000 tr/min",
+      "price_gbp": 2178.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CEN2140"
+    },
+    {
+      "sku": "B2B2780",
+      "slug": "centrifugeuse-multifonction-ohaus-fc5706p-sans-rotor",
+      "brand": "OHAUS",
+      "name_fr": "Centrifugeuse multifonction OHAUS Frontier FC5706P — sans rotor (DIV)",
+      "description_fr": "Centrifugeuse de paillasse multifonction OHAUS Frontier FC5706P (dispositif de diagnostic in vitro), conçue pour un large éventail d'applications de séparation. Compatible avec tubes à fond rond ou conique, y compris les tubes de prélèvement sanguin et urinaire courants, de 1,5 à 50 mL selon le rotor installé. Interface à molette tactile utilisable même avec des gants, affichage LCD double ligne rétroéclairé montrant simultanément les paramètres consigne et réels, bascule d'un geste entre tr/min et force centrifuge relative (RCF). Dix réglages d'accélération/décélération, 99 profils mémorisables, capteur de déséquilibre du rotor, couvercle mécanique verrouillable et voyants d'état (vert : cycle terminé, jaune : veille, rouge : centrifugation). Encombrement réduit pour préserver l'espace de paillasse. Livrée sans rotor ; compatible avec un rotor à angle fixe (18 x 1,5/2,0 mL) ou un rotor basculant (4 x 10 mL) disponibles séparément.",
+      "variant_name_fr": "Sans rotor",
+      "price_gbp": 1281.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CEN2200"
+    },
+    {
+      "sku": "B2B2782",
+      "slug": "centrifugeuse-ohaus-fc5706p-rotor-angle-12x15ml",
+      "brand": "OHAUS",
+      "name_fr": "Centrifugeuse multifonction OHAUS Frontier FC5706P — rotor angulaire 12 x 15 mL (DIV)",
+      "description_fr": "Centrifugeuse de paillasse multifonction OHAUS Frontier FC5706P (dispositif de diagnostic in vitro), conçue pour un large éventail d'applications de séparation. Compatible avec tubes à fond rond ou conique, y compris les tubes de prélèvement sanguin et urinaire courants. Interface à molette tactile utilisable même avec des gants, affichage LCD double ligne rétroéclairé montrant simultanément les paramètres consigne et réels, bascule d'un geste entre tr/min et force centrifuge relative (RCF). Dix réglages d'accélération/décélération, 99 profils mémorisables, capteur de déséquilibre du rotor, couvercle mécanique verrouillable et voyants d'état (vert : cycle terminé, jaune : veille, rouge : centrifugation). Livrée avec rotor à angle fixe pour 12 tubes à fond rond ou conique de 15 mL.",
+      "variant_name_fr": "Rotor angulaire, 12 x 15 mL",
+      "price_gbp": 1393.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CEN2200"
+    },
+    {
+      "sku": "B2B2784",
+      "slug": "centrifugeuse-ohaus-fc5706p-rotor-basculant-4x10ml",
+      "brand": "OHAUS",
+      "name_fr": "Centrifugeuse multifonction OHAUS Frontier FC5706P — rotor basculant 4 x 10 mL (DIV)",
+      "description_fr": "Centrifugeuse de paillasse multifonction OHAUS Frontier FC5706P (dispositif de diagnostic in vitro), conçue pour un large éventail d'applications de séparation. Compatible avec tubes à fond rond ou conique, y compris les tubes de prélèvement sanguin et urinaire courants. Interface à molette tactile utilisable même avec des gants, affichage LCD double ligne rétroéclairé montrant simultanément les paramètres consigne et réels, bascule d'un geste entre tr/min et force centrifuge relative (RCF). Dix réglages d'accélération/décélération, 99 profils mémorisables, capteur de déséquilibre du rotor, couvercle mécanique verrouillable et voyants d'état (vert : cycle terminé, jaune : veille, rouge : centrifugation). Livrée avec rotor basculant pour 4 tubes de 10 mL, adapté aux tubes de prélèvement sanguin et urinaire.",
+      "variant_name_fr": "Rotor basculant, 4 x 10 mL",
+      "price_gbp": 1357.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CEN2200"
+    }
+  ]
+}
