@@ -26,6 +26,7 @@ export interface Product {
   is_active: boolean
   in_stock: boolean
   promo_label: string | null
+  specifications: Record<string, string> | null
   created_at: string
   updated_at: string
 }

@@ -1,0 +1,202 @@
+{
+  "category": {
+    "slug": "genomic-dna",
+    "parent_slug": "chimie",
+    "name": { "fr": "ADN génomique de lignées cellulaires" },
+    "description": {
+      "fr": "ADN génomique extrait de lignées cellulaires humaines et animales caractérisées, conditionné en format 5 µg — matériel de référence pour PCR, génotypage, authentification de lignées et études génomiques en biologie moléculaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "00021715-DNA-5UG",
+      "slug": "adn-genomique-lignee-rk-13-rein-lapin-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire RK-13 (rein de lapin)",
+      "description_fr": "ADN génomique extrait de la lignée RK-13, une lignée fibroblastique établie à partir de rein de lapin (Oryctolagus cuniculus), contrôlée négative pour le virus de la diarrhée virale bovine (BVDV). La RK-13 est largement utilisée en virologie pour la production et le titrage de vaccins ainsi que pour des essais de neutralisation viral. Ce format d'ADN génomique sert de matériel de référence pour l'authentification de la lignée par empreinte génétique, le contrôle qualité par PCR et les études comparatives inter-espèces. Distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/00021715-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée RK-13 (fibroblastes de rein de lapin)",
+        "Espèce": "Lapin (Oryctolagus cuniculus)",
+        "Tissu d'origine": "Rein",
+        "Statut sanitaire": "BVDV négatif",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "00062107-DNA-5UG",
+      "slug": "adn-genomique-lignee-mdck-ii-rein-canin-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire MDCK-II (rein canin)",
+      "description_fr": "ADN génomique extrait de la lignée MDCK-II, un sous-clone épithélial polarisé dérivé de rein de chien (Canis familiaris), très employé en virologie (propagation de virus influenza) ainsi que dans les essais de perméabilité et de transport transépithélial. Ce matériel génomique de référence permet de vérifier l'identité de la lignée, de détecter d'éventuelles contaminations croisées entre cultures et de servir de témoin dans des protocoles de PCR ou de séquençage. Conditionnement en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/00062107-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée MDCK-II (épithélium rénal canin)",
+        "Espèce": "Chien (Canis familiaris)",
+        "Tissu d'origine": "Rein",
+        "Application typique": "Virologie, essais de perméabilité",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "00102307-DNA-5UG",
+      "slug": "adn-genomique-lignee-cho-protein-free-hamster-chinois-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire CHO Protein-Free (ovaire de hamster chinois)",
+      "description_fr": "ADN génomique extrait d'une lignée CHO (Chinese Hamster Ovary) adaptée à la culture sans protéines animales, largement utilisée en bioproduction pour l'expression de protéines recombinantes et d'anticorps thérapeutiques. Ce format d'ADN génomique constitue un matériel de référence pour l'authentification de banques cellulaires, le contrôle de stabilité clonale et les analyses de traçabilité génétique en environnement de production biopharmaceutique. Conditionné en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/00102307-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée CHO Protein-Free (adaptée sans protéines)",
+        "Espèce": "Hamster chinois (Cricetulus griseus)",
+        "Tissu d'origine": "Ovaire",
+        "Application typique": "Bioproduction, expression de protéines recombinantes",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "01051619-DNA-5UG",
+      "slug": "adn-genomique-lignee-1301-leucemie-t-humaine-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine 1301 (leucémie à cellules T)",
+      "description_fr": "ADN génomique extrait de la lignée 1301, établie à partir de cellules leucémiques T humaines, un modèle de référence en hématologie et en recherche sur les leucémies aiguës lymphoblastiques. Ce matériel est utilisé pour l'authentification de la lignée par profilage STR, le génotypage de marqueurs associés aux hémopathies malignes et comme contrôle dans les protocoles de biologie moléculaire en oncohématologie. Conditionnement en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/01051619-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée 1301 (cellules T leucémiques)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Leucémie aiguë à cellules T",
+        "Application typique": "Recherche en hématologie et oncologie",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "03112703-DNA-5UG",
+      "slug": "adn-genomique-lignee-rcc4-vhl-carcinome-renal-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine RCC4+VHL (carcinome rénal, VHL restauré)",
+      "description_fr": "ADN génomique extrait de la lignée RCC4+VHL, un carcinome rénal humain dans lequel le gène suppresseur de tumeur VHL, naturellement inactivé dans la lignée parentale RCC4, a été réintroduit de façon stable. Ce modèle est une référence classique pour l'étude de la voie de signalisation hypoxique (HIF) et des mécanismes moléculaires du cancer du rein à cellules claires. Ce format d'ADN génomique sert au génotypage, à la vérification de l'insert VHL et à l'authentification de la lignée dans les projets de recherche oncologique. Conditionné en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/03112703-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée RCC4+VHL (carcinome rénal, VHL réintroduit)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Carcinome rénal à cellules claires",
+        "Application typique": "Recherche sur la voie HIF/hypoxie",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "06020201-DNA-5UG",
+      "slug": "adn-genomique-lignee-vcap-cancer-prostate-metastase-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine VCaP (métastase de cancer de la prostate)",
+      "description_fr": "ADN génomique extrait de la lignée VCaP, établie à partir d'une métastase vertébrale de cancer de la prostate humain, un modèle de référence sensible aux androgènes largement utilisé en recherche uro-oncologique et en endocrinologie. Ce matériel génomique sert à l'authentification de la lignée, au génotypage de marqueurs associés au cancer de la prostate et comme contrôle dans les protocoles de PCR et de séquençage. Conditionnement en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/06020201-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée VCaP (métastase vertébrale, cancer de la prostate)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Cancer de la prostate métastatique, sensible aux androgènes",
+        "Application typique": "Recherche uro-oncologique et endocrinienne",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "06072604-DNA-5UG",
+      "slug": "adn-genomique-lignee-karpas-299-lymphome-alcl-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine KARPAS 299 (lymphome anaplasique à grandes cellules)",
+      "description_fr": "ADN génomique extrait de la lignée KARPAS 299, dérivée d'un lymphome anaplasique à grandes cellules (ALCL) humain positif pour la kinase ALK, un modèle de référence en recherche sur les lymphomes et sur les inhibiteurs de kinase ciblant la fusion ALK. Ce matériel est utilisé pour l'authentification de la lignée, le génotypage du réarrangement ALK et comme contrôle en biologie moléculaire oncologique. Conditionné en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/06072604-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée KARPAS 299 (lymphome anaplasique à grandes cellules, ALK+)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Lymphome anaplasique à grandes cellules",
+        "Application typique": "Recherche sur les lymphomes et inhibiteurs de kinase ALK",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "07071902-DNA-5UG",
+      "slug": "adn-genomique-lignee-cov504-carcinome-ovarien-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine COV504 (carcinome ovarien)",
+      "description_fr": "ADN génomique extrait de la lignée COV504, une lignée de carcinome ovarien humain appartenant à la série COV, un panel de lignées largement employé dans les études de caractérisation génomique du cancer de l'ovaire. Ce matériel de référence sert à l'authentification de la lignée, au génotypage de marqueurs tumoraux et comme contrôle dans les projets de recherche en oncologie gynécologique. Conditionnement en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/07071902-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée COV504 (carcinome ovarien, série COV)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Carcinome ovarien",
+        "Application typique": "Recherche en oncologie gynécologique",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "07071903-DNA-5UG",
+      "slug": "adn-genomique-lignee-cov318-carcinome-ovarien-sereux-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine COV318 (carcinome ovarien séreux)",
+      "description_fr": "ADN génomique extrait de la lignée COV318, un carcinome ovarien séreux humain appartenant au panel COV utilisé de référence dans les études de génomique du cancer de l'ovaire de haut grade. Ce matériel permet l'authentification de la lignée, le génotypage d'altérations génomiques associées aux carcinomes séreux et sert de contrôle dans les protocoles de séquençage et de PCR en recherche oncologique. Conditionné en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/07071903-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée COV318 (carcinome ovarien séreux, série COV)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Carcinome ovarien séreux de haut grade",
+        "Application typique": "Génomique du cancer de l'ovaire",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    },
+    {
+      "sku": "07071910-DNA-5UG",
+      "slug": "adn-genomique-lignee-cov362-carcinome-ovarien-merck",
+      "brand": "Merck",
+      "name_fr": "ADN génomique — lignée cellulaire humaine COV362 (carcinome ovarien)",
+      "description_fr": "ADN génomique extrait de la lignée COV362, un carcinome ovarien humain du panel COV, fréquemment utilisé en recherche pour l'étude des sous-types histologiques du cancer de l'ovaire et le criblage de composés thérapeutiques. Ce matériel de référence sert à l'authentification de la lignée, au génotypage et au contrôle qualité dans les études génomiques en oncologie gynécologique. Conditionnement en format 5 µg, distribué par Merck en tant que fournisseur tiers.",
+      "variant_name_fr": "Format 5 µg",
+      "price_gbp": 484.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/07071910-DNA-5UG",
+      "specs_fr": {
+        "Origine cellulaire": "Lignée COV362 (carcinome ovarien, série COV)",
+        "Espèce": "Humain",
+        "Contexte pathologique": "Carcinome ovarien",
+        "Application typique": "Recherche en oncologie gynécologique et criblage thérapeutique",
+        "Quantité": "5 µg",
+        "Référence fournisseur": "SIG001",
+        "Fournisseur": "Merck (tiers)"
+      }
+    }
+  ]
+}

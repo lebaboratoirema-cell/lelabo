@@ -1,0 +1,171 @@
+{
+  "category": {
+    "slug": "lc-ms",
+    "parent_slug": "equipements",
+    "name": { "fr": "Colonnes et consommables LC-MS" },
+    "description": {
+      "fr": "Colonnes analytiques et de garde Agilent pour chromatographie liquide couplée à la spectrométrie de masse (LC-MS) — exclusion stérique, phases C18, HILIC et applications biomoléculaires (oligonucléotides, glycanes)."
+    }
+  },
+  "products": [
+    {
+      "sku": "5190-2538",
+      "slug": "colonne-agilent-sec-5-1000a-4-6x300mm",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent SEC-5 — 1000 Å, 4,6 x 300 mm",
+      "description_fr": "Colonne de chromatographie d'exclusion stérique (SEC) conçue pour la séparation de protéines et de polymères de grande taille selon leur masse moléculaire. La porosité de 1000 Å et le format 4,6 x 300 mm en font un choix adapté aux analyses de haut poids moléculaire nécessitant une bonne résolution et une plage de séparation étendue. Compatible avec les systèmes LC et LC-MS Agilent, elle s'intègre dans les workflows de contrôle qualité biopharmaceutique où la distribution de taille moléculaire doit être caractérisée avec précision.",
+      "variant_name_fr": "1000 Å, 4,6 x 300 mm",
+      "price_gbp": 2440.80,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Exclusion stérique (SEC)",
+        "Porosité": "1000 Å",
+        "Dimensions": "4,6 x 300 mm"
+      }
+    },
+    {
+      "sku": "5190-6860",
+      "slug": "colonne-garde-agilent-bio-sec-5-500a-4-6x50mm",
+      "brand": "Agilent",
+      "name_fr": "Colonne de garde Agilent Bio SEC-5 — 500 Å, 4,6 x 50 mm",
+      "description_fr": "Colonne de garde dédiée à la chromatographie d'exclusion stérique biomoléculaire, à installer en amont d'une colonne analytique Bio SEC-5 pour protéger la phase stationnaire des contaminants et particules présents dans l'échantillon. La porosité de 500 Å cible les protéines et complexes de taille moyenne, avec un format compact 4,6 x 50 mm limitant l'impact sur les temps de rétention. Elle prolonge la durée de vie de la colonne analytique et préserve la reproductibilité des séparations biomoléculaires dans le temps.",
+      "variant_name_fr": "Garde, 500 Å, 4,6 x 50 mm",
+      "price_gbp": 957.60,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Garde, exclusion stérique biomoléculaire (Bio SEC)",
+        "Porosité": "500 Å",
+        "Dimensions": "4,6 x 50 mm"
+      }
+    },
+    {
+      "sku": "5190-6861",
+      "slug": "colonne-garde-agilent-bio-sec-5-1000a-4-6x50mm",
+      "brand": "Agilent",
+      "name_fr": "Colonne de garde Agilent Bio SEC-5 — 1000 Å, 4,6 x 50 mm",
+      "description_fr": "Colonne de garde pour chromatographie d'exclusion stérique biomoléculaire, à placer en amont d'une colonne analytique Bio SEC-5 afin de piéger les particules et impuretés de l'échantillon avant qu'elles n'atteignent la phase séparative. Sa porosité de 1000 Å est adaptée aux protéines et assemblages de masse moléculaire plus élevée que la version 500 Å, tout en conservant un format court 4,6 x 50 mm. Elle contribue à maintenir la performance et la durée de vie de la colonne analytique associée.",
+      "variant_name_fr": "Garde, 1000 Å, 4,6 x 50 mm",
+      "price_gbp": 957.60,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Garde, exclusion stérique biomoléculaire (Bio SEC)",
+        "Porosité": "1000 Å",
+        "Dimensions": "4,6 x 50 mm"
+      }
+    },
+    {
+      "sku": "520518-904",
+      "slug": "cartouche-garde-agilent-hc-c18-4-6x12-5mm-2pk",
+      "brand": "Agilent",
+      "name_fr": "Cartouches de garde Agilent HC-C18(2) — 4,6 x 12,5 mm, lot de 2",
+      "description_fr": "Cartouches de garde à phase C18 haute charge carbonée, conçues pour protéger les colonnes analytiques C18 des contaminants et particules présents dans les échantillons complexes. Le format compact 4,6 x 12,5 mm permet une insertion directe dans les cartouches de garde compatibles sans allonger significativement les temps d'analyse. Vendues par lot de deux, elles permettent un remplacement rapide en cours de séquence pour préserver la résolution chromatographique et limiter l'encrassement de la colonne principale.",
+      "variant_name_fr": "Lot de 2 cartouches, 4,6 x 12,5 mm",
+      "price_gbp": 140.40,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Garde, phase C18 haute charge carbonée (HC-C18)",
+        "Dimensions": "4,6 x 12,5 mm",
+        "Conditionnement": "Lot de 2 cartouches"
+      }
+    },
+    {
+      "sku": "653750-702",
+      "slug": "colonne-agilent-advancebio-oligonucleotide-2-1x150mm",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent AdvanceBio Oligonucléotide — 2,1 x 150 mm",
+      "description_fr": "Colonne analytique spécialement développée pour la séparation d'oligonucléotides par chromatographie d'appariement d'ions couplée à la spectrométrie de masse (IP-RP-LC-MS). Le format capillaire 2,1 x 150 mm favorise la sensibilité et la compatibilité avec les débits réduits utilisés en LC-MS. Elle offre une résolution fine entre espèces de longueurs proches, un critère clé pour le contrôle qualité des acides nucléiques thérapeutiques, des sondes et des produits de synthèse oligonucléotidique.",
+      "variant_name_fr": "2,1 x 150 mm",
+      "price_gbp": 1521.60,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "AdvanceBio Oligonucléotide, IP-RP-LC-MS",
+        "Dimensions": "2,1 x 150 mm"
+      }
+    },
+    {
+      "sku": "683775-913",
+      "slug": "colonne-agilent-advancebio-glycan-mapping-2-1x150mm-2-7um",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent AdvanceBio Glycan Mapping — 2,1 x 150 mm, 2,7 µm",
+      "description_fr": "Colonne dédiée à la cartographie des glycanes par chromatographie liquide à interaction hydrophile (HILIC), utilisée pour caractériser les profils de glycosylation des glycoprotéines et anticorps thérapeutiques. Les particules superficiellement poreuses de 2,7 µm apportent une haute efficacité de séparation avec une contre-pression maîtrisée, tandis que le format 2,1 x 150 mm convient aux applications à faible débit couplées à la fluorescence ou à la spectrométrie de masse. Un outil de choix pour les laboratoires de développement et de contrôle qualité biopharmaceutique.",
+      "variant_name_fr": "2,1 x 150 mm, particules 2,7 µm",
+      "price_gbp": 1371.60,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "AdvanceBio Glycan Mapping, HILIC",
+        "Granulométrie": "2,7 µm",
+        "Dimensions": "2,1 x 150 mm"
+      }
+    },
+    {
+      "sku": "685975-924",
+      "slug": "colonne-agilent-poroshell-120-hilic-z-4-6x100mm-2-7um",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent Poroshell 120 HILIC-Z — 4,6 x 100 mm, 2,7 µm",
+      "description_fr": "Colonne à phase HILIC-Z sur particules superficiellement poreuses Poroshell 120, optimisée pour la rétention et la séparation de composés polaires et zwitterioniques tels que les métabolites, sucres et glycanes. Sa surface designée pour limiter les interactions secondaires avec les analytes chargés améliore la forme des pics et la reproductibilité, un atout particulier en métabolomique et en analyse LC-MS de composés très polaires. Le format 4,6 x 100 mm avec particules de 2,7 µm offre un bon compromis entre résolution, contre-pression et temps d'analyse.",
+      "variant_name_fr": "4,6 x 100 mm, particules 2,7 µm",
+      "price_gbp": 1569.60,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Poroshell 120 HILIC-Z",
+        "Granulométrie": "2,7 µm",
+        "Dimensions": "4,6 x 100 mm"
+      }
+    },
+    {
+      "sku": "693970-902T",
+      "slug": "colonne-agilent-poroshell-120-ec-c18-4-6x150mm-4um",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent Poroshell 120 EC-C18 — 4,6 x 150 mm, 4 µm",
+      "description_fr": "Colonne à phase inverse C18 à couverture terminale (EC-C18) sur particules superficiellement poreuses Poroshell 120 de 4 µm, adaptée à un large éventail d'applications de routine en chromatographie liquide. Le format 4,6 x 150 mm convient aux méthodes établies nécessitant un transfert simple depuis des colonnes classiques entièrement poreuses, avec un gain d'efficacité et une contre-pression réduite grâce à la technologie superficiellement poreuse. Un choix robuste pour les laboratoires analytiques recherchant fiabilité et reproductibilité au quotidien.",
+      "variant_name_fr": "4,6 x 150 mm, particules 4 µm",
+      "price_gbp": 901.20,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Poroshell 120 EC-C18",
+        "Granulométrie": "4 µm",
+        "Dimensions": "4,6 x 150 mm"
+      }
+    },
+    {
+      "sku": "693975-302",
+      "slug": "colonne-agilent-poroshell-120-ec-c18-3-0x150mm-2-7um",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent Poroshell 120 EC-C18 — 3,0 x 150 mm, 2,7 µm",
+      "description_fr": "Colonne à phase inverse C18 à couverture terminale sur particules superficiellement poreuses Poroshell 120 de 2,7 µm, offrant une haute efficacité de séparation proche de celle des colonnes UHPLC tout en restant compatible avec des systèmes HPLC conventionnels. Le format 3,0 x 150 mm réduit la consommation de solvant et améliore la sensibilité en couplage LC-MS par rapport à un format 4,6 mm, tout en conservant une bonne capacité de charge. Adaptée aux méthodes de routine comme aux applications plus exigeantes en résolution.",
+      "variant_name_fr": "3,0 x 150 mm, particules 2,7 µm",
+      "price_gbp": 1090.80,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Poroshell 120 EC-C18",
+        "Granulométrie": "2,7 µm",
+        "Dimensions": "3,0 x 150 mm"
+      }
+    },
+    {
+      "sku": "693975-902",
+      "slug": "colonne-agilent-poroshell-120-ec-c18-4-6x150mm-2-7um",
+      "brand": "Agilent",
+      "name_fr": "Colonne Agilent Poroshell 120 EC-C18 — 4,6 x 150 mm, 2,7 µm",
+      "description_fr": "Colonne à phase inverse C18 à couverture terminale sur particules superficiellement poreuses Poroshell 120 de 2,7 µm, associant la résolution des colonnes à particules fines à une contre-pression compatible avec les systèmes HPLC standards. Le format 4,6 x 150 mm en fait une colonne polyvalente pour les analyses de routine en pharmaceutique, environnement ou agroalimentaire, avec un bon compromis entre temps d'analyse, résolution et robustesse méthodologique.",
+      "variant_name_fr": "4,6 x 150 mm, particules 2,7 µm",
+      "price_gbp": 1090.80,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "ELE022",
+        "Type de colonne": "Poroshell 120 EC-C18",
+        "Granulométrie": "2,7 µm",
+        "Dimensions": "4,6 x 150 mm"
+      }
+    }
+  ]
+}

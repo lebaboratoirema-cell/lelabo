@@ -1,0 +1,175 @@
+{
+  "category": {
+    "slug": "density-gradient-centrifugation-media",
+    "parent_slug": "chimie",
+    "name": { "fr": "Milieux de centrifugation en gradient de densité" },
+    "description": {
+      "fr": "Milieux de séparation Histopaque et OptiPrep pour l'isolement de cellules mononucléées, de granulocytes et d'organites subcellulaires par centrifugation en gradient de densité — solutions prêtes à l'emploi pour laboratoires de biologie cellulaire et d'immunologie."
+    }
+  },
+  "products": [
+    {
+      "sku": "10771-100ML",
+      "slug": "histopaque-1077-sigma-aldrich-100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1077 Sigma-Aldrich — densité 1,077 g/mL, 100 mL",
+      "description_fr": "Solution stérile filtrée de polysaccharose et de diatrizoate de sodium, ajustée à une densité de 1,077 g/mL et contrôlée pour l'absence d'endotoxines. Ce milieu prêt à l'emploi permet la récupération rapide de lymphocytes viables et d'autres cellules mononucléées à partir de faibles volumes de sang total. Il est couramment utilisé pour l'isolement des cellules mononucléées du sang périphérique (PBMC) et de la moelle osseuse (BMMC), la purification de cellules mononucléées par centrifugation, l'isolement de lymphocytes humains, ainsi que la récupération de cellules tumorales circulantes issues du cancer du sein à partir de sang total. À conserver entre 2 et 8°C, à l'abri de la lumière.",
+      "variant_name_fr": "Flacon de 100 mL",
+      "price_gbp": 71.88,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "Densité": "1,077 g/mL",
+        "pH": "8,8 - 9,0",
+        "Stérilité": "Filtration stérile",
+        "Contrôle endotoxines": "Testé",
+        "Conservation": "2-8°C, à l'abri de la lumière",
+        "Format": "100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "10771-500ML",
+      "slug": "histopaque-1077-sigma-aldrich-500ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1077 Sigma-Aldrich — densité 1,077 g/mL, 500 mL",
+      "description_fr": "Solution stérile filtrée de polysaccharose et de diatrizoate de sodium à densité fixée à 1,077 g/mL, contrôlée pour l'absence d'endotoxines. Format 500 mL adapté aux laboratoires traitant des volumes d'échantillons plus importants, pour la séparation rapide de lymphocytes viables et d'autres cellules mononucléées à partir de sang total. Applications courantes : isolement des PBMC et BMMC, purification de cellules mononucléées par centrifugation, isolement de lymphocytes humains et récupération de cellules tumorales circulantes du cancer du sein. À conserver entre 2 et 8°C, à l'abri de la lumière.",
+      "variant_name_fr": "Flacon de 500 mL",
+      "price_gbp": 248.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "Densité": "1,077 g/mL",
+        "pH": "8,8 - 9,0",
+        "Stérilité": "Filtration stérile",
+        "Contrôle endotoxines": "Testé",
+        "Conservation": "2-8°C, à l'abri de la lumière",
+        "Format": "500 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "10771-6X100ML",
+      "slug": "histopaque-1077-sigma-aldrich-6x100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1077 Sigma-Aldrich — densité 1,077 g/mL, coffret 6 x 100 mL",
+      "description_fr": "Coffret de six flacons de 100 mL d'Histopaque-1077, solution stérile filtrée de polysaccharose et de diatrizoate de sodium ajustée à une densité de 1,077 g/mL et contrôlée pour l'absence d'endotoxines. Format économique pour les laboratoires à fort débit d'échantillons, permettant la récupération rapide de lymphocytes viables et d'autres cellules mononucléées à partir de sang total. Utilisé pour l'isolement des PBMC et BMMC, la purification de cellules mononucléées par centrifugation et l'isolement de lymphocytes humains. À conserver entre 2 et 8°C, à l'abri de la lumière.",
+      "variant_name_fr": "Coffret de 6 flacons de 100 mL (600 mL au total)",
+      "price_gbp": 255.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "Densité": "1,077 g/mL",
+        "pH": "8,8 - 9,0",
+        "Stérilité": "Filtration stérile",
+        "Contrôle endotoxines": "Testé",
+        "Conservation": "2-8°C, à l'abri de la lumière",
+        "Format": "6 x 100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "10831-100ML",
+      "slug": "histopaque-1083-sigma-aldrich-100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1083 Sigma-Aldrich — densité 1,083 g/mL",
+      "description_fr": "Solution de polysaccharose et de diatrizoate de sodium ajustée à une densité de 1,083 g/mL, conçue pour faciliter la récupération de cellules mononucléées viables chez le rat, la souris et d'autres petits mammifères, dont la densité cellulaire diffère légèrement de celle des cellules humaines. Histopaque est une marque déposée de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Flacon de 100 mL",
+      "price_gbp": 142.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/10831-100ML",
+      "specs_fr": {
+        "Densité": "1,083 g/mL",
+        "Espèces cibles": "Rat, souris et autres petits mammifères",
+        "Format": "100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "10831-6X100ML",
+      "slug": "histopaque-1083-sigma-aldrich-6x100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1083 Sigma-Aldrich — densité 1,083 g/mL, coffret 6 x 100 mL",
+      "description_fr": "Coffret de six flacons de 100 mL d'Histopaque-1083, solution de polysaccharose et de diatrizoate de sodium ajustée à une densité de 1,083 g/mL. Facilite la récupération de cellules mononucléées viables chez le rat, la souris et d'autres petits mammifères. Format multi-flacons adapté aux laboratoires réalisant des séparations en série. Histopaque est une marque déposée de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Coffret de 6 flacons de 100 mL (600 mL au total)",
+      "price_gbp": 643.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/10831-6X100ML",
+      "specs_fr": {
+        "Densité": "1,083 g/mL",
+        "Espèces cibles": "Rat, souris et autres petits mammifères",
+        "Format": "6 x 100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "11191-100ML",
+      "slug": "histopaque-1119-sigma-aldrich-100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1119 Sigma-Aldrich — densité 1,119 g/mL",
+      "description_fr": "Solution stérile filtrée, contrôlée pour l'absence d'endotoxines, de polysaccharose et de diatrizoate de sodium ajustée à une densité de 1,119 g/mL et un pH de 8,8-9,0. Conçue pour être utilisée en association avec l'Histopaque-1077 afin de créer un double gradient de séparation : le sang anticoagulé est déposé sur une couche supérieure d'Histopaque-1077 elle-même superposée à l'Histopaque-1119. Lors de la centrifugation, les érythrocytes agrégés sédimentent rapidement, les granulocytes se concentrent à l'interface entre les deux milieux, tandis que les lymphocytes et autres cellules mononucléées restent à l'interface plasma/Histopaque-1077, avec une contamination érythrocytaire négligeable. Histopaque est une marque déposée de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Flacon de 100 mL",
+      "price_gbp": 135.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/292/653/04cce6ed-ad47-4ea9-952b-47468a934da9/640/04cce6ed-ad47-4ea9-952b-47468a934da9",
+      "specs_fr": {
+        "Densité": "1,119 g/mL",
+        "pH": "8,8 - 9,0",
+        "Stérilité": "Filtration stérile",
+        "Contrôle endotoxines": "Testé",
+        "Usage recommandé": "En double gradient avec Histopaque-1077",
+        "Format": "100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "11191-6X100ML",
+      "slug": "histopaque-1119-sigma-aldrich-6x100ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de séparation Histopaque-1119 Sigma-Aldrich — densité 1,119 g/mL, coffret 6 x 100 mL",
+      "description_fr": "Coffret de six flacons de 100 mL d'Histopaque-1119, solution stérile filtrée et contrôlée pour l'absence d'endotoxines, ajustée à une densité de 1,119 g/mL et un pH de 8,8-9,0. Utilisée en association avec l'Histopaque-1077 pour former un double gradient permettant de séparer granulocytes et cellules mononucléées d'un échantillon de sang total, avec une contamination érythrocytaire négligeable après centrifugation. Format multi-flacons adapté aux laboratoires réalisant des séparations à volume important. Histopaque est une marque déposée de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Coffret de 6 flacons de 100 mL (600 mL au total)",
+      "price_gbp": 612.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/292/653/04cce6ed-ad47-4ea9-952b-47468a934da9/640/04cce6ed-ad47-4ea9-952b-47468a934da9",
+      "specs_fr": {
+        "Densité": "1,119 g/mL",
+        "pH": "8,8 - 9,0",
+        "Stérilité": "Filtration stérile",
+        "Contrôle endotoxines": "Testé",
+        "Usage recommandé": "En double gradient avec Histopaque-1077",
+        "Format": "6 x 100 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A6929-40X3ML",
+      "slug": "accuspin-histopaque-1077-sigma-aldrich-40x3ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Système ACCUSPIN Histopaque-1077 Sigma-Aldrich — coffret de 40 tubes prêts à l'emploi",
+      "description_fr": "Système de tubes de centrifugation à deux compartiments séparés par une barrière poreuse en polyéthylène haute densité (fritté). Le compartiment inférieur est prérempli avec 3 mL d'Histopaque-1077, ce qui permet de déposer directement le sang anticoagulé dans le compartiment supérieur sans risque de mélange prématuré avec le milieu de séparation. Lors de la centrifugation, le sang traverse le fritté pour entrer en contact avec l'Histopaque-1077 : les érythrocytes s'agrègent et les granulocytes, devenus légèrement hypertoniques, sédimentent au fond du tube, tandis que les lymphocytes et autres cellules mononucléées (monocytes) restent à l'interface plasma/Histopaque-1077. Tubes en polypropylène de 12 mL, stérilisés par irradiation gamma ; chaque tube permet de traiter de 3 à 6 mL de sang anticoagulé. ACCUSPIN et Histopaque sont des marques de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Coffret de 40 tubes préremplis de 3 mL",
+      "price_gbp": 472.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/A6929-40X3ML",
+      "specs_fr": {
+        "Format du tube": "12 mL, polypropylène, à double compartiment fritté",
+        "Volume d'Histopaque-1077 par tube": "3 mL",
+        "Capacité de sang par tube": "3 à 6 mL",
+        "Stérilisation": "Irradiation gamma",
+        "Quantité": "40 tubes prêts à l'emploi",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "D1556-250ML",
+      "slug": "optiprep-milieu-gradient-densite-sigma-aldrich-250ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Milieu de gradient de densité OptiPrep Sigma-Aldrich — 250 mL",
+      "description_fr": "Solution aqueuse stérile à 60 % (p/v) d'iodixanol, utilisée pour l'isolement de cellules et d'organites subcellulaires par centrifugation en gradient de densité. Sa faible viscosité et son caractère iso-osmotique, comparés aux milieux traditionnels à base de saccharose, permettent de préparer des gradients continus ou discontinus adaptés à de nombreux protocoles de biologie cellulaire. Ce milieu a notamment été utilisé pour l'isolement de virions non enveloppés à partir de lavages broncho-alvéolaires. OptiPrep est une marque de Sigma-Aldrich Co. LLC.",
+      "variant_name_fr": "Flacon de 250 mL",
+      "price_gbp": 493.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "Composé actif": "Iodixanol",
+        "Concentration": "60 % (p/v) dans l'eau",
+        "Stérilité": "Solution stérile",
+        "Numéro MDL": "MFCD00867965",
+        "Format": "250 mL",
+        "Référence fournisseur": "SIG001"
+      }
+    }
+  ]
+}

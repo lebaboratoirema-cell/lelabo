@@ -1,0 +1,211 @@
+{
+  "category": {
+    "slug": "stirrers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Agitateurs chauffants" },
+    "description": {
+      "fr": "Agitateurs magnétiques chauffants de laboratoire — plaques SLS Lab Basics, IKA et OHAUS Guardian 3000, avec régulation numérique de la température et de la vitesse, sondes en option et large choix de dimensions de plateau."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B06238T",
+      "slug": "agitateur-chauffant-sls-lab-basics-280c-affichage-led-sonde",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Agitateur chauffant SLS Lab Basics 280 °C — affichage LED, avec sonde",
+      "description_fr": "Agitateur chauffant en inox à plateau céramique (Ø135 mm), conçu pour résister à la corrosion en usage intensif de laboratoire. L'écran LED affiche en continu la température et la vitesse de rotation, et un indicateur reste actif tant que la surface dépasse 50 °C après extinction, pour prévenir tout risque de brûlure. Le boîtier en ABS résistant aux produits chimiques convient aux laboratoires de physique, chimie et biotechnologie. Cette offre promotionnelle inclut une sonde de température et une tige de support. Température de chauffe jusqu'à 280 °C.",
+      "variant_name_fr": "280 °C, affichage LED, avec sonde",
+      "price_gbp": 234.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS4780",
+      "specs_fr": {
+        "Température maximale": "280 °C",
+        "Plateau": "Inox, revêtement céramique, Ø135 mm",
+        "Affichage": "LED — température et vitesse",
+        "Indicateur de sécurité": "Alerte surface chaude au-delà de 50 °C",
+        "Boîtier": "ABS résistant aux produits chimiques",
+        "Accessoires inclus": "Sonde de température et tige de support",
+        "Référence fournisseur": "IDRA001"
+      }
+    },
+    {
+      "sku": "B2B06240T",
+      "slug": "agitateur-chauffant-sls-lab-basics-340c-affichage-lcd-sonde",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Agitateur chauffant SLS Lab Basics 340 °C — affichage LCD, avec sonde",
+      "description_fr": "Agitateur chauffant à commande numérique montant jusqu'à 340 °C, avec une vitesse de rotation atteignant 1500 tr/min. Le plateau en aluminium à revêtement céramique assure une montée en température rapide et une bonne compatibilité avec divers récipients et blocs chauffants. L'écran LCD haute résolution affiche la température et la vitesse réelles, tandis qu'un régulateur PID garantit un chauffage précis et stable sans dépassement de consigne. Le contrôle externe de température s'effectue via une sonde PT1000 (précision ±0,2 °C), et le moteur à courant continu sans balais offre une régulation de vitesse puissante. Trois modes de chauffe sont proposés — rapide, standard et stable — avec une interface RS232 permettant le pilotage et la transmission de données depuis un PC. Sonde de température et tige de support fournis.",
+      "variant_name_fr": "340 °C, affichage LCD, avec sonde",
+      "price_gbp": 354.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS48000",
+      "specs_fr": {
+        "Température maximale": "340 °C",
+        "Vitesse maximale": "1500 tr/min",
+        "Plateau": "Aluminium, revêtement céramique",
+        "Affichage": "LCD haute résolution",
+        "Régulation": "PID, sonde PT1000 (±0,2 °C)",
+        "Moteur": "Courant continu sans balais",
+        "Interface": "RS232, pilotage PC",
+        "Accessoires inclus": "Sonde de température et tige de support",
+        "Référence fournisseur": "IDRA001"
+      }
+    },
+    {
+      "sku": "B2B1166",
+      "slug": "agitateur-chauffant-ika-rct-basic-kit-pret-a-emploi",
+      "brand": "IKA",
+      "name_fr": "Agitateur chauffant IKA RCT basic — kit prêt à l'emploi complet",
+      "description_fr": "Solution prête à l'emploi construite autour de l'agitateur magnétique chauffant IKA RCT basic, réunissant tous les accessoires nécessaires à un contrôle précis de la température de l'échantillon. Le kit comprend une tige de statif, un bras d'extension et une pince à noix pour positionner correctement la sonde PT1000 fournie, qui doit toujours rester hors de la zone de tourbillon créée par l'agitation et être immergée à au moins 20 mm de profondeur. Un couvercle universel en silicone pour béchers de 600 et 1000 mL, doté d'un passage intégré pour la sonde, complète l'ensemble : il fait office de pare-éclaboussures, réduit les pertes d'énergie lorsqu'il sert de couvercle et atténue le bruit d'aspiration d'air lors d'une agitation rapide. L'appareil se distingue par une surface en verre trempé résistant aux produits chimiques, un grand écran LED rétroéclairé avec symboles lumineux d'état, des interfaces USB et RS232 pour le pilotage ou la documentation via PC (compatible avec le logiciel labworldsoft®), une plaque chauffante en aluminium assurant une répartition homogène de la chaleur, un couplage magnétique puissant et un démarrage progressif évitant le décrochage des barreaux aimantés. Deux modes de régulation permettent une montée rapide en température ou un contrôle précis sans dépassement. Livré avec deux barreaux aimantés IKAFLON® (30 et 40 mm), un tournevis et la sonde inox PT1000.60.",
+      "variant_name_fr": "Kit prêt à l'emploi complet",
+      "price_gbp": 841.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2460",
+      "specs_fr": {
+        "Composants inclus": "Tige de statif, bras d'extension, pince à noix, sonde PT1000.60, couvercle silicone universel (600/1000 mL), 2 barreaux IKAFLON®, tournevis",
+        "Plateau": "Verre trempé résistant aux produits chimiques",
+        "Affichage": "LED rétroéclairé avec symboles d'état",
+        "Interfaces": "USB, RS232, compatible labworldsoft®",
+        "Plaque chauffante": "Aluminium",
+        "Référence fournisseur": "IKA005"
+      }
+    },
+    {
+      "sku": "B2B2230T",
+      "slug": "agitateur-chauffant-sls-lab-basics-plateau-7x7-pouces-numerique",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Agitateur chauffant SLS Lab Basics — plateau 7x7 pouces, commande numérique",
+      "description_fr": "Agitateur chauffant robuste destiné à un usage quotidien en laboratoire, doté d'un plateau céramique blanc résistant aux produits chimiques et d'une régulation par microprocesseur. Le système de surveillance continue assure un contrôle précis de la température, avec une montée en chaleur rapide et une ébullition accélérée, tandis que le moteur puissant garantit un mélange efficace même pour des échantillons volumineux ou visqueux. La température et la vitesse s'affichent sur un grand écran numérique, et une LED de sécurité s'allume dès que la surface du plateau dépasse 50 °C. Une sonde de température externe optionnelle permet un contrôle de l'échantillon à ±1 °C près. Plage de température de 35 à 400 °C, vitesse de 150 à 1500 tr/min, plateau disponible en 7x7 ou 10x10 pouces, pour une température ambiante de fonctionnement de +4 à +65 °C.",
+      "variant_name_fr": "Plateau 7x7 pouces, affichage numérique",
+      "price_gbp": 282.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS1550",
+      "specs_fr": {
+        "Plage de température": "35 à 400 °C",
+        "Plage de vitesse": "150 à 1500 tr/min",
+        "Dimensions du plateau": "7 x 7 pouces (également disponible en 10 x 10 pouces)",
+        "Plateau": "Céramique blanche résistante aux produits chimiques",
+        "Affichage": "Numérique, température et vitesse",
+        "Sécurité": "LED d'alerte surface chaude (>50 °C)",
+        "Précision avec sonde externe": "±1 °C",
+        "Température ambiante de fonctionnement": "+4 à +65 °C",
+        "Référence fournisseur": "IBEN001"
+      }
+    },
+    {
+      "sku": "B2B2796",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-rond-135mm-kit-sonde",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau rond 135 mm, kit avec sonde",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C, icône sonde en service et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min, pour une plage de température ambiante de +5 °C à 500 °C avec le plateau céramique. Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Ce modèle est équipé d'un plateau rond en céramique de 135 mm de diamètre. Ce kit est livré avec une sonde de température et son support, ainsi qu'un barreau aimanté revêtu PTFE, pour un contrôle précis de la température de l'échantillon dès la sortie de la boîte.",
+      "variant_name_fr": "Kit avec sonde, plateau rond 135 mm",
+      "price_gbp": 428.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2662",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (plateau céramique)",
+        "Plateau": "Céramique, rond, Ø135 mm",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "Incluse, avec support",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    },
+    {
+      "sku": "B2B2798",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-180x180mm-kit-sonde",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau 180 x 180 mm, kit avec sonde",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C, icône sonde en service et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min, pour une plage de température ambiante de +5 °C à 500 °C avec le plateau céramique. Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Ce modèle est équipé d'un grand plateau carré en céramique de 180 x 180 mm, adapté aux séries d'échantillons plus nombreuses ou volumineuses. Ce kit est livré avec une sonde de température et son support, ainsi qu'un barreau aimanté revêtu PTFE.",
+      "variant_name_fr": "Kit avec sonde, plateau 180 x 180 mm",
+      "price_gbp": 456.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2664",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (plateau céramique)",
+        "Plateau": "Céramique, carré, 180 x 180 mm",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "Incluse, avec support",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    },
+    {
+      "sku": "B2B2800",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-108x108mm-kit-sonde",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau 108 x 108 mm, kit avec sonde",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C, icône sonde en service et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min, pour une plage de température ambiante de +5 °C à 500 °C avec le plateau céramique. Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Ce modèle, le plus compact de la gamme, est équipé d'un plateau carré en céramique de 108 x 108 mm, idéal pour les paillasses restreintes. Ce kit est livré avec une sonde de température et son support, ainsi qu'un barreau aimanté revêtu PTFE.",
+      "variant_name_fr": "Kit avec sonde, plateau 108 x 108 mm",
+      "price_gbp": 444.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2666",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (plateau céramique)",
+        "Plateau": "Céramique, carré, 108 x 108 mm",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "Incluse, avec support",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    },
+    {
+      "sku": "B2B8374",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-rond-135mm",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau rond 135 mm",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min. Ce modèle est équipé d'un plateau rond de 135 mm de diamètre, proposé en version céramique (jusqu'à 500 °C) ou en acier revêtu céramique (jusqu'à 380 °C). Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Livré sans sonde de température — compatible avec la sonde en option de la gamme Guardian 3000 pour un contrôle précis de l'échantillon. Barreau aimanté revêtu PTFE inclus.",
+      "variant_name_fr": "Sans sonde, plateau rond 135 mm",
+      "price_gbp": 372.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2650",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (céramique) ou 380 °C (acier revêtu céramique)",
+        "Plateau": "Rond, Ø135 mm, céramique ou acier revêtu céramique",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "En option (non incluse)",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    },
+    {
+      "sku": "B2B8376",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-180x180mm",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau 180 x 180 mm",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min, pour une plage de température ambiante de +5 °C à 500 °C avec le plateau céramique. Ce modèle est équipé d'un grand plateau carré de 180 x 180 mm, adapté aux séries d'échantillons plus nombreuses ou volumineuses. Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Livré sans sonde de température — compatible avec la sonde en option de la gamme Guardian 3000. Barreau aimanté revêtu PTFE inclus.",
+      "variant_name_fr": "Sans sonde, plateau 180 x 180 mm",
+      "price_gbp": 408.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2652",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (plateau céramique)",
+        "Plateau": "Céramique, carré, 180 x 180 mm",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "En option (non incluse)",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    },
+    {
+      "sku": "B2B8378",
+      "slug": "agitateur-chauffant-ohaus-guardian-3000-plateau-108x108mm",
+      "brand": "OHAUS",
+      "name_fr": "Agitateur chauffant OHAUS Guardian 3000 — plateau 108 x 108 mm",
+      "description_fr": "Agitateur chauffant OHAUS Guardian 3000™ pensé pour un usage économique et fiable en laboratoire — préparation de bains d'eau ou d'huile, dissolution de tampons et réactifs, préparation de milieux, concentration d'échantillons ou ébullition de liquides. L'écran LCD rétroéclairé affiche clairement la température et la vitesse, avec des icônes intuitives : voyant vert de chauffage et d'agitation en cours, indicateur de plateau chaud dès 40 °C et icône d'étalonnage mono-point. La vitesse d'agitation s'étend de 80 à 1600 tr/min, pour une plage de température ambiante de +5 °C à 500 °C avec le plateau céramique. Ce modèle, le plus compact de la gamme, est équipé d'un plateau carré de 108 x 108 mm, idéal pour les paillasses restreintes. Le boîtier métallique robuste, la façade en PET et les boutons de commande assurent une bonne longévité, avec un interrupteur dédié pour couper le chauffage indépendamment de l'agitation et un support intégré pour tige de statif. Livré sans sonde de température — compatible avec la sonde en option de la gamme Guardian 3000. Barreau aimanté revêtu PTFE inclus.",
+      "variant_name_fr": "Sans sonde, plateau 108 x 108 mm",
+      "price_gbp": 391.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/STI2654",
+      "specs_fr": {
+        "Vitesse d'agitation": "80 à 1600 tr/min",
+        "Température ambiante": "+5 à 500 °C (plateau céramique)",
+        "Plateau": "Céramique, carré, 108 x 108 mm",
+        "Affichage": "LCD rétroéclairé, température et vitesse",
+        "Indicateur plateau chaud": "Dès 40 °C",
+        "Sonde de température": "En option (non incluse)",
+        "Barreau aimanté": "Revêtement PTFE inclus",
+        "Référence fournisseur": "OHA001"
+      }
+    }
+  ]
+}

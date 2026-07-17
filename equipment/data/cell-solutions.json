@@ -1,0 +1,202 @@
+{
+  "category": {
+    "slug": "cell-solutions",
+    "parent_slug": "chimie",
+    "name": { "fr": "Antigènes et Peptides Cellulaires" },
+    "description": {
+      "fr": "Antigènes protéiques, lysats viraux et peptides de synthèse Charles River pour la stimulation de réponses immunitaires in vitro. Chaque lot est contrôlé pour sa bioactivité sur cellules mononucléées du sang périphérique (PBMC) humaines, pour vos essais d'immunogénicité, ELISPOT et culture cellulaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "ANTIGEN1002",
+      "slug": "antigene-tetanos-charles-river-100ug",
+      "brand": "Charles River",
+      "name_fr": "Antigène anatoxine tétanique Charles River — 100 µg, cryoconservé",
+      "description_fr": "Préparation d'anatoxine tétanique purifiée destinée à la stimulation in vitro des cellules immunitaires. Cet antigène protéique est utilisé pour évaluer la réponse mémoire des lymphocytes T chez des sujets vaccinés ou exposés, dans le cadre d'essais d'immunogénicité ou de contrôle qualité de PBMC. Chaque lot fait l'objet d'un contrôle de bioactivité sur cellules mononucléées du sang périphérique (PBMC) humaines avant libération, garantissant une activité stimulante reproductible d'un lot à l'autre. Produit livré cryoconservé pour préserver son intégrité jusqu'à l'utilisation.",
+      "variant_name_fr": "Format 100 µg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Antigène protéique purifié",
+        "Quantité": "100 µg",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Stimulation immunitaire in vitro, essais d'immunogénicité"
+      }
+    },
+    {
+      "sku": "ANTIGEN1004",
+      "slug": "antigene-cmv-charles-river-100ug",
+      "brand": "Charles River",
+      "name_fr": "Antigène Cytomégalovirus (CMV) Charles River — 100 µg, cryoconservé",
+      "description_fr": "Lysat viral de cytomégalovirus (CMV) formulé pour induire une réponse immunitaire mesurable in vitro. Cet antigène est couramment employé pour caractériser la réactivité des lymphocytes T et B chez des donneurs séropositifs au CMV, en recherche sur l'immunité anti-virale et en développement de tests diagnostiques. La bioactivité de chaque lot est vérifiée sur cellules mononucléées du sang périphérique (PBMC) humaines afin d'assurer une stimulation fiable et reproductible. Conditionné cryoconservé pour une conservation optimale.",
+      "variant_name_fr": "Format 100 µg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Lysat viral",
+        "Quantité": "100 µg",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Étude de la réponse immunitaire anti-CMV"
+      }
+    },
+    {
+      "sku": "ANTIGEN1005",
+      "slug": "antigene-controle-cmv-charles-river-100ug",
+      "brand": "Charles River",
+      "name_fr": "Antigène contrôle Cytomégalovirus (CMV) Charles River — 100 µg, cryoconservé",
+      "description_fr": "Préparation antigénique de référence dérivée du cytomégalovirus, destinée à servir de contrôle négatif ou de comparaison dans les protocoles de stimulation immunitaire. Utilisée en parallèle de l'antigène CMV actif, elle permet de distinguer la réponse spécifique de la réponse de fond dans les essais sur PBMC. Chaque lot est soumis à un test de bioactivité sur cellules mononucléées du sang périphérique humaines pour garantir la cohérence des résultats expérimentaux. Livrée cryoconservée.",
+      "variant_name_fr": "Format 100 µg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Antigène contrôle",
+        "Quantité": "100 µg",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Contrôle négatif / comparatif pour essais CMV"
+      }
+    },
+    {
+      "sku": "ANTIGEN1051",
+      "slug": "peptide-cmv-pp65-a2-nlvpmvatv-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide CMV pp65 restreint HLA-A2 (NLVPMVATV) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Peptide de synthèse dérivé de la protéine pp65 du cytomégalovirus, présenté dans le contexte de l'allèle HLA-A2. Cette séquence courte (NLVPMVATV) est largement utilisée comme épitope de référence pour détecter et quantifier les lymphocytes T CD8+ spécifiques du CMV, notamment par tétramères ou tests ELISPOT. Sa capacité à stimuler efficacement les cellules immunitaires est confirmée par un contrôle de bioactivité sur PBMC humains avant expédition. Fourni sous forme cryoconservée pour préserver sa stabilité.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Restriction HLA": "HLA-A2",
+        "Séquence": "NLVPMVATV",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Détection des lymphocytes T CD8+ anti-CMV"
+      }
+    },
+    {
+      "sku": "ANTIGEN1052",
+      "slug": "peptide-cmv-pp65-b35-ipsinvhhy-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide CMV pp65 restreint HLA-B35 (IPSINVHHY) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Peptide de synthèse issu de la protéine pp65 du cytomégalovirus, présenté par l'allèle HLA-B35. La séquence IPSINVHHY constitue un épitope reconnu utilisé pour l'analyse des réponses lymphocytaires T CD8+ chez les donneurs porteurs de cet haplotype, en immunosurveillance du CMV et en recherche vaccinale. La bioactivité stimulante de chaque lot est vérifiée sur cellules mononucléées du sang périphérique humaines. Produit cryoconservé pour garantir sa conservation jusqu'à l'usage.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Restriction HLA": "HLA-B35",
+        "Séquence": "IPSINVHHY",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Détection des lymphocytes T CD8+ anti-CMV"
+      }
+    },
+    {
+      "sku": "ANTIGEN1053",
+      "slug": "peptide-myeline-mbp-84-97-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide protéine basique de la myéline (84-97) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Fragment peptidique synthétique correspondant à la région 84-97 de la protéine basique de la myéline (MBP), un auto-antigène de référence en recherche sur l'auto-immunité et les maladies démyélinisantes. Ce peptide est employé pour étudier la réactivité des lymphocytes T autoréactifs dans des modèles expérimentaux ou sur des échantillons cliniques. Sa capacité de stimulation cellulaire est confirmée par un contrôle de bioactivité sur PBMC humains. Livré cryoconservé.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Région": "Acides aminés 84-97",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Recherche sur l'auto-immunité et la démyélinisation"
+      }
+    },
+    {
+      "sku": "ANTIGEN1054",
+      "slug": "peptide-tetanos-830-844-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide anatoxine tétanique (830-844) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Fragment peptidique de synthèse correspondant à la région 830-844 de l'anatoxine tétanique, un épitope T bien caractérisé utilisé comme antigène de rappel pour évaluer la mémoire immunitaire vaccinale. Ce peptide sert de témoin positif fréquent dans les essais de prolifération lymphocytaire et les tests ELISPOT. La bioactivité de chaque lot est vérifiée sur cellules mononucléées du sang périphérique humaines avant libération. Fourni sous forme cryoconservée.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Région": "Acides aminés 830-844",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Témoin positif pour tests de mémoire immunitaire"
+      }
+    },
+    {
+      "sku": "ANTIGEN1055",
+      "slug": "peptide-hpv-11-20-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide HPV (11-20) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Peptide de synthèse correspondant à la région 11-20 d'une protéine du papillomavirus humain (HPV), utilisé en recherche sur l'immunité anti-tumorale et le développement de vaccins thérapeutiques. Ce court fragment sert d'outil pour caractériser les réponses lymphocytaires T spécifiques du HPV chez des sujets exposés ou vaccinés. La bioactivité stimulante est confirmée par un contrôle sur cellules mononucléées du sang périphérique humaines. Livré cryoconservé pour une stabilité optimale.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Région": "Acides aminés 11-20",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Recherche en immunologie anti-HPV et vaccinologie"
+      }
+    },
+    {
+      "sku": "ANTIGEN1090",
+      "slug": "peptide-wt1-126-134-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide WT-1 (126-134) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Fragment peptidique synthétique de la région 126-134 de la protéine WT-1, un antigène associé aux tumeurs surexprimé dans de nombreuses leucémies et cancers solides. Ce peptide est utilisé en immuno-oncologie pour étudier ou générer des réponses lymphocytaires T cytotoxiques dirigées contre les cellules tumorales exprimant WT-1, notamment dans le cadre de recherches sur l'immunothérapie. Sa bioactivité est contrôlée sur cellules mononucléées du sang périphérique humaines. Fourni cryoconservé.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Région": "Acides aminés 126-134",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Immuno-oncologie, antigène associé aux tumeurs"
+      }
+    },
+    {
+      "sku": "ANTIGEN1094",
+      "slug": "peptide-hsv-gd1-53-61-slpitvyya-charles-river-1mg",
+      "brand": "Charles River",
+      "name_fr": "Peptide HSV glycoprotéine gD1 (53-61) (SLPITVYYA) Charles River — 1 mg, cryoconservé",
+      "description_fr": "Peptide de synthèse dérivé de la glycoprotéine D1 du virus herpès simplex (HSV), correspondant à la séquence SLPITVYYA en position 53-61. Cet épitope T est utilisé pour étudier les réponses lymphocytaires spécifiques du HSV chez des sujets infectés, dans des applications de recherche sur l'immunité anti-virale et de développement de candidats vaccinaux. Chaque lot est contrôlé pour sa bioactivité sur cellules mononucléées du sang périphérique humaines. Livré cryoconservé.",
+      "variant_name_fr": "Format 1 mg, cryoconservé",
+      "price_gbp": 0.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/ANTIGEN1002",
+      "specs_fr": {
+        "Référence fournisseur": "ICHA004",
+        "Format": "Peptide de synthèse",
+        "Quantité": "1 mg",
+        "Région": "Acides aminés 53-61",
+        "Séquence": "SLPITVYYA",
+        "Conservation": "Cryoconservé",
+        "Contrôle qualité": "Bioactivité validée sur PBMC humains",
+        "Application": "Étude de la réponse immunitaire anti-HSV"
+      }
+    }
+  ]
+}

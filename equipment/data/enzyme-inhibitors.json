@@ -1,0 +1,182 @@
+{
+  "category": {
+    "slug": "enzyme-inhibitors",
+    "parent_slug": "chimie",
+    "name": { "fr": "Inhibiteurs enzymatiques" },
+    "description": {
+      "fr": "Gamme de réactifs Sigma-Aldrich pour l'inhibition contrôlée de protéases et autres enzymes en recherche biochimique — inhibiteurs de sérine, cystéine et aspartyl-protéases, standards de titration et composés associés pour la préparation de tampons de lyse et d'extraction."
+    }
+  },
+  "products": [
+    {
+      "sku": "30024-25MG",
+      "slug": "cyclosporine-a-sigma-aldrich-98-5-hplc-poudre-25mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Cyclosporine A, pureté ≥98,5 % (HPLC), poudre",
+      "description_fr": "Métabolite fongique utilisé en recherche sur l'immunosuppression. La cyclosporine A bloque la voie de signalisation du récepteur des lymphocytes T en formant un complexe avec la cyclophiline qui inhibite la calcineurine (protéine phosphatase 2B), et freine par ailleurs la production de monoxyde d'azote déclenchée par l'interleukine 1α, les lipopolysaccharides et le TNFα ; elle peut aussi limiter la libération du cytochrome c par les mitochondries. Structure peptidique, fournie en flacon de verre à cône fusionné. À conserver hermétiquement, au sec et dans un endroit bien ventilé — classe de stockage TRGS 510 (produit non combustible, toxicité aiguë catégorie 3).",
+      "variant_name_fr": "Flacon de 25 mg",
+      "price_gbp": 132.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/219/130/5ccf308c-4791-43ff-beb6-bede09fb0e08/640/5ccf308c-4791-43ff-beb6-bede09fb0e08",
+      "specs_fr": {
+        "Pureté": "≥98,5 % (HPLC)",
+        "Forme": "Poudre",
+        "Structure chimique": "Peptide",
+        "Domaine d'application": "Études d'immunosuppression, inhibition de la calcineurine",
+        "Conditionnement": "Flacon de verre, cône fusionné",
+        "Conservation": "Récipient bien fermé, endroit sec et ventilé",
+        "Classe de stockage (TRGS 510)": "Non combustible, toxicité aiguë catégorie 3"
+      }
+    },
+    {
+      "sku": "77170-10MG",
+      "slug": "pepstatine-a-sigma-aldrich-100000-u-mg-10mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Pepstatine A, activité ≥100 000 U/mg",
+      "description_fr": "Inhibiteur de référence des protéases acides (aspartyl-peptidases), formant un complexe 1:1 avec des enzymes telles que la pepsine, la rénine, la cathepsine D, la chymosine bovine ou la protéase B d'Aspergillus niger, sans agir sur les protéases à thiol, neutres ou à sérine. Utilisée comme inhibiteur de protéase lors de l'homogénéisation de tissus ou de l'extraction cellulaire, pour doser la cathepsine D par titration, ou associée à E64-d et à la leupeptine pour ralentir la dégradation du contenu des autophagosomes (généralement 1 à 10 µM). Se dissout à 1 mg/mL dans un mélange méthanol/acide acétique (9:1) ; les solutions mères à 1 mg/mL se conservent au moins une semaine à 4 °C, et une solution à 1 mM dans le méthanol ou le DMSO reste stable plusieurs mois à -20 °C.",
+      "variant_name_fr": "Flacon de 10 mg",
+      "price_gbp": 153.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/253/546/41bdeacc-9913-4ac3-96f3-726c5c85710a/640/41bdeacc-9913-4ac3-96f3-726c5c85710a",
+      "specs_fr": {
+        "Activité": "≥100 000 U/mg",
+        "Cible": "Protéases acides (aspartyl-peptidases) — pepsine, rénine, cathepsine D",
+        "Solubilité": "1 mg/mL dans méthanol/acide acétique (9:1)",
+        "Stabilité en solution mère (1 mg/mL)": "≥1 semaine à 4 °C",
+        "Stabilité solution 1 mM (méthanol/DMSO)": "Plusieurs mois à -20 °C",
+        "Concentration de travail typique": "1 à 10 µM"
+      }
+    },
+    {
+      "sku": "93482-50ML-F",
+      "slug": "pmsf-solution-sigma-aldrich-0-1m-ethanol-50ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Fluorure de phénylméthanesulfonyle (PMSF) en solution, env. 0,1 M dans l'éthanol",
+      "description_fr": "Solution prête à l'emploi de PMSF, inhibiteur irréversible des protéases à sérine qui se lie de façon covalente au résidu du site actif de l'enzyme et bloque son activité protéolytique. Composant classique des tampons de lyse cellulaire pour protéger les protéines cibles de la dégradation pendant leur purification, utilisée notamment avec des lignées d'adénocarcinome mammaire, de fibrosarcome et des progéniteurs neuraux de tronc cérébral et de moelle épinière. Décrite également pour son effet analgésique indépendant de son action anticholinestérasique et pour prolonger l'effet de la β-endorphine administrée par voie centrale.",
+      "variant_name_fr": "Flacon de 50 mL",
+      "price_gbp": 101.64,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/179/316/6ec8a433-aaab-41b3-b986-0c4e15ad6464/640/6ec8a433-aaab-41b3-b986-0c4e15ad6464",
+      "specs_fr": {
+        "Concentration": "Environ 0,1 M",
+        "Solvant": "Éthanol",
+        "Type d'inhibiteur": "Sérine protéase, action irréversible",
+        "Usage principal": "Composant de tampon de lyse cellulaire"
+      }
+    },
+    {
+      "sku": "93620-1G",
+      "slug": "inhibiteur-trypsine-soja-sigma-aldrich-10000-u-mg-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Inhibiteur de trypsine issu du soja (Glycine max), poudre lyophilisée, env. 10 000 U/mg",
+      "description_fr": "Préparé selon la méthode de Kunitz, cet inhibiteur d'origine végétale agit principalement contre la trypsine, et dans une moindre mesure contre la chymotrypsine et la plasmine, ainsi que contre la kallicréine plasmatique et le facteur X de la coagulation ; il reste sans effet sur les métalloprotéases, la kallicréine tissulaire, les protéases acides ou à thiol. Le mécanisme repose sur la formation d'un complexe stœchiométrique 1:1 avec le site actif de la protéase, suivie du clivage d'une liaison arginine-isoleucine — une inhibition réversible et pH-dépendante. Utilisé en chromatographie d'affinité pour la purification de la trypsine et pour neutraliser l'activité protéolytique après la dissociation de cultures cellulaires. Soluble dans l'eau et les tampons phosphate à 10 mg/mL ; les solutions se conservent à court terme entre 2 et 8 °C, ou en aliquotes congelées à -20 °C.",
+      "variant_name_fr": "Flacon de 1 g",
+      "price_gbp": 119.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/339/381/2d69fc11-8045-49e1-ab23-7648d5409432/640/2d69fc11-8045-49e1-ab23-7648d5409432",
+      "specs_fr": {
+        "Activité": "Environ 10 000 U/mg",
+        "Origine": "Soja (Glycine max)",
+        "Forme": "Poudre lyophilisée",
+        "Cible principale": "Trypsine (également chymotrypsine, plasmine)",
+        "Mécanisme": "Complexe stœchiométrique 1:1, inhibition réversible et pH-dépendante",
+        "Solubilité": "10 mg/mL dans l'eau ou les tampons phosphate",
+        "Conservation": "2-8 °C court terme ; -20 °C en aliquotes"
+      }
+    },
+    {
+      "sku": "A2504-25G",
+      "slug": "acide-6-aminocaproique-sigma-aldrich-99-titration-poudre-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide 6-aminocaproïque (EACA), pureté ≥99 % (par titration), poudre",
+      "description_fr": "Analogue de la lysine hydrosoluble (25 mg/mL) qui inhibe la fibrinolyse en favorisant la dissociation rapide de la plasmine et en bloquant l'activation du plasminogène ; il s'oppose également à la liaison du plasminogène aux plaquettes activées, inactive la carboxypeptidase B et inhibe la chymotrypsine, le facteur VIIa et la lysine carboxypeptidase. Composant classique des tampons de coagulation pour dosages du fibrinogène (tampon phosphate 10 mM, pH 6,4, avec CaCl2, EACA, azoture de sodium et NaCl), stable indéfiniment à température ambiante. Disponible également en conditionnements de 100 g, 500 g, 1 kg et fûts de 5 kg.",
+      "variant_name_fr": "Flacon de 25 g",
+      "price_gbp": 61.92,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/378/978/sigma_a2504_p/sigma_a2504_p_w640",
+      "specs_fr": {
+        "Pureté": "≥99 % (dosage par titration)",
+        "Forme": "Poudre",
+        "Solubilité": "25 mg/mL dans l'eau",
+        "Mécanisme": "Analogue de la lysine, inhibiteur de la fibrinolyse (anti-plasmine)",
+        "Stabilité en tampon": "Indéfinie à température ambiante"
+      }
+    },
+    {
+      "sku": "A8456-25MG",
+      "slug": "aebsf-hydrochlorure-sigma-aldrich-97-25mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorhydrate de 4-(2-aminoéthyl)benzènesulfonyl fluorure (AEBSF), pureté ≥97 %",
+      "description_fr": "Inhibiteur irréversible des protéases à sérine — trypsine, chymotrypsine, kallicréine plasmatique et thrombine — avec des constantes d'inhibition comparables à celles du PMSF et du DFP. Comparé à ces derniers, l'AEBSF présente une toxicité réduite, une meilleure solubilité aqueuse et une stabilité accrue en solution, ce qui en fait une alternative de choix pour les tampons de lyse ; il peut être employé en culture cellulaire jusqu'à 0,25 mM. Concentration de travail recommandée : 0,1 à 1 mM. Conditionnements disponibles de 25, 100 et 500 mg en flacon plastique.",
+      "variant_name_fr": "Flacon de 25 mg",
+      "price_gbp": 126.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/219/224/3fe511fc-6646-42b6-bcfa-0bc4175d2d2f/640/3fe511fc-6646-42b6-bcfa-0bc4175d2d2f",
+      "specs_fr": {
+        "Pureté": "≥97 %",
+        "Type d'inhibiteur": "Sérine protéase, action irréversible",
+        "Concentration de travail recommandée": "0,1 à 1 mM (jusqu'à 0,25 mM en culture cellulaire)",
+        "Avantages vs PMSF/DFP": "Toxicité réduite, meilleure solubilité aqueuse, stabilité accrue en solution"
+      }
+    },
+    {
+      "sku": "B2629-100G",
+      "slug": "betaine-sigma-aldrich-98-perchlorique-titration-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Bétaïne, pureté ≥98 % (par titration à l'acide perchlorique)",
+      "description_fr": "Zwitterion d'ammonium quaternaire naturellement présent chez les animaux, les plantes et les micro-organismes — également appelé triméthylglycine ou glycine bétaïne — retrouvé notamment dans le blé, les épinards, les fruits de mer et la betterave sucrière. Produit terminal du métabolisme oxydatif de la choline, il agit comme donneur de méthyle dans une voie secondaire de la biosynthèse de la méthionine et intervient dans le traitement de l'homocystinurie ; il joue également un rôle d'osmolyte organique protégeant les cellules soumises à un stress, en particulier chez les plantes et les micro-organismes, et pourrait limiter la stéatose hépatique en augmentant les niveaux de S-adénosylméthionine. Utilisé notamment pour étudier les effets d'antioxydants sur la reprise de croissance après cryoconservation.",
+      "variant_name_fr": "Flacon de 100 g",
+      "price_gbp": 49.08,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/118/109/cb8b7747-0bf0-48fd-939b-bec7dcc65416/640/cb8b7747-0bf0-48fd-939b-bec7dcc65416",
+      "specs_fr": {
+        "Pureté": "≥98 % (titration à l'acide perchlorique)",
+        "Synonymes": "Triméthylglycine, glycine bétaïne",
+        "Fonction biochimique": "Donneur de méthyle, osmolyte organique",
+        "Application": "Études sur antioxydants et cryoconservation"
+      }
+    },
+    {
+      "sku": "B2629-50G",
+      "slug": "betaine-sigma-aldrich-98-perchlorique-titration-50g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Bétaïne, pureté ≥98 % (par titration à l'acide perchlorique)",
+      "description_fr": "Même qualité que le format 100 g : zwitterion d'ammonium quaternaire présent chez les animaux, les plantes et les micro-organismes, également appelé triméthylglycine ou glycine bétaïne, retrouvé dans le blé, les épinards, les fruits de mer et la betterave sucrière. Il intervient comme donneur de méthyle dans une voie secondaire de la biosynthèse de la méthionine, utile dans le traitement de l'homocystinurie, et protège les cellules du stress osmotique, un rôle particulièrement documenté chez les plantes et les micro-organismes ; il pourrait aussi réduire la stéatose hépatique via l'augmentation du S-adénosylméthionine. Ce conditionnement de 50 g convient aux besoins plus ponctuels de laboratoire.",
+      "variant_name_fr": "Flacon de 50 g",
+      "price_gbp": 40.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/118/109/cb8b7747-0bf0-48fd-939b-bec7dcc65416/640/cb8b7747-0bf0-48fd-939b-bec7dcc65416",
+      "specs_fr": {
+        "Pureté": "≥98 % (titration à l'acide perchlorique)",
+        "Synonymes": "Triméthylglycine, glycine bétaïne",
+        "Fonction biochimique": "Donneur de méthyle, osmolyte organique",
+        "Application": "Études sur antioxydants et cryoconservation"
+      }
+    },
+    {
+      "sku": "B3501-250G",
+      "slug": "betaine-hydrochlorure-sigma-aldrich-99-250g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorhydrate de bétaïne, pureté ≥99 %",
+      "description_fr": "Forme chlorhydrate de la bétaïne (triméthylglycine), un osmoprotecteur plus efficace que la proline, naturellement dérivé de la choline et présent dans les céréales, les épinards, la betterave, le brocoli, les fruits de mer et les algues marines. En tant que donneur de méthyle terminal du métabolisme de la choline, il intervient dans une voie secondaire de biosynthèse de la méthionine utile pour traiter l'homocystinurie, et peut atténuer l'hépatotoxicité induite par l'éthanol. Employé notamment comme composant de fixateur en tampon HEPES ou cacodylate pour améliorer la préservation de la morphologie ultrastructurale des spermatozoïdes humains.",
+      "variant_name_fr": "Flacon de 250 g",
+      "price_gbp": 43.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/197/052/dee188a6-eec7-492d-9dac-164025aba89a/640/dee188a6-eec7-492d-9dac-164025aba89a",
+      "specs_fr": {
+        "Pureté": "≥99 %",
+        "Forme": "Chlorhydrate de bétaïne (triméthylglycine)",
+        "Fonction biochimique": "Osmoprotecteur, donneur de méthyle",
+        "Application": "Fixation tissulaire, protection contre l'hépatotoxicité à l'éthanol"
+      }
+    },
+    {
+      "sku": "B4126-1G",
+      "slug": "bilirubine-sigma-aldrich-98-emm453-60-poudre-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Bilirubine, pureté ≥98 % (EmM/453 = 60), poudre",
+      "description_fr": "Pigment terminal de la dégradation de l'hème, formé lorsque l'hème oxygénase convertit l'hème de l'hémoglobine en biliverdine, elle-même réduite en bilirubine par une biliverdine réductase NADPH-dépendante ; transportée dans le sang majoritairement liée à l'albumine sérique, elle circule aussi sous forme monoanionique associée aux sels biliaires. Étudiée pour ses propriétés antioxydantes endogènes — piégeage des espèces réactives de l'oxygène, inhibition de la NADPH-oxydase et protection des lipides membranaires contre l'oxydation par les radicaux peroxyle, avec un effet neuroprotecteur documenté à concentration nanomolaire — bien que des taux anormalement élevés soient associés à des lésions neurologiques sévères (hyperbilirubinémie). Utilisée en préparation de solutions pour perfusion, en expérimentation in vitro et pour la fabrication de fantômes de calibration. À protéger de la lumière.",
+      "variant_name_fr": "Flacon de 1 g",
+      "price_gbp": 319.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/197/588/sigma_b4126_p/sigma_b4126_p_w640",
+      "specs_fr": {
+        "Pureté": "≥98 % (EmM/453 = 60)",
+        "Forme": "Poudre",
+        "Origine biochimique": "Produit terminal du catabolisme de l'hème",
+        "Précaution de conservation": "Protéger de la lumière",
+        "Application": "Recherche in vitro, préparation de solutions pour perfusion, fantômes de calibration"
+      }
+    }
+  ]
+}

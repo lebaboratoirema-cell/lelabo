@@ -1,0 +1,172 @@
+{
+  "category": {
+    "slug": "nmr",
+    "parent_slug": "equipements",
+    "name": { "fr": "Isotopes stables pour RMN" },
+    "description": {
+      "fr": "Composés marqués aux isotopes stables (azote-15, carbone-13) destinés à la spectroscopie RMN, à la spectrométrie de masse et au marquage métabolique — sels d'ammonium et acides aminés enrichis, conditionnements adaptés à la recherche en biochimie et biologie structurale."
+    }
+  },
+  "products": [
+    {
+      "sku": "299251-10G",
+      "slug": "chlorure-ammonium-15n-sigma-aldrich-98-atom-15n-10g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorure d'ammonium-15N, 98 % atomique 15N — 10 g",
+      "description_fr": "Sel d'ammonium marqué à l'azote-15, utilisé comme source d'azote isotopique pour l'incorporation métabolique de 15N dans des protéines destinées à l'analyse par spectroscopie RMN, ainsi que dans des protocoles de spectrométrie de masse pour le suivi de l'apolipoprotéine A-I. Employé également pour l'étude du cycle de l'azote, notamment le dosage des pertes azotées dans les sédiments marins. L'ammonium intervient par ailleurs comme réactif en physiologie cellulaire : il module l'acidification du système endosome-lysosome, sert d'agent hémolysant pour la lyse des érythrocytes, et influence la clairance rénale de la créatinine et de l'urée. Conditionné en flacon de verre pour un usage en laboratoire de recherche.",
+      "variant_name_fr": "Flacon 10 g",
+      "price_gbp": 956.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/329/037/aae6bc46-232e-4a82-9804-52079b96f536/640/aae6bc46-232e-4a82-9804-52079b96f536",
+      "specs_fr": {
+        "Formule": "Chlorure d'ammonium-15N (NH4Cl, 15N)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "10 g, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "299251-1G",
+      "slug": "chlorure-ammonium-15n-sigma-aldrich-98-atom-15n-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorure d'ammonium-15N, 98 % atomique 15N — 1 g",
+      "description_fr": "Petit conditionnement du chlorure d'ammonium marqué à l'azote-15, adapté aux essais préliminaires avant passage à des quantités plus importantes. Utilisé comme supplément de milieu de culture pour l'incorporation de 15N dans des protéines analysées par RMN, comme traceur pour l'étude des pertes d'azote dans les sédiments marins, et comme marqueur isotopique en spectrométrie de masse. Composé également étudié pour son rôle dans le métabolisme cellulaire : effet sur les réserves d'ATP des astrocytes, action sur l'acidification lysosomale et propriétés hémolysantes. Livré en flacon de verre.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 127.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/329/037/aae6bc46-232e-4a82-9804-52079b96f536/640/aae6bc46-232e-4a82-9804-52079b96f536",
+      "specs_fr": {
+        "Formule": "Chlorure d'ammonium-15N (NH4Cl, 15N)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "1 g, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "299251-20G",
+      "slug": "chlorure-ammonium-15n-sigma-aldrich-98-atom-15n-20g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorure d'ammonium-15N, 98 % atomique 15N — 20 g",
+      "description_fr": "Conditionnement intermédiaire de chlorure d'ammonium-15N destiné aux laboratoires ayant des besoins récurrents en marquage isotopique. Ce composé sert de source d'azote-15 pour la production de protéines marquées analysées en RMN, pour la caractérisation isotopique de sédiments marins et pour le suivi par spectrométrie de masse de protéines telles que l'apolipoprotéine A-I. Ses propriétés biochimiques en font aussi un outil d'étude du métabolisme azoté et de la physiologie cellulaire (astrocytes, système endosome-lysosome, hémolyse). Livré en flacon de verre, disponible également en plus grandes quantités sur demande.",
+      "variant_name_fr": "Flacon 20 g",
+      "price_gbp": 1692.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/329/037/aae6bc46-232e-4a82-9804-52079b96f536/640/aae6bc46-232e-4a82-9804-52079b96f536",
+      "specs_fr": {
+        "Formule": "Chlorure d'ammonium-15N (NH4Cl, 15N)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "20 g, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "299251-50G",
+      "slug": "chlorure-ammonium-15n-sigma-aldrich-98-atom-15n-50g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorure d'ammonium-15N, 98 % atomique 15N — 50 g",
+      "description_fr": "Grand conditionnement de chlorure d'ammonium marqué à l'azote-15, pensé pour les programmes de recherche à forte consommation de réactif isotopique, notamment en production de protéines recombinantes marquées pour la spectroscopie RMN. Utilisé aussi comme traceur pour quantifier les pertes d'azote dans les sédiments marins et comme marqueur en spectrométrie de masse. Sur le plan biochimique, ce sel intervient dans le cycle de l'azote et a des effets documentés sur le métabolisme énergétique cellulaire et la fonction rénale. Disponible en flacon de verre ; conditionnements sur mesure disponibles à la demande auprès du service isotopes stables.",
+      "variant_name_fr": "Flacon 50 g",
+      "price_gbp": 3528.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/299251-50G",
+      "specs_fr": {
+        "Formule": "Chlorure d'ammonium-15N (NH4Cl, 15N)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "50 g, flacon en verre",
+        "Référence fournisseur": "YOR001D"
+      }
+    },
+    {
+      "sku": "299286-10G",
+      "slug": "sulfate-ammonium-15n2-sigma-aldrich-98-atom-15n-10g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sulfate d'ammonium-15N2, 98 % atomique 15N — 10 g",
+      "description_fr": "Sel d'ammonium doublement marqué à l'azote-15, utilisé en biologie moléculaire et en biochimie comme source d'azote enrichie pour la culture de micro-organismes producteurs de protéines et métabolites marqués, en vue d'analyses ultérieures par RMN ou spectrométrie de masse. Sa forte teneur isotopique (deux atomes de 15N par molécule) en fait un réactif de choix pour les études de marquage métabolique nécessitant un enrichissement homogène de l'azote. Fourni en flacon de verre, avec possibilité de conditionnements plus importants sur demande auprès du service isotopes stables.",
+      "variant_name_fr": "Flacon 10 g",
+      "price_gbp": 1016.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/299286-10G",
+      "specs_fr": {
+        "Formule": "Sulfate d'ammonium-15N2 ((15NH4)2SO4)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "10 g, flacon en verre",
+        "Référence fournisseur": "YOR001D"
+      }
+    },
+    {
+      "sku": "299286-20G",
+      "slug": "sulfate-ammonium-15n2-sigma-aldrich-98-atom-15n-20g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sulfate d'ammonium-15N2, 98 % atomique 15N — 20 g",
+      "description_fr": "Conditionnement de 20 g de sulfate d'ammonium marqué aux deux positions azote-15, destiné aux laboratoires menant des campagnes de production de biomasse marquée pour la RMN ou la protéomique quantitative par spectrométrie de masse. Ce réactif permet un enrichissement isotopique homogène des cultures cellulaires ou microbiennes utilisées comme source d'azote unique. Livré en flacon de verre ; d'autres formats (jusqu'à 200 g) sont disponibles sur demande auprès du service isotopes stables.",
+      "variant_name_fr": "Flacon 20 g",
+      "price_gbp": 1644.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/299286-20G",
+      "specs_fr": {
+        "Formule": "Sulfate d'ammonium-15N2 ((15NH4)2SO4)",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "20 g, flacon en verre",
+        "Référence fournisseur": "YOR001D"
+      }
+    },
+    {
+      "sku": "299324-250MG",
+      "slug": "glycine-2-13c-15n-sigma-aldrich-99-13c-98-15n-250mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Glycine-2-13C,15N, 99 % atomique 13C, 98 % atomique 15N — 250 mg",
+      "description_fr": "Acide aminé glycine à double marquage isotopique (carbone-13 en position 2 et azote-15), utilisé comme précurseur enrichi dans les protocoles de biosynthèse de protéines et de peptides destinés à l'analyse structurale par RMN multidimensionnelle. Le double marquage permet de suivre simultanément le squelette carboné et l'azote de la chaîne peptidique, facilitant l'attribution des résonances et l'étude de la dynamique conformationnelle. Conditionné en petit flacon de verre adapté aux protocoles de synthèse peptidique à l'échelle du laboratoire.",
+      "variant_name_fr": "Flacon 250 mg",
+      "price_gbp": 440.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/156/689/9cb13839-ae4b-413a-90bd-60b2f8b97501/640/9cb13839-ae4b-413a-90bd-60b2f8b97501",
+      "specs_fr": {
+        "Formule": "Glycine-2-13C,15N",
+        "Pureté isotopique": "99 % atomique 13C, 98 % atomique 15N",
+        "Conditionnement": "250 mg, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "332127-500MG",
+      "slug": "l-alanine-15n-sigma-aldrich-98-atom-15n-500mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "L-Alanine-15N, 98 % atomique 15N — 500 mg",
+      "description_fr": "Acide aminé L-alanine marqué à l'azote-15, utilisé comme bloc de construction enrichi dans la synthèse de peptides et de protéines destinés à des études de spectroscopie RMN. L'incorporation sélective de 15N sur ce résidu facilite l'attribution des signaux d'amide dans les spectres multidimensionnels et permet le suivi de la dynamique du squelette peptidique. Livré en flacon de verre de 500 mg, adapté aux besoins courants des laboratoires de biologie structurale.",
+      "variant_name_fr": "Flacon 500 mg",
+      "price_gbp": 382.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/341/059/50ee66ec-0616-43ec-b8e6-363e06a9bca9/640/50ee66ec-0616-43ec-b8e6-363e06a9bca9",
+      "specs_fr": {
+        "Formule": "L-Alanine-15N",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "500 mg, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "332143-100MG",
+      "slug": "l-acide-glutamique-15n-sigma-aldrich-98-atom-15n-100mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide L-glutamique-15N, 98 % atomique 15N — 100 mg",
+      "description_fr": "Acide L-glutamique marqué à l'azote-15, employé comme réactif de référence et précurseur enrichi dans les protocoles de synthèse peptidique et de marquage métabolique pour la spectroscopie RMN. Ce petit conditionnement de 100 mg convient aux essais de mise au point de méthode avant montée en échelle. Le marquage isotopique de ce résidu, impliqué dans de nombreuses voies métaboliques, en fait un outil précieux pour le suivi du transfert d'azote dans les études de biologie structurale et de métabolomique.",
+      "variant_name_fr": "Flacon 100 mg",
+      "price_gbp": 156.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/497/257/7246f149-c88c-451f-918e-c3459c8a3659/640/7246f149-c88c-451f-918e-c3459c8a3659",
+      "specs_fr": {
+        "Formule": "Acide L-glutamique-15N",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "100 mg, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "332143-500MG",
+      "slug": "l-acide-glutamique-15n-sigma-aldrich-98-atom-15n-500mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide L-glutamique-15N, 98 % atomique 15N — 500 mg",
+      "description_fr": "Conditionnement de 500 mg d'acide L-glutamique marqué à l'azote-15, destiné aux campagnes de synthèse peptidique et de production de protéines enrichies pour l'analyse RMN. Ce format plus important convient aux laboratoires ayant une consommation régulière de ce réactif, notamment pour les études de transfert d'azote dans les voies métaboliques et les protocoles de marquage isotopique de biomolécules. Livré en flacon de verre.",
+      "variant_name_fr": "Flacon 500 mg",
+      "price_gbp": 295.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/497/257/7246f149-c88c-451f-918e-c3459c8a3659/640/7246f149-c88c-451f-918e-c3459c8a3659",
+      "specs_fr": {
+        "Formule": "Acide L-glutamique-15N",
+        "Pureté isotopique": "98 % atomique 15N",
+        "Conditionnement": "500 mg, flacon en verre",
+        "Référence fournisseur": "SIG001"
+      }
+    }
+  ]
+}

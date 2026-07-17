@@ -1,0 +1,208 @@
+{
+  "category": {
+    "slug": "pumps",
+    "parent_slug": "equipements",
+    "name": { "fr": "Pompes de laboratoire" },
+    "description": {
+      "fr": "Pompes à membrane et pompes à vide de laboratoire KNF, SLS Lab Basics et Charles Austen — transfert de liquides et de gaz sans huile, aspiration, compression et mise sous vide, pour applications neutres ou corrosives."
+    }
+  },
+  "products": [
+    {
+      "sku": "175118-175787",
+      "slug": "pompe-knf-fk1100-kpac-diaphragme-12-4-l-min",
+      "brand": "KNF",
+      "name_fr": "Pompe à membrane KNF FK 1100 KPAC — 230V 50Hz",
+      "description_fr": "Pompe à membrane de laboratoire conçue pour transférer aussi bien des liquides neutres que corrosifs, grâce à des matériaux de construction chimiquement résistants. Fonctionnement à sec et auto-amorçant, elle ne nécessite aucune maintenance particulière et s'adapte à de nombreuses configurations de moteur et de raccordement hydraulique. Alimentée en 230V 50Hz, elle convient aux applications de transfert de liquide exigeant fiabilité et polyvalence chimique.",
+      "variant_name_fr": "230V 50Hz",
+      "price_gbp": 1740.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/175118-175787",
+      "specs_fr": {
+        "Débit maximal": "12,4 l/min",
+        "Pression maximale": "1 bar (relatif)",
+        "Hauteur d'aspiration maximale": "4,5 mH₂O",
+        "Référence fournisseur": "KNF001"
+      }
+    },
+    {
+      "sku": "B2B06244T",
+      "slug": "pompe-vide-sls-lab-basics-mini-6l-min",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Mini pompe à vide SLS Lab Basics 6 L/min",
+      "description_fr": "Mini pompe à membrane monotête, à fonctionnement sec, destinée à un large éventail d'usages en laboratoire : transfert, compression et mise sous vide sans risque de contamination. Le transfert s'effectue à 100 % sans huile, avec un excellent niveau d'étanchéité aux gaz. Une version à revêtement PTFE est disponible pour les gaz et vapeurs légèrement agressifs ou corrosifs. Le moteur bénéficie d'une protection IP20, un silencieux équipe la sortie et un raccord cannelé de 6 mm facilite le branchement en entrée.",
+      "variant_name_fr": "6 L/min",
+      "price_gbp": 324.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS2600",
+      "specs_fr": {
+        "Débit": "6 L/min",
+        "Type": "Monotête, fonctionnement à sec",
+        "Transfert": "100% sans huile",
+        "Protection moteur": "IP20",
+        "Raccord d'entrée": "Cannelé 6 mm",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "B2B06246T",
+      "slug": "pompe-vide-sls-lab-basics-mini-5-5l-min",
+      "brand": "SLS Lab Basics",
+      "name_fr": "Mini pompe à vide SLS Lab Basics 5,5 L/min",
+      "description_fr": "Variante légèrement moins puissante de la mini pompe à membrane SLS Lab Basics, monotête et à fonctionnement sec, pensée pour les applications de laboratoire courantes. Elle assure un transfert, une compression et une mise sous vide sans contamination, avec un transfert intégralement sans huile et une bonne étanchéité aux gaz. Une version à revêtement PTFE existe pour les gaz et vapeurs légèrement agressifs. Protection moteur IP20, silencieux en sortie et raccord cannelé de 6 mm en entrée complètent cette pompe sans entretien.",
+      "variant_name_fr": "5,5 L/min",
+      "price_gbp": 360.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SLS2600",
+      "specs_fr": {
+        "Débit": "5,5 L/min",
+        "Type": "Monotête, fonctionnement à sec",
+        "Transfert": "100% sans huile",
+        "Protection moteur": "IP20",
+        "Raccord d'entrée": "Cannelé 6 mm",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "PUM1136",
+      "slug": "pompe-vide-knf-laboport-n96-mini-diaphragme-7l-min",
+      "brand": "KNF Neuberger",
+      "name_fr": "Pompe à vide à membrane KNF Laboport N96 — 7 L/min, vitesse réglable",
+      "description_fr": "Pompe à vide à membrane très compacte, résistante chimiquement et sans huile, dotée d'un réglage manuel de vitesse permettant d'ajuster précisément la capacité de pompage à chaque application. Elle intègre une tête en PPS, une membrane revêtue PTFE et des clapets en FKM, ce qui la rend adaptée à de nombreux usages de laboratoire. Son encombrement réduit optimise l'espace de travail et son utilisation reste particulièrement simple, sans entretien requis.",
+      "variant_name_fr": "7 L/min, vitesse réglable",
+      "price_gbp": 543.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM1136",
+      "specs_fr": {
+        "Débit maximal": "7 L/min",
+        "Vide limite maximal": "130 mbar (absolu)",
+        "Débit volumique": "0,3 à 0,42 m³/h",
+        "Réglage de vitesse": "Intégré, manuel",
+        "Matériau de la tête": "PPS",
+        "Matériau de la membrane": "Revêtement PTFE",
+        "Matériau des clapets": "FKM",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "PUM1138",
+      "slug": "pompe-vide-knf-laboport-n820g-diaphragme-20l-min",
+      "brand": "KNF Neuberger",
+      "name_fr": "Pompe à vide à membrane KNF Laboport N820G — 20 L/min, vitesse réglable, ATEX",
+      "description_fr": "Pompe à vide à membrane compacte et sans huile, résistante chimiquement, conçue pour les usages les plus exigeants avec des gaz et vapeurs extrêmement agressifs ou corrosifs. Elle associe des têtes en PTFE/TFM, des membranes revêtues PTFE et des clapets en FFPM à un lest de gaz et un réglage manuel de la vitesse. Certifiée ATEX (Ex) II 2/-G IIB+H2 T3 pour son atmosphère interne uniquement, elle garantit un transfert 100 % sans huile sur un circuit chimiquement résistant.",
+      "variant_name_fr": "20 L/min, vitesse réglable, certifiée ATEX",
+      "price_gbp": 2292.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM1138",
+      "specs_fr": {
+        "Vide limite maximal": "6 mbar (absolu)",
+        "Réglage de vitesse": "Intégré, manuel",
+        "Certification": "ATEX (Ex) II 2/-G IIB+H2 T3 (atmosphère interne uniquement)",
+        "Matériau des têtes": "PTFE/TFM",
+        "Matériau de la membrane": "Revêtement PTFE",
+        "Matériau des clapets": "FFPM",
+        "Transfert": "100% sans huile",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "PUM1980",
+      "slug": "pompe-diaphragme-charles-austen-dymax-5",
+      "brand": "Charles Austen",
+      "name_fr": "Pompe à membrane Charles Austen Dymax 5",
+      "description_fr": "Pompe à membrane compacte fournissant une source de vide ou de pression propre et sans huile, conçue pour un fonctionnement continu. Silencieuse et particulièrement robuste, elle est logée dans un boîtier en polycarbonate conforme à la norme de sécurité CEI 1010. Le joint est en EPDM, la tête en nylon, et le raccord mesure 4 mm, une combinaison adaptée aux usages courants de laboratoire nécessitant fiabilité et discrétion sonore.",
+      "variant_name_fr": "Dymax 5",
+      "price_gbp": 692.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM1980",
+      "specs_fr": {
+        "Type": "Vide/pression, sans huile",
+        "Fonctionnement": "Continu",
+        "Matériau du joint": "EPDM",
+        "Matériau de la tête": "Nylon",
+        "Diamètre du raccord": "4 mm",
+        "Conformité": "CEI 1010",
+        "Référence fournisseur": "AUS001"
+      }
+    },
+    {
+      "sku": "PUM1982",
+      "slug": "pompe-diaphragme-charles-austen-dymax-14",
+      "brand": "Charles Austen",
+      "name_fr": "Pompe à membrane Charles Austen Dymax 14",
+      "description_fr": "Version plus puissante de la gamme Dymax, cette pompe à membrane délivre une source de vide ou de pression propre et sans huile, prévue pour un service continu. Elle partage la même construction robuste et silencieuse que le reste de la gamme, avec un boîtier en polycarbonate conforme CEI 1010, un joint EPDM, une tête en nylon et un raccord de 4 mm — idéale lorsqu'un débit ou une pression plus élevés sont nécessaires.",
+      "variant_name_fr": "Dymax 14",
+      "price_gbp": 850.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM1980",
+      "specs_fr": {
+        "Type": "Vide/pression, sans huile",
+        "Fonctionnement": "Continu",
+        "Matériau du joint": "EPDM",
+        "Matériau de la tête": "Nylon",
+        "Diamètre du raccord": "4 mm",
+        "Conformité": "CEI 1010",
+        "Référence fournisseur": "AUS001"
+      }
+    },
+    {
+      "sku": "PUM2610",
+      "slug": "pompe-vide-knf-laboport-n816-3-mini-diaphragme-16l-min",
+      "brand": "KNF Neuberger",
+      "name_fr": "Pompe à vide à membrane KNF Laboport N 816.3 KT.18 — 16 L/min",
+      "description_fr": "Pompe à vide à membrane sans huile et résistante chimiquement, adaptée à un large éventail d'applications de laboratoire. Compacte, silencieuse et fiable, elle ne demande aucun entretien et conserve un encombrement réduit malgré ses performances. Elle intègre des têtes en PPS, des membranes revêtues PTFE et des clapets en FFPM, pour une bonne tenue à la corrosion. Sa plage de température admissible s'étend de 5 à 40°C, aussi bien côté produit que côté ambiant.",
+      "variant_name_fr": "16 L/min",
+      "price_gbp": 1029.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM2610",
+      "specs_fr": {
+        "Débit maximal": "16 L/min",
+        "Vide limite maximal": "20 mbar (absolu)",
+        "Pression maximale": "0,5 bar (relatif)",
+        "Poids": "3,95 kg",
+        "Température produit admissible": "5-40°C",
+        "Température ambiante admissible": "5-40°C",
+        "Matériau des clapets": "FFPM",
+        "Matériau de la membrane": "Revêtement PTFE",
+        "Matériau de la tête": "PPS",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "PUM2614",
+      "slug": "pompe-vide-knf-minilab-n816-1-2-diaphragme-30l-min",
+      "brand": "KNF Neuberger",
+      "name_fr": "Pompe à vide à membrane KNF Minilab N816.1.2 KT — 30 L/min, résistante chimiquement",
+      "description_fr": "Pompe à vide à membrane sans huile de la gamme Minilab, conçue pour offrir un débit plus élevé tout en restant compacte, silencieuse et fiable. Comme le reste de la série, elle associe des têtes en PPS, des membranes revêtues PTFE et des clapets en FFPM pour une bonne résistance à la corrosion, sans nécessiter d'entretien. Elle tolère des températures produit et ambiante comprises entre 5 et 40°C et pèse environ 3,95 kg.",
+      "variant_name_fr": "30 L/min",
+      "price_gbp": 1056.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM2614",
+      "specs_fr": {
+        "Débit maximal": "30 L/min",
+        "Vide limite maximal": "160 mbar (absolu)",
+        "Pression maximale": "0,5 bar (relatif)",
+        "Poids": "3,95 kg",
+        "Température produit admissible": "5-40°C",
+        "Température ambiante admissible": "5-40°C",
+        "Matériau des clapets": "FFPM",
+        "Matériau de la membrane": "Revêtement PTFE",
+        "Matériau de la tête": "PPS",
+        "Référence fournisseur": "IKNF001"
+      }
+    },
+    {
+      "sku": "PUM2619",
+      "slug": "pompe-vide-knf-laboport-n938-50-mini-diaphragme-30l-min",
+      "brand": "KNF Neuberger",
+      "name_fr": "Pompe à vide à membrane KNF Laboport N 938.50 KT.18 — 30 L/min, résistante chimiquement",
+      "description_fr": "Pompe à vide à membrane haut de gamme de la série Laboport, offrant un débit de 30 L/min pour un vide limite particulièrement poussé. Sans huile et résistante chimiquement, elle convient à un large éventail d'usages en laboratoire tout en restant compacte, silencieuse et sans entretien. Sa construction en PPS, PTFE et FFPM assure une bonne tenue à la corrosion, avec une plage de température de fonctionnement de 5 à 40°C et un poids d'environ 6,8 kg.",
+      "variant_name_fr": "30 L/min",
+      "price_gbp": 1746.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM2619",
+      "specs_fr": {
+        "Débit maximal": "30 L/min",
+        "Vide limite maximal": "15 mbar (absolu)",
+        "Pression maximale": "0,5 bar (relatif)",
+        "Poids": "6,8 kg",
+        "Température produit admissible": "5-40°C",
+        "Température ambiante admissible": "5-40°C",
+        "Matériau des clapets": "FFPM",
+        "Matériau de la membrane": "Revêtement PTFE",
+        "Matériau de la tête": "PPS",
+        "Référence fournisseur": "IKNF001"
+      }
+    }
+  ]
+}

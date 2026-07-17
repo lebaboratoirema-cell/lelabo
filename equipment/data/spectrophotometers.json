@@ -1,0 +1,182 @@
+{
+  "category": {
+    "slug": "spectrophotometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Spectrophotomètres" },
+    "description": {
+      "fr": "Spectrophotomètres UV-Vis et photomètres de paillasse pour la quantification d'acides nucléiques, de protéines et la mesure de densité optique cellulaire, du micro-volume nanogoutte aux appareils à barrette de diodes, accessoires et consommables inclus."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B1482",
+      "slug": "spectrophotometre-nano-accuris-smartdrop-x-benchmark-promo",
+      "brand": "BENCHMARK",
+      "name_fr": "Spectrophotomètre nano Accuris SmartDrop X — Offre promotionnelle",
+      "description_fr": "Le spectrophotomètre nano Accuris SmartDrop X permet de quantifier rapidement de très petits volumes d'échantillon (0,5 à 2,0 µL), sans dilution préalable, pour des résultats plus fiables. Un piédestal en quartz reçoit la goutte d'échantillon, étirée en colonne liquide de longueur calibrée pour l'analyse spectrale ; les concentrations et indices de pureté d'ADN, d'ARN et de protéines s'affichent en quelques secondes. L'écran tactile couleur 7 pouces et les protocoles préprogrammés (dosages BCA, Bradford, Lowry) permettent une prise en main immédiate, sans ordinateur externe. Balayage spectral complet de 200 à 800 nm en environ 6 secondes, calcul automatique des ratios 260/280 et 260/230, lampe xénon longue durée sans temps de préchauffe couplée à un détecteur CCD sensible, et double longueur de trajet optique (0,2 mm et 1,0 mm) pour détecter jusqu'à 4 500 ng/µL d'ADN double brin sans dilution. Imprimante intégrée, mémoire interne et export USB au format Excel ; port cuve et deux cuves en verre optique fournis pour les lectures DO600. Cette offre promotionnelle correspond au modèle SmartDrop X à tarif réduit.",
+      "variant_name_fr": "Offre promotionnelle",
+      "price_gbp": 10137.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE4004",
+      "specs_fr": {
+        "Référence fournisseur": "IBEN001",
+        "Volume d'échantillon": "0,5 à 2,0 µL",
+        "Gamme spectrale": "200 à 800 nm",
+        "Longueurs de trajet optique": "0,2 mm et 1,0 mm",
+        "Détection ADN double brin": "jusqu'à 4 500 ng/µL sans dilution",
+        "Source lumineuse": "Lampe xénon longue durée + détecteur CCD",
+        "Écran": "Tactile couleur 7 pouces"
+      }
+    },
+    {
+      "sku": "F26978T",
+      "slug": "spectrophotometre-uv-visible-cole-parmer-sp-400-bio-promo",
+      "brand": "COLE-PARMER",
+      "name_fr": "Spectrophotomètre UV/Visible à barrette de diodes Cole-Parmer SP-400-BIO — Offre promotionnelle",
+      "description_fr": "Le spectrophotomètre UV/Visible à barrette de diodes Cole-Parmer SP-400-BIO est conçu pour les applications de biologie : dosage des acides nucléiques, dosage des protéines et mesure de densité cellulaire. Grâce à la technologie barrette de diodes, l'appareil balaie l'ensemble de la gamme 198-800 nm en moins de 3 secondes, avec une bande passante spectrale étroite de 3 nm qui facilite l'identification des pics de pureté des acides nucléiques. Le mode Acides Nucléiques quantifie ADN double brin, ADN simple brin, ARN et oligonucléotides à partir des longueurs d'onde 260, 280 et 230 nm (correction optionnelle à 320 nm), avec calcul automatique des ratios et scan de pureté entre 200 et 350 nm — particulièrement utile pour détecter les impuretés à 230 nm sur les échantillons d'ARN. Le mode Protéines permet de construire des courbes standard à partir de kits Bradford, Lowry, Biuret ou BCA (jusqu'à 6 standards, 3 réplicats), et intègre les méthodes UV direct et Warburg-Christian pour la pureté protéique. Un mode dédié mesure également la densité optique de cultures bactériennes (E. coli, levures) pour le suivi de croissance cellulaire. Écran tactile couleur, compatibilité cuves ultra-micro à macro, faible encombrement (3 kg), interface multilingue et ports USB multiples pour stockage et impression. Cette offre promotionnelle correspond au modèle SP-400-BIO à tarif réduit.",
+      "variant_name_fr": "Offre promotionnelle",
+      "price_gbp": 3513.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE4506",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Gamme spectrale": "198 à 800 nm",
+        "Vitesse de balayage": "moins de 3 secondes",
+        "Bande passante spectrale": "3 nm",
+        "Détecteur": "Barrette de 1024 diodes + lampe flash xénon",
+        "Poids": "3 kg",
+        "Langues disponibles": "français, anglais, allemand, italien, espagnol"
+      }
+    },
+    {
+      "sku": "PHO2560",
+      "slug": "photometre-portable-grant-bio-den-600",
+      "brand": "GRANT",
+      "name_fr": "Photomètre portable Grant-Bio DEN-600",
+      "description_fr": "Le photomètre portable Grant-Bio DEN-600 fonctionne sur batterie rechargeable et constitue une alternative économique au spectrophotomètre pour les mesures courantes de culture cellulaire. Compact, il se glisse facilement dans un poste de sécurité microbiologique ou une chambre anaérobie, ou se déplace rapidement d'un poste à l'autre. Le porte-cuve accepte les cuves standard à trajet optique 10 mm, tubes à fond rond, flacons coniques ou tubes Falcon. Son système optique à 600 nm permet d'estimer le nombre total de cellules (DO600), de mesurer la turbidité selon la méthode McFarland (McF) et de doser les protéines par la méthode de Bradford. La connectivité USB et le logiciel DEN facilitent le transfert et le traitement des données. Applications courantes : mesure de concentration cellulaire, estimation de la croissance, détermination de la phase logarithmique pour l'induction de cellules microbiennes, préparation de cellules compétentes, dosage protéique de Bradford et tests de sensibilité aux antibiotiques.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 1028.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PHO2560",
+      "specs_fr": {
+        "Référence fournisseur": "GRA001",
+        "Longueur d'onde": "600 nm",
+        "Alimentation": "Batterie rechargeable",
+        "Cuves compatibles": "Trajet optique 10 mm, tubes fond rond, flacons coniques, tubes Falcon",
+        "Connectivité": "USB avec logiciel DEN"
+      }
+    },
+    {
+      "sku": "SPE1060",
+      "slug": "spectrophotometre-micro-volume-blue-ray-biotech-ezdrop-1000",
+      "brand": "BLUE-RAY BIOTECH",
+      "name_fr": "Spectrophotomètre micro-volume Blue-Ray Biotech EzDrop 1000",
+      "description_fr": "Le spectrophotomètre micro-volume Blue-Ray Biotech EzDrop 1000 accélère les mesures de concentration d'échantillon, avec un résultat obtenu en 3 secondes. Il couvre une gamme spectrale complète de 190 à 1000 nm, et sa fenêtre d'échantillon bénéficie d'un revêtement hydrophobe nanométrique garantissant la formation stable de la colonne liquide et la fiabilité des résultats. L'écran de pilotage intuitif simplifie chaque étape de la mesure. Le sélecteur de trajet optique ajustable et un coefficient de variation d'absorbance de 1 % assurent des mesures rapides et reproductibles ; l'appareil fonctionne en mode autonome ou couplé à un PC pour le traitement des données. De nombreuses fonctions intégrées permettent de mesurer acides nucléiques, protéines, cellules et autres types d'échantillons en une seule pression de bouton, avec une fonction de mesure automatisée pour gagner en rapidité. Un éclairage d'assistance compense le manque de lumière ambiante et réduit les erreurs de positionnement de l'échantillon, tandis que le système de fenêtre d'échantillon remplaçable limite les risques de contamination résiduelle et qu'un amortisseur sur le bras de détection réduit les chocs et les erreurs de mesure.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 8689.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE1060_1",
+      "specs_fr": {
+        "Référence fournisseur": "IARI002",
+        "Gamme spectrale": "190 à 1000 nm",
+        "Temps de mesure": "3 secondes",
+        "Coefficient de variation (absorbance)": "1 %",
+        "Fenêtre d'échantillon": "Revêtement hydrophobe nanométrique, remplaçable",
+        "Connectivité": "Autonome ou compatible PC"
+      }
+    },
+    {
+      "sku": "SPE4002",
+      "slug": "spectrophotometre-nano-accuris-smartdrop-l-benchmark",
+      "brand": "BENCHMARK",
+      "name_fr": "Spectrophotomètre nano Accuris SmartDrop L",
+      "description_fr": "Le spectrophotomètre nano Accuris SmartDrop L permet de quantifier rapidement de petits volumes d'échantillon sans dilution préalable, pour des résultats plus précis. Comme les autres modèles de la gamme SmartDrop, il dispose d'un piédestal en quartz sur lequel la goutte d'échantillon est déposée puis étirée en colonne liquide calibrée pour l'analyse spectrale ; les concentrations et la pureté d'ADN, d'ARN et de protéines s'affichent en quelques secondes. L'écran tactile couleur 7 pouces à menus iconographiques et les protocoles préprogrammés permettent une utilisation immédiate sans ordinateur externe, avec imprimante intégrée et export USB au format Excel. SmartDrop L constitue le choix économique de la gamme pour la détermination de la concentration et de la pureté des acides nucléiques et des protéines. Sa source LED associée à un capteur photoélectrique au silicium fournit des lectures à 260 et 280 nm ; un volume de 1,0 à 2,0 µL déposé directement sur le piédestal donne un résultat en environ 5 secondes, avec calcul automatique du ratio 260/280. Longueur de trajet fixe de 0,5 mm, détection jusqu'à 2 500 ng/µL d'ADN double brin. Port cuve et deux cuves en verre optique fournis pour les lectures DO600.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 10076.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE4002",
+      "specs_fr": {
+        "Référence fournisseur": "IBEN001",
+        "Volume d'échantillon": "1,0 à 2,0 µL",
+        "Longueurs d'onde": "260 et 280 nm",
+        "Longueur de trajet optique": "0,5 mm fixe",
+        "Détection ADN double brin": "jusqu'à 2 500 ng/µL",
+        "Source lumineuse": "LED + capteur photoélectrique au silicium",
+        "Écran": "Tactile couleur 7 pouces"
+      }
+    },
+    {
+      "sku": "SPE4506",
+      "slug": "spectrophotometre-uv-visible-cole-parmer-sp-400-bio-standard",
+      "brand": "COLE-PARMER",
+      "name_fr": "Spectrophotomètre UV/Visible à barrette de diodes Cole-Parmer SP-400-BIO",
+      "description_fr": "Le spectrophotomètre UV/Visible à barrette de diodes Cole-Parmer SP-400-BIO cible les applications de biologie : quantification des acides nucléiques, dosages protéiques et mesure de densité cellulaire, via un écran tactile couleur réactif et des méthodes préprogrammées. La technologie à barrette de diodes (1024 éléments) couplée à une lampe flash xénon balaie toute la gamme 198-800 nm en moins de 3 secondes, avec une bande passante spectrale de 3 nm adaptée à l'identification des pics de pureté des acides nucléiques. Le mode Acides Nucléiques calcule concentration et pureté d'ADN double brin, ADN simple brin, ARN et oligonucléotides à 260/280/230 nm (correction possible à 320 nm) et propose un scan de pureté entre 200 et 350 nm, utile pour repérer les impuretés à 230 nm indétectables par le seul ratio 260/280. Le mode Protéines construit des courbes standard (Bradford, Lowry, Biuret, BCA — jusqu'à 6 standards, 3 réplicats) et intègre les méthodes UV direct et Warburg-Christian. Un mode dédié à la densité optique suit la croissance de cultures bactériennes (E. coli, levures) avant récolte cellulaire. Autres atouts : compatibilité cuves ultra-micro à macro, faible encombrement (3 kg), interface en cinq langues et ports USB multiples pour stockage et impression.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 4880.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE4506",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Gamme spectrale": "198 à 800 nm",
+        "Vitesse de balayage": "moins de 3 secondes",
+        "Bande passante spectrale": "3 nm",
+        "Détecteur": "Barrette de 1024 diodes + lampe flash xénon",
+        "Poids": "3 kg",
+        "Langues disponibles": "français, anglais, allemand, italien, espagnol"
+      }
+    },
+    {
+      "sku": "80211538",
+      "slug": "alimentation-wpa-spectrawave-s800",
+      "brand": "WPA",
+      "name_fr": "Bloc d'alimentation WPA pour Spectrawave S800",
+      "description_fr": "Bloc d'alimentation secteur UK dédié au spectrophotomètre Biochrom Spectrawave S800, permettant de remplacer une alimentation défectueuse ou d'équiper un second poste de travail sans immobiliser l'appareil principal.",
+      "variant_name_fr": "Alimentation UK",
+      "price_gbp": 126.00,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Référence fournisseur": "WAL001",
+        "Compatibilité": "Biochrom Spectrawave S800",
+        "Type de prise": "UK"
+      }
+    },
+    {
+      "sku": "A12",
+      "slug": "adaptateur-12mm-grant-den-1b",
+      "brand": "GRANT",
+      "name_fr": "Adaptateur 12 mm Grant pour DEN-1B",
+      "description_fr": "Adaptateur de diamètre 12 mm destiné au photomètre Grant-Bio DEN-1B, permettant d'accueillir des tubes ou cuves de ce diamètre dans le porte-échantillon de l'appareil sans adaptation supplémentaire.",
+      "variant_name_fr": "Adaptateur 12 mm",
+      "price_gbp": 62.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/A12",
+      "specs_fr": {
+        "Référence fournisseur": "GRA001",
+        "Diamètre": "12 mm",
+        "Compatibilité": "Grant-Bio DEN-1B"
+      }
+    },
+    {
+      "sku": "DENMCFSTDS",
+      "slug": "standards-mcfarland-etalonnage-grant-d-16",
+      "brand": "GRANT",
+      "name_fr": "Jeu de standards McFarland pour étalonnage Grant (nécessite D-16)",
+      "description_fr": "Jeu de cinq standards McFarland (0,5 / 1,0 / 2,0 / 3,0 / 4,0 McF) destiné à l'étalonnage utilisateur des densitomètres Grant-Bio. La procédure de calibration nécessite l'appareil D-16 pour vérifier et ajuster la réponse de l'instrument sur toute la plage de turbidité mesurée.",
+      "variant_name_fr": "Kit 5 standards (0,5 à 4,0 McF)",
+      "price_gbp": 433.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DENMCFSTDS",
+      "specs_fr": {
+        "Référence fournisseur": "GRA001",
+        "Valeurs McFarland incluses": "0,5 / 1,0 / 2,0 / 3,0 / 4,0 McF",
+        "Appareil requis": "Grant-Bio D-16"
+      }
+    },
+    {
+      "sku": "SPE4614",
+      "slug": "rouleau-papier-thermique-cole-parmer-spe2234",
+      "brand": "COLE-PARMER",
+      "name_fr": "Rouleau de papier thermique Cole-Parmer pour imprimante SPE2234",
+      "description_fr": "Rouleau de papier thermique de rechange pour l'imprimante intégrée référencée SPE2234, compatible avec les spectrophotomètres Cole-Parmer équipés de cette imprimante pour l'édition des tickets de résultats.",
+      "variant_name_fr": "Rouleau standard",
+      "price_gbp": 13.14,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SPE4614",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Compatibilité": "Imprimante SPE2234"
+      }
+    }
+  ]
+}

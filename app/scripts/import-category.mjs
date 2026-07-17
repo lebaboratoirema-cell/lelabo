@@ -105,6 +105,7 @@ async function importProduct(categoryId, p) {
       name: { fr: p.name_fr },
       description: { fr: p.description_fr },
       brand: p.brand,
+      specifications: p.specs_fr ?? null,
       is_active: true,
       in_stock: true,
     })

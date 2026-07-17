@@ -1,0 +1,192 @@
+{
+  "category": {
+    "slug": "microbiology-media",
+    "parent_slug": "chimie",
+    "name": { "fr": "Milieux de culture microbiologique" },
+    "description": {
+      "fr": "Géloses prêtes à l'emploi, bases déshydratées et solutions tampons pour l'isolement, la culture et le dénombrement de micro-organismes en laboratoire de contrôle qualité, brasserie et microbiologie alimentaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "214010",
+      "slug": "bacto-agar-bd-diagnostics-454g",
+      "brand": "BD Diagnostics",
+      "name_fr": "Bacto Agar BD Diagnostics — pot de 454 g",
+      "description_fr": "Agar purifié de référence utilisé comme agent gélifiant dans la préparation de milieux de culture microbiologiques faits maison ou personnalisés. Sa grande pureté et sa faible teneur en impuretés organiques en font un choix privilégié pour les milieux exigeant une clarté optique élevée, notamment en recherche et en microbiologie de précision. Se dissout à chaud et gélifie en refroidissant, offrant une texture stable adaptée au coulage de boîtes de Pétri ou de tubes inclinés. Conditionné en pot de 454 g, à conserver au sec à température ambiante avant reconstitution.",
+      "variant_name_fr": "Pot de 454 g",
+      "price_gbp": 271.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/214010",
+      "specs_fr": {
+        "Référence fournisseur": "BEC005",
+        "Format": "Pot de 454 g",
+        "Usage": "Agent gélifiant pour milieux de culture",
+        "Conservation": "Lieu sec, température ambiante"
+      }
+    },
+    {
+      "sku": "7638",
+      "slug": "gelose-levures-moisissures-sulfate-cuivre-sgl-boite-90mm",
+      "brand": "Southern Group Laboratory",
+      "name_fr": "Gélose levures et moisissures au sulfate de cuivre SGL — boîte 90 mm",
+      "description_fr": "Milieu sélectif destiné à l'isolement et au maintien des levures et moisissures tolérantes au cuivre. L'ajout de 1,76 g de sulfate de cuivre par litre permet de mettre en évidence la présence de levures sauvages contaminantes dans les brasseries. Se présente sous forme de gel clair bleu-vert, coulé en boîte de 90 mm avec un volume de remplissage de 18 mL. Incubation recommandée entre 22 et 37 °C, pH cible de 6,2 ± 0,2. À conserver entre 2 et 8 °C jusqu'à utilisation.",
+      "variant_name_fr": "Boîte de 90 mm, prête à l'emploi",
+      "price_gbp": 10.01,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/7638",
+      "specs_fr": {
+        "Référence fournisseur": "SOU002",
+        "Format de boîte": "90 mm",
+        "Volume de remplissage": "18 mL",
+        "Aspect": "Gel clair bleu-vert",
+        "pH": "6,2 ± 0,2",
+        "Température d'incubation": "22 à 37 °C",
+        "Température de conservation": "2 à 8 °C",
+        "Composition active": "Sulfate de cuivre 1,76 g/L"
+      }
+    },
+    {
+      "sku": "7645",
+      "slug": "gelose-raka-ray-cycloheximide-tween-80-sgl-boite-90mm",
+      "brand": "Southern Group Laboratory",
+      "name_fr": "Gélose Raka Ray avec cycloheximide 7 ppm et Tween 80 1 % SGL — boîte 90 mm",
+      "description_fr": "Milieu sélectif Raka Ray additionné de 7 ppm de cycloheximide et de 1 % de Tween 80, conçu pour isoler les bactéries lactiques présentes dans la bière et au cours des process brassicoles. Le cycloheximide inhibe le développement des levures et moisissures, facilitant la détection des contaminants bactériens. Gel clair à opalescent, de couleur ambrée, coulé en boîte de 90 mm à raison de 18 mL par boîte. Incubation en anaérobiose recommandée entre 25 et 30 °C, pH cible de 5,4 ± 0,2. Conservation entre 2 et 8 °C.",
+      "variant_name_fr": "Boîte de 90 mm, prête à l'emploi",
+      "price_gbp": 12.65,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/7645",
+      "specs_fr": {
+        "Référence fournisseur": "SOU002",
+        "Format de boîte": "90 mm",
+        "Volume de remplissage": "18 mL",
+        "Aspect": "Gel clair à opalescent, ambré",
+        "pH": "5,4 ± 0,2",
+        "Température d'incubation": "25 à 30 °C, en anaérobiose",
+        "Température de conservation": "2 à 8 °C",
+        "Composition active": "Cycloheximide 7 ppm, Tween 80 1 %"
+      }
+    },
+    {
+      "sku": "7649",
+      "slug": "gelose-levures-moisissures-sgl-boite-90mm",
+      "brand": "Southern Group Laboratory",
+      "name_fr": "Gélose levures et moisissures SGL — boîte 90 mm",
+      "description_fr": "Milieu de culture standard utilisé pour l'isolement et le maintien des levures et des moisissures, sans agent sélectif additionnel. Se présente sous forme de gel clair, de couleur paille, coulé en boîte de 90 mm avec un volume de remplissage de 18 mL. Incubation recommandée entre 22 et 37 °C, pH cible de 6,2 ± 0,2. À conserver entre 2 et 8 °C, particulièrement adapté au contrôle qualité en brasserie et en industrie agroalimentaire.",
+      "variant_name_fr": "Boîte de 90 mm, prête à l'emploi",
+      "price_gbp": 8.48,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/7649",
+      "specs_fr": {
+        "Référence fournisseur": "SOU002",
+        "Format de boîte": "90 mm",
+        "Volume de remplissage": "18 mL",
+        "Aspect": "Gel clair, couleur paille",
+        "pH": "6,2 ± 0,2",
+        "Température d'incubation": "22 à 37 °C",
+        "Température de conservation": "2 à 8 °C"
+      }
+    },
+    {
+      "sku": "8009",
+      "slug": "gelose-differentielle-wl-wld-remplissage-profond-sgl-boite-90mm",
+      "brand": "Southern Group Laboratory",
+      "name_fr": "Gélose différentielle WL (WLD) remplissage profond SGL — boîte 90 mm",
+      "description_fr": "Milieu différentiel destiné à la culture et au dénombrement des bactéries d'intérêt pour l'industrie brassicole. L'ajout de 4 mg de cycloheximide par litre inhibe le développement des levures et moisissures présentes dans l'échantillon, permettant une lecture différentielle plus fiable des colonies bactériennes. Gel clair, de couleur turquoise pâle à vert-bleu, coulé en boîte de 90 mm à remplissage profond (25 mL). Incubation recommandée entre 22 et 37 °C, pH cible de 5,6 ± 0,4. Conservation entre 2 et 8 °C.",
+      "variant_name_fr": "Boîte de 90 mm, remplissage profond 25 mL",
+      "price_gbp": 8.35,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/8009",
+      "specs_fr": {
+        "Référence fournisseur": "SOU002",
+        "Format de boîte": "90 mm, remplissage profond",
+        "Volume de remplissage": "25 mL",
+        "Aspect": "Gel clair, turquoise pâle à vert-bleu",
+        "pH": "5,6 ± 0,4",
+        "Température d'incubation": "22 à 37 °C",
+        "Température de conservation": "2 à 8 °C",
+        "Composition active": "Cycloheximide 4 mg/L"
+      }
+    },
+    {
+      "sku": "BR014G",
+      "slug": "comprimes-tampon-phosphate-sale-pbs-oxoid-100ml",
+      "brand": "Oxoid",
+      "name_fr": "Comprimés tampon phosphate salin (PBS) Thermo Scientific Oxoid — pour 100 mL de solution",
+      "description_fr": "Comprimés prêts à dissoudre permettant de préparer rapidement une solution tampon phosphate salin (PBS) stérile et reproductible, sans peser de réactifs. Chaque comprimé, dilué dans de l'eau distillée ou déionisée puis autoclavé, fournit une solution isotonique à pH neutre couramment utilisée pour la dilution d'échantillons, le rinçage et la remise en suspension de cultures microbiologiques. Format dosé pour la préparation de 100 mL de solution, pratique pour les laboratoires à faible volume ou les contrôles ponctuels.",
+      "variant_name_fr": "Format pour 100 mL de solution",
+      "price_gbp": 37.92,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BR014G",
+      "specs_fr": {
+        "Référence fournisseur": "UNI002",
+        "Volume préparé": "100 mL",
+        "Type de solution": "Tampon phosphate salin (PBS), isotonique, pH neutre",
+        "Usage": "Dilution, rinçage et remise en suspension d'échantillons microbiologiques",
+        "Préparation": "Dissolution dans eau distillée/déionisée puis autoclavage"
+      }
+    },
+    {
+      "sku": "BR052G",
+      "slug": "comprimes-solution-ringer-oxoid-500ml",
+      "brand": "Oxoid",
+      "name_fr": "Comprimés solution de Ringer Thermo Scientific Oxoid — pour 500 mL de solution",
+      "description_fr": "Comprimés prédosés pour la préparation d'une solution de Ringer, diluant isotonique de référence utilisé pour la remise en suspension, le rinçage et la dilution d'échantillons destinés à l'analyse microbiologique, notamment en agroalimentaire. La dissolution des comprimés dans de l'eau distillée suivie d'un autoclavage permet d'obtenir une solution stérile et reproductible sans peser individuellement chaque sel. Format dosé pour la préparation de 500 mL de solution, adapté aux laboratoires à volume de production intermédiaire.",
+      "variant_name_fr": "Format pour 500 mL de solution",
+      "price_gbp": 48.84,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/BR052G",
+      "specs_fr": {
+        "Référence fournisseur": "UNI002",
+        "Volume préparé": "500 mL",
+        "Type de solution": "Solution de Ringer, diluant isotonique",
+        "Usage": "Dilution, rinçage et remise en suspension d'échantillons microbiologiques",
+        "Préparation": "Dissolution dans eau distillée puis autoclavage"
+      }
+    },
+    {
+      "sku": "CM003B",
+      "slug": "gelose-nutritive-deshydratee-oxoid-500g-17-9l",
+      "brand": "Oxoid",
+      "name_fr": "Gélose nutritive déshydratée Thermo Scientific Oxoid — pot de 500 g pour 17,9 L de milieu",
+      "description_fr": "Base de milieu déshydratée à usage général, formulée pour la culture non sélective d'une large gamme de micro-organismes en microbiologie de routine. Une fois reconstituée dans de l'eau distillée et autoclavée, elle fournit un milieu nutritif polyvalent adapté à l'entretien de souches, aux tests de viabilité et aux contrôles qualité de base. Le pot de 500 g permet la préparation d'environ 17,9 L de milieu final, un format économique pour une utilisation en laboratoire de production ou de contrôle.",
+      "variant_name_fr": "Pot de 500 g — pour 17,9 L de milieu",
+      "price_gbp": 189.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CM003B",
+      "specs_fr": {
+        "Référence fournisseur": "UNI002",
+        "Format": "Pot de 500 g",
+        "Volume de milieu obtenu": "17,9 L",
+        "Type de milieu": "Gélose nutritive à usage général, déshydratée",
+        "Préparation": "Reconstitution dans eau distillée puis autoclavage"
+      }
+    },
+    {
+      "sku": "CM055B",
+      "slug": "base-gelose-au-sang-oxoid-500g-12-5l",
+      "brand": "Oxoid",
+      "name_fr": "Base gélose au sang Thermo Scientific Oxoid — pot de 500 g pour 12,5 L de milieu",
+      "description_fr": "Base déshydratée destinée à la préparation de gélose au sang, milieu enrichi de référence en microbiologie clinique et vétérinaire pour la culture d'organismes exigeants et l'observation de l'hémolyse. Une fois reconstituée et autoclavée, la base est complétée par l'ajout de sang défibriné (généralement 5 à 10 %) avant coulage en boîtes. Le pot de 500 g permet de préparer environ 12,5 L de base de milieu, un format adapté à une production régulière de boîtes en laboratoire d'analyses.",
+      "variant_name_fr": "Pot de 500 g — pour 12,5 L de milieu",
+      "price_gbp": 141.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CM641B",
+      "specs_fr": {
+        "Référence fournisseur": "UNI002",
+        "Format": "Pot de 500 g",
+        "Volume de base obtenu": "12,5 L",
+        "Type de milieu": "Base pour gélose au sang, déshydratée",
+        "Préparation": "Reconstitution, autoclavage puis ajout de sang défibriné"
+      }
+    },
+    {
+      "sku": "CM1031B",
+      "slug": "gelose-mlga-membrane-lactose-glucuronide-oxoid-500g",
+      "brand": "Oxoid",
+      "name_fr": "Gélose MLGA (Membrane Lactose Glucuronide Agar) Thermo Scientific Oxoid — pot de 500 g",
+      "description_fr": "Milieu déshydraté sélectif et différentiel conçu pour la détection et le dénombrement des coliformes et d'Escherichia coli par la technique de filtration sur membrane, notamment dans le cadre du contrôle microbiologique des eaux. La réaction glucuronidase permet de différencier E. coli des autres coliformes présomptifs directement sur la membrane après incubation. Une fois reconstituée et autoclavée, la base est coulée en boîtes pour recevoir les membranes filtrantes. Le pot de 500 g constitue un format de laboratoire pour des analyses répétées en contrôle qualité de l'eau.",
+      "variant_name_fr": "Pot de 500 g",
+      "price_gbp": 351.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CM1031B",
+      "specs_fr": {
+        "Référence fournisseur": "UNI002",
+        "Format": "Pot de 500 g",
+        "Type de milieu": "Sélectif et différentiel, technique de filtration sur membrane",
+        "Application": "Détection et dénombrement des coliformes et E. coli dans l'eau",
+        "Préparation": "Reconstitution dans eau distillée puis autoclavage"
+      }
+    }
+  ]
+}

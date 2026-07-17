@@ -1,0 +1,186 @@
+{
+  "category": {
+    "slug": "bioreagents",
+    "parent_slug": "chimie",
+    "name": { "fr": "Bioréactifs" },
+    "description": {
+      "fr": "Milieux de séparation cellulaire, tampons et réactifs de biologie moléculaire pour laboratoires de recherche — isolement de lymphocytes, gradients de densité, extraction et purification d'acides nucléiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "17089101",
+      "slug": "percoll-cytiva-1l-gradient-densite",
+      "brand": "CYTIVA",
+      "name_fr": "Percoll — milieu de gradient de densité, 1 L",
+      "description_fr": "Milieu de centrifugation en gradient de densité, à faible viscosité et non toxique, destiné à la séparation des cellules, virus et particules subcellulaires. Composé de silice colloïdale enrobée de polyvinylpyrrolidone (PVP), il présente une osmolalité et une viscosité réduites, ce qui permet de préparer des gradients préformés en quelques minutes seulement, avec des forces centrifuges modérées (200 à 1000 x g). Les gradients peuvent être préformés ou générés spontanément par centrifugation à vitesse modérée dans un rotor à angle fixe ; ils restent iso-osmotiques sur toute leur étendue et couvrent des densités allant jusqu'à 1,3 g/mL. Adaptable à la force ionique et au pH physiologiques, ce milieu préserve la viabilité et l'intégrité morphologique des échantillons, y compris pour les virus de petite taille (jusqu'à ~70S). Conditionné en flacon refermable facile à ouvrir.",
+      "variant_name_fr": "Flacon 1 L",
+      "price_gbp": 427.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/17089101",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Composition": "Silice colloïdale enrobée de polyvinylpyrrolidone (PVP)",
+        "Viscosité": "Faible",
+        "Toxicité cellulaire": "Non toxique",
+        "Plage de densité": "Jusqu'à 1,3 g/mL",
+        "Format": "Flacon refermable 1 L",
+        "Application": "Centrifugation en gradient de densité (cellules, particules subcellulaires, virus)"
+      }
+    },
+    {
+      "sku": "17144002",
+      "slug": "ficoll-paque-plus-cytiva-6x100ml",
+      "brand": "CYTIVA",
+      "name_fr": "Ficoll-Paque Plus — milieu de séparation des lymphocytes, 6 x 100 mL",
+      "description_fr": "Référence internationale pour l'isolement des lymphocytes humains destinés aux études in vitro. Ce milieu stérile, prêt à l'emploi, permet une isolation à haut rendement des lymphocytes à partir de sang périphérique tout en maintenant leur viabilité et une distribution représentative des populations B et T. Son faible niveau d'endotoxines (inférieur à 0,12 UE/mL) le rend adapté aux protocoles exigeants de culture cellulaire et d'immunologie. Conditionné en pack de six flacons de 100 mL pour un usage répété en laboratoire.",
+      "variant_name_fr": "Pack de 6 x 100 mL",
+      "price_gbp": 225.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/17144003_1",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Format": "6 x 100 mL",
+        "État": "Prêt à l'emploi, stérile",
+        "Endotoxines": "< 0,12 UE/mL",
+        "Application": "Isolement des lymphocytes humains à partir de sang périphérique"
+      }
+    },
+    {
+      "sku": "31392-250G",
+      "slug": "dextrane-leuconostoc-sigma-aldrich-450000-650000-250g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Dextrane issu de Leuconostoc spp., masse moléculaire 450 000 - 650 000",
+      "description_fr": "Polysaccharide ramifié constitué d'unités de glucose reliées en chaîne linéaire par des liaisons alpha(1→6), avec des points de branchement initiés par des liaisons alpha(1→3). Le dextrane est employé dans de nombreuses applications de laboratoire : expandeur volémique, agent stabilisant, composant de matrice, plateforme de liaison, lubrifiant ou élément de structure physique. Certaines qualités de dextrane de haute masse moléculaire sont utilisées pour simuler l'agrégation des érythrocytes dans le cadre de la recherche cardiovasculaire. Produit issu de Leuconostoc spp., conditionné en flacon de 250 g.",
+      "variant_name_fr": "Flacon 250 g",
+      "price_gbp": 1106.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/627/354/fd24b06b-1aed-47f1-9ac9-cfc74877d35e/640/fd24b06b-1aed-47f1-9ac9-cfc74877d35e",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Masse moléculaire moyenne": "450 000 - 650 000 Da",
+        "Origine": "Leuconostoc spp.",
+        "Format": "250 g",
+        "Applications": "Expandeur volémique, stabilisant, matrice de liaison, recherche cardiovasculaire"
+      }
+    },
+    {
+      "sku": "51976-500ML-F",
+      "slug": "ethanol-biologie-moleculaire-sigma-aldrich-500ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Éthanol qualité biologie moléculaire, 500 mL",
+      "description_fr": "Éthanol de haute pureté formulé pour les applications de biologie moléculaire, notamment la précipitation des acides nucléiques (ADN, ARN) lors des étapes d'extraction et de purification. La distribution et l'usage de ce type d'alcool éthylique peuvent être soumis à une réglementation locale spécifique — en Suisse par exemple, une licence de l'administration fédérale des alcools est requise. Des restrictions de vente peuvent s'appliquer selon la juridiction ; se référer aux règles en vigueur avant commande.",
+      "variant_name_fr": "Flacon 500 mL",
+      "price_gbp": 142.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/216/371/sial_51976_p/sial_51976_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Format": "500 mL",
+        "Qualité": "Biologie moléculaire",
+        "Application": "Précipitation des acides nucléiques",
+        "Restrictions": "Vente réglementée selon la juridiction"
+      }
+    },
+    {
+      "sku": "71649-1KG",
+      "slug": "phosphate-disodique-dodecahydrate-bioxtra-sigma-aldrich-1kg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Phosphate disodique dodécahydraté, BioXtra, ≥99,0 %",
+      "description_fr": "Sel de phosphate disodique sous forme dodécahydratée, de qualité BioXtra et d'une pureté minimale de 99,0 %. Ce réactif est notamment employé pour la préparation de tampons phosphate utilisés en biologie cellulaire et moléculaire, ainsi que pour des études enzymatiques et histochimiques. Il a également été mis en œuvre en étalonnage externe pour la quantification de l'acide phytique dans des farines et extrudats de haricots Great Northern. Conditionné en flacon de 1 kg.",
+      "variant_name_fr": "Flacon 1 kg",
+      "price_gbp": 174.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/245/715/cd477af5-95bc-4308-83d5-a91dcd0fe745/640/cd477af5-95bc-4308-83d5-a91dcd0fe745",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Pureté": "≥ 99,0 % (T)",
+        "Qualité": "BioXtra",
+        "Formule": "Na2HPO4·12H2O",
+        "Format": "1 kg",
+        "Application": "Préparation de tampons phosphate, études enzymatiques et histochimiques"
+      }
+    },
+    {
+      "sku": "71649-500G",
+      "slug": "phosphate-disodique-dodecahydrate-bioxtra-sigma-aldrich-500g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Phosphate disodique dodécahydraté, BioXtra, ≥99,0 %",
+      "description_fr": "Sel de phosphate disodique sous forme dodécahydratée, de qualité BioXtra et d'une pureté minimale de 99,0 %. Ce réactif est notamment employé pour la préparation de tampons phosphate utilisés en biologie cellulaire et moléculaire, ainsi que pour des études enzymatiques et histochimiques. Il a également été mis en œuvre en étalonnage externe pour la quantification de l'acide phytique dans des farines et extrudats de haricots Great Northern. Conditionné en flacon de 500 g, format adapté aux besoins de laboratoire plus modestes.",
+      "variant_name_fr": "Flacon 500 g",
+      "price_gbp": 94.32,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/245/715/cd477af5-95bc-4308-83d5-a91dcd0fe745/640/cd477af5-95bc-4308-83d5-a91dcd0fe745",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Pureté": "≥ 99,0 % (T)",
+        "Qualité": "BioXtra",
+        "Formule": "Na2HPO4·12H2O",
+        "Format": "500 g",
+        "Application": "Préparation de tampons phosphate, études enzymatiques et histochimiques"
+      }
+    },
+    {
+      "sku": "71736-100ML",
+      "slug": "sds-solution-10-pourcent-bioultra-sigma-aldrich-100ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Dodécylsulfate de sodium (SDS) en solution à 10 %, BioUltra",
+      "description_fr": "Solution aqueuse de dodécylsulfate de sodium (SDS) à 10 %, de qualité BioUltra pour la biologie moléculaire. Ce détergent ionique perturbe les membranes biologiques et inhibe l'activité des ribonucléases (RNase) et désoxyribonucléases (DNase), ce qui en fait un composant clé des réactifs de purification d'acides nucléiques. Il intervient notamment dans la préparation de tampons d'extraction, dans les tampons d'élution pour immunoprécipitation, ainsi qu'en électrophorèse sur gel SDS-PAGE. Utilisé également en extraction phénolique d'ARN à grande échelle, il favorise la dissociation des protéines des acides nucléiques.",
+      "variant_name_fr": "Flacon 100 mL",
+      "price_gbp": 71.28,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/356/164/37da26a6-78f2-430a-82d4-cb169a35af09/640/37da26a6-78f2-430a-82d4-cb169a35af09",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Concentration": "10 % dans H2O",
+        "Qualité": "BioUltra, biologie moléculaire",
+        "Format": "100 mL",
+        "Applications": "SDS-PAGE, extraction et purification d'ARN, immunoprécipitation"
+      }
+    },
+    {
+      "sku": "90358-100ML",
+      "slug": "tampon-triethylammonium-acetate-1m-sigma-aldrich-100ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Tampon acétate de triéthylammonium, volatil, environ 1,0 M",
+      "description_fr": "Tampon volatil à base d'acétate de triéthylammonium, formulé à une concentration d'environ 1,0 M en solution aqueuse. Sa nature volatile en fait un réactif de choix pour les protocoles nécessitant une élimination facile du tampon après usage, notamment dans les techniques de visualisation et de quantification de molécules d'ARN messager individuelles au sein de tissus de mammifères (souris et humain). Conditionné en flacon de 100 mL.",
+      "variant_name_fr": "Flacon 100 mL",
+      "price_gbp": 78.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/354/239/7ec400b0-402d-404e-8fae-7064377ec655/640/7ec400b0-402d-404e-8fae-7064377ec655",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Concentration": "Environ 1,0 M dans H2O",
+        "Type de tampon": "Volatil",
+        "Format": "100 mL",
+        "Application": "Quantification d'ARNm unique dans des tissus de mammifères"
+      }
+    },
+    {
+      "sku": "93283-100ML",
+      "slug": "tampon-tris-edta-te-ph8-bioultra-sigma-aldrich-100ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Tampon Tris-EDTA (TE), BioUltra, pH 8,0",
+      "description_fr": "Solution tampon Tris-EDTA de qualité BioUltra, ajustée à pH 8,0, composée de 10 mM de Tris-HCl et de 1 mM d'EDTA disodique. Le Trizma qui compose la base Tris permet de formuler des tampons dans la gamme de pH 7,5 à 8,5, largement utilisés en biologie cellulaire et moléculaire pour l'extraction et la purification des protéines et des acides nucléiques. Ce tampon TE à pH 8,0 peut également servir de solution de lavage dans divers protocoles de laboratoire. Conditionné en flacon de 100 mL.",
+      "variant_name_fr": "Flacon 100 mL",
+      "price_gbp": 42.36,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/218/771/9ff9cae5-a006-4425-a98d-96879b0d42a3/640/9ff9cae5-a006-4425-a98d-96879b0d42a3",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "10 mM Tris-HCl, 1 mM EDTA disodique",
+        "pH": "8,0",
+        "Qualité": "BioUltra, biologie moléculaire",
+        "Format": "100 mL"
+      }
+    },
+    {
+      "sku": "94046-500ML-F",
+      "slug": "phosphate-disodique-solution-0-5m-bioultra-sigma-aldrich-500ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Phosphate disodique en solution 0,5 M, BioUltra",
+      "description_fr": "Solution aqueuse de phosphate disodique à 0,5 M, de qualité BioUltra, destinée à la préparation d'une large gamme de tampons phosphate biologiques employés en biologie cellulaire et moléculaire. Sa concentration prédosée facilite la formulation rapide et reproductible de tampons de dilution ou de conservation d'échantillons. Conditionné en flacon de 500 mL.",
+      "variant_name_fr": "Flacon 500 mL",
+      "price_gbp": 230.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/140/340/849261c2-36b2-4cdf-8515-ef928b197903/640/849261c2-36b2-4cdf-8515-ef928b197903",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Concentration": "0,5 M dans H2O",
+        "Qualité": "BioUltra",
+        "Format": "500 mL",
+        "Application": "Préparation de tampons phosphate biologiques"
+      }
+    }
+  ]
+}

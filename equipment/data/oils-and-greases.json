@@ -1,0 +1,203 @@
+{
+  "category": {
+    "slug": "oils-and-greases",
+    "parent_slug": "chimie",
+    "name": { "fr": "Huiles et graisses pour pompes à vide" },
+    "description": {
+      "fr": "Huiles de lubrification Edwards Ultragrade et graisses techniques Apiezon pour pompes à vide, joints et applications de laboratoire — formulations couvrant le vide primaire jusqu'à l'ultra-vide, la résistance chimique et les environnements cryogéniques."
+    }
+  },
+  "products": [
+    {
+      "sku": "PUM5088",
+      "slug": "huile-vide-edwards-ultragrade-performance-70-5l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards Ultragrade Performance 70 — bidon 5 L",
+      "description_fr": "Huile de lubrification pour pompes à vide, issue d'un procédé d'hydrotraitement plutôt que du raffinage au solvant classique. Ce traitement élimine l'azote, le soufre, l'oxygène et les hydrocarbures aromatiques, laissant une base huileuse claire et pratiquement exempte d'impuretés. Les additifs de la gamme Ultragrade Performance améliorent la performance sous vide, la stabilité thermique et à l'oxydation, ainsi que la protection contre la corrosion. Les antioxydants intégrés permettent à la pompe de fonctionner à haute température sans dégradation de l'huile, ce qui espace les intervalles de vidange. Le grade 70, plus visqueux, convient aux pompes rotatives à palettes mono-étage de grande taille nécessitant un joint d'étanchéité sous vide renforcé, ainsi qu'aux boîtes de vitesses et trains d'entraînement fonctionnant sous vide ou pression partielle. Conditionnement en bidon de 5 litres.",
+      "variant_name_fr": "Bidon 5 L",
+      "price_gbp": 183.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5088",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards Ultragrade Performance",
+        "Grade de viscosité": "70",
+        "Conditionnement": "Bidon 5 L",
+        "Procédé de fabrication": "Hydrotraitement (base exempte d'azote, soufre, oxygène et aromatiques)",
+        "Usages recommandés": "Pompes rotatives à palettes mono-étage grande taille, boîtes de vitesses et trains d'entraînement sous vide"
+      }
+    },
+    {
+      "sku": "PUM5090",
+      "slug": "huile-vide-edwards-ultragrade-performance-15-1l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards Ultragrade Performance 15 — bidon 1 L",
+      "description_fr": "Huile de lubrification pour pompes à vide fabriquée par hydrotraitement, un procédé qui élimine l'azote, le soufre, l'oxygène et les hydrocarbures aromatiques pour obtenir une base claire et quasiment pure. Les additifs Ultragrade Performance apportent une meilleure performance sous vide, une bonne stabilité thermique et à l'oxydation, ainsi qu'une protection anticorrosion. Les antioxydants intégrés limitent la dégradation de l'huile aux hautes températures de fonctionnement, ce qui allonge les intervalles entre vidanges. Le grade 15, plus fluide, est adapté aux petites pompes rotatives à palettes nécessitant un démarrage à froid facile ou un couple de démarrage réduit, ainsi qu'aux pompes bi-étage de petite et moyenne taille où un vide poussé et une bonne lubrification sont requis. Conditionnement en bidon de 1 litre.",
+      "variant_name_fr": "Bidon 1 L",
+      "price_gbp": 49.44,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5090",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards Ultragrade Performance",
+        "Grade de viscosité": "15",
+        "Conditionnement": "Bidon 1 L",
+        "Procédé de fabrication": "Hydrotraitement (base exempte d'azote, soufre, oxygène et aromatiques)",
+        "Usages recommandés": "Petites pompes rotatives à palettes (démarrage à froid), pompes bi-étage petites et moyennes"
+      }
+    },
+    {
+      "sku": "PUM5092",
+      "slug": "huile-vide-edwards-ultragrade-performance-15-4l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards Ultragrade Performance 15 — bidon 4 L",
+      "description_fr": "Huile de lubrification pour pompes à vide fabriquée par hydrotraitement, procédé qui élimine l'azote, le soufre, l'oxygène et les hydrocarbures aromatiques pour livrer une base claire, quasiment exempte d'impuretés. Les additifs Ultragrade Performance améliorent la performance sous vide, la stabilité thermique et à l'oxydation, et renforcent la protection contre la corrosion. Grâce aux antioxydants intégrés, la pompe supporte des températures de fonctionnement élevées sans dégradation prématurée de l'huile, ce qui espace les vidanges. Le grade 15, fluide, convient aux petites pompes rotatives à palettes à démarrage à froid ou couple de démarrage faible, ainsi qu'aux pompes bi-étage petites et moyennes où vide poussé et bonne lubrification sont nécessaires. Conditionnement économique en bidon de 4 litres pour les utilisateurs à consommation régulière.",
+      "variant_name_fr": "Bidon 4 L",
+      "price_gbp": 145.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5092",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards Ultragrade Performance",
+        "Grade de viscosité": "15",
+        "Conditionnement": "Bidon 4 L",
+        "Procédé de fabrication": "Hydrotraitement (base exempte d'azote, soufre, oxygène et aromatiques)",
+        "Usages recommandés": "Petites pompes rotatives à palettes (démarrage à froid), pompes bi-étage petites et moyennes"
+      }
+    },
+    {
+      "sku": "PUM5094",
+      "slug": "huile-vide-edwards-ultragrade-performance-19-1l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards Ultragrade Performance 19 — bidon 1 L",
+      "description_fr": "Huile de lubrification pour pompes à vide produite par hydrotraitement plutôt que par raffinage au solvant, ce qui élimine l'azote, le soufre, l'oxygène et les hydrocarbures aromatiques et livre une base huileuse claire et pure. Les additifs Ultragrade Performance renforcent la performance sous vide, la stabilité thermique et à l'oxydation ainsi que la protection anticorrosion. Les antioxydants intégrés permettent de fonctionner à haute température sans dégradation de l'huile, espaçant ainsi les vidanges. Le grade 19, de viscosité intermédiaire, offre un bon compromis entre fluidité et pouvoir lubrifiant pour une large gamme d'applications de pompage sous vide. Conditionnement en bidon de 1 litre.",
+      "variant_name_fr": "Bidon 1 L",
+      "price_gbp": 43.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5094",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards Ultragrade Performance",
+        "Grade de viscosité": "19",
+        "Conditionnement": "Bidon 1 L",
+        "Procédé de fabrication": "Hydrotraitement (base exempte d'azote, soufre, oxygène et aromatiques)",
+        "Usages recommandés": "Large gamme d'applications de pompage sous vide, viscosité intermédiaire"
+      }
+    },
+    {
+      "sku": "PUM5096",
+      "slug": "huile-vide-edwards-ultragrade-performance-19-4l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards Ultragrade Performance 19 — bidon 4 L",
+      "description_fr": "Huile de lubrification pour pompes à vide issue d'un procédé d'hydrotraitement qui élimine l'azote, le soufre, l'oxygène et les hydrocarbures aromatiques, produisant une base claire et pratiquement exempte d'impuretés. Les additifs Ultragrade Performance apportent une meilleure performance sous vide, une bonne stabilité thermique et à l'oxydation, et une protection contre la corrosion. Les antioxydants intégrés autorisent un fonctionnement à haute température sans dégradation de l'huile, espaçant les intervalles de vidange. Le grade 19, de viscosité intermédiaire, convient à un large éventail d'applications de pompage sous vide. Conditionnement en bidon de 4 litres, adapté aux besoins de consommation plus importants.",
+      "variant_name_fr": "Bidon 4 L",
+      "price_gbp": 124.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5096",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards Ultragrade Performance",
+        "Grade de viscosité": "19",
+        "Conditionnement": "Bidon 4 L",
+        "Procédé de fabrication": "Hydrotraitement (base exempte d'azote, soufre, oxygène et aromatiques)",
+        "Usages recommandés": "Large gamme d'applications de pompage sous vide, viscosité intermédiaire"
+      }
+    },
+    {
+      "sku": "PUM5098",
+      "slug": "huile-vide-edwards-45-resistance-chimique-1l",
+      "brand": "Edwards",
+      "name_fr": "Huile pour pompe à vide Edwards 45, résistance chimique renforcée — 1 L",
+      "description_fr": "Polymère hydrocarboné de synthèse dont la structure moléculaire offre une inertie chimique élevée, une bonne stabilité à haute température et une pression de vapeur très faible. Sa signature de pics bien définie en fait un lubrifiant fréquemment utilisé en spectrométrie de masse. L'huile Edwards 45 est non toxique, non corrosive et récupérable, ce qui en facilite le recyclage. Elle conserve ses propriétés jusqu'à un point d'écoulement très bas et supporte des températures de service élevées avant d'atteindre son point d'éclair. Conditionnement en bidon de 1 litre, particulièrement indiqué pour les applications exigeant une résistance chimique renforcée face aux échantillons agressifs.",
+      "variant_name_fr": "Bidon 1 L",
+      "price_gbp": 210.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PUM5098",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Edwards 45",
+        "Conditionnement": "Bidon 1 L",
+        "Groupe chimique du lubrifiant": "Hydrocarbure de synthèse",
+        "Point d'écoulement": "-59 °C",
+        "Point d'éclair": "264 °C",
+        "Pression de vapeur": "1,000 x 10⁻⁷ mbar",
+        "Viscosité à 40 °C": "53,00 N·s/m²",
+        "Usages recommandés": "Spectrométrie de masse, applications exigeant une inertie chimique élevée"
+      }
+    },
+    {
+      "sku": "VAC1000",
+      "slug": "graisse-vide-apiezon-l-ultra-vide-50g",
+      "brand": "Apiezon",
+      "name_fr": "Graisse pour ultra-vide Apiezon L — pot 50 g",
+      "description_fr": "Graisse pour ultra-vide sans silicone ni halogène, offrant les meilleures propriétés de pression de vapeur de toute la gamme Apiezon. Formulée pour assurer une excellente lubrification tout en maintenant une étanchéité au gaz efficace, elle est largement employée dans la fabrication et l'entretien des pompes à vide haute performance. L'absence de silicone évite les phénomènes de fluage et de report qui peuvent contaminer les échantillons, ce qui la rend particulièrement adaptée aux techniques analytiques sensibles comme l'infrarouge ou la spectrométrie de masse. Sans halogène, elle bénéficie d'une résistance intrinsèque aux irradiations, là où d'autres graisses à base d'esters, de silicones ou de paraffines halogénées se décomposent à des niveaux de rayonnement relativement faibles. Conçue pour un usage à température ambiante, elle présente une action de piégeage puissante des impuretés grasses et chimiques sur les surfaces métalliques et vitreuses, et se nettoie facilement grâce à sa solubilité dans les solvants hydrocarbonés. Pot de 50 grammes.",
+      "variant_name_fr": "Pot 50 g",
+      "price_gbp": 296.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/VAC1000_1",
+      "specs_fr": {
+        "Référence fournisseur": "MIM001",
+        "Gamme": "Apiezon L",
+        "Conditionnement": "Pot 50 g",
+        "Type": "Graisse ultra-vide, sans silicone ni halogène",
+        "Pression de vapeur": "7 x 10⁻¹¹ Torr à 20 °C",
+        "Plage de température recommandée": "10 à 30 °C",
+        "Résistance aux radiations": "Élevée (halogène-free)",
+        "Usages recommandés": "Ultra-vide, infrarouge, spectrométrie de masse, joints verre/verre"
+      }
+    },
+    {
+      "sku": "VAC1002",
+      "slug": "graisse-vide-apiezon-m-haut-vide-100g",
+      "brand": "Apiezon",
+      "name_fr": "Graisse pour haut vide Apiezon M — pot 100 g",
+      "description_fr": "Graisse pour haut vide sans silicone ni halogène, adaptée à un large éventail d'applications sous vide poussé. Formulée pour offrir une excellente lubrification tout en assurant un joint d'étanchéité au gaz efficace, elle est très employée dans la fabrication et l'entretien de pompes à vide haute performance. L'absence de silicone élimine les risques de fluage et de report susceptibles de contaminer les échantillons, un atout pour les techniques analytiques comme l'infrarouge ou la spectrométrie de masse. Sans halogène, elle bénéficie d'une bonne résistance aux irradiations, contrairement à de nombreuses graisses à base d'esters, de silicones ou de paraffines halogénées. Sa structure hydrocarbonée complexe et sa masse moléculaire élevée lui confèrent un fort pouvoir d'absorption, ce qui explique son usage fréquent comme phase stationnaire en chromatographie en phase gazeuse. Conçue pour un usage à température ambiante, elle se nettoie facilement grâce à sa solubilité dans les solvants hydrocarbonés. Pot de 100 grammes.",
+      "variant_name_fr": "Pot 100 g",
+      "price_gbp": 225.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/VAC1002_1",
+      "specs_fr": {
+        "Référence fournisseur": "MIM001",
+        "Gamme": "Apiezon M",
+        "Conditionnement": "Pot 100 g",
+        "Type": "Graisse haut vide, sans silicone ni halogène",
+        "Pression de vapeur": "1,7 x 10⁻⁹ Torr à 20 °C",
+        "Plage de température recommandée": "10 à 30 °C",
+        "Résistance aux radiations": "Élevée (halogène-free)",
+        "Usages recommandés": "Haut vide, chromatographie en phase gazeuse (phase stationnaire)"
+      }
+    },
+    {
+      "sku": "VAC1004",
+      "slug": "graisse-vide-apiezon-n-cryogenique-25g",
+      "brand": "Apiezon",
+      "name_fr": "Graisse cryogénique Apiezon N — pot 25 g",
+      "description_fr": "Graisse pour vide sans silicone, reconnue comme référence pour les applications cryogéniques. Spécialement formulée pour rester exempte de craquelures aux basses températures, elle supporte des cycles thermiques répétés entre des températures cryogéniques extrêmes et l'ambiante. Elle permet de combler les micropores des surfaces en contact, améliorant ainsi le contact thermique entre pièces assemblées. L'absence de silicone évite les problèmes de fluage et de report pouvant contaminer les échantillons. Sa forte action de piégeage capte les impuretés grasses et chimiques présentes sur les surfaces métalliques et vitreuses, et elle se nettoie aisément grâce à sa solubilité dans les solvants hydrocarbonés. Pot de 25 grammes.",
+      "variant_name_fr": "Pot 25 g",
+      "price_gbp": 307.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/VAC1004",
+      "specs_fr": {
+        "Référence fournisseur": "MIM001",
+        "Gamme": "Apiezon N",
+        "Conditionnement": "Pot 25 g",
+        "Type": "Graisse cryogénique, sans silicone",
+        "Pression de vapeur": "6 x 10⁻¹⁰ Torr à 20 °C",
+        "Plage de température de cyclage": "-273 °C à +30 °C",
+        "Propriété clé": "Sans craquelure aux températures cryogéniques, amélioration du contact thermique",
+        "Usages recommandés": "Cryogénie, joints thermiques basse température"
+      }
+    },
+    {
+      "sku": "VAC1006",
+      "slug": "graisse-vide-apiezon-t-temperature-moyenne-25g",
+      "brand": "Apiezon",
+      "name_fr": "Graisse vide basse à moyenne pression, température moyenne Apiezon T — pot 25 g",
+      "description_fr": "Graisse sans silicone pour vide faible à moyen, réputée pour sa qualité et sa ténacité, également utilisable en gamme de vide poussé aux températures les plus basses de sa plage d'usage. Recommandée pour l'étanchéité et la lubrification en environnement de température moyenne, mais non conçue pour les roulements fortement sollicités. Sa forte cohésion permet aux joints assemblés de rester parfaitement solidaires, formant une étanchéité au gaz très efficace, tout en amortissant les surfaces en contact — un avantage notable pour protéger les joints verre sur verre fragiles. Ses propriétés d'absorption élevées lui confèrent une puissante action de piégeage des impuretés, utile en électronique où la propreté des surfaces métalliques est cruciale. Elle sert également de barrière à la transmission d'oxygène, en conditions de vide comme hors vide. Se nettoie facilement grâce à sa solubilité dans les solvants hydrocarbonés. Pot de 25 grammes.",
+      "variant_name_fr": "Pot 25 g",
+      "price_gbp": 235.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/VAC1006_1",
+      "specs_fr": {
+        "Référence fournisseur": "EDW001",
+        "Gamme": "Apiezon T",
+        "Conditionnement": "Pot 25 g",
+        "Type": "Graisse vide faible à moyen, température moyenne, sans silicone",
+        "Pression de vapeur": "4,6 x 10⁻⁹ Torr à 20 °C",
+        "Plage de température de service": "+10 à +120 °C",
+        "Précaution d'usage": "Non recommandée pour les roulements fortement sollicités",
+        "Usages recommandés": "Étanchéité de joints verre/verre, barrière à l'oxygène, protection des surfaces en électronique"
+      }
+    }
+  ]
+}

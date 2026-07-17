@@ -1,0 +1,199 @@
+{
+  "category": {
+    "slug": "antibiotics",
+    "parent_slug": "chimie",
+    "name": { "fr": "Antibiotiques" },
+    "description": {
+      "fr": "Antibiotiques et solutions antimycotiques de qualité recherche pour la culture cellulaire et la biochimie — agents de sélection, inhibiteurs de synthèse protéique, antifongiques polyéniques et solutions combinées stérilisées par filtration."
+    }
+  },
+  "products": [
+    {
+      "sku": "01810-1G",
+      "slug": "cycloheximide-sigma-aldrich-1g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Cycloheximide",
+      "description_fr": "La cycloheximide est un antibiotique produit par une espèce de Streptomyces, dont l'activité principale consiste à bloquer la traduction chez les eucaryotes en se fixant sur le ribosome 80S, ce qui provoque un arrêt de croissance puis la mort cellulaire. Ce mécanisme en fait un outil de choix pour sélectionner des souches de levures et de champignons résistantes, pour inhiber de façon contrôlée la synthèse protéique afin de détecter des protéines à courte durée de vie, pour sur-induire l'expression de protéines, ou encore pour déclencher ou faciliter l'apoptose via les récepteurs de mort cellulaire. Des travaux ont également montré sa capacité à éliminer sélectivement les macrophages présents dans les plaques d'athérosclérose, à activer des ovocytes équins dépourvus de cumulus, et à exercer des effets neuroprotecteurs. Le produit doit être conservé dans un contenant hermétiquement fermé, au sec et dans un local bien ventilé.",
+      "variant_name_fr": "1 g",
+      "price_gbp": 121.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/316/191/cf4f98b9-20b5-407e-84e7-ac8399dde9c8/640/cf4f98b9-20b5-407e-84e7-ac8399dde9c8",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001C",
+        "Mécanisme d'action": "Inhibition de la traduction eucaryote par fixation au ribosome 80S",
+        "Origine": "Antibiotique produit par Streptomyces sp.",
+        "Formats disponibles": "1 g, 5 g",
+        "Conditions de stockage": "Contenant fermé hermétiquement, endroit sec et bien ventilé"
+      }
+    },
+    {
+      "sku": "44583-1MG",
+      "slug": "doxorubicine-chlorhydrate-sigma-aldrich-hplc-1mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Doxorubicine chlorhydrate, qualité HPLC, convient pour la fluorescence, 98,0-102,0 % (HPLC)",
+      "description_fr": "La doxorubicine chlorhydrate est un antibiotique antitumoral qui s'intercale dans l'ADN et inhibe la biosynthèse macromoléculaire ; le blocage de la topoisomérase II qui en résulte arrête la réplication de l'ADN. Cette molécule agit également comme inhibiteur de la transcriptase inverse et de l'ARN polymérase, et possède des propriétés immunosuppressives. Elle est couramment utilisée pour induire l'apoptose et pour provoquer une cardiotoxicité expérimentale, par exemple sur des cellules SK-N-MC, ainsi que pour étudier l'inhibition de la biosynthèse macromoléculaire. Le produit se présente en flacon de verre à fond amovible (le contenu est inséré dans un cône fusionné) et doit être conservé dans un contenant hermétiquement fermé, au sec et dans un local bien ventilé.",
+      "variant_name_fr": "1 mg, flacon de verre",
+      "price_gbp": 77.64,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/852/527/16d4690d-7931-4e23-af40-1ecc08b4b456/640/16d4690d-7931-4e23-af40-1ecc08b4b456",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Pureté (HPLC)": "98,0-102,0 %",
+        "Mécanisme d'action": "Intercalation de l'ADN, inhibition de la topoisomérase II, de la transcriptase inverse et de l'ARN polymérase",
+        "Formats disponibles": "1, 10 ou 50 mg en flacon de verre",
+        "Conditions de stockage": "Contenant fermé hermétiquement, endroit sec et bien ventilé"
+      }
+    },
+    {
+      "sku": "60615-5G",
+      "slug": "kanamycine-sulfate-sigma-aldrich-5g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Kanamycine sulfate, mélange de kanamycine A (composant principal), B et C",
+      "description_fr": "La kanamycine sulfate est un antibiotique aminoglycoside à large spectre extrait de Streptomyces kanamyceticus. Elle agit en se liant à la sous-unité ribosomale 70S, ce qui bloque la translocation et provoque des erreurs de lecture du code génétique ; sa résistance repose sur des enzymes modificatrices d'aminoglycosides (acétyltransférase, phosphotransférase, nucléotidyltransférase) qui altèrent la molécule. Efficace contre les bactéries à Gram négatif et à Gram positif ainsi que contre les mycoplasmes, elle est notamment utilisée comme additif de milieux de culture pour l'isolement des streptocoques du groupe D et comme agent de sélection des cellules végétales transformées porteuses du gène de résistance à la néomycine phosphotransférase, généralement à 100 µg/mL en culture cellulaire. Les solutions aqueuses sont stables environ 5 jours à 37 °C et peuvent être conservées à 2-8 °C pour un usage prolongé ; le produit est soluble dans l'eau à 50 mg/mL et pratiquement insoluble dans l'alcool, l'acétone, le chloroforme, l'éther et l'acétate d'éthyle.",
+      "variant_name_fr": "5 g",
+      "price_gbp": 163.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/451/621/60233300-a5e4-4195-9787-f09ea41c741e/640/60233300-a5e4-4195-9787-f09ea41c741e",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Famille chimique": "Aminoglycoside",
+        "Mécanisme d'action": "Fixation à la sous-unité ribosomale 70S, inhibition de la translocation",
+        "Solubilité": "50 mg/mL dans l'eau ; pratiquement insoluble dans l'alcool, l'acétone, le chloroforme, l'éther et l'acétate d'éthyle",
+        "Formats disponibles": "5 g, 25 g",
+        "Classe de stockage (TRGS 510)": "Non combustible, toxique aigu catégorie 3",
+        "Conditions de stockage": "Contenant fermé hermétiquement, endroit sec et bien ventilé"
+      }
+    },
+    {
+      "sku": "61-234-RG",
+      "slug": "g418-sulfate-corning-poudre-5g",
+      "brand": "CORNING",
+      "name_fr": "G418 sulfate, poudre",
+      "description_fr": "Le G418 sulfate (généticine) est un antibiotique aminoglycoside structurellement proche de la gentamicine, de la néomycine et de la kanamycine, utilisé comme agent de sélection en biologie cellulaire à une concentration de 100 à 800 µg/mL. Il bloque la synthèse des polypeptides en empêchant l'élongation de la chaîne protéique, ce qui permet de sélectionner et de maintenir des lignées de cellules eucaryotes transfectées de manière stable avec le gène de résistance à la néomycine. Il est actif contre les bactéries à Gram négatif et certaines bactéries à Gram positif.",
+      "variant_name_fr": "5 g, poudre",
+      "price_gbp": 478.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/61-234-RG_4",
+      "specs_fr": {
+        "Référence fournisseur": "COR008A",
+        "Famille chimique": "Aminoglycoside (proche gentamicine, néomycine, kanamycine)",
+        "Mécanisme d'action": "Blocage de l'élongation de la chaîne polypeptidique",
+        "Usage type": "Agent de sélection des cellules transfectées (gène de résistance à la néomycine)",
+        "Concentration recommandée": "100 à 800 µg/mL",
+        "Forme": "Poudre"
+      }
+    },
+    {
+      "sku": "A0166-5G",
+      "slug": "ampicilline-sel-sodium-sigma-aldrich-bioreagent-5g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Ampicilline, sel de sodium, poudre, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "L'ampicilline est un dérivé semi-synthétique de la pénicilline appartenant à la famille des bêta-lactamines à large spectre. Elle inhibe la synthèse de la paroi bactérienne en inactivant les transpeptidases situées sur la face interne de la membrane cellulaire bactérienne, avec un spectre couvrant les bactéries à Gram positif (proche de la benzylpénicilline) et à Gram négatif (proche des tétracyclines et du chloramphénicol) ; la résistance survient lorsqu'une bêta-lactamase clive le cycle bêta-lactame de la molécule. Elle est utilisée en milieu de culture cellulaire à 100 mg/L pour l'usage antibactérien général, et à 20-125 µg/mL dans les études de résistance à l'ampicilline, ainsi que pour étudier la synergie entre antibiotiques ou développer des tests PCR de détection de gènes de résistance. Sa stabilité en solution dépend fortement du pH, de la température et du tampon utilisé : l'activité chute rapidement au-dessus de pH 7, tandis qu'une conservation à 2-8 °C et pH 3,8-5 permet de conserver plus de 90 % d'activité pendant une semaine. Faiblement soluble dans l'eau et pratiquement insoluble dans l'alcool, le chloroforme, l'éther et les huiles fixes, elle est soluble en milieu acide ou basique dilué ; une solution stock doit être stérilisée par filtration puis conservée congelée.",
+      "variant_name_fr": "5 g, poudre",
+      "price_gbp": 141.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/413/970/663a897a-20fd-4279-81f7-f30f87e5a34b/640/663a897a-20fd-4279-81f7-f30f87e5a34b",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Famille chimique": "Bêta-lactame (dérivé de la pénicilline)",
+        "Mécanisme d'action": "Inhibition de la synthèse de la paroi bactérienne (transpeptidases)",
+        "Concentration recommandée culture cellulaire": "100 mg/L",
+        "Concentration recommandée études de résistance": "20-125 µg/mL",
+        "Conditions de stockage optimales": "2-8 °C, pH 3,8-5",
+        "Formats disponibles": "5 g, 25 g, 100 g",
+        "Solubilité": "Faiblement soluble dans l'eau ; soluble en milieu acide ou basique dilué"
+      }
+    },
+    {
+      "sku": "A2942-100ML",
+      "slug": "amphotericine-b-solution-sigma-aldrich-100ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Amphotéricine B, solution à 250 µg/mL dans l'eau désionisée, stérilisée par filtration, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "L'amphotéricine B est un antibiotique antifongique polyénique produit par une espèce de Streptomyces, utilisé en clinique pour traiter les infections fongiques systémiques. Elle possède une forte affinité pour les stérols membranaires, en particulier l'ergostérol des membranes fongiques et bactériennes, et forme des canaux transmembranaires qui provoquent la fuite de petites molécules hors de la cellule, ce qui explique son efficacité contre les champignons et les levures. Cette solution, formulée à 250 µg/mL dans l'eau désionisée et solubilisée à l'aide de désoxycholate de sodium, de chlorure de sodium et de phosphate de sodium, est couramment ajoutée aux milieux de culture cellulaire à raison de 2,5 mg/L, généralement en association avec la pénicilline et la streptomycine, pour prévenir les contaminations fongiques. Elle reste active environ 3 jours en culture à 37 °C. Sensible à la lumière, le produit doit être conservé dans un contenant hermétiquement fermé et à l'abri de la lumière ; la formation d'un précipité en solution aqueuse est normale et se redissout généralement par agitation.",
+      "variant_name_fr": "100 mL",
+      "price_gbp": 88.32,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/140/115/a0c927b2-145e-4d58-8265-4ecdb3f66477/640/a0c927b2-145e-4d58-8265-4ecdb3f66477",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Famille chimique": "Antibiotique antifongique polyénique",
+        "Concentration": "250 µg/mL dans l'eau désionisée",
+        "Mécanisme d'action": "Formation de canaux transmembranaires par fixation aux stérols membranaires",
+        "Excipients": "Désoxycholate de sodium, chlorure de sodium, phosphate de sodium",
+        "Usage recommandé": "2,5 mg/L en supplément de milieu de culture cellulaire",
+        "Sensibilité": "Photosensible",
+        "Formats disponibles": "20, 50, 100 mL"
+      }
+    },
+    {
+      "sku": "A2942-20ML",
+      "slug": "amphotericine-b-solution-sigma-aldrich-20ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Amphotéricine B, solution à 250 µg/mL dans l'eau désionisée, stérilisée par filtration, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "L'amphotéricine B est un antibiotique antifongique polyénique produit par une espèce de Streptomyces, utilisé en clinique pour traiter les infections fongiques systémiques. Elle possède une forte affinité pour les stérols membranaires, en particulier l'ergostérol des membranes fongiques et bactériennes, et forme des canaux transmembranaires qui provoquent la fuite de petites molécules hors de la cellule, ce qui explique son efficacité contre les champignons et les levures. Cette solution, formulée à 250 µg/mL dans l'eau désionisée et solubilisée à l'aide de désoxycholate de sodium, de chlorure de sodium et de phosphate de sodium, est couramment ajoutée aux milieux de culture cellulaire à raison de 2,5 mg/L, généralement en association avec la pénicilline et la streptomycine, pour prévenir les contaminations fongiques. Le format compact de 20 mL convient aux usages ponctuels ou aux laboratoires à faible volume de consommation. Sensible à la lumière, le produit doit être conservé dans un contenant hermétiquement fermé et à l'abri de la lumière.",
+      "variant_name_fr": "20 mL",
+      "price_gbp": 22.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/140/115/a0c927b2-145e-4d58-8265-4ecdb3f66477/640/a0c927b2-145e-4d58-8265-4ecdb3f66477",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Famille chimique": "Antibiotique antifongique polyénique",
+        "Concentration": "250 µg/mL dans l'eau désionisée",
+        "Mécanisme d'action": "Formation de canaux transmembranaires par fixation aux stérols membranaires",
+        "Excipients": "Désoxycholate de sodium, chlorure de sodium, phosphate de sodium",
+        "Usage recommandé": "2,5 mg/L en supplément de milieu de culture cellulaire",
+        "Sensibilité": "Photosensible",
+        "Formats disponibles": "20, 50, 100 mL"
+      }
+    },
+    {
+      "sku": "A2942-50ML",
+      "slug": "amphotericine-b-solution-sigma-aldrich-50ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Amphotéricine B, solution à 250 µg/mL dans l'eau désionisée, stérilisée par filtration, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "L'amphotéricine B est un antibiotique antifongique polyénique produit par une espèce de Streptomyces, utilisé en clinique pour traiter les infections fongiques systémiques. Elle possède une forte affinité pour les stérols membranaires, en particulier l'ergostérol des membranes fongiques et bactériennes, et forme des canaux transmembranaires qui provoquent la fuite de petites molécules hors de la cellule, ce qui explique son efficacité contre les champignons et les levures. Cette solution, formulée à 250 µg/mL dans l'eau désionisée et solubilisée à l'aide de désoxycholate de sodium, de chlorure de sodium et de phosphate de sodium, est couramment ajoutée aux milieux de culture cellulaire à raison de 2,5 mg/L, généralement en association avec la pénicilline et la streptomycine, pour prévenir les contaminations fongiques. Le format intermédiaire de 50 mL offre un bon compromis entre autonomie et coût pour les laboratoires à usage régulier. Sensible à la lumière, le produit doit être conservé dans un contenant hermétiquement fermé et à l'abri de la lumière.",
+      "variant_name_fr": "50 mL",
+      "price_gbp": 51.48,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/140/115/a0c927b2-145e-4d58-8265-4ecdb3f66477/640/a0c927b2-145e-4d58-8265-4ecdb3f66477",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Famille chimique": "Antibiotique antifongique polyénique",
+        "Concentration": "250 µg/mL dans l'eau désionisée",
+        "Mécanisme d'action": "Formation de canaux transmembranaires par fixation aux stérols membranaires",
+        "Excipients": "Désoxycholate de sodium, chlorure de sodium, phosphate de sodium",
+        "Usage recommandé": "2,5 mg/L en supplément de milieu de culture cellulaire",
+        "Sensibilité": "Photosensible",
+        "Formats disponibles": "20, 50, 100 mL"
+      }
+    },
+    {
+      "sku": "A5955-100ML",
+      "slug": "solution-antibiotique-antimycotique-100x-sigma-aldrich-100ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Solution antibiotique-antimycotique (100x), stabilisée, avec 10 000 unités de pénicilline, 10 mg de streptomycine et 25 µg d'amphotéricine B par mL, stérilisée par filtration, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "Cette solution combinée 100x associe 10 000 unités de pénicilline, 10 mg de streptomycine et 25 µg d'amphotéricine B par mL, solubilisés dans un tampon citrate propriétaire, et couvre un large spectre incluant les bactéries à Gram négatif, les bactéries à Gram positif, les champignons et les levures. La pénicilline agit en inhibant la synthèse de la paroi cellulaire bactérienne, la streptomycine bloque la synthèse protéique procaryote en empêchant la transition du complexe d'initiation vers le ribosome en cours d'élongation et provoque des erreurs de lecture du code génétique, tandis que l'amphotéricine B perturbe la perméabilité membranaire fongique en formant des canaux qui entraînent la fuite de petites molécules. Employée comme supplément standard dans de nombreux milieux de culture cellulaire, elle s'utilise à raison de 10 mL par litre de milieu.",
+      "variant_name_fr": "100 mL",
+      "price_gbp": 58.08,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/181/246/c6d62d7e-1463-4d33-a959-0895cf698385/640/c6d62d7e-1463-4d33-a959-0895cf698385",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "10 000 U/mL pénicilline, 10 mg/mL streptomycine, 25 µg/mL amphotéricine B",
+        "Concentration": "Solution 100x, tampon citrate",
+        "Usage recommandé": "10 mL par litre de milieu de culture",
+        "Spectre d'action": "Bactéries Gram négatif et Gram positif, champignons, levures",
+        "Formats disponibles": "20, 100 mL"
+      }
+    },
+    {
+      "sku": "A5955-20ML",
+      "slug": "solution-antibiotique-antimycotique-100x-sigma-aldrich-20ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Solution antibiotique-antimycotique (100x), stabilisée, avec 10 000 unités de pénicilline, 10 mg de streptomycine et 25 µg d'amphotéricine B par mL, stérilisée par filtration, qualité BioReagent, adaptée à la culture cellulaire",
+      "description_fr": "Cette solution combinée 100x associe 10 000 unités de pénicilline, 10 mg de streptomycine et 25 µg d'amphotéricine B par mL, solubilisés dans un tampon citrate propriétaire, et couvre un large spectre incluant les bactéries à Gram négatif, les bactéries à Gram positif, les champignons et les levures. La pénicilline agit en inhibant la synthèse de la paroi cellulaire bactérienne, la streptomycine bloque la synthèse protéique procaryote en empêchant la transition du complexe d'initiation vers le ribosome en cours d'élongation et provoque des erreurs de lecture du code génétique, tandis que l'amphotéricine B perturbe la perméabilité membranaire fongique en formant des canaux qui entraînent la fuite de petites molécules. Employée comme supplément standard dans de nombreux milieux de culture cellulaire, elle s'utilise à raison de 10 mL par litre de milieu ; ce format de 20 mL convient aux laboratoires à faible volume d'utilisation.",
+      "variant_name_fr": "20 mL",
+      "price_gbp": 26.28,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/181/246/c6d62d7e-1463-4d33-a959-0895cf698385/640/c6d62d7e-1463-4d33-a959-0895cf698385",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "10 000 U/mL pénicilline, 10 mg/mL streptomycine, 25 µg/mL amphotéricine B",
+        "Concentration": "Solution 100x, tampon citrate",
+        "Usage recommandé": "10 mL par litre de milieu de culture",
+        "Spectre d'action": "Bactéries Gram négatif et Gram positif, champignons, levures",
+        "Formats disponibles": "20, 100 mL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "category": {
+    "slug": "mass-spectrometry-supplies",
+    "parent_slug": "equipements",
+    "name": { "fr": "Consommables pour spectrométrie de masse" },
+    "description": {
+      "fr": "Réactifs de marquage, étalons peptidiques et protéiques MALDI-MS, matrices d'ionisation et enzymes de digestion pour la protéomique et la spectrométrie de masse — calibration d'instruments, préparation d'échantillons et analyses quantitatives."
+    }
+  },
+  "products": [
+    {
+      "sku": "4427700-1KT",
+      "slug": "reactif-marquage-mtraq-delta8-pack-50-unites-sigma-aldrich",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Réactif de marquage mTRAQ Δ8 — pack de 50 unités",
+      "description_fr": "Réactif de marquage isobarique destiné aux workflows de protéomique quantitative par spectrométrie de masse. Ce pack contient un tube de réactif mTRAQ Δ8 totalisant 50 unités, chaque unité permettant de marquer jusqu'à 100 µg de protéine, ce qui en fait un outil pratique pour comparer plusieurs échantillons au sein d'une même analyse MS. Un tampon Multiplex Buffer (référence 4381664) peut être commandé séparément pour compléter le protocole de marquage. Un protocole détaillé et une fiche de référence rapide sont fournis par le fabricant pour guider la mise en œuvre. mTRAQ est une marque déposée d'AB Sciex Pte. Ltd.",
+      "variant_name_fr": "Pack de 50 unités, réactif Δ8",
+      "price_gbp": 3819.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/4427700-1KT",
+      "specs_fr": {
+        "Référence fournisseur": "YOR001D",
+        "Capacité de marquage": "Jusqu'à 100 µg de protéine par unité",
+        "Accessoire recommandé": "Kit tampon Multiplex Buffer (réf. 4381664), vendu séparément"
+      }
+    },
+    {
+      "sku": "A8846-5X1VL",
+      "slug": "etalon-maldi-ms-proteomass-angiotensine-ii-10nmol-supelco",
+      "brand": "SUPELCO",
+      "name_fr": "Étalon MALDI-MS ProteoMass Angiotensine II — flacon 10 nmol",
+      "description_fr": "Étalon peptidique de référence utilisé pour la calibration des instruments MALDI-MS ainsi que comme standard interne dans des analyses LC-MS/MS, notamment pour la caractérisation de la RNase et du domaine NC1 du collagène IV. Il sert également de référence lors de la validation de méthodes d'ionisation-désorption laser infrarouge (IR-LDI). L'angiotensine II est un octapeptide clé de la cascade rénine-angiotensine, présent en forte concentration dans le tissu cardiaque, où il intervient dans la régulation de la fonction cardiovasculaire via les récepteurs qui lui sont associés. Fourni sous forme de flacon prêt à l'emploi contenant 10 nmol de peptide.",
+      "variant_name_fr": "Flacon de 10 nmol",
+      "price_gbp": 354.49,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/118/066/7e5a2ace-1433-405d-8e6f-90726eccfbf0/640/7e5a2ace-1433-405d-8e6f-90726eccfbf0",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Quantité": "10 nmol par flacon",
+        "Usage principal": "Étalon de calibration MALDI-MS et standard de référence LC-MS/MS"
+      }
+    },
+    {
+      "sku": "A8971-5X1VL",
+      "slug": "etalon-maldi-ms-proteomass-apomyoglobine-10nmol-supelco",
+      "brand": "SUPELCO",
+      "name_fr": "Étalon MALDI-MS ProteoMass Apomyoglobine — flacon 10 nmol",
+      "description_fr": "Standard protéique conçu pour la calibration et le contrôle des spectromètres de masse MALDI-TOF, où il est couramment employé comme référence interne lors de l'analyse par désorption-ionisation laser assistée par matrice couplée à un détecteur à temps de vol. Sa masse moléculaire calculée de 16 952,27 Da (M+H+) permet de vérifier la justesse et la linéarité de l'instrument sur la gamme des protéines de taille moyenne. Livré sous forme de flacon unitaire contenant 10 nmol de produit, prêt à intégrer dans un protocole de calibration existant.",
+      "variant_name_fr": "Flacon de 10 nmol",
+      "price_gbp": 335.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/221/200/636adbde-6b20-48d9-9da7-019ab9b3a879/640/636adbde-6b20-48d9-9da7-019ab9b3a879",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Quantité": "10 nmol par flacon",
+        "Masse moléculaire (M+H+)": "16 952,27 Da (calculée)"
+      }
+    },
+    {
+      "sku": "B2059-50MG",
+      "slug": "biotine-polyethyleneoxyde-iodoacetamide-50mg-sigma-aldrich",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Biotine polyéthylèneoxyde iodoacétamide — 50 mg",
+      "description_fr": "Réactif de biotinylation spécifique des thiols, doté d'un espaceur hydrophile de 12 atomes qui améliore la solubilité et l'accessibilité du marquage. Il se couple préférentiellement aux groupements sulfhydryles à un pH compris entre 7,5 et 8,5, ce qui le rend particulièrement adapté au marquage des résidus cystéine dans les applications de protéomique telles que le peptide mapping, l'analyse des phosphopeptides et la spectrométrie de masse. Ce réactif a notamment été utilisé pour mettre en évidence des thiols libres sur la protéine de capside L1 du papillomavirus humain 16, ainsi que pour la biotinylation de protéines destinées à des tests ELISA de compétition et à des expériences de pull-down. Conditionné en flacon de 50 mg.",
+      "variant_name_fr": "Flacon 50 mg",
+      "price_gbp": 354.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/338/186/sigma_b2059_s/sigma_b2059_s_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Conditionnement": "50 mg",
+        "Plage de pH de couplage": "7,5 à 8,5",
+        "Spécificité": "Groupements thiols (sulfhydryles) réduits"
+      }
+    },
+    {
+      "sku": "C8982-10X10MG",
+      "slug": "acide-alpha-cyano-4-hydroxycinnamique-chca-matrice-maldi-sigma-aldrich",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Acide alpha-cyano-4-hydroxycinnamique (CHCA) — matrice pour MALDI-TOF",
+      "description_fr": "Matrice de référence purifiée et qualifiée pour les analyses MALDI-TOF, utilisée aussi bien pour la préparation d'échantillons que pour la calibration d'étalons peptidiques. Le CHCA favorise l'ionisation des protéines et peptides déposés sur la cible, améliorant ainsi la sensibilité et la qualité des spectres obtenus sur les spectromètres à désorption-ionisation laser assistée par matrice. Ce composé entre également dans la composition des kits de calibration ProteoMass MS-CAL1 et MS-CAL3. Le produit est conditionné dans un flacon en verre sans fond, le contenu étant maintenu à l'intérieur d'un cône fusionné inséré, garantissant une manipulation propre et sans contamination croisée.",
+      "variant_name_fr": "Conditionnement 10 x 10 mg",
+      "price_gbp": 372.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/126/679/sigma_c8982_p/sigma_c8982_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Conditionnement": "10 x 10 mg",
+        "Type de flacon": "Flacon en verre sans fond, contenu dans un cône fusionné inséré",
+        "Usage principal": "Matrice d'ionisation pour MALDI-TOF MS"
+      }
+    },
+    {
+      "sku": "I6154-5X1VL",
+      "slug": "etalon-maldi-ms-proteomass-insuline-chaine-b-oxydee-10nmol-supelco",
+      "brand": "SUPELCO",
+      "name_fr": "Étalon MALDI-MS ProteoMass Chaîne B de l'insuline oxydée — flacon 10 nmol",
+      "description_fr": "Étalon peptidique servant à la calibration des instruments MALDI-MS, basé sur la chaîne B oxydée de l'insuline, une hormone qui régule l'absorption cellulaire, l'utilisation et le stockage du glucose, des acides aminés et des acides gras, tout en inhibant la dégradation du glycogène, des protéines et des lipides. La séquence d'acides aminés fournie (Phe-Val-Asn-Gln-His-Leu-Cys(SO3H)-Gly-Ser-His-Leu-Val-Glu-Ala-Leu-Tyr-Leu-Val-Cys(SO3H)-Gly-Glu-Arg-Gly-Phe-Phe-Tyr-Thr-Pro-Lys-Ala) correspond à un substrat connu de la carboxypeptidase Y. Livré en flacon de 10 nmol, cet étalon convient à un usage direct dans les protocoles de calibration existants.",
+      "variant_name_fr": "Flacon de 10 nmol",
+      "price_gbp": 335.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/985/714/6760f354-ebc1-4f1f-9900-0891d08cfd23/640/6760f354-ebc1-4f1f-9900-0891d08cfd23",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Quantité": "10 nmol par flacon",
+        "Séquence d'acides aminés": "Phe-Val-Asn-Gln-His-Leu-Cys(SO3H)-Gly-Ser-His-Leu-Val-Glu-Ala-Leu-Tyr-Leu-Val-Cys(SO3H)-Gly-Glu-Arg-Gly-Phe-Phe-Tyr-Thr-Pro-Lys-Ala"
+      }
+    },
+    {
+      "sku": "MSCAL1-1KT",
+      "slug": "kit-calibration-maldi-ms-proteomass-peptides-proteines-mscal1-supelco",
+      "brand": "SUPELCO",
+      "name_fr": "Kit de calibration MALDI-MS ProteoMass Peptides et Protéines (MSCAL1)",
+      "description_fr": "Kit complet regroupant une sélection de peptides, protéines, matrices et solvants pré-qualifiés, conçu pour calibrer et tester les spectromètres de masse à désorption-ionisation laser assistée par matrice (MALDI), quel que soit le fabricant de l'instrument. Couvrant une plage de masse étendue de 700 à 66 000 Da, ce kit convient particulièrement à l'analyse de mélanges complexes de protéines et de peptides ainsi qu'à l'évaluation d'échantillons inconnus présentant une large distribution de poids moléculaires. Il est utilisé aussi bien pour la calibration de routine que pour le réglage fin et les tests de sensibilité des instruments MALDI. Ce kit a notamment été employé dans des travaux de recherche portant sur l'isolement et la caractérisation de cyclotides cytotoxiques ainsi que sur l'architecture du domaine de la protéine Mcm10.",
+      "variant_name_fr": "Kit complet, plage 700 à 66 000 Da",
+      "price_gbp": 740.66,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/265/214/0797ad9d-04c1-419a-9d3b-63fc108e6c43/640/0797ad9d-04c1-419a-9d3b-63fc108e6c43",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Plage de masse couverte": "700 à 66 000 Da",
+        "Contenu": "Peptides, protéines, matrices et solvants pré-qualifiés",
+        "Usage principal": "Calibration, réglage et test de sensibilité des instruments MALDI"
+      }
+    },
+    {
+      "sku": "MSCAL3-1KT",
+      "slug": "kit-calibration-maldi-ms-proteomass-proteines-mscal3-supelco",
+      "brand": "SUPELCO",
+      "name_fr": "Kit de calibration MALDI-MS ProteoMass Protéines (MSCAL3)",
+      "description_fr": "Kit de calibration spécifiquement configuré pour les études protéiques, réunissant une sélection de protéines, matrices et solvants pré-qualifiés couvrant une plage de masse de 5 à 66 kDa. Ce kit permet de calibrer, régler et tester la sensibilité des spectromètres de masse MALDI de tous fabricants sur la gamme des protéines. Il a été utilisé comme standard de calibration de masse dans des analyses MALDI-TOF, offrant une solution fiable et reproductible pour la validation régulière des instruments dédiés à l'analyse protéique.",
+      "variant_name_fr": "Kit complet, plage 5 à 66 kDa",
+      "price_gbp": 1039.13,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/346/511/bb4d90da-b25a-4cbc-a279-a83e8969bb5d/640/bb4d90da-b25a-4cbc-a279-a83e8969bb5d",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Plage de masse couverte": "5 à 66 kDa",
+        "Contenu": "Protéines, matrices et solvants pré-qualifiés",
+        "Usage principal": "Calibration et test de sensibilité MALDI-TOF pour protéines"
+      }
+    },
+    {
+      "sku": "MSP1H-1VL",
+      "slug": "etalon-phosphopeptidique-ms-phosphomix-1-heavy-sigma-aldrich",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Étalon phosphopeptidique MS PhosphoMix 1 Heavy",
+      "description_fr": "Mélange de phosphopeptides synthétiques conçu pour évaluer les forces et les faiblesses des workflows de préparation d'échantillons, d'analyse par spectrométrie de masse et de configuration instrumentale dédiés à la phosphoprotéomique. Les séquences qui composent ce mélange sont dérivées de peptides naturellement présents dans des cellules HeLa, ce qui garantit la représentation de motifs de phosphorylation authentiques, notamment ceux riches en proline. La distribution des phosphopeptides a été choisie pour couvrir un large éventail de caractéristiques — ionisabilité, temps de rétention en LC, état de charge et point isoélectrique. Cette version « Heavy » utilise des isotopes stables enrichis, permettant des analyses quantitatives comparatives entre différents workflows ou techniques, en complément des versions « light » et des mélanges PhosphoMix 2 et 3 conçus de façon complémentaire.",
+      "variant_name_fr": "Version isotopique lourde (Heavy)",
+      "price_gbp": 319.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/331/477/1616c1ab-b79d-4683-a778-38247d2935d7/640/1616c1ab-b79d-4683-a778-38247d2935d7",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Type": "Version isotopique lourde (Heavy)",
+        "Origine des séquences": "Peptides synthétiques dérivés de séquences naturelles identifiées dans des cellules HeLa",
+        "Usage principal": "Évaluation des workflows de phosphoprotéomique quantitative"
+      }
+    },
+    {
+      "sku": "P3303-1VL",
+      "slug": "endoproteinase-asp-n-pseudomonas-fragi-poudre-lyophilisee-sigma-aldrich",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Endoprotéinase Asp-N (souche mutante de Pseudomonas fragi) — poudre lyophilisée, qualité séquençage",
+      "description_fr": "Endoprotéase métallique obtenue à partir d'une souche mutante de Pseudomonas fragi, utilisée pour la digestion ciblée de protéines en vue de la préparation de peptides destinés à une analyse par spectrométrie de masse. L'enzyme hydrolyse spécifiquement les liaisons peptidiques du côté N-terminal des résidus d'acide aspartique et d'acide cystéique, ce qui en fait un outil de choix en protéomique pour le peptide mapping et le séquençage de protéines grâce à la haute spécificité de son clivage. Fournie sous forme de poudre lyophilisée adaptée au séquençage protéique, elle complète efficacement les enzymes de digestion à spécificité différente déjà utilisées en laboratoire.",
+      "variant_name_fr": "Poudre lyophilisée, qualité séquençage",
+      "price_gbp": 248.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/147/662/a935c095-62de-41ed-a6e6-f6d786f667f6/640/a935c095-62de-41ed-a6e6-f6d786f667f6",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Forme": "Poudre lyophilisée",
+        "Spécificité de clivage": "Côté N-terminal des résidus d'acide aspartique et cystéique",
+        "Usage principal": "Digestion de protéines pour peptide mapping et séquençage par MS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "category": {
+    "slug": "turbidity-meters",
+    "parent_slug": "equipements",
+    "name": { "fr": "Turbidimètres" },
+    "description": {
+      "fr": "Turbidimètres et densitomètres portables ou de paillasse pour le contrôle de la turbidité de l'eau potable, des eaux usées et des suspensions cellulaires. Mesures en NTU, FTU ou unités McFarland, calibration simplifiée et conformité aux normes ISO 7027 et EPA Method 180.1."
+    }
+  },
+  "products": [
+    {
+      "sku": "AQ3010",
+      "slug": "turbidimetre-thermo-scientific-orion-aquafast-ir-led-aq3010",
+      "brand": "Thermo Scientific",
+      "name_fr": "Turbidimètre portable Thermo Scientific Orion AQUAfast IR LED — kit complet",
+      "description_fr": "Turbidimètre portable à diode infrarouge conçu pour l'analyse de la turbidité des eaux et eaux usées, sur site comme en laboratoire. Boîtier robuste et étanche, méthodes préprogrammées et calibration simplifiée en font un instrument fiable pour le contrôle qualité de l'eau potable, des eaux de rivière ou des eaux usées. L'interface conviviale facilite la prise de mesure et la lecture des résultats, tandis que des tests de vérification des performances garantissent une précision constante dans le temps. Compatible avec plusieurs types de réactifs et conforme aux exigences réglementaires en vigueur dans de nombreux secteurs.",
+      "variant_name_fr": "Kit complet, source IR LED",
+      "price_gbp": 1336.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/AQ3010",
+      "specs_fr": {
+        "Référence fournisseur": "ILIF001",
+        "Source lumineuse": "LED infrarouge (IR)",
+        "Portabilité": "Appareil portable, boîtier étanche"
+      }
+    },
+    {
+      "sku": "AQ4500",
+      "slug": "turbidimetre-thermo-scientific-orion-aquafast-ir-lumiere-blanche-aq4500",
+      "brand": "Thermo Scientific",
+      "name_fr": "Turbidimètre portable Thermo Scientific Orion AQUAfast IR et lumière blanche LED — kit complet",
+      "description_fr": "Turbidimètre portable combinant une source infrarouge et une source à lumière blanche LED, pour une couverture élargie des applications d'analyse de l'eau et des eaux usées. Boîtier robuste et étanche pensé pour un usage terrain comme en laboratoire, avec méthodes préprogrammées et calibration simplifiée en un point. La double source lumineuse permet d'adapter la mesure au type d'échantillon et d'obtenir des résultats fiables sur une plus large gamme de matrices. Interface conviviale, tests de vérification des performances intégrés et compatibilité avec plusieurs réactifs pour répondre aux exigences réglementaires de nombreux secteurs.",
+      "variant_name_fr": "Kit complet, double source IR + lumière blanche",
+      "price_gbp": 2198.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/AQ4500",
+      "specs_fr": {
+        "Référence fournisseur": "ILIF001",
+        "Source lumineuse": "LED infrarouge + lumière blanche",
+        "Portabilité": "Appareil portable, boîtier étanche"
+      }
+    },
+    {
+      "sku": "DEN1",
+      "slug": "densitometre-grant-bio-den-1-mcfarland",
+      "brand": "Grant-Bio",
+      "name_fr": "Densitomètre de paillasse Grant-Bio DEN-1 — mesure en unités McFarland",
+      "description_fr": "Densitomètre compact de paillasse dédié à la mesure de la turbidité des suspensions cellulaires, calibré en usine sur une échelle de 0,00 à plus de 15,00 unités McFarland. La lecture s'effectue en une seconde avec une précision de ±3 %, affichée clairement sur un écran LED lumineux. L'appareil conserve son étalonnage même hors tension et peut être recalibré par l'utilisateur à l'aide d'étalons du commerce ou de suspensions cellulaires préparées au laboratoire. Conçu pour des tubes de 18 mm de diamètre extérieur, il accepte également les tubes de 16 mm (adaptateur D-16 fourni) et 12 mm (adaptateur A-12 en option). Son format extrêmement compact et sa faible hauteur en font un instrument idéal pour les paillasses les plus exiguës.",
+      "variant_name_fr": "Standard, alimentation secteur",
+      "price_gbp": 745.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1",
+      "specs_fr": {
+        "Référence fournisseur": "GRA001",
+        "Plage de mesure": "0,00 à >15,00 unités McFarland",
+        "Temps de mesure": "1 seconde",
+        "Précision": "±3 %",
+        "Diamètre de tube": "18 mm (adaptateurs 16 mm et 12 mm disponibles)"
+      }
+    },
+    {
+      "sku": "DEN1-B",
+      "slug": "densitometre-grant-bio-den-1b-mcfarland-piles",
+      "brand": "Grant-Bio",
+      "name_fr": "Densitomètre de paillasse Grant-Bio DEN-1B — sur piles, mesure en unités McFarland",
+      "description_fr": "Version alimentée par piles du densitomètre de paillasse Grant-Bio, dédiée à la mesure de la turbidité des suspensions cellulaires, calibrée en usine de 0,00 à plus de 15,00 unités McFarland. Lecture en une seconde avec une précision de ±3 %, affichée sur écran LED lumineux. L'étalonnage est conservé même hors tension et peut être ajusté par l'utilisateur avec des standards du commerce ou des suspensions préparées au laboratoire. Compatible avec des tubes de 18 mm de diamètre (adaptateurs 16 mm et 12 mm disponibles). Fonctionne sur 3 piles AA ou sur alimentation externe, pour une utilisation mobile ou sur paillasse fixe, dans un format très compact.",
+      "variant_name_fr": "Version sur piles (3 x AA) ou secteur",
+      "price_gbp": 942.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/DEN1-B",
+      "specs_fr": {
+        "Référence fournisseur": "IKIS001",
+        "Plage de mesure": "0,00 à >15,00 unités McFarland",
+        "Temps de mesure": "1 seconde",
+        "Précision": "±3 %",
+        "Alimentation": "3 piles AA ou alimentation externe"
+      }
+    },
+    {
+      "sku": "WAT1550",
+      "slug": "turbidimetre-portable-hanna-hi-93703c-kit",
+      "brand": "Hanna Instruments",
+      "name_fr": "Turbidimètre portable Hanna Instruments HI-93703C — kit complet de calibration",
+      "description_fr": "Turbidimètre portable à microprocesseur offrant une précision de niveau laboratoire, aussi bien sur le terrain qu'en usine. Boîtier résistant à l'eau et à la poussière, clavier caoutchouté et écran LCD encastré pour une utilisation robuste en conditions difficiles. La calibration s'effectue en trois points seulement, et la large plage de mesure de 0,00 à 1000 FTU couvre aussi bien l'eau potable que les eaux usées, rivières, canaux ou forages. Livré en coffret complet avec deux cuvettes à bouchon, des solutions étalons AMCO-AEPA-1 à 0, 10 et 500 FTU, un chiffon de nettoyage, une mallette de transport robuste, les piles et la notice d'utilisation.",
+      "variant_name_fr": "Kit complet avec solutions de calibration",
+      "price_gbp": 1567.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT1550",
+      "specs_fr": {
+        "Référence fournisseur": "HAN002",
+        "Plage de mesure": "0,00 à 1000 FTU",
+        "Calibration": "3 points",
+        "Boîtier": "Résistant à l'eau et à la poussière",
+        "Contenu du kit": "Turbidimètre HI-93703, 2 cuvettes, solutions étalons 0/10/500 FTU, mallette, piles"
+      }
+    },
+    {
+      "sku": "WAT2118",
+      "slug": "turbidimetre-benchtop-lovibond-tb-300-ir-sans-pile",
+      "brand": "Lovibond",
+      "name_fr": "Turbidimètre de paillasse portable Lovibond TB 300 IR — sans pile",
+      "description_fr": "Turbidimètre de paillasse à source infrarouge conforme à la norme EN ISO 7027, mesurant la lumière diffusée à un angle de 90°. La détection automatique de la plage de mesure (Autorange) permet une lecture directe de la turbidité de 0,01 à 1100 NTU, avec une précision de ±2 % jusqu'à 500 NTU puis ±5 % au-delà. La source infrarouge autorise la mesure d'échantillons aussi bien colorés qu'incolores. Grand écran graphique disponible en plusieurs langues et instructions d'utilisation conviviales pour une prise en main rapide. Livré en mallette de transport avec un jeu d'étalons T-CAL, un câble de connexion PC, des flacons avec bouchons et la documentation — cette version est fournie sans pile.",
+      "variant_name_fr": "Version sans pile",
+      "price_gbp": 2559.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2116",
+      "specs_fr": {
+        "Référence fournisseur": "TIN001",
+        "Norme": "EN ISO 7027 (diffusion à 90°)",
+        "Plage de mesure": "0,01 à 1100 NTU",
+        "Précision": "±2 % jusqu'à 500 NTU, ±5 % au-delà",
+        "Source lumineuse": "Infrarouge"
+      }
+    },
+    {
+      "sku": "WAT2216",
+      "slug": "turbidimetre-portable-lovibond-tb-350-ir-blac",
+      "brand": "Lovibond",
+      "name_fr": "Turbidimètre portable Lovibond TB 350 IR — capteur Multipath 90° BLAC",
+      "description_fr": "Turbidimètre haut de gamme conçu pour le terrain comme pour le laboratoire, offrant une précision constante sur l'ensemble de sa plage de mesure grâce au capteur Multipath 90° BLAC à double détecteur, qui limite les dérives de mesure liées à l'instabilité optique. L'écran tactile couleur intuitif guide l'utilisateur à travers des procédures animées et propose trois modes de lecture : simple, moyennage du signal et stabilisation rapide. La fonction d'enregistrement de données permet de conserver le lieu, l'opérateur, la date et l'heure de chaque mesure, avec export possible vers un ordinateur via USB. Conforme à la norme ISO 7027, sa plage de mesure s'étend de 0,01 à 4000 NTU. Livré en mallette avec cuvettes d'échantillon, huile de silicone et étalons de calibration T-CAL prêts à l'emploi.",
+      "variant_name_fr": "Conforme ISO 7027",
+      "price_gbp": 3212.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2216",
+      "specs_fr": {
+        "Référence fournisseur": "TIN001",
+        "Capteur": "Multipath 90° BLAC, double détecteur",
+        "Plage de mesure": "0,01 à 4000 NTU",
+        "Conformité": "ISO 7027",
+        "Modes de lecture": "Simple, moyennage du signal, stabilisation rapide",
+        "Interface": "Écran tactile couleur, export USB"
+      }
+    },
+    {
+      "sku": "WAT2218",
+      "slug": "turbidimetre-portable-lovibond-tb-350-wl-blac",
+      "brand": "Lovibond",
+      "name_fr": "Turbidimètre portable Lovibond TB 350 WL — capteur Multipath 90° BLAC, conforme US EPA",
+      "description_fr": "Version à source lumière blanche du turbidimètre Lovibond TB 350, conçue pour le terrain comme pour le laboratoire et conforme aux exigences de l'US EPA. Le capteur Multipath 90° BLAC à double détecteur assure une précision constante sur l'ensemble de la plage de mesure en limitant les dérives liées à l'instabilité optique. L'écran tactile couleur guide l'utilisateur à travers des procédures animées, avec trois modes de lecture disponibles : simple, moyennage du signal et stabilisation rapide. L'enregistrement de données conserve le lieu, l'opérateur, la date et l'heure de chaque mesure, exportables via USB. Plage de mesure de 0,01 à 4000 NTU. Livré en mallette avec cuvettes d'échantillon, huile de silicone et étalons de calibration T-CAL prêts à l'emploi.",
+      "variant_name_fr": "Conforme US EPA, source lumière blanche",
+      "price_gbp": 3212.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2218",
+      "specs_fr": {
+        "Référence fournisseur": "TIN001",
+        "Capteur": "Multipath 90° BLAC, double détecteur",
+        "Plage de mesure": "0,01 à 4000 NTU",
+        "Conformité": "US EPA",
+        "Modes de lecture": "Simple, moyennage du signal, stabilisation rapide",
+        "Interface": "Écran tactile couleur, export USB"
+      }
+    },
+    {
+      "sku": "WAT2236",
+      "slug": "turbidimetre-portable-lovibond-tb-211-ir",
+      "brand": "Lovibond",
+      "name_fr": "Turbidimètre compact Lovibond TB 211 IR",
+      "description_fr": "Turbidimètre infrarouge compact conçu pour des analyses rapides et précises sur site, mesurant la lumière diffusée à 90° conformément à la norme EN ISO 7027. Sa large plage de mesure, de 0,01 à 1100 NTU avec une limite de détection de 0,01 NTU, permet de couvrir aussi bien le contrôle de l'eau potable que celui des eaux usées. La source infrarouge autorise la mesure d'échantillons colorés comme incolores. L'interface USB intégrée permet un transfert direct des résultats vers un ordinateur, câble fourni. Livré en mallette de transport avec quatre étalons de turbidité (0, 1, 20, 200 et 800 NTU), une pile 9V, deux flacons avec bouchons et un câble USB de 1,5 m.",
+      "variant_name_fr": "Kit complet avec étalons",
+      "price_gbp": 1266.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2236",
+      "specs_fr": {
+        "Référence fournisseur": "TIN001",
+        "Norme": "EN ISO 7027 (diffusion à 90°)",
+        "Plage de mesure": "0,01 à 1100 NTU",
+        "Limite de détection": "0,01 NTU",
+        "Interface": "USB"
+      }
+    },
+    {
+      "sku": "WAT3670",
+      "slug": "turbidimetre-laboratoire-hach-tl2300-epa",
+      "brand": "Hach Lange",
+      "name_fr": "Turbidimètre de laboratoire Hach TL2300",
+      "description_fr": "Turbidimètre de paillasse haute performance conçu pour des mesures précises et reproductibles de la turbidité de l'eau, conforme à la méthode EPA 180.1. Équipé d'une lampe au tungstène, il couvre une plage de mesure étendue de 0 à 4000 NTU. La détection automatique de la stabilité de l'échantillon déclenche la lecture au moment optimal, supprimant la subjectivité et la nécessité de répéter les mesures. L'écran tactile couleur et les instructions pas à pas guident l'utilisateur à chaque étape, du calibrage à la mesure, réduisant les risques d'erreur. Port USB pour l'export rapide des données et autodiagnostics intégrés pour un instrument toujours prêt à l'emploi, même en cas de volumes d'échantillons importants. Livré avec huile de silicone, chiffon, kit de filtration USEPA, six cellules d'échantillon de 30 mL avec bouchons, kit d'étalonnage secondaire Gelex, kit StablCal, bloc d'alimentation, cordon secteur et housse de protection.",
+      "variant_name_fr": "Kit de laboratoire complet",
+      "price_gbp": 9900.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT3670",
+      "specs_fr": {
+        "Référence fournisseur": "LAN002",
+        "Plage de mesure": "0 à 4000 NTU",
+        "Conformité": "EPA Method 180.1",
+        "Source lumineuse": "Lampe au tungstène",
+        "Interface": "Écran tactile couleur, export USB",
+        "Contenu du kit": "Cellules d'échantillon, kits Gelex et StablCal, alimentation"
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # Project State
 
 **Status:** Active development — schema designed, migration ready to run
-**Last updated:** 2026-06-21
+**Last updated:** 2026-07-17
 
 ## Stack (locked)
 - **Framework:** Next.js 16.2.9 (App Router, TypeScript, Tailwind v4)
@@ -105,7 +105,24 @@
   - **2 density-meter products deactivated post-import** — `densimetre-vitesse-son-anton-paar-dma-6002-sv` and `capteur-densite-liquide-anton-paar-l-dens-2300` had `price_gbp: "0.00"` in the *source scrape itself* (likely "price on application" items scraped as 0, not a copy-writing error). Set `is_active: false` rather than leave two high-end instruments showing as free. Need real pricing before reactivating.
 - **9 more equipment categories live (2026-07-17, batch 4)** — microtomes, mixers, multichannel-meters, ovens, ph-meters, pipettes, refractometers, refrigeration, rotary-evaporators. 68 products imported cleanly (FR copy already existed in `equipment/data/`, pipeline run: fetch-images → import-category.mjs).
   - **rheometers category imported but fully deactivated** — all 10 products (interchangeable/disposable measuring plates for a rheometer, not full instruments) had `price_gbp: 0` in the source scrape (price-on-application), same issue as density-meters. Ran `app/scripts/deactivate-rheometers.mjs` to set `is_active: false` on all 10. Needs real pricing before reactivating.
-- Next: ~43 categories remain from the 758-product scrape (`research/competitor-scrape/20260716-001332/products.csv`), plus gas-chromatography pending an image fix — repeat pattern per category (write FR copy → `equipment/data/<slug>.json` → fetch-images → import-category.mjs).
+- **Product specifications support added (2026-07-17)** — scraper already captures `specs_raw` (JSON-LD) but pipeline was dropping it; DB/UI had no place to show specs. Added:
+  - `supabase/migrations/004_product_specifications.sql` — `products.specifications jsonb` — **[MANUAL] run this in Supabase dashboard before next import**
+  - `app/src/types/database.ts` — `Product.specifications: Record<string,string> | null`
+  - `app/scripts/import-category.mjs` — reads `p.specs_fr` from `equipment/data/<slug>.json` into `specifications`
+  - `ProductDetailPage.tsx` + `globals.css` — renders "Caractéristiques techniques" table under the description tab when specs exist
+  - Scope decision: forward-only, no backfill of the 43 already-imported categories (~700 products)
+  - **Going forward**: when writing `equipment/data/<slug>.json` for a new category, FR copywriters must also translate `specs_raw` → `specs_fr: {"Clé": "Valeur", ...}` per product (optional field, product still imports fine without it)
+- **First specs-enabled batch live (2026-07-17)** — thermometers + titrators (20 products, all with `specifications` populated and confirmed rendering via `products.select('specifications')`). Added `app/scripts/run-migration.mjs` (via new `pg` devDependency) since no Supabase CLI/psql was available locally to run migration 004 — reusable for future raw-SQL migrations.
+- **11 more equipment categories live (2026-07-17, batch 5)** — hplc, lc-ms, mass-spectrometry-supplies, nmr, osmometers, pumps, sieve-shakers, spectrophotometers, stirrers, turbidity-meters, viscometers. FR copy written by 11 parallel subagents from raw scrape data. 91 products imported, 16 skipped (all Sigma-Aldrich-hosted images: 9 in mass-spectrometry-supplies, 7 in nmr — same api.sigmaaldrich.com timeout blocker as gas-chromatography/colorimeters).
+  - Skipped these low-count remaining categories as not worth standalone pages (1-3 scraped products each): calorimeters, cell-density-meters, dumas-analysers, ion-meters, lplc, polarimeters, power-supply-units, uv-crosslinkers.
+  - `nmr` category is actually stable-isotope reagents for NMR (not instruments) — named "Isotopes stables pour RMN". `osmometers` category is Gonotec Osmomat consumables/accessories, not standalone osmometer units.
+  - **VIS1002 deactivated (2026-07-17)** — Anton Paar Lovis 2001 microviscometer was imported at 0 MAD (price-on-application), ran `app/scripts/deactivate-vis1002.mjs`, confirmed `is_active: false`.
+  - `spectrophotometers` has 2 pairs of same-instrument-different-price listings (promo vs standard) kept as separate SKUs — worth a look before go-live.
+- **17 chemicals categories live (2026-07-17, batch 6)** — biomolecules, bioreagents, antibiotics, antibodies, enzymes, enzyme-inhibitors, enzyme-substrates, amino-acids, nucleotides-nucleosides, proteins-and-peptides, oils-and-greases, biocides, labelling-reagents, cell-solutions, density-gradient-centrifugation-media, microbiology-media, genomic-dna — first chemicals-family import (parent slug `chimie`), FR copy written by 17 parallel subagents from raw scrape data.
+  - **Chemicals scrape data is heavily Sigma-Aldrich sourced — most images blocked by the api.sigmaaldrich.com timeout issue.** Only 67/169 products imported; 5 categories (biomolecules, antibodies, enzyme-inhibitors, enzyme-substrates, amino-acids) imported **0 products** — category row exists in DB but empty, needs an alternate image source to ever populate. Full/near-full coverage: oils-and-greases (10/10), labelling-reagents (10/10), microbiology-media (10/10), genomic-dna (10/10), cell-solutions (10/10), density-gradient-centrifugation-media (7/9).
+  - **cell-solutions deactivated (2026-07-17)** — all 10 products (Charles River immunology antigens, price-on-application) deactivated via `app/scripts/deactivate-cell-solutions.mjs`, confirmed.
+  - Some categories had sparse/null source descriptions — copy was written from general product knowledge (named cell lines, known compounds) rather than rewritten from source text. Worth a light fact-check pass before go-live: `biocides.json` CAS numbers, `genomic-dna.json` cell-line descriptions, `lc-ms.json` specs (from equipment batch 5, same issue).
+- Next: gas-chromatography (equipment, blocked on images) + the 5 empty chemicals categories above both need an alternate image source before they can ever go live — same root blocker (api.sigmaaldrich.com unreachable from this network). Otherwise equipment + this chemicals batch cover the bulk of the scraped catalog (758 products total; ~455 live now across ~53 categories).
 - Known gap: 2 colorimeter products (SKU 1736320001, 1736350001) have FR copy + variant/price data written but were never imported — no image source works (same api.sigmaaldrich.com blocker as gas-chromatography). Either find alternate image or write them off.
 
 ## Blocking / not yet done

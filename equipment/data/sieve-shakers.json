@@ -1,0 +1,143 @@
+{
+  "category": {
+    "slug": "sieve-shakers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Tamiseuses" },
+    "description": {
+      "fr": "Tamiseuses de laboratoire et de chantier pour l'analyse granulométrique par voie sèche ou humide — entraînement électromagnétique ou électrique, minuteries analogiques ou digitales, compatibles tamis 200 à 315 mm."
+    }
+  },
+  "products": [
+    {
+      "sku": "SIE1200",
+      "slug": "tamiseuse-de-paillasse-sv001-8-tamis-200mm",
+      "brand": "Générique",
+      "name_fr": "Tamiseuse de paillasse SV001",
+      "description_fr": "Tamiseuse d'entrée de gamme conçue pour un usage aussi bien en laboratoire que sur chantier. Entraînée par un moteur électrique, elle assure une action de tamisage efficace et régulière. Elle accueille des tamis de 200, 250, 300 et 315 mm de diamètre, ainsi que des formats 8 et 12 pouces, avec une capacité allant jusqu'à huit tamis de 200 mm ou sept tamis de 300 mm empilés. Une minuterie réglable de 0 à 60 minutes permet de contrôler précisément la durée du cycle. Des kits de tamisage humide aux dimensions compatibles peuvent également être utilisés avec cet appareil, ce qui en fait une solution polyvalente pour les analyses granulométriques courantes.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 2386.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE1200_1",
+      "specs_fr": {
+        "Tailles de tamis compatibles": "200, 250, 300, 315 mm ; 8 et 12 pouces",
+        "Capacité": "8 tamis de 200 mm ou 7 tamis de 300 mm",
+        "Minuterie": "0 à 60 minutes",
+        "Dimensions": "350 x 400 x 950 mm",
+        "Poids": "24 kg",
+        "Référence fournisseur": "IMP001"
+      }
+    },
+    {
+      "sku": "SIE1202",
+      "slug": "tamiseuse-heavy-duty-sv005-10-tamis-panneau-digital",
+      "brand": "Générique",
+      "name_fr": "Tamiseuse robuste SV005 — usage intensif",
+      "description_fr": "Cette tamiseuse robuste fait appel à un système d'impulsions électromagnétiques générant un mouvement triple (vertical, latéral et rotatif) pour un tamisage particulièrement efficace. Sa construction simple et solide la destine à un usage continu et intensif en laboratoire ou en production. Le pilotage s'effectue via un panneau de commande séparé garantissant précision, performance et répétabilité des résultats. L'appareil accueille des tamis de 200, 250, 300 et 315 mm ainsi que les formats 8 et 12 pouces, jusqu'à 10 tamis empilés. Le panneau digital intègre une minuterie réglable de 1 à 999 minutes ainsi qu'un contrôle fin de l'intensité de vibration et des temps de pause entre les cycles, un atout appréciable pour le tamisage de matériaux fins. Compatible avec les kits de tamisage humide aux dimensions adaptées.",
+      "variant_name_fr": "Usage intensif, panneau de commande digital",
+      "price_gbp": 2862.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE1202",
+      "specs_fr": {
+        "Tailles de tamis compatibles": "200, 250, 300, 315 mm ; 8 et 12 pouces",
+        "Capacité": "Jusqu'à 10 tamis",
+        "Minuterie": "Digitale, 1 à 999 minutes",
+        "Réglages": "Intensité de vibration et pauses ajustables",
+        "Mode de tamisage": "Sec et humide (avec kit adapté)",
+        "Référence fournisseur": "IMP001"
+      }
+    },
+    {
+      "sku": "SIE3000",
+      "slug": "tamiseuse-retsch-as200-basic",
+      "brand": "RETSCH",
+      "name_fr": "Tamiseuse vibrante RETSCH AS 200 Basic",
+      "description_fr": "La série AS 200 de RETSCH est utilisée en recherche et développement, en contrôle qualité des matières premières et des produits intermédiaires ou finis, ainsi qu'en suivi de production. Son entraînement électromagnétique réglable s'adapte à chaque type de produit et permet d'obtenir des fractions nettes même sur des temps de tamisage courts. Le modèle Basic représente l'alternative économique de la gamme, tout en conservant la qualité et la fiabilité reconnues de RETSCH, avec affichage digital de la performance et du temps. Le mouvement de tamisage tridimensionnel exploite pleinement la surface du tamis et assure une répartition homogène de l'échantillon. L'appareil accepte un empilement de tamis jusqu'à 510 mm de hauteur, tous les paramètres de process (temps, performance) étant librement réglables. Conçu pour un fonctionnement sans entretien et une prise en main ergonomique, il convient aussi bien au tamisage sec qu'humide.",
+      "variant_name_fr": "Modèle Basic",
+      "price_gbp": 3735.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE3000_1",
+      "specs_fr": {
+        "Entraînement": "Électromagnétique, réglable",
+        "Mode de tamisage": "Sec et humide",
+        "Mouvement": "3D — répartition homogène de l'échantillon",
+        "Hauteur d'empilement de tamis": "Jusqu'à 510 mm",
+        "Affichage": "Digital (performance et temps)",
+        "Entretien": "Sans entretien",
+        "Référence fournisseur": "VER004"
+      }
+    },
+    {
+      "sku": "SIE3072",
+      "slug": "tamiseuse-endecotts-minor-200",
+      "brand": "ENDECOTTS",
+      "name_fr": "Tamiseuse Endecotts Minor 200",
+      "description_fr": "Conçue pour allier un coût maîtrisé aux atouts d'un appareil bien conçu et robuste, la Minor 200 reprend de nombreuses caractéristiques habituellement réservées à des modèles plus imposants et plus onéreux, tout en restant compacte et réellement portable. La pile de tamis est maintenue fermement par un système de sangle de serrage, dont le retrait permet de ranger l'ensemble de l'appareil dans un espace de moins de 200 mm de hauteur. Son entraînement électromagnétique garantit un fonctionnement silencieux et pratiquement sans entretien. Elle accepte 8 tamis pleine hauteur ou 16 tamis demi-hauteur de 200 mm / 8 pouces de diamètre, et dispose d'une minuterie analogique de 0 à 60 minutes. Prévue exclusivement pour le tamisage à sec, elle est conforme aux exigences de la norme AASHTO T 27.",
+      "variant_name_fr": "Standard, tamisage à sec",
+      "price_gbp": 1800.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE3072",
+      "specs_fr": {
+        "Entraînement": "Électromagnétique",
+        "Capacité": "8 tamis pleine hauteur ou 16 demi-hauteur, 200 mm / 8 pouces",
+        "Minuterie": "Analogique, 0 à 60 minutes",
+        "Mode de tamisage": "Sec uniquement",
+        "Conformité": "AASHTO T 27",
+        "Encombrement rangé": "Moins de 200 mm de hauteur",
+        "Référence fournisseur": "END001"
+      }
+    },
+    {
+      "sku": "SIE3074",
+      "slug": "tamiseuse-endecotts-octagon-200",
+      "brand": "ENDECOTTS",
+      "name_fr": "Tamiseuse Endecotts Octagon 200",
+      "description_fr": "L'Octagon 200 convient à toutes les tâches de tamisage, en laboratoire comme sur site, et offre une action de tamisage optimale pour des résultats rapides et reproductibles. Robuste, compacte et suffisamment légère pour être transportée facilement, elle combine un entraînement électromagnétique à un mouvement de tamisage tridimensionnel garantissant une excellente efficacité de séparation en peu de temps. Un affichage digital ainsi qu'un système de serrage à déverrouillage rapide rendent son utilisation particulièrement simple. Elle accepte 8 tamis pleine hauteur ou 16 tamis demi-hauteur de 200 mm / 8 pouces, convient aussi bien au tamisage sec qu'humide, et propose 10 réglages d'amplitude combinés à une minuterie digitale. Dépourvue de pièces mécaniques mobiles, elle limite l'usure et les besoins de maintenance.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 3598.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE3074",
+      "specs_fr": {
+        "Entraînement": "Électromagnétique",
+        "Capacité": "8 tamis pleine hauteur ou 16 demi-hauteur, 200 mm / 8 pouces",
+        "Réglages d'amplitude": "10 positions",
+        "Minuterie": "Digitale",
+        "Mode de tamisage": "Sec et humide",
+        "Mouvement": "3D",
+        "Pièces mécaniques mobiles": "Aucune",
+        "Référence fournisseur": "END001"
+      }
+    },
+    {
+      "sku": "SIE3076",
+      "slug": "tamiseuse-endecotts-octagon-200cl-closed-loop",
+      "brand": "ENDECOTTS",
+      "name_fr": "Tamiseuse Endecotts Octagon 200CL",
+      "description_fr": "Destinée aux processus de tamisage exigeant précision, reproductibilité et fiabilité, l'Octagon 200CL rivalise avec les tamiseuses les plus avancées du marché. Elle intègre plusieurs fonctionnalités développées spécifiquement pour ce modèle, dont le contrôle d'amplitude en boucle fermée (« Closed Loop ») qui assure une reproductibilité optimale des résultats d'un cycle à l'autre. Conçue pour fonctionner avec le logiciel SieveWare d'Endecotts, elle facilite l'évaluation et la documentation du processus de tamisage. Elle accepte 8 tamis pleine hauteur ou 16 tamis demi-hauteur de 200 mm / 8 pouces, convient au tamisage sec comme humide, et dispose d'une minuterie digitale de 00:10 à 99:50 minutes. Une compatibilité totale avec le logiciel SieveWare via port RS232 permet l'export de protocoles imprimés ou digitaux. Dépourvue de pièces mécaniques mobiles, elle reste compacte et portable.",
+      "variant_name_fr": "Closed Loop, compatible SieveWare",
+      "price_gbp": 4200.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE3076",
+      "specs_fr": {
+        "Entraînement": "Électromagnétique, contrôle d'amplitude Closed Loop",
+        "Capacité": "8 tamis pleine hauteur ou 16 demi-hauteur, 200 mm / 8 pouces",
+        "Minuterie": "Digitale, 00:10 à 99:50 minutes",
+        "Mode de tamisage": "Sec et humide",
+        "Connectivité": "Port RS232, compatible logiciel SieveWare",
+        "Mouvement": "3D",
+        "Référence fournisseur": "END001"
+      }
+    },
+    {
+      "sku": "SIE3078",
+      "slug": "tamiseuse-endecotts-efl-300",
+      "brand": "ENDECOTTS",
+      "name_fr": "Tamiseuse Endecotts EFL 300",
+      "description_fr": "Extrêmement robuste tout en restant légère et puissante, l'EFL 300 est particulièrement adaptée au tamisage d'échantillons lourds et volumineux. Très polyvalente, elle dispose d'un réglage d'amplitude standard et remplace le moteur électrique classique par le système électromagnétique désormais présent sur les tamiseuses modernes. Sa conception allégée lui permet d'être installée aussi bien au sol que sur paillasse, ce qui la rend adaptée aussi bien aux environnements de laboratoire qu'industriels. Les paramètres de tamisage se règlent via une télécommande aux fonctions simples et intuitives, pour une utilisation économique et sans complexité, en tamisage sec ou humide.",
+      "variant_name_fr": "Standard, montage sol ou paillasse",
+      "price_gbp": 3900.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/SIE3078",
+      "specs_fr": {
+        "Entraînement": "Électromagnétique",
+        "Amplitude": "Réglable",
+        "Installation": "Au sol ou sur paillasse",
+        "Mode de tamisage": "Sec et humide",
+        "Commande": "Télécommande externe",
+        "Référence fournisseur": "END001"
+      }
+    }
+  ]
+}

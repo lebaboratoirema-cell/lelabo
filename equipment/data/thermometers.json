@@ -1,0 +1,177 @@
+{
+  "category": {
+    "slug": "thermometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Thermomètres", "en": "Thermometers" },
+    "description": {
+      "fr": "Thermomètres numériques de laboratoire — sondes intégrées ou déportées, alarmes min/max, certificats de traçabilité NIST, pour bains, incubateurs, réfrigérateurs et process."
+    }
+  },
+  "products": [
+    {
+      "sku": "18004-35",
+      "slug": "thermometre-numerique-traceable-sonde-integree-20cm",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre numérique Traceable — sonde intégrée 20 cm, certificat d'étalonnage",
+      "description_fr": "Thermomètre numérique de précision à réponse rapide : mesure stabilisée à ±1 °C en 2 secondes, actualisation chaque seconde. Boîtier étanche et résistant aux chocs (IP64), idéal pour bains, incubateurs et cuves. Sonde inox à pointe effilée pour gaz, liquides et solides/semi-solides, longueur intégrée de 20 cm. Écran LCD rétroéclairé pivotant à 180°, sélection °C/°F, mémoire min/max. Livré avec certificat d'étalonnage individuel numéroté, traçable NIST via un laboratoire accrédité ISO/IEC 17025.",
+      "variant_name_fr": "Sonde intégrée, 20 cm",
+      "price_gbp": 97.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/18004-35",
+      "specs_fr": {
+        "Plage de température": "-50 à 250 °C",
+        "Précision": "±0,5 °C (-20 à 200 °C), ±1 °C au-delà",
+        "Résolution": "0,1 °C",
+        "Indice de protection": "IP64",
+        "Affichage": "LCD 3,5 chiffres, rotation 180°",
+        "Alimentation": "Pile 3V CR2032"
+      }
+    },
+    {
+      "sku": "18004-36",
+      "slug": "thermometre-numerique-traceable-sonde-deportee-cable-2-7m",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre numérique Traceable — sonde déportée sur câble 2,7 m, certificat d'étalonnage",
+      "description_fr": "Version câblée du thermomètre Traceable : sonde inox de 12,7 cm reliée par un câble de 2,7 m, pratique pour surveiller un bain ou une enceinte sans ouvrir le boîtier de lecture. Mesure stabilisée à ±1 °C en 2 secondes, boîtier étanche IP64, écran LCD rétroéclairé pivotant à 180°, mémoire min/max, sélection °C/°F. Livré avec certificat d'étalonnage individuel numéroté, traçable NIST via un laboratoire accrédité ISO/IEC 17025.",
+      "variant_name_fr": "Sonde déportée, câble 2,7 m",
+      "price_gbp": 112.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/18004-36",
+      "specs_fr": {
+        "Plage de température": "-50 à 250 °C",
+        "Précision": "±0,5 °C (-20 à 200 °C), ±1 °C au-delà",
+        "Résolution": "0,1 °C",
+        "Indice de protection": "IP64",
+        "Affichage": "LCD 3,5 chiffres, rotation 180°",
+        "Alimentation": "Pile 3V CR2032"
+      }
+    },
+    {
+      "sku": "90225-15",
+      "slug": "thermometre-poche-traceable-tige-inox-20cm",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre de poche Traceable — tige inox 20 cm, certificat d'étalonnage",
+      "description_fr": "Thermomètre de poche à tige inox rigide, conçu pour les mesures en laboratoire, sur le terrain et en process. Format compact avec clip de poche. Livré avec certificat d'étalonnage individuel numéroté, traçable NIST via un laboratoire accrédité ISO/IEC 17025 (A2LA).",
+      "variant_name_fr": "Tige inox 20 cm",
+      "price_gbp": 63.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/90225-15",
+      "specs_fr": {
+        "Longueur de sonde": "20 cm (8 po)",
+        "Alimentation": "Pile 1,5V"
+      }
+    },
+    {
+      "sku": "94460-81",
+      "slug": "thermometre-numerique-traceable-jumbo-refrigerateur-congelateur",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre numérique Traceable Jumbo — réfrigérateur/congélateur, sonde filaire, alarme",
+      "description_fr": "Thermomètre grand écran conçu pour la surveillance de congélateurs, bains-marie, blocs chauffants, incubateurs et réfrigérateurs. Triple affichage simultané : température actuelle, min et max, avec remise à zéro quotidienne. Alarme programmable par pas de 1 °C en cas de dépassement haut ou bas. Câble fin de 3 m avec sonde à état solide permettant la fermeture de la porte sans pincement, sans risque de contamination au mercure.",
+      "variant_name_fr": "1 sonde filaire, avec alarme",
+      "price_gbp": 124.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/94460-81_1",
+      "specs_fr": {
+        "Plage de température": "-50 à 70 °C",
+        "Résolution": "0,1 °C",
+        "Alarme": "Oui, programmable",
+        "Affichage": "3,8 cm (1,5 po)",
+        "Alimentation": "Pile AAA"
+      }
+    },
+    {
+      "sku": "98767-54",
+      "slug": "thermometre-traceable-ultra-refrigerateur-sonde-bouteille",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre Traceable Ultra — réfrigérateur/congélateur, sonde bouteille, alarme sonore et visuelle",
+      "description_fr": "Surveillance précise des réfrigérateurs, congélateurs, bains-marie et incubateurs. Alarme Smart-Alarm sonore et visuelle qui reste active même après retour à la normale, programmable par pas de 0,1 °C. Triple affichage simultané min/max/actuel. Câble fin de 3 m permettant la fermeture de porte sans pincement. Sonde bouteille remplie de solution non toxique (glycol, classée GRAS par la FDA), simulant la température d'un liquide stocké et évitant les variations rapides à l'ouverture de la porte.",
+      "variant_name_fr": "1 sonde bouteille, avec alarme",
+      "price_gbp": 127.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/98767-54_1",
+      "specs_fr": {
+        "Plage de température": "-50 à 70 °C",
+        "Résolution": "0,1 °C",
+        "Précision": "±0,5 °C (-30 à 50 °C), ±1 °C au-delà",
+        "Fréquence d'échantillonnage": "30 secondes"
+      }
+    },
+    {
+      "sku": "B2B2424",
+      "slug": "thermometre-numerique-traceable-lollipop-etanche-promo",
+      "brand": "Traceable",
+      "name_fr": "Thermomètre numérique Traceable Lollipop étanche — sonde 20 cm (offre promotionnelle)",
+      "description_fr": "Thermomètre numérique compact, boîtier étanche et résistant aux chocs, sonde inox longue résistante à la plupart des produits chimiques. Écran à actualisation chaque seconde, mémoire min/max, fonction maintien de valeur. Clip de poche et housse de protection inclus, adapté aux professionnels itinérants en laboratoire, agroalimentaire et contrôle qualité. Certificat d'étalonnage individuel numéroté, traçable NIST.",
+      "variant_name_fr": "Sonde 20 cm — Offre promotionnelle",
+      "price_gbp": 37.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/90205-05_3",
+      "specs_fr": {
+        "Plage de température": "-20 à 100 °C",
+        "Précision": "±1,0 °C",
+        "Garantie": "1 an"
+      }
+    },
+    {
+      "sku": "COV1037",
+      "slug": "thermometre-infrarouge-frontal-sans-contact",
+      "brand": "Générique",
+      "name_fr": "Thermomètre infrarouge frontal sans contact",
+      "description_fr": "Thermomètre frontal sans contact à lecture rapide, écran LCD rétroéclairé. Indication colorée de l'alarme (rouge ≥ 37,5 °C, vert < 37,5 °C, bleu en cours de mesure), commutation rapide entre mode corps et mode objet, 20 mémoires, sélection °C/°F, arrêt automatique après 60 secondes.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 22.24,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/COV1037",
+      "specs_fr": {
+        "Résolution": "0,1 °C / 0,1 °F",
+        "Précision": "±0,2 °C / ±0,4 °F (36,0 à 39,0 °C)",
+        "Distance de mesure": "1,0 cm max",
+        "Plage mode corps": "32,0 à 43,0 °C",
+        "Plage mode objet": "0,0 à 100,0 °C",
+        "Alimentation": "2 x piles AAA"
+      }
+    },
+    {
+      "sku": "HI-14700",
+      "slug": "thermometre-magnetique-hanna-checkfridge-hi-147-00",
+      "brand": "Hanna Instruments",
+      "name_fr": "Thermomètre magnétique Hanna Checkfridge HI-147-00 — sonde déportée",
+      "description_fr": "Thermomètre à lecture continue avec sonde déportée et fixation magnétique, idéal pour armoires réfrigérées et structures métalliques. Conçu pour surveiller de l'extérieur la température interne d'un réfrigérateur ou congélateur, réponse rapide et indicateur de pile faible. Sonde thermistance inox qualité alimentaire sur câble de 1 m.",
+      "variant_name_fr": "Standard, fixation magnétique",
+      "price_gbp": 122.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/HI-14700",
+      "specs_fr": {
+        "Plage de température": "-50 à +150 °C",
+        "Résolution": "0,1 °C",
+        "Précision": "±0,3 °C (-20 à +90 °C), ±0,5 °C au-delà",
+        "Alimentation": "1 x pile 1,5V AAA (~3 ans d'autonomie)",
+        "Dimensions": "93 x 39 x 31 mm",
+        "Poids": "60 g"
+      }
+    },
+    {
+      "sku": "THE1013",
+      "slug": "thermometre-numerique-type-stylo",
+      "brand": "Générique",
+      "name_fr": "Thermomètre numérique type stylo",
+      "description_fr": "Thermomètre économique à réponse rapide et haute précision, conception robuste, idéal pour l'échantillonnage de liquides et de semi-solides. Utilisation simple à 3 boutons, grand écran LCD, fonction maintien de valeur, arrêt automatique après 1 heure d'inactivité. Sonde inox pointue de 150 x 4 mm avec capteur thermistance situé dans les 10 derniers mm.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 10.18,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/THE1013",
+      "specs_fr": {
+        "Plage de température": "-50 à 300 °C",
+        "Résolution": "0,1 °C/°F",
+        "Sonde": "Inox, 150 x 4 mm ⌀"
+      }
+    },
+    {
+      "sku": "THE1174",
+      "slug": "thermometre-sonde-brannan-etanche",
+      "brand": "Brannan",
+      "name_fr": "Thermomètre à sonde Brannan étanche — sonde 105 mm",
+      "description_fr": "Thermomètre de test étanche (IP65) avec mémoire min/max et fonction maintien de valeur. Sonde inox de 105 mm, boîtier de poche avec clip et crochet de suspension, écran LCD clair.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 36.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/THE1174",
+      "specs_fr": {
+        "Plage de température": "-40 à +200 °C/°F",
+        "Résolution": "0,1 °C",
+        "Indice de protection sonde": "IP65",
+        "Alimentation": "1 x pile LR44 (~5000 h)"
+      }
+    }
+  ]
+}

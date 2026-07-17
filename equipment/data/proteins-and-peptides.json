@@ -1,0 +1,184 @@
+{
+  "category": {
+    "slug": "proteins-and-peptides",
+    "parent_slug": "chimie",
+    "name": { "fr": "Protéines et Peptides" },
+    "description": {
+      "fr": "Réactifs de biochimie pour la recherche sur les protéines et les peptides — tampons, détergents, agents de fixation et de réticulation, standards et solvants pour la purification, la solubilisation et l'analyse des protéines."
+    }
+  },
+  "products": [
+    {
+      "sku": "16104-1KG",
+      "slug": "saccharose-sigma-aldrich-puriss-1kg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Saccharose Sigma-Aldrich, puriss., conforme Ph. Eur., BP, NF",
+      "description_fr": "Le saccharose est un disaccharide obtenu à partir de la canne à sucre ou de la betterave, composé d'une unité de glucose et d'une unité de fructose. Cette qualité puriss. répond aux exigences des pharmacopées européenne (Ph. Eur.), britannique (BP) et américaine (NF), ce qui la rend adaptée aux applications analytiques et pharmaceutiques exigeantes. Le saccharose sert de référence en chimie analytique et de source de carbone et d'énergie dans de nombreux protocoles de biologie et de biochimie végétale, notamment pour l'étude du métabolisme et de la croissance cellulaire.",
+      "variant_name_fr": "Flacon 1 kg",
+      "price_gbp": 139.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/672/961/1cd4ed88-15e4-4ea3-8920-2c857eb9bb72/640/1cd4ed88-15e4-4ea3-8920-2c857eb9bb72",
+      "specs_fr": {
+        "N° CAS": "57-50-1",
+        "Formule chimique": "C12H22O11",
+        "Pureté / Qualité": "Puriss., conforme Ph. Eur., BP, NF",
+        "Conditionnement": "1 kg",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "252859-100G",
+      "slug": "tris-hydroxymethyl-aminomethane-sigma-aldrich-99-8-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Tris(hydroxyméthyl)aminométhane Sigma-Aldrich, réactif ACS, ≥99,8 %",
+      "description_fr": "Le tris(hydroxyméthyl)aminométhane, aussi appelé trométamol, est une base organique amino-alcool largement utilisée pour préparer des solutions tampons en biologie moléculaire et en biochimie, notamment pour l'électrophorèse et la purification des protéines. Cette qualité réactif ACS, titrant au minimum 99,8 %, garantit une grande pureté pour des tampons reproductibles et stables dans la gamme de pH physiologique.",
+      "variant_name_fr": "Flacon 100 g",
+      "price_gbp": 48.96,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "N° CAS": "77-86-1",
+        "Formule chimique": "C4H11NO3",
+        "Nom commun": "Trométamol",
+        "Pureté / Qualité": "Réactif ACS, ≥99,8 %",
+        "Conditionnement": "100 g",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "252859-500G",
+      "slug": "tris-hydroxymethyl-aminomethane-sigma-aldrich-99-8-500g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Tris(hydroxyméthyl)aminométhane Sigma-Aldrich, réactif ACS, ≥99,8 %",
+      "description_fr": "Le tris(hydroxyméthyl)aminométhane, aussi appelé trométamol, est une base organique amino-alcool largement utilisée pour préparer des solutions tampons en biologie moléculaire et en biochimie, notamment pour l'électrophorèse et la purification des protéines. Ce format 500 g convient aux laboratoires à forte consommation de tampon Tris, avec la même qualité réactif ACS titrant au minimum 99,8 %.",
+      "variant_name_fr": "Flacon 500 g",
+      "price_gbp": 120.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "N° CAS": "77-86-1",
+        "Formule chimique": "C4H11NO3",
+        "Nom commun": "Trométamol",
+        "Pureté / Qualité": "Réactif ACS, ≥99,8 %",
+        "Conditionnement": "500 g",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "33615-250G",
+      "slug": "amidon-soluble-pomme-de-terre-sigma-aldrich-puriss-250g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Amidon soluble de pomme de terre Sigma-Aldrich, puriss. p.a., ISO, Ph. Eur.",
+      "description_fr": "L'amidon soluble extrait de la pomme de terre, de qualité puriss. p.a. conforme aux normes ISO et à la pharmacopée européenne, est un polysaccharide constitué d'unités de glucose reliées par des liaisons glycosidiques. Il est couramment utilisé comme indicateur de fin de réaction en titrimétrie iodométrique, ainsi que comme substrat de référence en recherche sur les glucides, l'amidon résistant et la nutrition. Conditionné en flacon polyéthylène.",
+      "variant_name_fr": "Flacon 250 g",
+      "price_gbp": 127.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/374/267/0576c909-6ec3-44ca-a034-fdf682986299/640/0576c909-6ec3-44ca-a034-fdf682986299",
+      "specs_fr": {
+        "N° CAS": "9005-84-9",
+        "Origine": "Pomme de terre",
+        "Pureté / Qualité": "Puriss. p.a., conforme ISO, Ph. Eur.",
+        "Conditionnement": "250 g, flacon plastique",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "340855-25ML",
+      "slug": "glutaraldehyde-solution-50-sigma-aldrich-25ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Glutaraldéhyde solution 50 % dans l'eau, Sigma-Aldrich",
+      "description_fr": "Solution aqueuse de glutaraldéhyde à 50 % en poids, un dialdéhyde utilisé comme agent fixateur de référence en microscopie électronique et optique haute résolution, ainsi que comme agent de réticulation pour les protéines, la gélatine, le poly(alcool vinylique) et divers polypeptides. Cette solution concentrée permet la préparation de fixateurs combinés (glutaraldéhyde, paraformaldéhyde, tampon phosphate) pour la préservation fine des structures cellulaires en imagerie.",
+      "variant_name_fr": "Flacon verre 25 mL",
+      "price_gbp": 37.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/175/061/sial_340855_s/sial_340855_s_w640",
+      "specs_fr": {
+        "N° CAS": "111-30-8",
+        "Concentration": "50 % dans l'eau",
+        "Conditionnement": "25 mL, flacon verre",
+        "Stockage": "À conserver au frais, à l'abri de la lumière",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "436143-100G",
+      "slug": "dodecylsulfate-de-sodium-sds-sigma-aldrich-99-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Dodécylsulfate de sodium (SDS) Sigma-Aldrich, réactif ACS, ≥99,0 %",
+      "description_fr": "Le dodécylsulfate de sodium (SDS) est un détergent anionique de qualité réactif ACS, titrant au minimum 99,0 %. Il forme des complexes avec les protéines par interactions hydrophobes et constitue la base des techniques d'électrophorèse SDS-PAGE, qui séparent les protéines selon leur masse moléculaire apparente. Il est également utilisé pour solubiliser les membranes cellulaires et extraire les protéines membranaires.",
+      "variant_name_fr": "Flacon 100 g",
+      "price_gbp": 208.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/174/349/4582dd56-cd3b-40da-bae9-ac31b12c4209/640/4582dd56-cd3b-40da-bae9-ac31b12c4209",
+      "specs_fr": {
+        "N° CAS": "151-21-3",
+        "Formule chimique": "C12H25NaO4S",
+        "Pureté / Qualité": "Réactif ACS, ≥99,0 %",
+        "Conditionnement": "100 g, flacon plastique",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "436143-25G",
+      "slug": "dodecylsulfate-de-sodium-sds-sigma-aldrich-99-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Dodécylsulfate de sodium (SDS) Sigma-Aldrich, réactif ACS, ≥99,0 %",
+      "description_fr": "Le dodécylsulfate de sodium (SDS) est un détergent anionique de qualité réactif ACS, titrant au minimum 99,0 %, formant des complexes avec les protéines par interactions hydrophobes. Ce petit conditionnement de 25 g convient aux laboratoires qui préparent des protocoles ponctuels d'électrophorèse SDS-PAGE ou de solubilisation membranaire sans immobiliser un grand stock de réactif.",
+      "variant_name_fr": "Flacon 25 g",
+      "price_gbp": 65.28,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/174/349/4582dd56-cd3b-40da-bae9-ac31b12c4209/640/4582dd56-cd3b-40da-bae9-ac31b12c4209",
+      "specs_fr": {
+        "N° CAS": "151-21-3",
+        "Formule chimique": "C12H25NaO4S",
+        "Pureté / Qualité": "Réactif ACS, ≥99,0 %",
+        "Conditionnement": "25 g, flacon plastique",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "49781-5L",
+      "slug": "glycerol-solution-86-89-sigma-aldrich-5l",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Glycérol solution 86-89 %, Sigma-Aldrich",
+      "description_fr": "Solution de glycérol à 86-89 %, un triol hygroscopique, incolore, visqueux et inodore, largement utilisé comme émollient, solvant et agent édulcorant dans les formulations pharmaceutiques, cosmétiques et alimentaires. En laboratoire, il entre dans la composition de tampons de conservation des acides nucléiques et de fluides mimant le sang, et sert de matrice liquide pour l'analyse par spectrométrie de masse MALDI et FAB ainsi que d'additif de culture cellulaire pour certaines souches mycobactériennes.",
+      "variant_name_fr": "Bidon 5 L",
+      "price_gbp": 286.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/244/256/sigma_49781_p/sigma_49781_p_w640",
+      "specs_fr": {
+        "N° CAS": "56-81-5",
+        "Formule chimique": "C3H8O3",
+        "Concentration": "86-89 % (T)",
+        "Conditionnement": "5 L",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "52370-100G",
+      "slug": "bromure-hexadecyltrimethylammonium-ctab-sigma-aldrich-96-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Bromure d'hexadécyltriméthylammonium (CTAB) Sigma-Aldrich, ≥96,0 %",
+      "description_fr": "Le bromure d'hexadécyltriméthylammonium (CTAB), titrant au minimum 96,0 %, est un tensioactif cationique utilisé comme titrant de référence pour le dosage potentiométrique du perchlorate à l'aide d'électrodes sélectives d'ions. Il est également largement employé en biologie moléculaire pour l'extraction d'ADN à partir de tissus végétaux riches en polysaccharides, ainsi que comme agent structurant en synthèse de nanoparticules et de matériaux mésoporeux.",
+      "variant_name_fr": "Flacon 100 g",
+      "price_gbp": 45.72,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/228/811/564461e4-a824-43ae-a572-792d2bad6f6c/640/564461e4-a824-43ae-a572-792d2bad6f6c",
+      "specs_fr": {
+        "N° CAS": "57-09-0",
+        "Formule chimique": "C19H42BrN",
+        "Pureté / Qualité": "≥96,0 % (AT)",
+        "Conditionnement": "100 g",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "850520P-5G",
+      "slug": "n-dodecyl-beta-d-maltoside-ddm-merck-5g",
+      "brand": "Merck",
+      "name_fr": "N-Dodécyl-β-D-Maltoside (DDM) Merck",
+      "description_fr": "Le n-dodécyl-β-D-maltoside (DDM) est un détergent non ionique à base de sucre, biocompatible et biodégradable, très largement utilisé pour la solubilisation et la purification des protéines membranaires, en particulier des récepteurs couplés aux protéines G (GPCR). Il permet l'extraction douce des complexes protéiques membranaires tout en préservant leur conformation native, et sert notamment à l'analyse par électrophorèse native en gradient (BN-PAGE) des complexes de la chaîne respiratoire mitochondriale à partir d'extraits de fibroblastes.",
+      "variant_name_fr": "Flacon verre 30 mL (5 g)",
+      "price_gbp": 727.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/163/075/9b0d7553-3ec7-4b84-8ae8-758d7c9ff96e/640/9b0d7553-3ec7-4b84-8ae8-758d7c9ff96e",
+      "specs_fr": {
+        "N° CAS": "69227-93-6",
+        "Nom usuel": "DDM",
+        "Type": "Détergent non ionique à base de sucre",
+        "Conditionnement": "5 g, flacon verre à large ouverture",
+        "Fournisseur": "Merck (tiers)"
+      }
+    }
+  ]
+}

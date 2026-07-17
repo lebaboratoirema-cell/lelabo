@@ -1,0 +1,195 @@
+{
+  "category": {
+    "slug": "enzymes",
+    "parent_slug": "chimie",
+    "name": { "fr": "Enzymes" },
+    "description": {
+      "fr": "Enzymes de recherche pour la biologie moléculaire et cellulaire — collagénases, protéases, nucléases et glycosidases de qualité analytique, pour la dissociation tissulaire, la purification de protéines de fusion et l'analyse des acides nucléiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "11088807001",
+      "slug": "collagenase-b-clostridium-histolyticum-roche",
+      "brand": "Roche",
+      "name_fr": "Collagénase B (Clostridium histolyticum) — Roche",
+      "description_fr": "Collagénase purifiée à partir de cultures de Clostridium histolyticum par filtration, précipitation au sulfate d'ammonium, dialyse et lyophilisation. Cette enzyme collagénolytique dégrade le collagène en petits peptides et sert couramment à dissocier de nombreux tissus (poumon, foie, cœur, muscle, os, tissu adipeux, cartilage, cerveau, tumeurs) afin de préparer des suspensions de cellules isolées pour la mise en culture primaire. La collagénase B présente une activité collagénase normale à élevée et une activité clostripaïne supérieure à la moyenne, ce qui en fait un bon choix lorsque le rendement et la viabilité cellulaire priment. Nécessite un cofacteur calcique pour son activité ; solution reconstituée à conserver entre -15 et -25 °C, en évitant les cycles répétés de congélation-décongélation. Réservé à la recherche en sciences de la vie, non destiné aux procédures diagnostiques.",
+      "variant_name_fr": "Flacon, usage recherche",
+      "price_gbp": 82.56,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/352/091/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1/640/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Clostridium histolyticum",
+        "Activateur": "Ca2+",
+        "Concentration de travail": "0,5 à 2,5 mg/mL",
+        "Conditions de stockage (solution)": "-15 à -25 °C",
+        "Activité collagénase": "> 0,15 U/mg (méthode Wünsch)",
+        "Usage": "Recherche uniquement — non diagnostique"
+      }
+    },
+    {
+      "sku": "27084301",
+      "slug": "protease-prescission-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Protéase PreScission — Cytiva",
+      "description_fr": "Protéase de fusion recombinante associant la protéase 3C du rhinovirus humain et la GST, conçue pour cliver spécifiquement les protéines de fusion GST produites à partir des vecteurs pGEX-6P-1, pGEX-6P-2 et pGEX-6P-3. Le clivage s'effectue entre les résidus Gln et Gly de la séquence de reconnaissance Leu-Glu-Val-Leu-Phe-Gln/Gly-Pro, à basse température, ce qui préserve les protéines sensibles. Grâce à sa portion GST, la protéase elle-même peut être immobilisée sur Glutathione Sepharose puis retirée simultanément au clivage, que ce soit après purification par affinité ou directement sur les protéines de fusion encore fixées à la résine.",
+      "variant_name_fr": "Flacon unitaire",
+      "price_gbp": 372.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/27084301_1",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Composition": "Protéase 3C du rhinovirus humain fusionnée à la GST",
+        "Site de clivage": "Leu-Glu-Val-Leu-Phe-Gln / Gly-Pro",
+        "Compatibilité": "Vecteurs pGEX-6P-1, pGEX-6P-2, pGEX-6P-3",
+        "Application": "Clivage à froid des protéines de fusion GST, sur résine ou après purification"
+      }
+    },
+    {
+      "sku": "27084601",
+      "slug": "thrombine-protease-500-unites-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Thrombine protéase — 500 unités, Cytiva",
+      "description_fr": "Enzyme protéolytique utilisée en biologie moléculaire pour le clivage spécifique de protéines de fusion recombinantes portant un site de reconnaissance à la thrombine, une étape courante des protocoles de purification par affinité. Conditionnée en flacon de 500 unités, compatible avec les workflows standards de retrait de tags de fusion après purification.",
+      "variant_name_fr": "500 unités",
+      "price_gbp": 172.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/27084601",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Quantité": "500 unités",
+        "Application": "Clivage de protéines de fusion recombinantes"
+      }
+    },
+    {
+      "sku": "4716728001",
+      "slug": "dnase-i-recombinante-sans-rnase-roche",
+      "brand": "Roche",
+      "name_fr": "DNase I recombinante, sans RNase — solution, Roche",
+      "description_fr": "Endonucléase spécifique de l'ADN qui hydrolyse aléatoirement les liaisons phosphodiester de l'ADN simple ou double brin, générant un mélange d'oligo- et de mononucléotides. Produite par un procédé entièrement exempt de matières animales, cette DNase recombinante ne contient aucune activité RNase ou protéase détectable, ce qui la rend adaptée à l'élimination de l'ADN génomique résiduel dans des préparations d'ARN avant RT-PCR, à l'obtention d'ARN pur après transcription in vitro, ou au cartographie des régions sensibles à la DNase dans l'ADN eucaryote. Son activité, dépendante de cations divalents (magnésium, calcium), est inhibée par les agents chélateurs comme l'EDTA ; elle peut être inactivée par chauffage 10 minutes à 75 °C. Fournie en kit avec un tampon d'incubation 10x concentré. Réservé à la recherche en sciences de la vie.",
+      "variant_name_fr": "Kit : enzyme 10 U/µL + tampon d'incubation 10x",
+      "price_gbp": 279.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/491/806/9a010919-7d4f-4605-800e-b7274fd8f329/640/9a010919-7d4f-4605-800e-b7274fd8f329",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Type d'enzyme": "Endonucléase spécifique de l'ADN, recombinante",
+        "Pureté": "Sans RNase ni protéase détectable",
+        "Activateurs": "Cations divalents (Mg2+, Ca2+)",
+        "Inactivation thermique": "10 min à 75 °C",
+        "Stockage": "-15 à -25 °C (enzyme non diluée) ; tampon à 4 °C",
+        "Usage": "Recherche uniquement — non diagnostique"
+      }
+    },
+    {
+      "sku": "62970-1G-F",
+      "slug": "lysozyme-blanc-oeuf-poule-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Lysozyme de blanc d'œuf de poule, dialysé, lyophilisé — Sigma-Aldrich",
+      "description_fr": "Enzyme lyophilisée sous forme de poudre, purifiée à partir de blanc d'œuf de poule et dialysée, titrant environ 100 000 U/mg. Le lysozyme hydrolyse les liaisons β(1→4) entre l'acide N-acétylmuramique et le N-acétyl-D-glucosamine de la paroi peptidoglycane des bactéries, ce qui le rend particulièrement efficace contre les bactéries Gram-positives ; les Gram-négatives, protégées par leur membrane externe, deviennent sensibles en présence d'EDTA. Actif sur une large gamme de pH (6,0 à 9,0), il est largement employé pour la préparation de sphéroplastes, la lyse cellulaire, la cristallisation de protéines de référence ainsi que comme standard en diffusion de neutrons aux petits angles et en spectroscopie infrarouge.",
+      "variant_name_fr": "1 g, poudre lyophilisée",
+      "price_gbp": 75.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/235/009/696c8e75-5c0c-4258-a427-6d7eaa4bd3b7/640/696c8e75-5c0c-4258-a427-6d7eaa4bd3b7",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Blanc d'œuf de poule",
+        "Activité": "Environ 100 000 U/mg",
+        "Forme": "Poudre lyophilisée, dialysée",
+        "Plage de pH active": "6,0 à 9,0",
+        "Application": "Lyse de parois bactériennes, préparation de sphéroplastes"
+      }
+    },
+    {
+      "sku": "A3176-500KU",
+      "slug": "alpha-amylase-pancreas-porcin-type-vi-b-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Alpha-amylase de pancréas porcin, Type VI-B — Sigma-Aldrich",
+      "description_fr": "Glycoprotéine à chaîne polypeptidique unique (environ 475 résidus, masse moléculaire 51-54 kDa) comportant deux groupements SH et quatre ponts disulfures, extraite du pancréas porcin, avec une activité minimale de 10 unités/mg de solide. Cette alpha-amylase hydrolyse les liaisons glucane α-(1,4) des polysaccharides comme l'amidon et le glycogène, les scindant en glucose et maltose ; son activité optimale se situe à pH 7 (plage utile 5,5-8,0) et nécessite un ion calcium fortement lié pour sa stabilité ainsi que des ions chlorure pour son activité. Utilisée dans les études du métabolisme de l'amidon chez les plantes (Arabidopsis, tomate) et en recherche sur l'éthanol-amidon. Contient du lactose comme excipient.",
+      "variant_name_fr": "500 000 unités, en flacon",
+      "price_gbp": 83.64,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/184/404/6da6d8d1-6777-44be-a3b5-4b93511e2132/640/6da6d8d1-6777-44be-a3b5-4b93511e2132",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Pancréas porcin",
+        "Type": "Type VI-B",
+        "Activité": "≥ 10 unités/mg de solide",
+        "Masse moléculaire": "51-54 kDa",
+        "pH optimal": "7 (plage active 5,5-8,0)",
+        "Cofacteurs": "Ca2+ (stabilité), Cl- (activité)",
+        "Contient": "Lactose"
+      }
+    },
+    {
+      "sku": "A9857-5MU",
+      "slug": "alpha-amylase-aspergillus-oryzae-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Alpha-amylase d'Aspergillus oryzae, séchée par atomisation — Sigma-Aldrich",
+      "description_fr": "Amylase fongique en poudre, obtenue par séchage par atomisation à partir d'Aspergillus oryzae, avec une activité minimale de 150 unités/mg de protéine (méthode biuret). Comme les autres alpha-amylases, elle hydrolyse les liaisons glucane α-(1,4) des polysaccharides tels que l'amidon et le glycogène pour produire du glucose et du maltose. Les amylases d'A. oryzae sont largement utilisées comme additifs de panification pour prévenir le rassissement, pour clarifier les jus de fruits et boissons alcoolisées troubles, et pour la fabrication de sirops de glucose et de maltose. À noter : l'alpha-amylase Asp o II d'A. oryzae est classée par l'IUIS comme allergène professionnel potentiellement responsable de symptômes respiratoires — manipulation à réaliser avec les précautions appropriées.",
+      "variant_name_fr": "5 000 000 unités, poudre",
+      "price_gbp": 423.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/137/644/3a61478c-d138-41bd-b5e6-18aa96680a0b/640/3a61478c-d138-41bd-b5e6-18aa96680a0b",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Aspergillus oryzae",
+        "Activité": "≥ 150 unités/mg de protéine (biuret)",
+        "Forme": "Poudre séchée par atomisation",
+        "Qualité": "Grade brut (crude)",
+        "Précaution": "Allergène professionnel potentiel (classification IUIS Asp o II)"
+      }
+    },
+    {
+      "sku": "C0130-100MG",
+      "slug": "collagenase-type-i-clostridium-histolyticum-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Collagénase Type I (Clostridium histolyticum) — Sigma-Aldrich",
+      "description_fr": "Mélange d'enzymes sécrétées par Clostridium histolyticum, composé principalement de deux collagénases, de clostripaïne et d'une protéase neutre agissant en synergie pour dégrader le collagène et libérer les cellules des tissus. Largement employée pour la dissociation de tumeurs humaines, de rein de souris, de cerveau adulte et fœtal, de poumon et de nombreux autres épithéliums, ainsi que pour les études de perfusion hépatique et rénale, la digestion du pancréas et l'isolement d'hépatocytes. Activée par le calcium (quatre atomes-grammes par mole d'enzyme), elle est inhibée par l'EGTA, le bêta-mercaptoéthanol, le glutathion et l'acide thioglycolique. Les concentrations de travail usuelles vont de 0,1 à 5 mg/mL. Stable un an à -20 °C ; conserve son activité jusqu'à 7 heures sur glace, mais les cycles de congélation-décongélation répétés dégradent la solution.",
+      "variant_name_fr": "100 mg, flacon plastique",
+      "price_gbp": 107.64,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/305/036/c75e87ba-768d-4e26-b775-fb602f2ca2b6/640/c75e87ba-768d-4e26-b775-fb602f2ca2b6",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Clostridium histolyticum",
+        "Type": "Type I",
+        "Activateur": "Ca2+ (4 atomes-grammes/mole)",
+        "Concentration de travail": "0,1 à 5 mg/mL",
+        "Stabilité": "1 an à -20 °C ; jusqu'à 7 h sur glace",
+        "Application": "Dissociation tissulaire, isolement cellulaire"
+      }
+    },
+    {
+      "sku": "C1639-50MG",
+      "slug": "collagenase-type-i-s-sterile-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Collagénase Type I-S, stérile-filtrée (Clostridium histolyticum) — Sigma-Aldrich",
+      "description_fr": "Préparation stérile-filtrée de collagénase Type I, dérivée du produit Type I de référence C0130, dosant au moins 125 CDU/mg de solide et 0,2 à 1,0 unité FALGPA/mg. Ce mélange enzymatique de Clostridium histolyticum associe collagénases, clostripaïne et protéase neutre pour dissocier efficacement les tissus lors de la préparation de tumeurs humaines, de rein de souris, de cerveau et de poumon, ainsi que pour les études de perfusion hépatique et rénale et l'isolement d'hépatocytes. La filtration stérile la rend directement utilisable pour un usage général sans étape de stérilisation supplémentaire. Solution stock préparée typiquement à 0,05-0,1 mg/mL dans un tampon TESCA à pH 7,4, 37 °C. Stable un an à -20 °C.",
+      "variant_name_fr": "50 mg, stérile-filtrée",
+      "price_gbp": 148.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/305/036/c75e87ba-768d-4e26-b775-fb602f2ca2b6/640/c75e87ba-768d-4e26-b775-fb602f2ca2b6",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Clostridium histolyticum",
+        "Type": "Type I-S, stérile-filtrée",
+        "Activité CDU": "≥ 125 CDU/mg de solide",
+        "Activité FALGPA": "0,2 à 1,0 unité/mg de solide",
+        "Stabilité": "1 an à -20 °C",
+        "Application": "Usage général, dissociation tissulaire stérile"
+      }
+    },
+    {
+      "sku": "C1764-50MG",
+      "slug": "collagenase-type-ii-s-sigma-aldrich",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Collagénase Type II-S (Clostridium histolyticum) — Sigma-Aldrich",
+      "description_fr": "Préparation de collagénase Type II, dérivée du produit de référence C6885, obtenue à partir du filtrat de culture de Clostridium histolyticum qui contient au moins sept protéases distinctes (68-130 kDa, pH optimal 6,3-8,8) reconnaissant la séquence -R-Pro-X-Gly-Pro-R-. La libération efficace des cellules à partir des tissus nécessite l'action combinée des collagénases et de la protéase neutre ; l'enzyme est activée par le calcium et inhibée par l'EGTA, le bêta-mercaptoéthanol, le glutathion et l'acide thioglycolique. Utilisée pour la dissociation de tumeurs, de rein, de cerveau et de poumon, les études de perfusion hépatique et rénale, l'isolement d'hépatocytes non parenchymateux, ainsi que la préparation d'adipocytes à partir de tissu adipeux épididymaire de rat. Solutions typiquement préparées à 1-2 mg/mL en tampon TESCA, pH 7,4, 37 °C.",
+      "variant_name_fr": "50 mg, flacon plastique",
+      "price_gbp": 148.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/305/036/c75e87ba-768d-4e26-b775-fb602f2ca2b6/640/c75e87ba-768d-4e26-b775-fb602f2ca2b6",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Origine": "Clostridium histolyticum",
+        "Type": "Type II-S",
+        "Masse moléculaire des protéases": "68-130 kDa",
+        "pH optimal": "6,3 à 8,8",
+        "Activateur": "Ca2+ (4 atomes-grammes/mole)",
+        "Application": "Isolement d'hépatocytes, préparation d'adipocytes, dissociation tissulaire"
+      }
+    }
+  ]
+}

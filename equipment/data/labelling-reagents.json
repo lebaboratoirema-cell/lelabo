@@ -1,0 +1,176 @@
+{
+  "category": {
+    "slug": "labelling-reagents",
+    "parent_slug": "chimie",
+    "name": { "fr": "Réactifs de marquage" },
+    "description": {
+      "fr": "Colorants fluorescents, conjugués enzymatiques et réactifs auxiliaires pour le marquage et la détection de protéines et d'acides nucléiques — électrophorèse différentielle en gel (2-D DIGE), immunodétection et autoradiographie."
+    }
+  },
+  "products": [
+    {
+      "sku": "1089153",
+      "slug": "streptavidine-pod-conjugue-500u-merck",
+      "brand": "Merck",
+      "name_fr": "Conjugué Streptavidine-POD 500 U",
+      "description_fr": "Conjugué prêt à l'emploi associant la streptavidine, protéine à très haute affinité pour la biotine, à la peroxydase de raifort (POD/HRP). Ce réactif sert d'intermédiaire de détection dans les protocoles utilisant des sondes ou anticorps biotinylés : la liaison streptavidine-biotine, parmi les plus stables connues en biologie, permet de révéler le signal par réaction enzymatique colorimétrique ou chimioluminescente. Utilisation courante en ELISA, Western blot, immunohistochimie et hybridation sur membrane. Conditionné en flacon de 500 unités enzymatiques.",
+      "variant_name_fr": "500 U",
+      "price_gbp": 366.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/1089153",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Conjugué": "Streptavidine — peroxydase de raifort (POD/HRP)",
+        "Quantité": "500 U",
+        "Applications": "ELISA, Western blot, immunohistochimie"
+      }
+    },
+    {
+      "sku": "25800984",
+      "slug": "cydye-dige-fluor-kit-marquage-echantillons-limites-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Kit de marquage Amersham CyDye DIGE Fluor pour échantillons limités et gels préparatifs",
+      "description_fr": "Kit combinant colorants CyDye DIGE Fluor « minimaux » et « de saturation », conçus pour l'électrophorèse différentielle en gel de fluorescence bidimensionnelle (2-D DIGE) sur système Ettan DIGE. Les colorants minimaux conviennent aux applications 2-D classiques disposant d'une quantité suffisante d'échantillon, tandis que les colorants de saturation sont réservés aux cas où le matériel biologique est rare, par exemple après microdissection au laser. Les CyDye sont appariés en taille et en charge, ce qui assure une co-migration fidèle des échantillons marqués et permet de superposer jusqu'à trois échantillons prémarqués et leurs standards sur un même gel. Leurs bandes d'excitation et d'émission étroites et spectralement distinctes limitent la diaphonie entre canaux et garantissent une lecture fiable, avec une perte de signal minimale du marquage jusqu'au balayage, y compris sur une large gamme de pH en première dimension (IEF).",
+      "variant_name_fr": "Kit complet, colorants minimaux et saturation",
+      "price_gbp": 2554.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800984",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Technique": "Électrophorèse différentielle en gel de fluorescence 2D (2-D DIGE)",
+        "Type de colorants": "Minimaux et de saturation, appariés taille/charge",
+        "Usage recommandé": "Échantillons rares (ex. microdissection laser)"
+      }
+    },
+    {
+      "sku": "25801065",
+      "slug": "cydye-dige-fluor-kit-marquage-minimal-5nmol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Kit de marquage minimal Amersham CyDye DIGE Fluor (5 nmol)",
+      "description_fr": "Kit regroupant les trois colorants CyDye DIGE Fluor minimaux destinés au marquage 2-D DIGE classique, lorsque la quantité de protéine disponible n'est pas limitante. Chaque échantillon et le standard interne sont marqués séparément avec l'un des trois colorants, puis combinés et séparés par focalisation isoélectrique en première dimension et SDS-PAGE en seconde dimension, sur les systèmes Ettan IPGphor 3 ou Multiphor II associés aux gels Immobiline DryStrip, puis Ettan DALTtwelve ou DALTsix. Comme les échantillons marqués par les différents colorants suivent exactement les mêmes conditions de migration, une même protéine se retrouve à la position identique sur le gel quel que soit le colorant utilisé, ce qui limite la variabilité expérimentale et assure une correspondance précise entre échantillons sur un même gel.",
+      "variant_name_fr": "Kit, 5 nmol",
+      "price_gbp": 2593.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800860",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Contenu": "3 colorants CyDye DIGE Fluor minimaux (Cy2, Cy3, Cy5)",
+        "Quantité par colorant": "5 nmol",
+        "Compatibilité": "Systèmes Ettan IPGphor 3, Multiphor II, Ettan DALTtwelve/DALTsix"
+      }
+    },
+    {
+      "sku": "25801082",
+      "slug": "cydye-dige-fluor-cy2-minimal-5nmol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Colorant minimal Amersham CyDye DIGE Fluor Cy2, 5 nmol",
+      "description_fr": "Colorant fluorescent minimal Cy2 de la gamme CyDye DIGE Fluor, utilisé en électrophorèse différentielle en gel 2D (2-D DIGE) sur système Ettan DIGE pour révéler les variations d'abondance protéique entre échantillons. Sa bande d'excitation/émission dans le bleu-vert, étroite et spectralement séparée des autres colorants de la gamme (Cy3, Cy5), autorise un multiplexage sans diaphonie significative de plusieurs échantillons marqués sur un même gel. Le marquage minimal cible les résidus lysine des protéines et n'affecte qu'une fraction des sites disponibles, préservant ainsi le profil de migration natif de l'échantillon. Formulation stable, à conserver à l'abri de la lumière.",
+      "variant_name_fr": "5 nmol",
+      "price_gbp": 986.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800860",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Colorant": "Cy2 (CyDye DIGE Fluor minimal)",
+        "Excitation / Émission": "≈ 489 / 506 nm",
+        "Quantité": "5 nmol",
+        "Site de marquage": "Résidus lysine (marquage minimal)"
+      }
+    },
+    {
+      "sku": "25801083",
+      "slug": "cydye-dige-fluor-cy3-minimal-5nmol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Colorant minimal Amersham CyDye DIGE Fluor Cy3, 5 nmol",
+      "description_fr": "Colorant fluorescent minimal Cy3 de la gamme CyDye DIGE Fluor, employé en électrophorèse différentielle en gel 2D (2-D DIGE) sur système Ettan DIGE. Sa bande d'excitation/émission dans le vert-jaune, étroite et distincte de celles de Cy2 et Cy5, permet un marquage multiplex de trois échantillons distincts sur un même gel sans chevauchement de signal significatif. Le marquage minimal, ciblant une fraction des résidus lysine, préserve la taille et la charge globale des protéines, assurant une co-migration fidèle avec l'échantillon non marqué. Réactif prêt à l'emploi, stable, à conserver au sec et à l'abri de la lumière.",
+      "variant_name_fr": "5 nmol",
+      "price_gbp": 986.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800860",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Colorant": "Cy3 (CyDye DIGE Fluor minimal)",
+        "Excitation / Émission": "≈ 550 / 570 nm",
+        "Quantité": "5 nmol",
+        "Site de marquage": "Résidus lysine (marquage minimal)"
+      }
+    },
+    {
+      "sku": "25801085",
+      "slug": "cydye-dige-fluor-cy5-minimal-5nmol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Colorant minimal Amersham CyDye DIGE Fluor Cy5, 5 nmol",
+      "description_fr": "Colorant fluorescent minimal Cy5 de la gamme CyDye DIGE Fluor, dédié à l'électrophorèse différentielle en gel 2D (2-D DIGE) sur système Ettan DIGE. Sa bande d'excitation/émission dans le rouge lointain, spectralement séparée de Cy2 et Cy3, en fait le troisième canal de choix pour le marquage multiplex de plusieurs échantillons et d'un standard interne sur un même gel. Comme les autres colorants minimaux de la gamme, il ne marque qu'une fraction des résidus lysine des protéines, ce qui limite l'impact sur leur migration et garantit une superposition précise des profils entre échantillons. À conserver au sec, à l'abri de la lumière.",
+      "variant_name_fr": "5 nmol",
+      "price_gbp": 986.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800860",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Colorant": "Cy5 (CyDye DIGE Fluor minimal)",
+        "Excitation / Émission": "≈ 649 / 670 nm",
+        "Quantité": "5 nmol",
+        "Site de marquage": "Résidus lysine (marquage minimal)"
+      }
+    },
+    {
+      "sku": "28934530",
+      "slug": "cydye-dige-fluor-kit-marquage-minimal-2nmol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Kit de marquage minimal Amersham CyDye DIGE Fluor (2 nmol)",
+      "description_fr": "Version économique en 2 nmol du kit de marquage minimal CyDye DIGE Fluor, regroupant les trois colorants Cy2, Cy3 et Cy5 pour l'électrophorèse différentielle en gel 2D (2-D DIGE) sur système Ettan DIGE. Adapté aux laboratoires réalisant un nombre limité de marquages ou souhaitant tester le protocole avant un achat en plus grande quantité. Chaque colorant marque séparément échantillons et standard interne avant combinaison, focalisation isoélectrique puis SDS-PAGE ; le caractère spectralement distinct des trois fluors permet de superposer les profils avec une diaphonie minimale et une excellente reproductibilité inter-gel.",
+      "variant_name_fr": "Kit, 2 nmol",
+      "price_gbp": 1038.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/25800860",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Contenu": "3 colorants CyDye DIGE Fluor minimaux (Cy2, Cy3, Cy5)",
+        "Quantité par colorant": "2 nmol",
+        "Compatibilité": "Systèmes Ettan IPGphor 3, Multiphor II, Ettan DALTtwelve/DALTsix"
+      }
+    },
+    {
+      "sku": "NAT1342",
+      "slug": "eau-de-robinet-scotts-hs404-national-diagnostics",
+      "brand": "National Diagnostics",
+      "name_fr": "Réactif de bleuissement Scotts Tapwater HS404",
+      "description_fr": "Solution de bleuissement utilisée en histologie après coloration à l'hématoxyline, pour virer les noyaux cellulaires du rouge-brun vers le bleu caractéristique en neutralisant l'excès de mordant acide. Préparée à partir d'eau ultra-pure filtrée à 0,2 micron et de résistivité 18 MΩ, elle garantit un résultat de coloration reproductible et sans dépôt. À conserver dans un endroit frais et sombre, à l'abri de la lumière directe ; éviter le contact avec les yeux, la peau et les vêtements, ne pas respirer les vapeurs ou aérosols, se laver soigneusement après manipulation et refermer le contenant après usage.",
+      "variant_name_fr": "Flacon standard",
+      "price_gbp": 55.68,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NAT1342",
+      "specs_fr": {
+        "Référence fournisseur": "INAT006",
+        "Usage": "Bleuissement des colorations à l'hématoxyline",
+        "Qualité de l'eau": "Ultra-pure, filtrée 0,2 µm, 18 MΩ",
+        "Stockage": "Endroit frais et sombre, à l'abri de la lumière"
+      }
+    },
+    {
+      "sku": "NAT1446",
+      "slug": "autofluor-ls315-intensificateur-autoradiographie-national-diagnostics",
+      "brand": "National Diagnostics",
+      "name_fr": "Intensificateur d'autoradiographie Autofluor LS315",
+      "description_fr": "Phosphore de scintillation hydrosoluble utilisé comme intensificateur d'image en autoradiographie, formulé pour pénétrer rapidement les gels d'acrylamide et maximiser le transfert d'énergie entre le composé marqué et le phosphore. Sans diméthylsulfoxide ni solvants aromatiques acides, il évite les risques associés à ces produits ainsi que les déformations de bandes observées avec les intensificateurs non aqueux. Particulièrement efficace pour la détection des émetteurs bêta de faible énergie, il s'utilise sur gels de polyacrylamide, chromatographie sur papier et plaques CCM ; des essais comparatifs ont montré une résolution supérieure aux méthodes classiques (PPO-DMSO) pour la détection de protéines marquées au soufre-35. Se conserve au moins un an à température ambiante, à l'abri de la lumière et du gel ; en dessous de 20 °C une précipitation des phosphores peut survenir, réversible par réchauffement à environ 30 °C.",
+      "variant_name_fr": "Flacon standard",
+      "price_gbp": 309.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NAT1446_1",
+      "specs_fr": {
+        "Référence fournisseur": "INAT006",
+        "Type de réactif": "Phosphore de scintillation hydrosoluble",
+        "Applications": "Gels de polyacrylamide, chromatographie papier, CCM",
+        "Composition": "Sans DMSO, sans solvants aromatiques acides",
+        "Conservation": "≥ 1 an à température ambiante, à l'abri de la lumière et du gel"
+      }
+    },
+    {
+      "sku": "PA13000",
+      "slug": "cy3-bis-nhs-ester-5mg-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Amersham Cy3 Bis NHS ester, 5 mg",
+      "description_fr": "Colorant fluorescent Cy3 activé sous forme d'ester NHS bifonctionnel, portant deux groupes réactifs par molécule de colorant, destiné au marquage général des groupements amine des protéines. Cette double réactivité permet un couplage covalent efficace sur les résidus lysine et l'extrémité N-terminale des protéines, pour des applications de détection par fluorescence en biologie moléculaire et protéomique. Disponible en conditionnement de 5 mg, avec d'autres formats en vrac proposés pour les besoins de production à plus grande échelle.",
+      "variant_name_fr": "5 mg",
+      "price_gbp": 1381.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/PA13000",
+      "specs_fr": {
+        "Référence fournisseur": "GLO010",
+        "Colorant": "Cy3, ester NHS bifonctionnel (Bis NHS ester)",
+        "Cible de marquage": "Groupements amine (résidus lysine, N-terminal)",
+        "Quantité": "5 mg"
+      }
+    }
+  ]
+}

@@ -820,3 +820,16 @@ footer h4 { color: #fff; font-size: 15px; font-weight: 600; letter-spacing: .04e
 
 .pd-panel { display: none; }
 .pd-panel.active { display: block; }
+
+.pd-specs { margin-top: 40px; }
+.pd-specs h3 { font-size: 18px; margin-bottom: 16px; }
+.pd-specs-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.pd-specs-table tr { border-bottom: 1px solid #e5e7eb; }
+.pd-specs-table th {
+  text-align: left;
+  padding: 10px 20px 10px 0;
+  width: 40%;
+  font-weight: 600;
+  color: #6b7280;
+}
+.pd-specs-table td { padding: 10px 0; color: #111827; }

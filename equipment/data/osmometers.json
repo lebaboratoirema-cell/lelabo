@@ -1,0 +1,168 @@
+{
+  "category": {
+    "slug": "osmometers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Osmomètres" },
+    "description": {
+      "fr": "Consommables et accessoires Gonotec pour osmomètres à point de congélation Osmomat — sondes de mesure, récipients d'échantillon, étalons de calibration et fournitures d'impression pour un suivi fiable de l'osmolalité en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "WAT4644",
+      "slug": "sonde-thermistance-gonotec-50ul-osmomat-030-010",
+      "brand": "GONOTEC",
+      "name_fr": "Sonde à thermistance Gonotec 50 µL pour Osmomat 030/010",
+      "description_fr": "Sonde de mesure à thermistance conçue pour les osmomètres cryoscopiques Gonotec Osmomat 030 et Osmomat 010. Cette sonde détecte avec précision le point de congélation de micro-échantillons de seulement 50 microlitres, ce qui la rend particulièrement adaptée aux analyses sur volumes réduits en biologie, pharmacie ou recherche clinique. Pièce de remplacement d'origine, elle garantit la continuité des mesures d'osmolalité et la conformité aux spécifications du fabricant.",
+      "variant_name_fr": "Volume d'échantillon 50 µL",
+      "price_gbp": 810.00,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Compatibilité": "Osmomat 030 / Osmomat 010",
+        "Volume d'échantillon": "50 µL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4648",
+      "slug": "recipients-mesure-gonotec-osmomat-010-030-3000",
+      "brand": "GONOTEC",
+      "name_fr": "Récipients de mesure Gonotec pour Osmomat 010/030/3000",
+      "description_fr": "Récipients de mesure d'origine Gonotec destinés à recevoir les échantillons lors des analyses d'osmolalité par cryoscopie. Compatibles avec toute la gamme Osmomat (010, 030 et 3000), ils s'insèrent directement dans le poste de mesure et assurent un contact thermique optimal avec la sonde de congélation. Un consommable indispensable pour renouveler le parc de récipients et maintenir un flux de tests réguliers sans interruption.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 536.40,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Compatibilité": "Osmomat 010 / 030 / 3000",
+        "Type": "Récipient de mesure pour échantillon",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4650",
+      "slug": "ampoules-etalonnage-gonotec-300-mosmol-kg-osmomat-pack10",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules d'étalonnage Gonotec 300 mOsmol/kg (lot de 10 x 1 mL) pour Osmomat",
+      "description_fr": "Ampoules scellées de solution étalon NaCl/H2O à 300 mOsmol/kg, prêtes à l'emploi pour la calibration des osmomètres cryoscopiques Gonotec (gammes 010, 030, 3000 et versions automatisées). Chaque lot contient dix ampoules de 1 mL, garantissant une traçabilité et une reproductibilité optimales des mesures d'osmolalité au fil des campagnes d'étalonnage. Solution formulée pour couvrir la plage physiologique typique des fluides biologiques.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 274.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4650",
+      "specs_fr": {
+        "Valeur d'étalonnage": "300 mOsmol/kg (NaCl/H2O)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4652",
+      "slug": "ampoules-etalonnage-gonotec-100-mosmol-kg-osmomat-pack10",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules d'étalonnage Gonotec 100 mOsmol/kg (lot de 10 x 1 mL) pour Osmomat",
+      "description_fr": "Solution étalon scellée NaCl/H2O à 100 mOsmol/kg, conditionnée en ampoules prêtes à l'emploi pour la vérification et l'ajustement des osmomètres Gonotec de la série Osmomat (010, 030, 3000 et modèles automatiques). Ce point bas de calibration permet de couvrir les échantillons faiblement concentrés et de sécuriser la linéarité de la mesure sur toute la plage d'utilisation. Livré en lot de dix ampoules de 1 mL pour plusieurs cycles de contrôle qualité.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 274.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4652",
+      "specs_fr": {
+        "Valeur d'étalonnage": "100 mOsmol/kg (NaCl/H2O)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4654",
+      "slug": "ampoules-solution-reference-osmoref-290-mosmol-kg-gonotec",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules de solution de référence Gonotec OSMOREF 290 mOsmol/kg (lot de 10 x 1 mL)",
+      "description_fr": "Solution de référence certifiée OSMOREF à 290 mOsmol/kg, spécialement calibrée pour se rapprocher de l'osmolalité du sérum humain, utile pour les contrôles qualité en routine clinique sur les osmomètres Gonotec Osmomat (010, 030, 3000 et versions automatiques). Conditionnée en ampoules scellées de 1 mL par lot de dix, elle sert de matériau de vérification indépendant entre deux étalonnages complets, sans se substituer aux standards de calibration eux-mêmes.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 274.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4654",
+      "specs_fr": {
+        "Valeur de référence": "290 mOsmol/kg (OSMOREF)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4656",
+      "slug": "ampoules-etalonnage-gonotec-500-mosmol-kg-osmomat-pack10",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules d'étalonnage Gonotec 500 mOsmol/kg (lot de 10 x 1 mL) pour Osmomat",
+      "description_fr": "Solution étalon scellée NaCl/H2O à 500 mOsmol/kg destinée à la calibration multi-points des osmomètres cryoscopiques Gonotec de la gamme Osmomat (010, 030, 3000 et modèles automatisés). Ce niveau intermédiaire complète les points bas et hauts de la courbe d'étalonnage pour garantir une exactitude constante sur l'ensemble de la plage de mesure. Fournie en lot de dix ampoules de 1 mL, pratique pour plusieurs sessions de calibration successives.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 274.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4656",
+      "specs_fr": {
+        "Valeur d'étalonnage": "500 mOsmol/kg (NaCl/H2O)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4658",
+      "slug": "ampoules-etalonnage-gonotec-850-mosmol-kg-osmomat-pack10",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules d'étalonnage Gonotec 850 mOsmol/kg (lot de 10 x 1 mL) pour Osmomat",
+      "description_fr": "Solution étalon scellée NaCl/H2O à 850 mOsmol/kg pour la calibration haute plage des osmomètres Gonotec Osmomat (010, 030, 3000 et versions automatiques). Ce standard concentré permet de vérifier la justesse de l'appareil sur des échantillons fortement osmotiques, notamment pour certaines applications industrielles ou alimentaires. Conditionnement en lot de dix ampoules scellées de 1 mL, à usage unique pour éviter toute contamination croisée entre calibrations.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 274.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4658",
+      "specs_fr": {
+        "Valeur d'étalonnage": "850 mOsmol/kg (NaCl/H2O)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4660",
+      "slug": "papier-imprimante-gonotec-osmomat-8-rouleaux",
+      "brand": "GONOTEC",
+      "name_fr": "Papier d'imprimante Gonotec pour Osmomat 010/030/3000 (lot de 8 rouleaux)",
+      "description_fr": "Rouleaux de papier thermique ou mécanique d'origine Gonotec, dimensionnés pour l'imprimante intégrée des osmomètres de la gamme Osmomat (010, 030 et 3000). Ce consommable permet l'édition immédiate des résultats de mesure et des rapports de calibration directement depuis l'appareil, sans passer par un poste informatique. Vendu en lot de huit rouleaux pour assurer une réserve suffisante lors d'une utilisation en routine de laboratoire.",
+      "variant_name_fr": "Lot de 8 rouleaux",
+      "price_gbp": 242.40,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Compatibilité": "Osmomat 010 / 030 / 3000",
+        "Conditionnement": "8 rouleaux",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4662",
+      "slug": "cartouche-ruban-encreur-gonotec-osmomat",
+      "brand": "GONOTEC",
+      "name_fr": "Cartouche de ruban encreur sans fin Gonotec pour Osmomat 010/030/3000",
+      "description_fr": "Cartouche de ruban encreur sans fin d'origine Gonotec, conçue pour l'imprimante intégrée des osmomètres cryoscopiques de la série Osmomat (010, 030 et 3000). Ce consommable assure une impression nette et durable des résultats de mesure et des tickets de calibration. Son remplacement régulier permet de conserver une lisibilité optimale des rapports imprimés directement sur l'appareil.",
+      "variant_name_fr": "Standard",
+      "price_gbp": 256.80,
+      "image_url": "https://www.scientificlabs.co.uk/assets/img/product/nopicture.gif",
+      "specs_fr": {
+        "Compatibilité": "Osmomat 010 / 030 / 3000",
+        "Type": "Ruban encreur sans fin",
+        "Référence fournisseur": "WOL001D"
+      }
+    },
+    {
+      "sku": "WAT4664",
+      "slug": "ampoules-etalonnage-gonotec-2000-mosmol-kg-osmomat-pack10",
+      "brand": "GONOTEC",
+      "name_fr": "Ampoules d'étalonnage Gonotec 2000 mOsmol/kg (lot de 10 x 1 mL) pour Osmomat",
+      "description_fr": "Solution étalon scellée NaCl/H2O à 2000 mOsmol/kg, destinée à la calibration en très haute plage des osmomètres cryoscopiques Gonotec Osmomat (010, 030, 3000 et versions automatisées). Ce standard concentré est utile pour valider la justesse de l'appareil sur des échantillons fortement chargés en solutés, comme certaines matrices industrielles ou concentrées. Fourni en lot de dix ampoules scellées de 1 mL pour un usage unique à chaque calibration.",
+      "variant_name_fr": "Lot de 10 ampoules x 1 mL",
+      "price_gbp": 286.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4664",
+      "specs_fr": {
+        "Valeur d'étalonnage": "2000 mOsmol/kg (NaCl/H2O)",
+        "Compatibilité": "Osmomat 010 / 030 / 3000 / auto",
+        "Conditionnement": "10 ampoules x 1 mL",
+        "Référence fournisseur": "WOL001D"
+      }
+    }
+  ]
+}

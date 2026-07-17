@@ -1,0 +1,193 @@
+{
+  "category": {
+    "slug": "biocides",
+    "parent_slug": "chimie",
+    "name": { "fr": "Biocides" },
+    "description": {
+      "fr": "Biocides et agents conservateurs de laboratoire — préservateurs ProClin pour réactifs et diagnostics in vitro, azoture de sodium pour tampons et applications de synthèse, et isothiazolinones utilisées comme intermédiaires biocides."
+    }
+  },
+  "products": [
+    {
+      "sku": "48912-U",
+      "slug": "proclin-300-sigma-aldrich-50ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "ProClin 300 — conservateur biocide, flacon de 50 mL",
+      "description_fr": "ProClin 300 est un conservateur biocide destiné à la préparation de réactifs de diagnostic in vitro (IVD) et de tests biologiques. Dès qu'il entre en contact avec des micro-organismes, il traverse rapidement leur membrane cellulaire et bloque des enzymes clés de la respiration cellulaire, ce qui stoppe presque instantanément leur prolifération. Comme il agit sur plusieurs cibles enzymatiques à la fois, les micro-organismes développent difficilement une résistance, ce qui garantit une protection stable même sur de longues durées de stockage. Il convient notamment à la préparation de tampons ELISA, de tampons de dilution d'échantillons ou de substrats pour tests Simoa et immunoenzymatiques, ainsi qu'aux tampons de conservation de billes couplées pour dosages sérologiques multiplex. Présenté comme une alternative plus sûre à l'azoture de sodium, il s'inscrit dans une démarche de chimie plus verte tout en offrant une meilleure protection.",
+      "variant_name_fr": "Flacon de 50 mL",
+      "price_gbp": 86.82,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/307/436/b87c2e9d-378e-47f0-9435-b70f63c8be92/640/b87c2e9d-378e-47f0-9435-b70f63c8be92",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "CMIT/MIT 3 % dans un glycol modifié, sans sel, avec stabilisant carboxylate d'alkyle",
+        "pH de fonctionnement recommandé": "2,5 à 8,5",
+        "Usage": "Diagnostic in vitro (IVD) et tests biologiques uniquement",
+        "Format": "50 mL"
+      }
+    },
+    {
+      "sku": "48915-U",
+      "slug": "proclin-300-sigma-aldrich-2l",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "ProClin 300 — conservateur biocide, bidon de 2 L",
+      "description_fr": "Ce conservateur biocide liquide, soluble dans l'eau et efficace à très faible dose (typiquement 0,03 à 0,05 % en masse), protège durablement les réactifs et composants de diagnostic contre la contamination microbienne. Il pénètre rapidement les membranes cellulaires des micro-organismes et inhibe des enzymes respiratoires essentielles, offrant une action biocide à large spectre contre bactéries, levures et champignons sans altérer la liaison des anticorps. Il reste stable sur une large plage de pH, y compris dans les tampons TRIS, TES et HEPES jusqu'à pH 7, et conserve son efficacité pendant au moins trois ans de stockage. Le taux d'ingrédients actifs peut être vérifié par HPLC, un gage de qualité pour les applications de diagnostic exigeantes. Ce grand conditionnement de 2 L convient aux laboratoires ayant des besoins de production ou de formulation réguliers.",
+      "variant_name_fr": "Bidon de 2 L",
+      "price_gbp": 1157.99,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/NOPICTURE-SIGMA-ALDRICH",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "CMIT/MIT 3 %",
+        "Matrice": "Glycol modifié",
+        "Contient": "Carboxylate d'alkyle",
+        "pH de fonctionnement": "2,5 à 8,5",
+        "Concentration d'utilisation typique": "0,03 à 0,05 % (m/m)",
+        "Durée de conservation": "3 ans",
+        "Niveau de qualité": "Premium",
+        "Format": "2 L"
+      }
+    },
+    {
+      "sku": "48917-U",
+      "slug": "proclin-300-sigma-aldrich-3-6l",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "ProClin 300 — conservateur biocide, bidon de 3,6 L",
+      "description_fr": "Grand conditionnement de ProClin 300, le conservateur biocide de référence pour la protection des réactifs de diagnostic in vitro et des composants biologiques face à la contamination microbienne. Son mode d'action repose sur une pénétration rapide de la membrane cellulaire des micro-organismes suivie du blocage d'enzymes indispensables à leur respiration, ce qui empêche toute reprise de croissance même après un stockage prolongé. Grâce à ses multiples sites d'action, il limite fortement l'apparition de résistances microbiennes. Positionné comme une alternative plus respectueuse de l'environnement à l'azoture de sodium tout en offrant une meilleure protection, ce format de 3,6 L est adapté aux laboratoires et sites de production ayant une consommation importante.",
+      "variant_name_fr": "Bidon de 3,6 L",
+      "price_gbp": 1834.31,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/307/436/b87c2e9d-378e-47f0-9435-b70f63c8be92/640/b87c2e9d-378e-47f0-9435-b70f63c8be92",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Composition": "CMIT/MIT 3 % dans un glycol modifié, sans sel, avec stabilisant carboxylate d'alkyle",
+        "pH de fonctionnement recommandé": "2,5 à 8,5",
+        "Usage": "Diagnostic in vitro (IVD) et tests biologiques uniquement",
+        "Format": "3,6 L"
+      }
+    },
+    {
+      "sku": "71289-250G",
+      "slug": "azoture-de-sodium-bioultra-sigma-aldrich-250g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium BioUltra, pureté ≥ 99,5 %, flacon de 250 g",
+      "description_fr": "Azoture de sodium de qualité BioUltra, garantissant une pureté élevée (≥ 99,5 %) adaptée aux applications biologiques les plus exigeantes. Ce composé est couramment employé comme agent conservateur antimicrobien dans les tampons de cytométrie en flux, où il empêche la prolifération bactérienne des solutions stockées. Il sert également de réactif dans les protocoles de marquage au BrdU (bromodéoxyuridine) sur des cellules synchronisées et arrêtées à l'hydroxyurée, ainsi que pour l'immobilisation de vers (nématodes) en vue d'observations microscopiques. Sa grande pureté en fait un choix fiable pour les laboratoires de biologie moléculaire et cellulaire. Ce conditionnement de 250 g convient aux laboratoires à consommation régulière.",
+      "variant_name_fr": "Flacon de 250 g",
+      "price_gbp": 309.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/357/506/sigma_71289_p/sigma_71289_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,5 % (BioUltra)",
+        "Applications": "Conservateur antimicrobien pour tampons de cytométrie en flux, marquage au BrdU, immobilisation de nématodes",
+        "Format": "250 g"
+      }
+    },
+    {
+      "sku": "71289-50G",
+      "slug": "azoture-de-sodium-bioultra-sigma-aldrich-50g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium BioUltra, pureté ≥ 99,5 %, flacon de 50 g",
+      "description_fr": "Ce petit conditionnement d'azoture de sodium qualité BioUltra offre la même pureté élevée (≥ 99,5 %) que les formats plus importants, dans une quantité adaptée aux besoins ponctuels ou aux laboratoires de recherche à faible volume. Utilisé principalement comme agent conservateur antimicrobien, il empêche le développement bactérien dans les tampons de cytométrie en flux et les milieux de culture stockés. Il intervient aussi dans les protocoles de marquage au BrdU sur cellules synchronisées à l'hydroxyurée et dans les techniques d'immobilisation de nématodes pour l'observation en laboratoire. Sa qualité BioUltra assure une reproductibilité fiable des résultats expérimentaux.",
+      "variant_name_fr": "Flacon de 50 g",
+      "price_gbp": 79.44,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/357/506/sigma_71289_p/sigma_71289_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,5 % (BioUltra)",
+        "Applications": "Conservateur antimicrobien pour tampons de cytométrie en flux, marquage au BrdU, immobilisation de nématodes",
+        "Format": "50 g"
+      }
+    },
+    {
+      "sku": "71289-5G",
+      "slug": "azoture-de-sodium-bioultra-sigma-aldrich-5g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium BioUltra, pureté ≥ 99,5 %, flacon de 5 g",
+      "description_fr": "Format d'essai de 5 g pour l'azoture de sodium qualité BioUltra, une pureté minimale de 99,5 % idéale pour les tests préliminaires ou les protocoles consommant de faibles quantités de réactif. Ce composé agit comme conservateur antimicrobien dans les tampons de cytométrie en flux en empêchant la croissance bactérienne pendant le stockage. Il est également utilisé dans les protocoles de marquage au BrdU appliqués à des cellules synchronisées par arrêt à l'hydroxyurée, ainsi que pour immobiliser des vers avant observation. Un format pratique pour valider un protocole avant de commander un conditionnement plus important.",
+      "variant_name_fr": "Flacon de 5 g",
+      "price_gbp": 28.92,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/357/506/sigma_71289_p/sigma_71289_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,5 % (BioUltra)",
+        "Applications": "Conservateur antimicrobien pour tampons de cytométrie en flux, marquage au BrdU, immobilisation de nématodes",
+        "Format": "5 g"
+      }
+    },
+    {
+      "sku": "71290-100G",
+      "slug": "azoture-de-sodium-purum-sigma-aldrich-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium purum p.a., pureté ≥ 99,0 %, flacon de 100 g",
+      "description_fr": "Azoture de sodium de qualité purum pour analyse, avec une pureté minimale de 99,0 %, destiné principalement aux applications de synthèse organique plutôt qu'aux usages biologiques. Ce réactif sert de catalyseur ou de réactif dans plusieurs transformations chimiques : décarboxylation oxydative, réactions d'addition de Michael, synthèse de copolymères fluorescents bleus, préparation de phosphonates métalliques, réactions d'amination d'arènes, ainsi que la synthèse régiosélective de la prianosine B. Il est également couramment cité dans les réactions de Schmidt entre aldéhydes ou acides carboxyliques et azotures pour former des amines ou des amides. Ce format de 100 g convient aux laboratoires de chimie de synthèse à consommation régulière.",
+      "variant_name_fr": "Flacon de 100 g",
+      "price_gbp": 58.56,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/260/200/aldrich_71290_p/aldrich_71290_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,0 % (purum p.a.)",
+        "Applications": "Catalyseur/réactif de synthèse : décarboxylation oxydative, addition de Michael, amination d'arènes, réaction de Schmidt",
+        "Format": "100 g"
+      }
+    },
+    {
+      "sku": "71290-10G",
+      "slug": "azoture-de-sodium-purum-sigma-aldrich-10g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium purum p.a., pureté ≥ 99,0 %, flacon de 10 g",
+      "description_fr": "Petit conditionnement de 10 g d'azoture de sodium purum p.a. (pureté ≥ 99,0 %), pratique pour tester un protocole de synthèse avant de passer à une échelle plus importante. Ce réactif est utilisé comme catalyseur ou intermédiaire dans plusieurs réactions organiques : décarboxylation oxydative, addition de Michael, synthèse de copolymères fluorescents, formation de phosphonates métalliques et amination d'arènes. Il intervient également dans la synthèse régiosélective de la prianosine B et dans les réactions de Schmidt appliquées aux aldéhydes et acides carboxyliques. Un format économique pour les essais à petite échelle.",
+      "variant_name_fr": "Flacon de 10 g",
+      "price_gbp": 36.24,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/260/200/aldrich_71290_p/aldrich_71290_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,0 % (purum p.a.)",
+        "Applications": "Catalyseur/réactif de synthèse : décarboxylation oxydative, addition de Michael, amination d'arènes, réaction de Schmidt",
+        "Format": "10 g"
+      }
+    },
+    {
+      "sku": "71290-500G",
+      "slug": "azoture-de-sodium-purum-sigma-aldrich-500g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoture de sodium purum p.a., pureté ≥ 99,0 %, flacon de 500 g",
+      "description_fr": "Grand conditionnement de 500 g d'azoture de sodium qualité purum p.a. (pureté ≥ 99,0 %), destiné aux laboratoires de chimie de synthèse ayant des besoins réguliers ou en production. Ce réactif polyvalent est utilisé comme catalyseur dans les réactions de décarboxylation oxydative et d'addition de Michael, comme précurseur pour la synthèse de copolymères fluorescents bleus et de phosphonates métalliques, et pour l'amination d'arènes. Il joue également un rôle dans la synthèse régiosélective de la prianosine B et dans la réaction de Schmidt à partir d'aldéhydes ou d'acides carboxyliques. Un format économique par gramme pour les utilisateurs récurrents.",
+      "variant_name_fr": "Flacon de 500 g",
+      "price_gbp": 194.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/260/200/aldrich_71290_p/aldrich_71290_p_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Azoture de sodium (NaN3)",
+        "Numéro CAS": "26628-22-8",
+        "Pureté": "≥ 99,0 % (purum p.a.)",
+        "Applications": "Catalyseur/réactif de synthèse : décarboxylation oxydative, addition de Michael, amination d'arènes, réaction de Schmidt",
+        "Format": "500 g"
+      }
+    },
+    {
+      "sku": "725765-25G",
+      "slug": "2-methyl-4-isothiazolin-3-one-sigma-aldrich-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "2-Méthyl-4-isothiazolin-3-one, pureté 95 %, flacon en verre de 25 g",
+      "description_fr": "La 2-méthyl-4-isothiazolin-3-one (MIT) à 95 % de pureté est l'un des principes actifs isothiazolinones entrant dans la formulation de nombreux conservateurs biocides à large spectre, dont les produits de la gamme ProClin. Ce composé agit en inhibant des enzymes essentielles au métabolisme énergétique des micro-organismes, ce qui bloque leur croissance et prévient la contamination bactérienne, fongique ou par des levures dans les formulations aqueuses. Il est livré en flacon en verre, un conditionnement adapté à la manipulation et au stockage de matières actives concentrées en laboratoire. Ce format de 25 g convient à la formulation à échelle laboratoire ou à la préparation de mélanges biocides sur mesure.",
+      "variant_name_fr": "Flacon en verre de 25 g",
+      "price_gbp": 405.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/350/787/aldrich_725765_s/aldrich_725765_s_w640",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "2-Méthyl-4-isothiazolin-3-one (MIT)",
+        "Numéro CAS": "2682-20-4",
+        "Pureté": "95 %",
+        "Conditionnement": "Flacon en verre, 25 g",
+        "Usage": "Principe actif biocide / conservateur pour formulations aqueuses"
+      }
+    }
+  ]
+}

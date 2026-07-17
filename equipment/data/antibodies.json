@@ -1,0 +1,214 @@
+{
+  "category": {
+    "slug": "antibodies",
+    "parent_slug": "chimie",
+    "name": { "fr": "Anticorps et réactifs biochimiques" },
+    "description": {
+      "fr": "Anticorps monoclonaux et polyclonaux, enzymes natives, protéines plasmatiques et réactifs de biologie moléculaire Sigma-Aldrich pour la recherche en immunologie, biochimie des protéines et épigénétique. Produits réservés à un usage recherche."
+    }
+  },
+  "products": [
+    {
+      "sku": "05-636",
+      "slug": "anticorps-anti-phospho-histone-h2ax-ser139-sigma-aldrich-200ug",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Anticorps anti-phospho-Histone H2A.X (Ser139) — clone JBW301",
+      "description_fr": "Anticorps monoclonal de souris dirigé contre la forme phosphorylée de l'histone H2A.X sur la sérine 139 (H2AXS139p), un marqueur de référence des cassures double brin de l'ADN. Purifié sur protéine G, cet anticorps a fait l'objet de nombreuses publications et est validé pour les applications ChIP, ICC, IF et Western Blot. L'immunogène utilisé est un peptide correspondant aux acides aminés 134-142 de l'histone H2A.X humaine ; la cible présente une masse moléculaire d'environ 17 kDa. Sa spécificité a été confirmée par immunoblot sur des lysats de cellules Jurkat traitées à la staurosporine ainsi qu'en immunocytochimie sur cellules HeLa. Livré en solution tampon Tris-Glycine additionnée d'azoture de sodium comme conservateur ; se conserve un an entre 2 et 8 °C à réception.",
+      "variant_name_fr": "Flacon 200 µg",
+      "price_gbp": 702.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/787/014/bcf1a214-4f30-494b-87f7-f68bc5006065/640/bcf1a214-4f30-494b-87f7-f68bc5006065",
+      "specs_fr": {
+        "Clone": "JBW301",
+        "Espèce hôte / isotype": "Souris, monoclonal",
+        "Cible": "Histone H2A.X phosphorylée (Ser139)",
+        "Applications validées": "ChIP, ICC, IF, Western Blot",
+        "Format": "Purifié sur protéine G",
+        "Immunogène": "Peptide, acides aminés 134-142 de l'histone H2A.X humaine",
+        "Masse moléculaire cible": "17 kDa",
+        "Conservation": "2 à 8 °C, 1 an à réception",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "05-724",
+      "slug": "anticorps-anti-myc-tag-clone-4a6-sigma-aldrich-200ug",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Anticorps anti-Myc Tag — clone 4A6",
+      "description_fr": "Anticorps monoclonal de souris reconnaissant la séquence de dix acides aminés EQKLISEEDL, correspondant à la région C-terminale de la protéine c-Myc humaine et couramment utilisée comme étiquette (tag) de fusion. Contrairement à d'autres clones dont la performance dépend fortement des acides aminés voisins, le clone 4A6 offre une détection homogène des protéines Myc-tag quel que soit le contexte de séquence. Validé en ChIP, IC, IF, IP et Western Blot, il a été cité dans plus de 480 publications. Purifié sur protéine A/G, il est fourni en tampon Tris-Glycine additionné d'azoture de sodium et se conserve un an entre 2 et 8 °C.",
+      "variant_name_fr": "Flacon 200 µg",
+      "price_gbp": 582.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/119/073/87cb3aed-0033-4b8c-b8fc-2c5faaf7aab3/640/87cb3aed-0033-4b8c-b8fc-2c5faaf7aab3",
+      "specs_fr": {
+        "Clone": "4A6",
+        "Espèce hôte / isotype": "Souris, monoclonal",
+        "Cible": "Épitope Myc Tag (EQKLISEEDL)",
+        "Applications validées": "ChIP, IC, IF, IP, Western Blot",
+        "Format": "Purifié sur protéine A/G",
+        "Immunogène": "Peptide, acides aminés 410-420 (MEQKLISEEDL) de la protéine Myc humaine",
+        "Masse moléculaire cible (prédite)": "49 kDa",
+        "Conservation": "2 à 8 °C, 1 an à réception",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "20-265",
+      "slug": "dithiothreitol-dtt-1m-sigma-aldrich-450ul",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Dithiothréitol (DTT) 1 M — réactif de Cleland",
+      "description_fr": "Solution prête à l'emploi de dithiothréitol à 1 M, également connu sous le nom de réactif de Cleland. Ce composé porteur de deux fonctions thiol est un agent réducteur de référence en biochimie des protéines : il permet de rompre les ponts disulfures d'échantillons tels que le glutathion ou diverses protéines, dans le cadre de la synthèse peptidique ou de la préparation d'échantillons. Il entre couramment dans la composition des tampons de charge SDS-PAGE et peut également servir d'agent mucolytique lors du traitement d'expectorations. Le format concentré 1 M facilite la préparation rapide de tampons de travail à la dilution souhaitée.",
+      "variant_name_fr": "Flacon 450 µl, solution 1 M",
+      "price_gbp": 124.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/214/389/6c1c087f-6f65-49e0-a897-4e396dae4d6a/640/6c1c087f-6f65-49e0-a897-4e396dae4d6a",
+      "specs_fr": {
+        "Nom du réactif": "Dithiothréitol (DTT), réactif de Cleland",
+        "Concentration": "1 M en solution",
+        "Fonction": "Agent réducteur des ponts disulfures",
+        "Applications": "Tampon de charge SDS-PAGE, synthèse peptidique, préparation d'échantillons",
+        "Conditionnement": "450 µl",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "219261-100KU",
+      "slug": "catalase-aspergillus-niger-sigma-aldrich-100ku",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Catalase native d'Aspergillus niger",
+      "description_fr": "Catalase native extraite d'Aspergillus niger, enzyme à action prolongée et particulièrement stable, active sur une plage de pH très large allant de 1 à 12. Elle est constituée de quatre sous-unités protéiques, chacune portant un groupement hème au niveau de son site actif, ce qui lui confère sa capacité à décomposer le peroxyde d'hydrogène (H2O2) en eau et en oxygène. Une unité est définie comme la quantité d'enzyme décomposant 1,0 µmol de H2O2 par minute à 30 °C et pH 7,0. Fournie en ampoule plastique, la catalase doit être reconstituée puis conservée en aliquotes congelés à -20 °C, conditions dans lesquelles les solutions restent stables jusqu'à 3 mois.",
+      "variant_name_fr": "Ampoule 100 KU",
+      "price_gbp": 87.48,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/755/104/264d996b-08e0-4b88-b0c0-0f514779424b/640/264d996b-08e0-4b88-b0c0-0f514779424b",
+      "specs_fr": {
+        "Numéro CAS": "9001-05-2",
+        "Origine": "Aspergillus niger (catalase native)",
+        "Plage de pH active": "pH 1 à 12",
+        "Structure": "4 sous-unités protéiques, groupement hème par site actif",
+        "Définition de l'unité": "1,0 µmol de H2O2 décomposé par minute à 30 °C, pH 7,0",
+        "Conditionnement": "100 KU (1 KU = 1000 unités), ampoule plastique",
+        "Reconstitution / conservation": "Aliquoter après reconstitution, conserver à -20 °C, stable jusqu'à 3 mois",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "324681-100UG",
+      "slug": "elastase-neutrophiles-humains-sigma-aldrich-100ug",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Élastase native de neutrophiles humains",
+      "description_fr": "Élastase native purifiée à partir de neutrophiles humains, sérine protéase capable de dégrader l'élastine, le collagène et les protéoglycanes. Cette enzyme est fortement impliquée dans la physiopathologie de l'emphysème pulmonaire, de la polyarthrite rhumatoïde et de la mucoviscidose, ce qui en fait un outil de choix pour l'étude de ces pathologies inflammatoires. Préparée à partir de sang certifié négatif pour l'antigène HBs et les anticorps anti-VIH et anti-VHC, elle se présente sous forme salt-free et se reconstitue dans un tampon acétate de sodium 50 mM à pH 5,5 additionné de NaCl 200 mM. Une unité correspond à la quantité d'enzyme hydrolysant 1,0 µmol de substrat MeO-Suc-Ala-Ala-Pro-Val-pNA par minute à 25 °C, pH 8,0.",
+      "variant_name_fr": "Flacon 100 µg",
+      "price_gbp": 582.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/228/528/e6efd1c7-b6e7-44f9-8e02-0d04318b7b33/640/e6efd1c7-b6e7-44f9-8e02-0d04318b7b33",
+      "specs_fr": {
+        "Numéro CAS": "9004-06-2",
+        "Origine": "Neutrophiles humains (élastase native)",
+        "Type d'enzyme": "Sérine protéase",
+        "Substrats dégradés": "Élastine, collagène, protéoglycanes",
+        "Format": "Sans sel (salt-free)",
+        "Définition de l'unité": "1,0 µmol de MeO-Suc-Ala-Ala-Pro-Val-pNA hydrolysé par minute à 25 °C, pH 8,0",
+        "Reconstitution": "Tampon acétate de sodium 50 mM, pH 5,5, NaCl 200 mM",
+        "Conditionnement": "100 µg, flacon verre (autre format : 50 µg ampoule plastique)",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "324682-250U",
+      "slug": "elastase-pancreas-porcin-haute-purete-cristallisee-sigma-aldrich-250u",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Élastase de pancréas porcin — haute pureté, cristallisée",
+      "description_fr": "Élastase native cristallisée, extraite du pancréas porcin et présentée sous forme lyophilisée de haute pureté. Cette sérine protéase catalyse l'hydrolyse de nombreuses protéines et peptides — albumine, caséine, collagène dénaturé, élastine, fibrine, hémoglobine — en clivant préférentiellement les liaisons peptidiques adjacentes à des résidus hydrophobes de petite taille comme la glycine, la valine, la leucine, l'isoleucine et surtout l'alanine. Son activité optimale se situe entre pH 7,8 et 8,5 (pI = 9,5) ; elle est inhibée par le DFP, l'élastinal et l'alpha-2-macroglobuline. L'enzyme ayant tendance à adhérer au verre, l'utilisation de verrerie siliconée est recommandée. Une fois reconstituée à pH 6,0, elle reste stable jusqu'à 2 mois à 4 °C.",
+      "variant_name_fr": "Ampoule 250 U",
+      "price_gbp": 164.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/170/851/fa679749-c446-44d9-9dbf-fe856ad75eac/640/fa679749-c446-44d9-9dbf-fe856ad75eac",
+      "specs_fr": {
+        "Origine": "Pancréas porcin (élastase native, cristallisée)",
+        "Type d'enzyme": "Sérine protéase",
+        "pH optimal": "7,8 à 8,5 (pI = 9,5)",
+        "Inhibiteurs": "DFP, élastinal, alpha-2-macroglobuline",
+        "Définition de l'unité": "1,0 µmol de Suc-Ala-Ala-Pro-Abu-pNA hydrolysé par minute à 25 °C, pH 8,0",
+        "Forme physique": "Lyophilisée, tampon tréhalose 50 mM / acide acétique 1 mM",
+        "Conditionnement": "250 U ou 1000 U, ampoule plastique",
+        "Recommandation": "Utiliser de la verrerie siliconée (adhérence au verre)",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "345802-1MG",
+      "slug": "gc-globuline-type-mixte-plasma-humain-sigma-aldrich-1mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Gc-globuline (protéine de liaison à la vitamine D), type mixte — plasma humain",
+      "description_fr": "Gc-globuline native, également appelée protéine de liaison à la vitamine D, isolée à partir de plasma humain de type mixte. Cette chaîne polypeptidique unique, présente dans le plasma à une concentration d'environ 20 à 55 mg/100 ml, assure le transport de la vitamine D dans l'organisme. Elle joue également un rôle dans l'homéostasie de l'actine grâce à une forte affinité de liaison à l'actine monomérique, et se fixe aux membranes des lymphocytes B et T circulants au niveau du site de liaison DBP, de manière non saturable. Préparée à partir de plasma certifié négatif pour l'antigène HBs et les anticorps anti-VIH et anti-VHC, elle est lyophilisée en tampon phosphate de sodium 20 mM / NaCl 150 mM à pH 7,4. Après reconstitution, conserver en aliquotes congelés à -70 °C, stables jusqu'à un an.",
+      "variant_name_fr": "Ampoule 1 mg",
+      "price_gbp": 244.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/156/492/6718c17f-b8f7-461b-b270-5075aa75a1b5/640/6718c17f-b8f7-461b-b270-5075aa75a1b5",
+      "specs_fr": {
+        "Numéro CAS": "68476-36-8",
+        "Origine": "Plasma humain, type mixte (Gc-globuline native)",
+        "Fonction": "Transport de la vitamine D, liaison à l'actine monomérique",
+        "Concentration plasmatique physiologique": "Environ 20 à 55 mg/100 ml",
+        "Forme physique": "Lyophilisée, tampon phosphate de sodium 20 mM / NaCl 150 mM, pH 7,4",
+        "Conservation après reconstitution": "-70 °C, aliquotes, stable jusqu'à 1 an",
+        "Conditionnement": "1 mg, ampoule plastique",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "374805-250MG",
+      "slug": "hemocyanine-patelle-trou-megathura-crenulata-sigma-aldrich-250mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Hémocyanine de patelle-trou (KLH) — Megathura crenulata",
+      "description_fr": "Hémocyanine purifiée à partir de la patelle-trou (Keyhole Limpet), Megathura crenulata — protéine porteuse de référence en immunologie, largement utilisée pour la production d'anticorps contre de petits haptènes grâce à sa forte immunogénicité. Le produit se présente sous forme solide stable, contenant plus de 60 % de protéine dont environ 90 % sous forme d'hémocyanine non dissociée, avec un rapport cuivre/protéine d'au moins 1,5 x 10⁻³. En raison de sa taille moléculaire considérable, la KLH a tendance à s'agréger et à précipiter : la dissolution doit se faire délicatement, à raison de 5-10 mg/ml en PBS ou tampon physiologique équivalent, sans agitation vigoureuse, en maintenant une concentration en magnésium d'au moins 10 mM. Lyophilisée en tampon BES / MgSO4, elle se conserve au réfrigérateur (4 °C) une fois en solution.",
+      "variant_name_fr": "Ampoule 250 mg",
+      "price_gbp": 356.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/246/529/43798d64-0a97-4575-9537-6b76d9c9093a/640/43798d64-0a97-4575-9537-6b76d9c9093a",
+      "specs_fr": {
+        "Origine": "Megathura crenulata (patelle-trou / Keyhole Limpet)",
+        "Teneur en protéine": "≥ 60 %",
+        "Teneur en cuivre": "≥ 0,09 %",
+        "Rapport cuivre/protéine": "≥ 1,5 x 10⁻³",
+        "Forme physique": "Lyophilisée, tampon BES / MgSO4",
+        "Reconstitution": "5-10 mg/ml (protéine) en PBS, addition douce sans agitation vigoureuse, Mg²⁺ ≥ 10 mM",
+        "Conditionnement": "250 mg ou 1 g, ampoule plastique",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "437644-10MG",
+      "slug": "lipoproteines-basse-densite-ldl-plasma-humain-sigma-aldrich-10mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Lipoprotéines de basse densité (LDL) — plasma humain natif",
+      "description_fr": "Lipoprotéines de basse densité (LDL) natives, isolées à partir de plasma humain. Ces lipoprotéines transporteuses de cholestérol assurent l'acheminement des lipides du foie vers les tissus périphériques et constituent un modèle de référence en recherche sur le métabolisme lipidique et l'athérosclérose. Leur composition typique est de 78 à 81 % de lipides pour 19 à 22 % de protéines ; un flacon de 10 mg contient environ 2 mg de protéine. Préparées à partir de plasma certifié négatif pour l'antigène HBs et les anticorps anti-VIH et anti-VHC, elles sont fournies en solution NaCl 150 mM / EDTA 0,01 % à pH 7,4, sans conservateur — une utilisation sous hotte à flux laminaire est recommandée. Après ouverture, le produit reste stable une semaine entre 2 et 8 °C.",
+      "variant_name_fr": "Ampoule 10 mg",
+      "price_gbp": 338.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/198/158/433fb1bd-45c0-432d-a303-5e4c979e450d/640/433fb1bd-45c0-432d-a303-5e4c979e450d",
+      "specs_fr": {
+        "Origine": "Plasma humain natif (LDL)",
+        "Composition": "78-81 % lipides, 19-22 % protéines",
+        "Teneur en protéine": "Environ 2 mg de protéine par flacon de 10 mg",
+        "Forme physique": "Solution, NaCl 150 mM / EDTA 0,01 %, pH 7,4",
+        "Conservation après ouverture": "2 à 8 °C, stable 1 semaine, sans conservateur",
+        "Conditionnement": "10 mg, ampoule plastique",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    },
+    {
+      "sku": "A0170-1ML",
+      "slug": "anticorps-anti-igg-humaine-peroxydase-chevre-sigma-aldrich-1ml",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Anticorps anti-IgG humaine (Fc spécifique) couplé à la peroxydase, produit chez la chèvre",
+      "description_fr": "Anticorps de chèvre dirigé contre le fragment Fc des IgG humaines, conjugué à la peroxydase de raifort selon la méthode au glutaraldéhyde en deux étapes. Purifié par immunoaffinité pour éliminer les protéines sériques caprines non spécifiques, il présente une spécificité confirmée par ELISA vis-à-vis des IgA, IgG (fragments Fab et Fc), IgM ainsi que des protéines de myélome kappa et lambda de Bence Jones, sans réactivité croisée avec les IgG de souris ou de rat. Cité dans plus d'une douzaine de publications, il convient aux applications ELISA (dilution jusqu'à 1:60 000), Dot Blot (jusqu'à 1:100 000), immunohistochimie (environ 1:150) et chromatographie d'affinité. Fourni en solution tampon phosphate salin 0,01 M à pH 7,4 additionnée de MIT comme conservateur ; se conserve jusqu'à un mois à 2-8 °C, ou congelé en aliquotes pour un stockage prolongé.",
+      "variant_name_fr": "Flacon 1 mL",
+      "price_gbp": 296.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/381/103/188cabea-2c1c-4209-a30b-35ec5335092c/640/188cabea-2c1c-4209-a30b-35ec5335092c",
+      "specs_fr": {
+        "Espèce hôte": "Chèvre (polyclonal)",
+        "Cible": "IgG humaine, fragment Fc spécifique",
+        "Conjugué": "Peroxydase de raifort (HRP)",
+        "Applications validées": "ELISA (1:60 000), Dot Blot (1:100 000), immunohistochimie (1:150), chromatographie d'affinité",
+        "Réactivité croisée": "Aucune avec les IgG de souris ou de rat",
+        "Format": "Purifié par immunoaffinité",
+        "Conservation": "2 à 8 °C jusqu'à 1 mois ; congélation en aliquotes pour stockage prolongé",
+        "Conditionnement": "1 mL, tampon phosphate salin 0,01 M pH 7,4, conservateur MIT 0,05 %",
+        "Usage": "Recherche uniquement — non destiné au diagnostic ni à un usage thérapeutique"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "category": {
+    "slug": "biomolecules",
+    "parent_slug": "chimie",
+    "name": { "fr": "Biomolécules" },
+    "description": {
+      "fr": "Réactifs biochimiques et biomolécules de recherche Sigma-Aldrich — protéines, colorants fluorescents, hormones, inhibiteurs enzymatiques et nucléotides pour la biologie cellulaire, la pharmacologie et la biochimie analytique."
+    }
+  },
+  "products": [
+    {
+      "sku": "19459-1MG-F",
+      "slug": "proteine-g-recombinante-sigma-aldrich-e-coli-90",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Protéine G recombinante — issue d'Escherichia coli, pureté ≥90 %",
+      "description_fr": "La protéine G est une petite protéine globulaire de surface cellulaire naturellement produite par des souches de Streptococcus. Cette version recombinante est exprimée dans Escherichia coli et conserve la structure en deux à trois domaines quasi identiques de 55 acides aminés qui lui confère une forte affinité pour le fragment Fc des immunoglobulines G (IgG) d'un grand nombre d'espèces. Contrairement à la protéine A, elle ne reconnaît ni les IgM, ni les IgA, ni les IgE, ni l'albumine sérique, ce qui en fait un réactif de choix pour la purification et la détection spécifiques des IgG en immunochimie, ELISA ou Western blot. Fournie sous forme de poudre lyophilisée dans un tampon PBS à pH 7,4, elle se reconstitue facilement avant utilisation.",
+      "variant_name_fr": "Flacon 1 mg, poudre lyophilisée",
+      "price_gbp": 241.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/379/398/68cc1676-79f9-4fb6-aa14-2334f68cf301/640/68cc1676-79f9-4fb6-aa14-2334f68cf301",
+      "specs_fr": {
+        "Source": "Recombinante, exprimée dans Escherichia coli",
+        "Pureté": "≥ 90 %",
+        "Forme physique": "Poudre lyophilisée, tampon PBS pH 7,4",
+        "Spécificité": "Fragment Fc des IgG (large spectre d'espèces)",
+        "Conditionnement": "1 mg"
+      }
+    },
+    {
+      "sku": "81845-25MG",
+      "slug": "iodure-de-propidium-sigma-aldrich-94-hplc-25mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Iodure de propidium, pureté ≥94 % (HPLC)",
+      "description_fr": "L'iodure de propidium est un agent intercalant fluorescent largement utilisé pour le marquage de l'ADN. Il s'intercale entre les bases des acides nucléiques et permet de distinguer les cellules mortes des cellules vivantes, la molécule ne traversant pas les membranes plasmiques intactes. Il est couramment employé en cytométrie en flux pour l'analyse du cycle cellulaire, en microscopie pour le marquage nucléaire, dans les tests de transfert de colorant par scrape-loading, ainsi que comme marqueur d'apoptose grâce à sa capacité de liaison linéaire à l'ADN. Conditionné en flacon de verre à fond amovible, le produit se trouve à l'intérieur d'un cône fusionné inséré.",
+      "variant_name_fr": "Flacon 25 mg",
+      "price_gbp": 79.44,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/361/591/sial_81845_p/sial_81845_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 94 % (HPLC)",
+        "Domaine d'application": "Marquage ADN, cytométrie en flux, analyse du cycle cellulaire, marqueur d'apoptose",
+        "Conditionnement": "25 ou 100 mg, flacon en verre",
+        "Type de flacon": "Fond amovible, cône fusionné inséré"
+      }
+    },
+    {
+      "sku": "A8423-1G",
+      "slug": "chlorhydrate-amiodarone-sigma-aldrich-98-1g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Chlorhydrate d'amiodarone, pureté ≥98 %",
+      "description_fr": "Le chlorhydrate d'amiodarone est un bloqueur non sélectif de canaux ioniques doté d'une activité fongicide à large spectre. Chez Saccharomyces cerevisiae, il provoque un afflux immédiat de calcium suivi d'une fragmentation mitochondriale et de la mort cellulaire, ce qui en fait un outil de recherche apprécié en biologie fongique et en toxicologie. La molécule a également servi à étudier son interaction avec la cystéamine dans la stimulation de l'autophagie sur lignées cellulaires biosenseurs, ainsi que dans des criblages toxicogénomiques larvaires et adultes visant à analyser les effets transcriptionnels de composés pharmaceutiques. Développé initialement par les laboratoires Wyeth, ce composé est aussi étudié dans le suivi des substances perturbatrices thyroïdiennes présentes dans les effluents de stations d'épuration.",
+      "variant_name_fr": "Flacon 1 g, poudre",
+      "price_gbp": 95.04,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/177/048/sigma_a8423_p/sigma_a8423_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 98 %",
+        "Conditionnement": "1, 5 ou 10 g, flacon plastique",
+        "Mécanisme d'action": "Bloqueur non sélectif de canaux ioniques, activité fongicide",
+        "Substrats enzymatiques associés": "CYP2C8/9, CYP3A (voie mineure), CYP2D6, CYP2A6, CYP2B6"
+      }
+    },
+    {
+      "sku": "A8674-25MG",
+      "slug": "antimycine-a-sigma-aldrich-streptomyces-25mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Antimycine A, issue de Streptomyces sp.",
+      "description_fr": "L'antimycine A est un peptide naturel produit par des espèces de Streptomyces, reconnu comme puissant inhibiteur du complexe III de la chaîne respiratoire mitochondriale. Cette inhibition favorise la production d'espèces réactives de l'oxygène (ROS) et perturbe la dépolarisation mitochondriale, tout en bloquant l'apoptose médiée par le monoxyde d'azote et en modulant la libération du cytochrome C. Le composé est utilisé en recherche comme inhibiteur de la chaîne respiratoire dans des cultures neuronales, pour des tests de production d'ATP organellaire chez Trypanosoma brucei, ainsi que dans des essais de respiration sur lignées de carcinome papillaire thyroïdien. Des travaux ont également exploré son potentiel dans l'étude du stress oxydatif musculaire chez des patients atteints de bronchopneumopathie chronique obstructive. Le produit correspond à un mélange d'antimycines.",
+      "variant_name_fr": "Flacon 25 mg",
+      "price_gbp": 66.72,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/158/222/sigma_a8674_p/sigma_a8674_p_w640",
+      "specs_fr": {
+        "Origine": "Streptomyces sp.",
+        "Nature chimique": "Peptide (mélange d'antimycines)",
+        "Conditionnement": "25, 50 ou 100 mg, flacon en verre",
+        "Mécanisme d'action": "Inhibiteur du complexe III de la chaîne de transport d'électrons, induit l'apoptose"
+      }
+    },
+    {
+      "sku": "A9477-5MG",
+      "slug": "aldosterone-sigma-aldrich-95-hplc-5mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Aldostérone, pureté ≥95 % (HPLC)",
+      "description_fr": "L'aldostérone est une hormone minéralocorticoïde biologiquement active, sécrétée par le cortex surrénalien sous contrôle de l'hormone corticotrope (ACTH). Elle joue un rôle central dans l'homéostasie sodique en stimulant l'excrétion urinaire du potassium et la réabsorption rénale du sodium au niveau des tubules distaux, dans le cadre du système rénine-angiotensine-aldostérone (SRAA). En se liant au récepteur minéralocorticoïde, elle peut moduler le système vasculaire et contribuer à des lésions rénales, notamment dans la progression de la maladie rénale chronique. Elle a été utilisée en recherche comme supplément de milieu RPMI-1640 pour la culture de podocytes dans l'étude de la glomérulopathie liée à l'obésité, en association avec un régime riche en sel pour induire des lésions rénales chez la souris, ainsi que pour la stimulation de cellules endothéliales sinusoïdales hépatiques. Le produit existe en équilibre entre sa forme aldéhyde et son hémiacétal.",
+      "variant_name_fr": "Flacon 5 mg",
+      "price_gbp": 111.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/365/047/sigma_a9477_p/sigma_a9477_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 95 % (HPLC)",
+        "Conditionnement": "5, 25 ou 100 mg",
+        "Famille": "Minéralocorticoïde, système rénine-angiotensine-aldostérone (SRAA)",
+        "Forme": "Équilibre aldéhyde / hémiacétal"
+      }
+    },
+    {
+      "sku": "B0560-1MG",
+      "slug": "blebbistatine-sigma-aldrich-synthetique-1mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "(−)-Blebbistatine, solide, synthèse",
+      "description_fr": "La (−)-blebbistatine est un inhibiteur sélectif de la myosine II non musculaire, agissant comme inhibiteur du cycle cellulaire sans affecter les autres membres de la superfamille des myosines (I, V, X). En bloquant l'ATPase de la myosine II, elle est largement employée comme agent de découplage excitation-contraction en physiologie cardiovasculaire, notamment pour étudier la contractilité cardiaque et l'effet de la thrombine sur la contractilité actomyosine. Elle stabilise l'état inactif du filament épais du muscle cardiaque, réduisant ainsi la contractilité, et contrôle l'effet inhibiteur de la thrombine sur la propagation des ondes calciques intercellulaires. Ce composé est très sensible à la lumière : la photodégradation inverse totalement son activité, une précaution à prendre lors de la manipulation et du stockage.",
+      "variant_name_fr": "Flacon 1 mg",
+      "price_gbp": 139.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/280/734/sigma_b0560_p/sigma_b0560_p_w640",
+      "specs_fr": {
+        "Conditionnement": "1 ou 5 mg, flacon en verre",
+        "Mécanisme d'action": "Inhibiteur sélectif de la myosine II non musculaire (ATPase)",
+        "Sensibilité": "Photosensible — photodégradation réversible de l'activité",
+        "Origine": "Synthétique"
+      }
+    },
+    {
+      "sku": "C0768-1G",
+      "slug": "cyclophosphamide-monohydrate-sigma-aldrich-hplc-vrac-1g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Cyclophosphamide monohydraté, qualité HPLC, conditionnement en vrac",
+      "description_fr": "Le cyclophosphamide monohydraté est un agent alkylant cytotoxique de la famille des moutardes azotées, largement utilisé en chimiothérapie anticancéreuse. Il agit par réticulation de l'ADN, provoquant des cassures de brins et induisant des mutations ; son activité clinique est associée à une diminution de l'activité de l'aldéhyde déshydrogénase 1 (ALDH1). Activé par le système enzymatique du cytochrome P-450 au niveau hépatique, il possède des propriétés immunomodulatrices et inhibe à la fois l'immunité humorale et cellulaire. En recherche, ce composé a été utilisé pour évaluer son effet antitumoral sur des cellules TC-1, comme composant de solutions multi-médicaments pour l'isolement de lignées de lymphome de Burkitt résistantes, ainsi que pour tester l'immunité antitumorale sur des lignées murines. Fourni en conditionnement en vrac de qualité HPLC.",
+      "variant_name_fr": "Flacon 1 g, vrac",
+      "price_gbp": 63.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/312/152/sigma_c0768_p/sigma_c0768_p_w640",
+      "specs_fr": {
+        "Pureté": "Qualité HPLC",
+        "Conditionnement": "1, 5, 10 ou 25 g, flacon en verre, vrac",
+        "Classe": "Agent alkylant cytotoxique (moutarde azotée)",
+        "Mécanisme d'action": "Réticulation de l'ADN, immunomodulation"
+      }
+    },
+    {
+      "sku": "C1506-250MG",
+      "slug": "cytidine-5-triphosphate-disodique-sigma-aldrich-95-250mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Sel disodique de cytidine 5'-triphosphate, pureté ≥95 %",
+      "description_fr": "Le sel disodique de cytidine 5'-triphosphate (CTP) est un nucléoside triphosphate à noyau pyrimidique, naturellement présent dans l'ARN. À l'instar de l'ATP, il constitue une molécule à haute énergie et intervient comme coenzyme dans la biosynthèse des glycérophospholipides et la glycosylation des protéines ; il inhibe par ailleurs l'aspartate carbamoyltransférase, enzyme clé de la biosynthèse des pyrimidines, et agit comme agoniste du récepteur purinergique P2X4. En recherche, il est utilisé pour la conversion de l'AMP en ADP dans les dosages par luminométrie, pour la préparation de stocks de précurseurs ribonucléotidiques triphosphates destinés à la synthèse d'ARN à grande échelle, ainsi que pour la transcription in vitro. Livré en flacon de verre à fond amovible, le contenu se trouve à l'intérieur d'un cône fusionné inséré.",
+      "variant_name_fr": "Flacon 250 mg",
+      "price_gbp": 232.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/765/858/sigma_c1506_p/sigma_c1506_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 95 %",
+        "Conditionnement": "250 mg, flacon en verre à fond amovible",
+        "Fonction biologique": "Nucléoside triphosphate, précurseur ARN, agoniste P2X4",
+        "Applications": "Transcription in vitro, synthèse d'ARN, dosages par luminométrie"
+      }
+    },
+    {
+      "sku": "C2755-1G",
+      "slug": "cortisone-sigma-aldrich-98-1g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Cortisone, pureté ≥98 %",
+      "description_fr": "La cortisone est un glucocorticoïde analogue de la corticostérone, dotée d'un pouvoir anti-inflammatoire environ deux fois supérieur mais d'une rétention sodique nettement plus faible. Connue également sous le nom de 11-déhydro-17-hydroxycorticostérone, elle possède des propriétés anti-inflammatoires, anti-allergiques et immunosuppressives qui en font un objet d'étude classique en pharmacologie des glucocorticoïdes, bien qu'elle soit aussi rapportée pour retarder la cicatrisation post-chirurgicale en affectant l'apparition des cellules inflammatoires, la substance fondamentale, les fibroblastes, le collagène, les capillaires en régénération et la migration épithéliale. Elle a notamment servi à valider un inhibiteur de la 11β-hydroxystéroïde déshydrogénase de type 1, à étudier la sensibilité des progéniteurs érythropoïétiques et granulopoïétiques, et à déterminer les taux d'oxydation du cortisol par la 11β-HSD.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 62.52,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/318/269/sigma_c2755_p/sigma_c2755_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 98 %",
+        "Conditionnement": "250 mg, 1 g ou 5 g, flacon en verre",
+        "Classe": "Glucocorticoïde (analogue de la corticostérone)",
+        "Activité": "Anti-inflammatoire, anti-allergique, immunosuppressive"
+      }
+    },
+    {
+      "sku": "C2759-100MG",
+      "slug": "carbonyl-cyanure-cccp-sigma-aldrich-97-tlc-100mg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Carbonyl cyanure 3-chlorophénylhydrazone (CCCP), pureté ≥97 % (CCM), poudre",
+      "description_fr": "Le carbonyl cyanure 3-chlorophénylhydrazone (CCCP) est un protonophore (ionophore H+) découplant la phosphorylation oxydative mitochondriale, largement utilisé comme inducteur de mitophagie dans les cellules de mammifères. Il réprime l'expression de plusieurs protéines de la chaîne de transport d'électrons et exerce de multiples effets sur la signalisation calcique cellulaire ; il inhibe également la sécrétion de lipase hépatique et bloque partiellement les activités d'absorption de chlorure et d'échange Cl-/Cl- dépendantes du gradient de pH au niveau des vésicules de membrane en bordure en brosse. En recherche, ce composé a été employé pour inhiber la pompe à efflux de souches cliniques de Pseudomonas aeruginosa, pour bloquer l'activité de phosphorylation oxydative mitochondriale dans des cellules épithéliales bronchiques humaines Beas-2B, ainsi que pour induire un stress oxydatif et mitochondrial déclenchant la mitophagie chez Caenorhabditis elegans.",
+      "variant_name_fr": "Flacon 100 mg",
+      "price_gbp": 33.12,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/b2b/images/584/522/sigma_c2759_p/sigma_c2759_p_w640",
+      "specs_fr": {
+        "Pureté": "≥ 97 % (CCM/TLC)",
+        "Forme physique": "Poudre",
+        "Conditionnement": "100 mg (insert verre), 250 mg ou 1 g",
+        "Mécanisme d'action": "Protonophore découplant la phosphorylation oxydative mitochondriale, inducteur de mitophagie"
+      }
+    }
+  ]
+}

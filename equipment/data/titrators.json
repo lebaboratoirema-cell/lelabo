@@ -1,0 +1,162 @@
+{
+  "category": {
+    "slug": "titrators",
+    "parent_slug": "equipements",
+    "name": { "fr": "Titrateurs", "en": "Titrators" },
+    "description": {
+      "fr": "Titrateurs automatiques Thermo Scientific Orion Star — titrages pH, redox et ioniques, workflow automatisé, base d'applications préprogrammées, kits électrodes en option."
+    }
+  },
+  "products": [
+    {
+      "sku": "START9100",
+      "slug": "titrateur-thermo-scientific-orion-star-t910-ph-sans-electrode",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur pH Thermo Scientific Orion Star T910 — sans électrode",
+      "description_fr": "Titrateur dédié aux titrages acido-basiques : acidité titrable des jus et vins, acidité des produits alimentaires, alcalinité des eaux, indice d'acide (TAN) et indice de base (TBN) total. Titrages au point d'équivalence ou à point de consigne pH préréglé. Workflow automatisé avec paramètres et calculs reproductibles, méthodes enregistrables, fonctionnement sans surveillance, journal de données 100 points, base d'applications préprogrammées validées. Livré sans électrode — à associer à une électrode pH ROSS au choix.",
+      "variant_name_fr": "Titrateur seul, sans électrode",
+      "price_gbp": 3948.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9100",
+      "specs_fr": {
+        "Type de titrage": "pH — point d'équivalence et point de consigne préréglé",
+        "Électrode incluse": "Non",
+        "Journal de données": "100 points"
+      }
+    },
+    {
+      "sku": "START9101",
+      "slug": "titrateur-thermo-scientific-orion-star-t910-ph-kit-ross-standard",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur pH Thermo Scientific Orion Star T910 — kit ROSS standard",
+      "description_fr": "Titrateur T910 livré avec électrode pH ROSS Ultra 8102BNUWP et sonde de température ATC inox 927007MD, kit idéal pour la majorité des titrages pH standards, notamment les titrages à point de consigne préréglé avec compensation de température. Workflow automatisé, méthodes enregistrables, journal de données 100 points, base d'applications préprogrammées.",
+      "variant_name_fr": "Kit ROSS standard, avec électrode et sonde ATC",
+      "price_gbp": 4299.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9101",
+      "specs_fr": {
+        "Type de titrage": "pH — point d'équivalence et point de consigne préréglé",
+        "Électrode incluse": "ROSS Ultra 8102BNUWP + sonde ATC inox 927007MD",
+        "Journal de données": "100 points"
+      }
+    },
+    {
+      "sku": "START9102",
+      "slug": "titrateur-thermo-scientific-orion-star-t910-ph-kit-ross-sure-flow",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur pH Thermo Scientific Orion Star T910 — kit ROSS Sure-Flow",
+      "description_fr": "Titrateur T910 livré avec électrode pH ROSS Sure-Flow 8172BNWP, conçue pour les échantillons difficiles qui colmatent les électrodes pH standards ou nécessitant une jonction à manchon à écoulement rapide. Workflow automatisé, méthodes enregistrables, journal de données 100 points.",
+      "variant_name_fr": "Kit ROSS Sure-Flow",
+      "price_gbp": 4336.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9102",
+      "specs_fr": {
+        "Type de titrage": "pH — point d'équivalence et point de consigne préréglé",
+        "Électrode incluse": "ROSS Sure-Flow 8172BNWP",
+        "Journal de données": "100 points"
+      }
+    },
+    {
+      "sku": "START9200",
+      "slug": "titrateur-thermo-scientific-orion-star-t920-redox-seul",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur redox Thermo Scientific Orion Star T920 — sans électrode",
+      "description_fr": "Titrateur dédié aux titrages redox : sulfite/SO2 et sucres réducteurs dans jus et vins, acide ascorbique (vitamine C) et indice de peroxyde dans les produits alimentaires, oxygène dissous des eaux usées par titrage Winkler, matière organique des sols. Titrages au point d'équivalence ou à point de consigne mV préréglé. Livré sans électrode — à associer à une électrode redox Orion au choix.",
+      "variant_name_fr": "Titrateur seul, sans électrode",
+      "price_gbp": 4519.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9200",
+      "specs_fr": {
+        "Type de titrage": "Redox — point d'équivalence et point de consigne mV préréglé",
+        "Électrode incluse": "Non",
+        "Journal de données": "100 points"
+      }
+    },
+    {
+      "sku": "START9201",
+      "slug": "titrateur-thermo-scientific-orion-star-t920-redox-kit",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur redox Thermo Scientific Orion Star T920 — kit standard",
+      "description_fr": "Titrateur T920 livré avec électrode redox 9778BNWP à corps en verre robuste, offrant une bonne résistance chimique pour une grande variété d'échantillons — kit idéal pour la majorité des titrages redox standards.",
+      "variant_name_fr": "Kit standard, avec électrode redox",
+      "price_gbp": 4676.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9201",
+      "specs_fr": {
+        "Type de titrage": "Redox — point d'équivalence et point de consigne mV préréglé",
+        "Électrode incluse": "Redox 9778BNWP, corps en verre",
+        "Journal de données": "100 points"
+      }
+    },
+    {
+      "sku": "START9300",
+      "slug": "titrateur-thermo-scientific-orion-star-t930-ionique-seul",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur ionique Thermo Scientific Orion Star T930 — sans électrode",
+      "description_fr": "Titrateur dédié aux titrages ioniques : sel dans les aliments, chlorure des eaux potables et usées, ammoniac des eaux usées, tensioactifs des produits de consommation, dureté totale de l'eau. Mode d'ajout connu multiple (MKA) : le titrateur réalise un étalonnage et un calcul de concentration automatisés par ajout d'aliquotes de standard à l'échantillon, sans étalonnage séparé et en limitant les effets de matrice. Fourni avec burette 20 mL, sonde d'agitation, sonde de distribution, kit de tubulure, flacon plastique 1 L, bouchon GL38 à deux orifices et tube de séchage, câble informatique, documentation sur clé USB, alimentations 110-240V. Livré sans électrode.",
+      "variant_name_fr": "Titrateur seul, sans électrode",
+      "price_gbp": 5259.60,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9300",
+      "specs_fr": {
+        "Type de titrage": "Ionique — point d'équivalence, point de consigne mV et mode MKA",
+        "Électrode incluse": "Non",
+        "Alimentation": "110-240 V"
+      }
+    },
+    {
+      "sku": "START9301",
+      "slug": "titrateur-thermo-scientific-orion-star-t930-ionique-kit-sel",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur ionique Thermo Scientific Orion Star T930 — kit teneur en sel",
+      "description_fr": "Titrateur T930 livré avec électrode billet argent 9780SC et câble d'électrode 91CBNC, kit dédié à la mesure de la teneur en sel. Fourni avec burette 20 mL, sonde d'agitation, sonde de distribution, kit de tubulure, flacon plastique 1 L, bouchon GL38 à deux orifices et tube de séchage, câble informatique, documentation sur clé USB, alimentations 110-240V.",
+      "variant_name_fr": "Kit teneur en sel, avec électrode billet argent",
+      "price_gbp": 5440.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9301",
+      "specs_fr": {
+        "Type de titrage": "Ionique — teneur en sel, mode MKA",
+        "Électrode incluse": "Billet argent 9780SC + câble 91CBNC",
+        "Alimentation": "110-240 V"
+      }
+    },
+    {
+      "sku": "START9400",
+      "slug": "titrateur-thermo-scientific-orion-star-t940-tout-en-un-seul",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur tout-en-un Thermo Scientific Orion Star T940 — sans électrode",
+      "description_fr": "Titrateur polyvalent pour titrages pH, redox et de concentration ionique : point d'équivalence, point de consigne pH ou mV préréglé, et mode d'ajout connu multiple (MKA) pour l'ajout automatisé de divers ions. Fourni avec burette 20 mL, sonde d'agitation, sonde de distribution, kit de tubulure, flacon plastique 1 L, bouchon GL38 à deux orifices et tube de séchage, câble informatique, documentation sur clé USB, alimentations 110-240V. Livré sans électrode — à associer à une électrode ROSS, redox ou ionique Orion au choix.",
+      "variant_name_fr": "Titrateur seul, sans électrode",
+      "price_gbp": 6109.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9400",
+      "specs_fr": {
+        "Type de titrage": "pH, redox et ionique — point d'équivalence, point de consigne et mode MKA",
+        "Électrode incluse": "Non",
+        "Alimentation": "110-240 V"
+      }
+    },
+    {
+      "sku": "START9401",
+      "slug": "titrateur-thermo-scientific-orion-star-t940-tout-en-un-kit-ross",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur tout-en-un Thermo Scientific Orion Star T940 — kit ROSS standard",
+      "description_fr": "Titrateur T940 livré avec électrode pH ROSS Ultra 8102BNUWP et sonde de température ATC inox 927007MD, kit idéal pour la majorité des titrages pH standards, notamment à point de consigne préréglé avec compensation de température.",
+      "variant_name_fr": "Kit ROSS standard, avec électrode et sonde ATC",
+      "price_gbp": 6510.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9401",
+      "specs_fr": {
+        "Type de titrage": "pH, redox et ionique — point d'équivalence, point de consigne et mode MKA",
+        "Électrode incluse": "ROSS Ultra 8102BNUWP + sonde ATC inox 927007MD",
+        "Alimentation": "110-240 V"
+      }
+    },
+    {
+      "sku": "START9402",
+      "slug": "titrateur-thermo-scientific-orion-star-t940-tout-en-un-kit-sure-flow",
+      "brand": "Thermo Scientific",
+      "name_fr": "Titrateur tout-en-un Thermo Scientific Orion Star T940 — kit ROSS Sure-Flow",
+      "description_fr": "Titrateur T940 livré avec électrode pH ROSS Sure-Flow 8172BNWP, conçue pour les échantillons difficiles qui colmatent les électrodes pH standards ou nécessitant une jonction à manchon à écoulement rapide.",
+      "variant_name_fr": "Kit ROSS Sure-Flow",
+      "price_gbp": 6535.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/START9402",
+      "specs_fr": {
+        "Type de titrage": "pH, redox et ionique — point d'équivalence, point de consigne et mode MKA",
+        "Électrode incluse": "ROSS Sure-Flow 8172BNWP",
+        "Alimentation": "110-240 V"
+      }
+    }
+  ]
+}

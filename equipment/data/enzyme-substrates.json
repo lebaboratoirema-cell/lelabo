@@ -1,0 +1,178 @@
+{
+  "category": {
+    "slug": "enzyme-substrates",
+    "parent_slug": "chimie",
+    "name": { "fr": "Substrats enzymatiques" },
+    "description": {
+      "fr": "Substrats et réactifs biochimiques Sigma-Aldrich pour dosages enzymatiques, immunodosages ELISA, études du métabolisme et tests de viabilité cellulaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "73572-50MG",
+      "slug": "glyceraldehyde-l-sigma-aldrich-95-hplc-50mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "L-(-)-Glycéraldéhyde Sigma-Aldrich, pureté ≥95 % (HPLC)",
+      "description_fr": "Le L-(-)-glycéraldéhyde est un triose intervenant comme intermédiaire clé du métabolisme des glucides, utilisé en recherche biochimique pour l'étude des voies glycolytiques et de la synthèse des sucres. Ce lot est certifié à une pureté supérieure ou égale à 95 % par HPLC, garantissant une reproductibilité analytique adaptée aux protocoles de laboratoire exigeants. Le produit est conditionné en flacon de verre à fond amovible, le contenu étant scellé dans un cône fusionné inséré afin de limiter l'exposition à l'humidité et faciliter le prélèvement de petites quantités.",
+      "variant_name_fr": "Flacon 50 mg",
+      "price_gbp": 117.12,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/796/377/e7f04112-8205-4b75-b90f-e3b26a049a09/640/e7f04112-8205-4b75-b90f-e3b26a049a09",
+      "specs_fr": {
+        "Pureté": "≥95 % (HPLC)",
+        "Domaine d'application": "Intermédiaire du métabolisme des glucides",
+        "Conditionnement": "Flacon en verre à fond amovible, cône fusionné inséré",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "77140-10MG",
+      "slug": "peptidoglycane-staphylococcus-aureus-sigma-aldrich-10mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Peptidoglycane de Staphylococcus aureus, composant de paroi cellulaire",
+      "description_fr": "Extrait de la paroi cellulaire de Staphylococcus aureus, ce peptidoglycane constitue un réactif de référence pour l'étude de l'immunité innée : il active le récepteur Toll-like 2 (TLR2) présent sur les cellules mammifères et agit comme antagoniste du poly(I:C) lors d'essais de stimulation lymphocytaire. Il est également employé pour induire l'expression du lysozyme de type g ou du gène NOD-2 dans des modèles expérimentaux sur poisson. Structurellement, il s'agit d'un polymère de chaînes glycanes reliées par des ponts peptidiques, alternant des résidus de N-acétyl-D-glucosamine et d'acide muramique liés en β1-4, qui confère rigidité et résistance mécanique à la paroi des bactéries à Gram positif. Livré en flacon de verre à fond amovible avec cône fusionné inséré.",
+      "variant_name_fr": "Flacon 10 mg",
+      "price_gbp": 302.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/200/129/8632e924-7945-41b4-a875-8bfef74f777d/640/8632e924-7945-41b4-a875-8bfef74f777d",
+      "specs_fr": {
+        "Origine": "Staphylococcus aureus (paroi cellulaire)",
+        "Structure": "Chaîne glycane N-acétyl-D-glucosamine / acide muramique, liaisons β1-4",
+        "Application": "Stimulation immunitaire, activation TLR2, études NOD-2",
+        "Conditionnement": "Flacon en verre à fond amovible, cône fusionné inséré",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "88417-1G",
+      "slug": "mtt-formazan-produit-reduction-sigma-aldrich-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "MTT-Formazan, produit final de réduction du MTT",
+      "description_fr": "Le MTT-formazan est le produit coloré résultant de la réduction enzymatique du bromure de 3-[4,5-diméthylthiazol-2-yl]-2,5-diphényltétrazolium (MTT), une réaction catalysée par les déshydrogénases mitochondriales des cellules vivantes. Ce composé, insoluble dans l'eau et de couleur violette, sert d'étalon de référence pour le dosage colorimétrique de la viabilité cellulaire : la quantité de formazan produite est proportionnelle au nombre de cellules viables et se mesure par spectrophotométrie à 570 nm. Ce produit est particulièrement utile pour calibrer et valider les protocoles de test MTT en cytotoxicologie et pharmacologie cellulaire.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 163.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/243/086/55287ef9-9fc1-45d4-b488-7f30a154b131/640/55287ef9-9fc1-45d4-b488-7f30a154b131",
+      "specs_fr": {
+        "Application": "Étalon pour dosage de viabilité cellulaire (test MTT)",
+        "Longueur d'onde de lecture": "570 nm",
+        "Aspect": "Produit insoluble dans l'eau, coloration violette",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "90790-10MG",
+      "slug": "acide-l-alpha-hydroxyglutarique-disodium-sigma-aldrich-98gc-10mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sel disodique de l'acide L-alpha-hydroxyglutarique, pureté ≥98 % (GC)",
+      "description_fr": "Ce sel disodique de l'acide L-alpha-hydroxyglutarique, certifié à une pureté supérieure ou égale à 98 % par chromatographie en phase gazeuse, est employé dans les tampons de collecte pour améliorer la récupération du facteur inductible par l'hypoxie HIF-1α, marqueur clé de l'hypoxie tumorale. Il trouve également une application dans les essais radiomarqués de conversion 5mC-5hmC, utilisés pour étudier l'action du 2-HG sur la famille des méthylhydroxylases TET. Sur le plan métabolique, ce composé s'accumule en cas de déficit de la L-2-hydroxyglutarate déshydrogénase, une anomalie associée à l'acidurie L-2-hydroxyglutarique et à un risque accru de tumeurs cérébrales ; il constitue également un intermédiaire du métabolisme de l'acide glyoxylique chez certaines bactéries. Conditionné en flacon de verre à fond amovible avec cône fusionné inséré.",
+      "variant_name_fr": "Flacon 10 mg",
+      "price_gbp": 100.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/113/961/4adfcbe1-128e-4af7-9ed2-7b79bccb9082/640/4adfcbe1-128e-4af7-9ed2-7b79bccb9082",
+      "specs_fr": {
+        "Pureté": "≥98 % (GC)",
+        "Application": "Étude de l'hypoxie (HIF-1α), essais de conversion 5mC-5hmC",
+        "Conditionnement": "Flacon en verre à fond amovible, cône fusionné inséré",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A0262-1G",
+      "slug": "acetylphosphate-lithium-potassium-donneur-phosphate-sigma-aldrich-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acétylphosphate de lithium et de potassium, donneur de phosphate à haute énergie",
+      "description_fr": "L'acétylphosphate de lithium et de potassium est la source de référence pour générer de l'acétylphosphate en solution, un donneur de groupement phosphate à haute énergie utilisé en biochimie enzymatique. Il sert notamment de substrat lors d'études de cristallographie aux rayons X pour obtenir la forme phosphorylée du domaine récepteur du facteur de transcription CpxR, ainsi que dans le criblage de donneurs de phosphate organiques naturels et synthétiques pour la synthèse enzymatique de monoesters phosphates. Il entre également dans la composition de mélanges réactionnels pour la traduction in vitro. Grâce à sa capacité à remplacer les oligophosphates inorganiques dans les réactions de transphosphorylation catalysées par des phosphatases, il permet de limiter la formation de sous-produits monophosphates.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 148.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/367/830/9e88563c-b58e-47bd-a17c-42bce11beb0a/640/9e88563c-b58e-47bd-a17c-42bce11beb0a",
+      "specs_fr": {
+        "Fonction": "Donneur de groupement phosphate à haute énergie (source d'acétylphosphate)",
+        "Application": "Phosphorylation enzymatique, cristallographie, traduction in vitro",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A1888-1G",
+      "slug": "abts-sel-diammonium-substrat-peroxydase-sigma-aldrich-98hplc-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sel diammonium d'ABTS, substrat chromogène pour peroxydase, pureté ≥98 % (HPLC)",
+      "description_fr": "L'ABTS (acide 2,2'-azino-bis(3-éthylbenzothiazoline-6-sulfonique), sel diammonium) est un substrat chromogène soluble dans l'eau, largement utilisé dans les tests ELISA en microplaque pour la détection d'activités peroxydase, notamment avec la HRP, ou en combinaison avec la laccase et la bilirubine oxydase. En présence de peroxyde d'hydrogène, la réaction enzymatique produit un composé vert soluble, mesurable par spectrophotométrie à 405 nm, dont la réaction peut être stoppée par ajout de dodécylsulfate de sodium (SDS) à 1 %. Comparé aux substrats TMB et OPD, l'ABTS est moins facilement oxydé et donc moins sensible, ce qui le rend avantageux lorsque le bruit de fond est élevé. Il est également utilisé dans l'industrie agroalimentaire pour mesurer la capacité antioxydante des aliments et pour le suivi des concentrations de glucose dans des solutions biologiques telles que le sérum sanguin. Ce composé est photosensible et doit être conservé à l'abri de la lumière.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 102.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/532/940/deb9d6ef-d0d3-494f-a716-1a3d8db61593/640/deb9d6ef-d0d3-494f-a716-1a3d8db61593",
+      "specs_fr": {
+        "Pureté": "≥98 % (HPLC)",
+        "Longueur d'onde de lecture": "405 nm",
+        "Sensibilité à la lumière": "Oui — conserver à l'abri de la lumière",
+        "Application": "Substrat ELISA (microplaque), mesure de capacité antioxydante, suivi du glucose",
+        "Conditionnement": "Flacon polymère (1, 2 ou 5 g)",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A1888-2G",
+      "slug": "abts-sel-diammonium-substrat-peroxydase-sigma-aldrich-98hplc-2g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sel diammonium d'ABTS, substrat chromogène pour peroxydase, pureté ≥98 % (HPLC)",
+      "description_fr": "L'ABTS (acide 2,2'-azino-bis(3-éthylbenzothiazoline-6-sulfonique), sel diammonium) est un substrat chromogène soluble dans l'eau, largement utilisé dans les tests ELISA en microplaque pour la détection d'activités peroxydase, notamment avec la HRP, ou en combinaison avec la laccase et la bilirubine oxydase. En présence de peroxyde d'hydrogène, la réaction enzymatique produit un composé vert soluble, mesurable par spectrophotométrie à 405 nm, dont la réaction peut être stoppée par ajout de dodécylsulfate de sodium (SDS) à 1 %. Comparé aux substrats TMB et OPD, l'ABTS est moins facilement oxydé et donc moins sensible, ce qui le rend avantageux lorsque le bruit de fond est élevé. Il est également utilisé dans l'industrie agroalimentaire pour mesurer la capacité antioxydante des aliments et pour le suivi des concentrations de glucose dans des solutions biologiques telles que le sérum sanguin. Ce format de 2 g convient aux laboratoires ayant un débit d'analyses plus soutenu. Ce composé est photosensible et doit être conservé à l'abri de la lumière.",
+      "variant_name_fr": "Flacon 2 g",
+      "price_gbp": 126.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/532/940/deb9d6ef-d0d3-494f-a716-1a3d8db61593/640/deb9d6ef-d0d3-494f-a716-1a3d8db61593",
+      "specs_fr": {
+        "Pureté": "≥98 % (HPLC)",
+        "Longueur d'onde de lecture": "405 nm",
+        "Sensibilité à la lumière": "Oui — conserver à l'abri de la lumière",
+        "Application": "Substrat ELISA (microplaque), mesure de capacité antioxydante, suivi du glucose",
+        "Conditionnement": "Flacon polymère (1, 2 ou 5 g)",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A1888-5G",
+      "slug": "abts-sel-diammonium-substrat-peroxydase-sigma-aldrich-98hplc-5g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Sel diammonium d'ABTS, substrat chromogène pour peroxydase, pureté ≥98 % (HPLC)",
+      "description_fr": "L'ABTS (acide 2,2'-azino-bis(3-éthylbenzothiazoline-6-sulfonique), sel diammonium) est un substrat chromogène soluble dans l'eau, largement utilisé dans les tests ELISA en microplaque pour la détection d'activités peroxydase, notamment avec la HRP, ou en combinaison avec la laccase et la bilirubine oxydase. En présence de peroxyde d'hydrogène, la réaction enzymatique produit un composé vert soluble, mesurable par spectrophotométrie à 405 nm, dont la réaction peut être stoppée par ajout de dodécylsulfate de sodium (SDS) à 1 %. Comparé aux substrats TMB et OPD, l'ABTS est moins facilement oxydé et donc moins sensible, ce qui le rend avantageux lorsque le bruit de fond est élevé. Il est également utilisé dans l'industrie agroalimentaire pour mesurer la capacité antioxydante des aliments et pour le suivi des concentrations de glucose dans des solutions biologiques telles que le sérum sanguin. Le conditionnement de 5 g est destiné aux laboratoires à fort volume de tests. Ce composé est photosensible et doit être conservé à l'abri de la lumière.",
+      "variant_name_fr": "Flacon 5 g",
+      "price_gbp": 372.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/532/940/deb9d6ef-d0d3-494f-a716-1a3d8db61593/640/deb9d6ef-d0d3-494f-a716-1a3d8db61593",
+      "specs_fr": {
+        "Pureté": "≥98 % (HPLC)",
+        "Longueur d'onde de lecture": "405 nm",
+        "Sensibilité à la lumière": "Oui — conserver à l'abri de la lumière",
+        "Application": "Substrat ELISA (microplaque), mesure de capacité antioxydante, suivi du glucose",
+        "Conditionnement": "Flacon polymère (1, 2 ou 5 g)",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A2382-5G",
+      "slug": "azoalbumine-substrat-chromogene-protease-sigma-aldrich-5g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Azoalbumine, substrat chromogène pour protéases",
+      "description_fr": "L'azoalbumine est un substrat chromogène soluble destiné au dosage des enzymes protéolytiques, principalement la trypsine, la pepsine et les protéinases à cystéine. Préparée à partir d'albumine bovine fraction V, elle permet un protocole de mesure précis et simple à mettre en œuvre pour quantifier l'activité protéase dans un échantillon. Ce réactif a notamment été employé pour évaluer l'activité enzymatique d'extraits hyphaux, cribler l'activité protéase générale dans des extraits de milieux de croissance usés, et étudier les protéases de Sclerotium rolfsii. Conditionné en flacon polymère.",
+      "variant_name_fr": "Flacon 5 g",
+      "price_gbp": 241.20,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/357/057/af3a155d-f7b6-41ce-856e-f142cdfcaf52/640/af3a155d-f7b6-41ce-856e-f142cdfcaf52",
+      "specs_fr": {
+        "Origine": "Préparée à partir d'albumine bovine, fraction V",
+        "Enzymes ciblées": "Trypsine, pepsine, protéinase à cystéine",
+        "Conditionnement": "Flacon polymère (5 ou 10 g)",
+        "Référence fournisseur": "SIG001"
+      }
+    },
+    {
+      "sku": "A4685-1G",
+      "slug": "luminol-sel-de-sodium-sigma-aldrich-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Luminol, sel de sodium",
+      "description_fr": "Le sel de sodium du luminol est la forme hydrosoluble de ce réactif chimiluminescent, largement employé en biochimie analytique pour la révélation par électrochimiluminescence dans les immunodosages ainsi que pour la détection de traces sanguines en criminalistique. En présence d'un agent oxydant tel que le peroxyde d'hydrogène et d'un catalyseur, le luminol émet une lumière bleue caractéristique, exploitée dans de nombreux protocoles de détection à haute sensibilité. Ce format en flacon polymère facilite le stockage et la pesée de petites quantités pour la préparation de solutions de travail.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 118.92,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/163/630/66d9a2e7-c68d-4edf-9546-75f0270f2e1b/640/66d9a2e7-c68d-4edf-9546-75f0270f2e1b",
+      "specs_fr": {
+        "Forme": "Sel de sodium, hydrosoluble",
+        "Application": "Réactif chimiluminescent (immunodosages, détection de traces)",
+        "Conditionnement": "Flacon polymère (1, 5 ou 25 g)",
+        "Référence fournisseur": "SIG001"
+      }
+    }
+  ]
+}

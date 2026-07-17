@@ -1,0 +1,190 @@
+{
+  "category": {
+    "slug": "hplc",
+    "parent_slug": "equipements",
+    "name": { "fr": "HPLC — Accessoires et consommables" },
+    "description": {
+      "fr": "Accessoires et consommables pour chaîne HPLC : bidons de récupération des déchets solvants, kits de gestion des déchets avec filtre d'évacuation, frittés de filtration Idex et manchons de tubulure PEEK pour raccordements capillaires."
+    }
+  },
+  "products": [
+    {
+      "sku": "107731",
+      "slug": "bidon-recuperation-dechets-scat-12l-s60-61",
+      "brand": "SCAT",
+      "name_fr": "Bidon de récupération des déchets SCAT 12 L, col S60/61",
+      "description_fr": "Bidon collecteur destiné à la récupération des déchets liquides sur système SCAT. Fabriqué en PE-HD résistant aux agents chimiques, il convient à un large éventail d'usages en laboratoire. Sa conception empilable facilite le stockage, et sa poignée de transport intégrée simplifie la manipulation et l'évacuation des déchets. Homologué UN-X pour le transport de matières dangereuses, ce modèle de 12 litres est équipé d'un col S60/61 compatible avec les bouchons de sécurité SCAT.",
+      "variant_name_fr": "12 L, col S60/61",
+      "price_gbp": 22.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/107731",
+      "specs_fr": {
+        "Référence fournisseur": "ISCA002",
+        "Volume": "12 L",
+        "Col / raccord": "S60/61",
+        "Matériau": "PE-HD",
+        "Homologation transport": "UN-X",
+        "Dimensions (L x H x P)": "200 x 350 x 235 mm"
+      }
+    },
+    {
+      "sku": "107950",
+      "slug": "bidon-recuperation-dechets-scat-2-5l-gl45",
+      "brand": "SCAT",
+      "name_fr": "Bidon de récupération des déchets SCAT 2,5 L, col GL45",
+      "description_fr": "Petit bidon collecteur pour déchets liquides, compatible avec les systèmes de gestion des déchets SCAT. Réalisé en PE-HD chimiquement résistant, il convient aux volumes réduits générés par les postes de travail HPLC. Empilable et muni d'une poignée de transport, il facilite le stockage et la manutention en laboratoire. Ce modèle de 2,5 litres dispose d'un col GL45 et d'une homologation UN-Y pour le transport de substances dangereuses.",
+      "variant_name_fr": "2,5 L, col GL45",
+      "price_gbp": 15.52,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/107950",
+      "specs_fr": {
+        "Référence fournisseur": "ISCA002",
+        "Volume": "2,5 L",
+        "Col / raccord": "GL45",
+        "Matériau": "PE-HD",
+        "Homologation transport": "UN-Y",
+        "Dimensions (L x H x P)": "115 x 210 x 150 mm"
+      }
+    },
+    {
+      "sku": "107952",
+      "slug": "bidon-recuperation-dechets-10l-gl45",
+      "brand": "SCAT",
+      "name_fr": "Bidon de récupération des déchets 10 L, col GL45",
+      "description_fr": "Bidon collecteur de 10 litres pour la récupération des déchets liquides issus des installations HPLC, compatible avec le système SCAT. Construit en PE-HD résistant aux produits chimiques courants du laboratoire, il est empilable et équipé d'une poignée de transport pour une manutention aisée. Son col GL45 permet le raccordement direct aux bouchons de sécurité et kits d'évacuation, et il bénéficie d'une homologation UN-Y pour le transport de matières dangereuses.",
+      "variant_name_fr": "10 L, col GL45",
+      "price_gbp": 27.36,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/107952",
+      "specs_fr": {
+        "Référence fournisseur": "IDOM001",
+        "Volume": "10 L",
+        "Col / raccord": "GL45",
+        "Matériau": "PE-HD",
+        "Homologation transport": "UN-Y",
+        "Dimensions (L x H x P)": "190 x 305 x 230 mm"
+      }
+    },
+    {
+      "sku": "107955",
+      "slug": "bidon-recuperation-dechets-scat-10l-s55-type1",
+      "brand": "SCAT",
+      "name_fr": "Bidon de récupération des déchets SCAT 10 L, col S55, type 1",
+      "description_fr": "Bidon collecteur de déchets liquides de 10 litres, conçu pour s'intégrer au système de gestion des déchets SCAT. Fabriqué en PE-HD résistant aux agents chimiques, il est empilable et doté d'une poignée de transport pour faciliter son déplacement une fois plein. Ce modèle de type 1 est équipé d'un col S55 et dispose d'une homologation UN-Y pour le transport de substances dangereuses.",
+      "variant_name_fr": "10 L, col S55, type 1",
+      "price_gbp": 20.71,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/107955",
+      "specs_fr": {
+        "Référence fournisseur": "ISCA002",
+        "Volume": "10 L",
+        "Col / raccord": "S55",
+        "Type": "1",
+        "Matériau": "PE-HD",
+        "Homologation transport": "UN-Y",
+        "Dimensions (L x H x P)": "185 x 305 x 225 mm"
+      }
+    },
+    {
+      "sku": "108227",
+      "slug": "bidon-recuperation-dechets-scat-5l-s60-61-type2",
+      "brand": "SCAT",
+      "name_fr": "Bidon de récupération des déchets SCAT 5 L, col S60/61, type 2",
+      "description_fr": "Bidon collecteur compact de 5 litres pour la récupération des déchets liquides, compatible avec le système SCAT. Réalisé en PE-HD résistant aux produits chimiques, il est empilable et équipé d'une poignée de transport intégrée. Ce modèle de type 2 dispose d'un col S60/61 et d'une homologation UN-X pour le transport de matières dangereuses, adapté aux postes de travail HPLC nécessitant des changements fréquents de bidon.",
+      "variant_name_fr": "5 L, col S60/61, type 2",
+      "price_gbp": 20.71,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/108227",
+      "specs_fr": {
+        "Référence fournisseur": "ISCA002",
+        "Volume": "5 L",
+        "Col / raccord": "S60/61",
+        "Type": "2",
+        "Matériau": "PE-HD",
+        "Homologation transport": "UN-X",
+        "Dimensions (L x H x P)": "164 x 235 x 185 mm"
+      }
+    },
+    {
+      "sku": "307307",
+      "slug": "scat-kit-gestion-dechets-hplc-set-1",
+      "brand": "SCAT",
+      "name_fr": "Kit de gestion des déchets HPLC SCAT — Set 1",
+      "description_fr": "Solution complète prête à l'emploi pour l'évacuation sécurisée des solvants issus d'une chaîne HPLC, associant un bidon de récupération, un bouchon de sécurité SCAT à étanchéité hermétique et un filtre d'évacuation. Le filtre retient les vapeurs de solvant et contribue ainsi à la sécurité du personnel de laboratoire. Le kit comprend un bouchon de sécurité GL45, deux raccords PFA de 2,3 mm et deux de 3,2 mm de diamètre extérieur, un raccord tube PP de 5,0 à 11,5 mm de diamètre intérieur, un raccord GL14 pour le filtre d'évacuation, un bidon 5 L en PE-HD, ainsi qu'un filtre d'évacuation moyen muni d'un pare-éclaboussures et d'un indicateur de saturation.",
+      "variant_name_fr": "Set 1, avec bidon 5 L",
+      "price_gbp": 163.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/307307",
+      "specs_fr": {
+        "Référence fournisseur": "ISCA002",
+        "Composition du kit": "Bouchon de sécurité GL45, raccords PFA 2,3 mm (x2) et 3,2 mm (x2), raccord tube PP 5,0-11,5 mm, raccord GL14, bidon 5 L PE-HD, filtre d'évacuation M avec pare-éclaboussures",
+        "Fonction": "Évacuation sécurisée des solvants HPLC avec filtration des vapeurs"
+      }
+    },
+    {
+      "sku": "CHR3007",
+      "slug": "idex-a-102-fritte-microfiltre-inox-0-5um-kinesis",
+      "brand": "KINESIS",
+      "name_fr": "Fritté microfiltre Idex A-102, inox, 0,5 µm, bague PEEK — Kinesis",
+      "description_fr": "Fritté de filtration facilement remplaçable, conçu pour éviter les pertes de temps liées au nettoyage des frittés encrassés et pour empêcher les débris intégrés de revenir contaminer l'instrument. Ce modèle en acier inoxydable offre une porosité de 0,5 µm, l'une des valeurs les plus courantes en filtration HPLC. Il est livré avec une bague d'étanchéité en PEEK, légèrement plus épaisse que le disque fritté, garantissant une meilleure étanchéité et une bonne résistance chimique. Son diamètre extérieur de 0,062 po et sa bague de 0,25 po en font une pièce adaptée aux filtres en ligne ou de précolonne les plus répandus.",
+      "variant_name_fr": "Inox, 0,5 µm, bague PEEK 0,25 po",
+      "price_gbp": 13.25,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHR5303",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Matériau du fritté": "Acier inoxydable",
+        "Porosité": "0,5 µm",
+        "Diamètre extérieur": "0,062 po",
+        "Diamètre extérieur bague": "0,25 po (PEEK)",
+        "Volume mort": "0,6 µL"
+      }
+    },
+    {
+      "sku": "CHR3023",
+      "slug": "idex-a-122-fritte-semi-prep-inox-20um-kinesis",
+      "brand": "KINESIS",
+      "name_fr": "Fritté semi-préparatif Idex A-122, inox, 20 µm, bague PCTFE — Kinesis",
+      "description_fr": "Fritté de filtration remplaçable destiné aux applications semi-préparatives, permettant d'éviter le temps de nettoyage des frittés colmatés et le risque de relargage de débris dans l'instrument. Fabriqué en acier inoxydable avec une porosité de 20 µm adaptée aux débits plus élevés des colonnes semi-préparatives, il est fourni avec une bague d'étanchéité en PCTFE plus épaisse que le disque, assurant une bonne tenue chimique. Son diamètre extérieur de 0,188 po et sa bague de 0,254 po correspondent aux standards les plus utilisés pour les filtres en ligne et de précolonne.",
+      "variant_name_fr": "Inox, 20 µm, bague PCTFE 0,254 po",
+      "price_gbp": 12.07,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHR2689",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Matériau du fritté": "Acier inoxydable",
+        "Porosité": "20 µm",
+        "Diamètre extérieur": "0,188 po",
+        "Diamètre extérieur bague": "0,254 po (PCTFE)"
+      }
+    },
+    {
+      "sku": "CHR3197",
+      "slug": "idex-a-700-fritte-microfiltre-peek-2um-kinesis",
+      "brand": "KINESIS",
+      "name_fr": "Fritté microfiltre Idex A-700, PEEK, 2 µm, bague PCTFE — Kinesis",
+      "description_fr": "Fritté de filtration remplaçable en PEEK, offrant une alternative inerte aux frittés métalliques pour les applications sensibles aux ions métalliques. Sa porosité de 2 µm couvre l'une des plages de filtration les plus demandées en HPLC. Il intègre une bague d'étanchéité en PCTFE, plus épaisse que le disque fritté, pour renforcer l'étanchéité et la résistance chimique. Avec un diamètre extérieur de 0,062 po et une bague de 0,25 po, il s'installe sur la plupart des filtres en ligne ou de précolonne standards du marché.",
+      "variant_name_fr": "PEEK, 2 µm, bague PCTFE 0,25 po",
+      "price_gbp": 21.67,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHR5303",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Matériau du fritté": "PEEK",
+        "Porosité": "2 µm",
+        "Diamètre extérieur": "0,062 po",
+        "Diamètre extérieur bague": "0,25 po (PCTFE)",
+        "Volume mort": "0,7 µL"
+      }
+    },
+    {
+      "sku": "CHR3373",
+      "slug": "idex-f-183-manchon-tubulure-microtight-peek-bleu",
+      "brand": "KINESIS",
+      "name_fr": "Manchon de tubulure MicroTight® Idex F-183, PEEK bleu",
+      "description_fr": "Manchon de tubulure destiné à raccorder les accessoires MicroTight® à la tubulure capillaire. N'étant pas fixé de façon permanente à la virole, il s'adapte facilement aux différentes profondeurs de logement de tube, ce qui limite le volume mort au niveau des raccords. Réalisé en PEEK bleu avec un diamètre extérieur de 0,025 po, il résiste à des températures allant jusqu'à 125 °C et à des pressions atteignant 276 bar, ce qui le rend compatible avec la plupart des configurations HPLC haute pression.",
+      "variant_name_fr": "PEEK bleu, 0,011 po ID x 0,025 po OD",
+      "price_gbp": 10.56,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/CHR3407",
+      "specs_fr": {
+        "Référence fournisseur": "TEC002",
+        "Matériau": "PEEK (bleu)",
+        "Diamètre intérieur": "0,011 po",
+        "Diamètre extérieur": "0,025 po",
+        "Température maximale": "125 °C (257 °F)",
+        "Pression maximale": "276 bar (4000 psi)"
+      }
+    }
+  ]
+}

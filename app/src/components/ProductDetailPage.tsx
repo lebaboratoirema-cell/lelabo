@@ -20,6 +20,9 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
   const description = (product.description as { fr?: string } | null)?.fr ?? ''
   const hasVariants = product.product_variants.length > 0
 
+  const specs = product.specifications
+  const specEntries = specs ? Object.entries(specs) : []
+
   const primaryImage = product.product_images.find((img) => img.is_primary) ?? product.product_images[0]
   const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
   const allImages = product.product_images.map((img) => getImageUrl(img.storage_path))
@@ -154,6 +157,21 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
           <div className="pd-panel active">
             <p>{description}</p>
           </div>
+          {specEntries.length > 0 && (
+            <div className="pd-specs">
+              <h3>Caractéristiques techniques</h3>
+              <table className="pd-specs-table">
+                <tbody>
+                  {specEntries.map(([key, value]) => (
+                    <tr key={key}>
+                      <th>{key}</th>
+                      <td>{value}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
         </div>
       </section>
 

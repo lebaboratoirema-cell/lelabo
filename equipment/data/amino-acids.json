@@ -1,0 +1,199 @@
+{
+  "category": {
+    "slug": "amino-acids",
+    "parent_slug": "chimie",
+    "name": { "fr": "Acides aminés et biochimie" },
+    "description": {
+      "fr": "Acides aminés, vitamines et réactifs biochimiques Sigma-Aldrich pour la recherche, la culture cellulaire et l'analyse — L-arginine, acide ascorbique, acide nicotinique, N-acétyl-L-cystéine, disponibles en plusieurs qualités et conditionnements."
+    }
+  },
+  "products": [
+    {
+      "sku": "72309-100G",
+      "slug": "acide-nicotinique-niacine-sigma-aldrich-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide nicotinique (Niacine, Vitamine B3)",
+      "description_fr": "L'acide nicotinique, également connu sous le nom de niacine ou vitamine B3, est une vitamine hydrosoluble largement utilisée comme référence dans les protocoles de recherche sur les précurseurs du NAD+ et comme supplément vitaminique dans divers milieux de culture (milieu complet, milieu synthétique). Sur le plan physiologique, la niacine intervient dans la régulation du métabolisme lipidique en abaissant le LDL et en augmentant le HDL, et contribue à limiter la progression de l'athérosclérose et des lésions coronariennes. Une carence sévère en niacine provoque la pellagre ; en complément de son usage vitaminique, elle est aussi employée comme agent hypolipémiant à large spectre. On la retrouve naturellement dans le pain enrichi, le foie, la viande, le poisson, la volaille, les pommes de terre, les légumes verts, les arachides et les céréales.",
+      "variant_name_fr": "Flacon de 100 g",
+      "price_gbp": 51.12,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/352/819/7fdccedb-ac65-415d-968c-3b8faca4feef/640/7fdccedb-ac65-415d-968c-3b8faca4feef",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Acide nicotinique (Niacine, Vitamine B3)",
+        "Numéro CAS": "59-67-6",
+        "Formule brute": "C6H5NO2",
+        "Conditionnement": "Flacon de 100 g",
+        "Usage": "Standard de référence, supplément vitaminique en milieu de culture"
+      }
+    },
+    {
+      "sku": "72309-500G",
+      "slug": "acide-nicotinique-niacine-sigma-aldrich-99-5-pourcent-hplc-500g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide nicotinique (Niacine, Vitamine B3), pureté ≥99,5% (HPLC)",
+      "description_fr": "Cette qualité d'acide nicotinique (niacine, vitamine B3) affiche une pureté certifiée d'au moins 99,5% contrôlée par HPLC, adaptée aux protocoles analytiques et aux expériences de recherche exigeant un haut degré de fiabilité. Utilisée comme standard de référence dans les études sur les précurseurs du NAD+ et comme supplément vitaminique dans les milieux de culture cellulaire, la niacine régule le métabolisme lipidique en réduisant le LDL et en augmentant le HDL, tout en freinant la progression de l'athérosclérose. Vitamine hydrosoluble essentielle, elle prévient la pellagre et se retrouve naturellement dans de nombreux aliments enrichis comme le pain, le foie ou les légumes verts.",
+      "variant_name_fr": "Flacon de 500 g",
+      "price_gbp": 170.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/352/819/7fdccedb-ac65-415d-968c-3b8faca4feef/640/7fdccedb-ac65-415d-968c-3b8faca4feef",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Acide nicotinique (Niacine, Vitamine B3)",
+        "Numéro CAS": "59-67-6",
+        "Formule brute": "C6H5NO2",
+        "Pureté": "≥99,5% (HPLC)",
+        "Conditionnement": "Flacon de 500 g"
+      }
+    },
+    {
+      "sku": "A5006-100G",
+      "slug": "l-arginine-qualite-reactif-98-pourcent-sigma-aldrich-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "L-Arginine, qualité réactif, ≥98%",
+      "description_fr": "La L-arginine est un acide aminé dibasique semi-essentiel, constituant naturel de la majorité des protéines alimentaires et précurseur métabolique de la créatinine. Elle sert de substrat à la NO synthase, réaction qui la convertit en citrulline et en oxyde nitrique (NO), et intervient dans l'induction de la sécrétion d'insuline par une voie dépendante du NO. Cette qualité réactif, titrant au moins 98% de pureté, a notamment été utilisée dans des études de gluconéogenèse non enzymatique et dans l'évaluation des effets d'une supplémentation en arginine sur les lésions rénales et hépatiques associées à l'infarctus du myocarde chez le rat.",
+      "variant_name_fr": "Flacon de 100 g",
+      "price_gbp": 113.88,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/254/201/c3230351-9303-4dce-9142-b6ee94f01dc0/640/c3230351-9303-4dce-9142-b6ee94f01dc0",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "L-Arginine",
+        "Numéro CAS": "74-79-3",
+        "Formule brute": "C6H14N4O2",
+        "Pureté": "≥98% (qualité réactif)",
+        "Conditionnement": "Flacon plastique de 100 g"
+      }
+    },
+    {
+      "sku": "A5131-500G",
+      "slug": "chlorhydrate-l-arginine-qualite-reactif-98-pourcent-hplc-sigma-aldrich-500g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorhydrate de L-Arginine, qualité réactif, ≥98% (HPLC), poudre",
+      "description_fr": "Le chlorhydrate de L-arginine est la forme saline de cet acide aminé dibasique semi-essentiel, précurseur naturel de la créatinine et constituant de la plupart des protéines alimentaires. Comme la L-arginine libre, il sert de substrat à la NO synthase — génération de citrulline et d'oxyde nitrique — et participe à la stimulation de la sécrétion d'insuline par une voie dépendante du NO. Ce lot de qualité réactif, purifié à au moins 98% et contrôlé par HPLC, a été employé dans des travaux portant sur la prise alimentaire chez la drosophile et dans le développement d'un modèle non invasif de pancréatite chronique chez le rat. Livré sous forme de poudre.",
+      "variant_name_fr": "Flacon de 500 g, poudre",
+      "price_gbp": 282.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/400/401/731c38c2-62e3-49f1-98f2-3399ec5036cb/640/731c38c2-62e3-49f1-98f2-3399ec5036cb",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Chlorhydrate de L-Arginine",
+        "Numéro CAS": "1119-34-2",
+        "Formule brute": "C6H14N4O2·HCl",
+        "Pureté": "≥98% (HPLC), qualité réactif",
+        "Forme": "Poudre",
+        "Conditionnement": "Flacon plastique de 500 g"
+      }
+    },
+    {
+      "sku": "A5960-10MG",
+      "slug": "acide-l-ascorbique-vitamine-c-bioxtra-99-pourcent-sigma-aldrich-10mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide L-ascorbique (Vitamine C), BioXtra, ≥99,0%, cristallin",
+      "description_fr": "L'acide L-ascorbique, ou vitamine C, est une vitamine hydrosoluble d'origine végétale jouant un rôle clé dans la synthèse des neurotransmetteurs, de la carnitine et du collagène. Cofacteur enzymatique, il agit comme donneur d'électrons pour plusieurs monooxygénases et dioxygénases, et constitue un puissant antioxydant vis-à-vis des espèces réactives de l'oxygène. Ce lot de qualité BioXtra, titrant au moins 99,0% sous forme cristalline, a été utilisé pour induire la différenciation ostéoblastique de cultures primaires de moelle osseuse et la différenciation de progéniteurs cardiomyocytaires humains (hCMPC). Sensible à la lumière et à l'air, il peut foncer au stockage.",
+      "variant_name_fr": "Flacon de 10 mg (verre)",
+      "price_gbp": 26.04,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/386/977/8eb46651-6ee0-4b9e-a6ea-dfad0e067e14/640/8eb46651-6ee0-4b9e-a6ea-dfad0e067e14",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Acide L-ascorbique (Vitamine C)",
+        "Numéro CAS": "50-81-7",
+        "Formule brute": "C6H8O6",
+        "Pureté": "≥99,0% (BioXtra), cristallin",
+        "Précaution de stockage": "Peut foncer au stockage, à protéger de la lumière",
+        "Conditionnement": "Flacon de verre de 10 mg"
+      }
+    },
+    {
+      "sku": "A5960-25G",
+      "slug": "acide-l-ascorbique-vitamine-c-bioxtra-99-pourcent-sigma-aldrich-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Acide L-ascorbique (Vitamine C), BioXtra, ≥99,0%, cristallin",
+      "description_fr": "L'acide L-ascorbique, ou vitamine C, est une vitamine hydrosoluble d'origine végétale jouant un rôle clé dans la synthèse des neurotransmetteurs, de la carnitine et du collagène. Cofacteur enzymatique, il agit comme donneur d'électrons pour plusieurs monooxygénases et dioxygénases, et constitue un puissant antioxydant vis-à-vis des espèces réactives de l'oxygène. Ce lot de qualité BioXtra, titrant au moins 99,0% sous forme cristalline, a été utilisé pour induire la différenciation ostéoblastique de cultures primaires de moelle osseuse, la différenciation de progéniteurs cardiomyocytaires humains (hCMPC), ainsi que pour mesurer l'activité du complexe IV de la chaîne respiratoire mitochondriale. Sensible à la lumière et à l'air, il peut foncer au stockage.",
+      "variant_name_fr": "Flacon de 25 g (plastique)",
+      "price_gbp": 43.56,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/386/977/8eb46651-6ee0-4b9e-a6ea-dfad0e067e14/640/8eb46651-6ee0-4b9e-a6ea-dfad0e067e14",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Acide L-ascorbique (Vitamine C)",
+        "Numéro CAS": "50-81-7",
+        "Formule brute": "C6H8O6",
+        "Pureté": "≥99,0% (BioXtra), cristallin",
+        "Précaution de stockage": "Peut foncer au stockage, à protéger de la lumière",
+        "Conditionnement": "Flacon plastique de 25 g"
+      }
+    },
+    {
+      "sku": "A6969-100G",
+      "slug": "chlorhydrate-l-arginine-culture-cellulaire-ep-jp-usp-sigma-aldrich-100g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorhydrate de L-Arginine, qualité culture cellulaire, conforme EP/JP/USP, 98,5-101,0%",
+      "description_fr": "Ce chlorhydrate de L-arginine de qualité culture cellulaire répond aux spécifications des pharmacopées EP, JP et USP, avec un titre compris entre 98,5% et 101,0%, garantissant un niveau de contrôle qualité élevé pour les applications sensibles. La L-arginine, acide aminé dibasique semi-essentiel, est un précurseur de la créatinine et un constituant naturel des protéines alimentaires ; elle sert de substrat à la NO synthase et participe à l'induction de la sécrétion d'insuline par une voie dépendante de l'oxyde nitrique. Ce lot a notamment été employé dans des expériences de perfusion pancréatique chez la souris et comme composant de milieu SILAC.",
+      "variant_name_fr": "Flacon de 100 g",
+      "price_gbp": 132.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/424/348/289ecc8f-ed5e-4daa-9696-7e38755a3a71/640/289ecc8f-ed5e-4daa-9696-7e38755a3a71",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "Chlorhydrate de L-Arginine",
+        "Numéro CAS": "1119-34-2",
+        "Formule brute": "C6H14N4O2·HCl",
+        "Pureté": "98,5-101,0%, conforme EP/JP/USP",
+        "Qualité": "Culture cellulaire",
+        "Conditionnement": "Flacon poly de 100 g"
+      }
+    },
+    {
+      "sku": "A7250-10G",
+      "slug": "n-acetyl-l-cysteine-nac-sigma-grade-99-pourcent-sigma-aldrich-10g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "N-Acétyl-L-cystéine, Sigma Grade, ≥99% (CCM), poudre",
+      "description_fr": "La N-acétyl-L-cystéine (NAC) est un dérivé acétylé de la cystéine reconnu pour ses propriétés antioxydantes et mucolytiques. Elle augmente les réserves cellulaires en piégeurs de radicaux libres, module l'apoptose selon les types cellulaires — protection rapportée sur les cellules neuronales, induction sur les cellules musculaires lisses —, inhibe la réplication du VIH et peut servir de substrat pour la glutathion transférase microsomale. Ce lot de qualité Sigma Grade, titrant au moins 99% par chromatographie sur couche mince (CCM), a été utilisé pour atténuer la sensibilité à l'hydroxyurée dépendante de l'oxygène chez Saccharomyces cerevisiae et comme antioxydant sur des myoblastes murins C2C12. Livré sous forme de poudre.",
+      "variant_name_fr": "Flacon de 10 g",
+      "price_gbp": 47.04,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/643/717/804606c1-b0a2-4512-9f71-a67bc121b60c/640/804606c1-b0a2-4512-9f71-a67bc121b60c",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "N-Acétyl-L-cystéine (NAC)",
+        "Numéro CAS": "616-91-1",
+        "Formule brute": "C5H9NO3S",
+        "Pureté": "≥99% (CCM), Sigma Grade",
+        "Forme": "Poudre",
+        "Conditionnement": "Flacon plastique de 10 g"
+      }
+    },
+    {
+      "sku": "A7250-25G",
+      "slug": "n-acetyl-l-cysteine-nac-sigma-grade-99-pourcent-sigma-aldrich-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "N-Acétyl-L-cystéine, Sigma Grade, ≥99% (CCM), poudre",
+      "description_fr": "La N-acétyl-L-cystéine (NAC) est un dérivé acétylé de la cystéine reconnu pour ses propriétés antioxydantes et mucolytiques. Elle augmente les réserves cellulaires en piégeurs de radicaux libres, module l'apoptose selon les types cellulaires — protection rapportée sur les cellules neuronales, induction sur les cellules musculaires lisses —, inhibe la réplication du VIH et peut servir de substrat pour la glutathion transférase microsomale. Ce lot de qualité Sigma Grade, titrant au moins 99% par chromatographie sur couche mince (CCM), a été utilisé pour atténuer la sensibilité à l'hydroxyurée dépendante de l'oxygène chez Saccharomyces cerevisiae et comme antioxydant sur des myoblastes murins C2C12. Livré sous forme de poudre, conditionnement intermédiaire adapté aux usages réguliers en laboratoire.",
+      "variant_name_fr": "Flacon de 25 g",
+      "price_gbp": 78.12,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/643/717/804606c1-b0a2-4512-9f71-a67bc121b60c/640/804606c1-b0a2-4512-9f71-a67bc121b60c",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "N-Acétyl-L-cystéine (NAC)",
+        "Numéro CAS": "616-91-1",
+        "Formule brute": "C5H9NO3S",
+        "Pureté": "≥99% (CCM), Sigma Grade",
+        "Forme": "Poudre",
+        "Conditionnement": "Flacon plastique de 25 g"
+      }
+    },
+    {
+      "sku": "A7250-500G",
+      "slug": "n-acetyl-l-cysteine-nac-sigma-grade-99-pourcent-sigma-aldrich-500g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "N-Acétyl-L-cystéine, Sigma Grade, ≥99% (CCM), poudre",
+      "description_fr": "La N-acétyl-L-cystéine (NAC) est un dérivé acétylé de la cystéine reconnu pour ses propriétés antioxydantes et mucolytiques. Elle augmente les réserves cellulaires en piégeurs de radicaux libres, module l'apoptose selon les types cellulaires — protection rapportée sur les cellules neuronales, induction sur les cellules musculaires lisses —, inhibe la réplication du VIH et peut servir de substrat pour la glutathion transférase microsomale. Ce lot de qualité Sigma Grade, titrant au moins 99% par chromatographie sur couche mince (CCM), a été utilisé pour atténuer la sensibilité à l'hydroxyurée dépendante de l'oxygène chez Saccharomyces cerevisiae et comme antioxydant sur des myoblastes murins C2C12. Ce format de 500 g convient aux laboratoires à fort volume de consommation.",
+      "variant_name_fr": "Flacon de 500 g",
+      "price_gbp": 816.00,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/643/717/804606c1-b0a2-4512-9f71-a67bc121b60c/640/804606c1-b0a2-4512-9f71-a67bc121b60c",
+      "specs_fr": {
+        "Référence fournisseur": "SIG001",
+        "Nom chimique": "N-Acétyl-L-cystéine (NAC)",
+        "Numéro CAS": "616-91-1",
+        "Formule brute": "C5H9NO3S",
+        "Pureté": "≥99% (CCM), Sigma Grade",
+        "Forme": "Poudre",
+        "Conditionnement": "Flacon plastique de 500 g"
+      }
+    }
+  ]
+}

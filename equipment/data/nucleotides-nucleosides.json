@@ -1,0 +1,177 @@
+{
+  "category": {
+    "slug": "nucleotides-nucleosides",
+    "parent_slug": "chimie",
+    "name": { "fr": "Nucléotides et nucléosides" },
+    "description": {
+      "fr": "Nucléotides, nucléosides et réactifs biochimiques associés (dNTP, cofacteurs redox, substrats de détection enzymatique) pour la biologie moléculaire, la culture cellulaire et la recherche en biochimie."
+    }
+  },
+  "products": [
+    {
+      "sku": "01890-25G",
+      "slug": "adenosine-sigma-aldrich-25g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Adénosine",
+      "description_fr": "Nucléoside purique endogène qui agit comme neurotransmetteur au niveau des récepteurs à l'adénosine. Ses effets cardioprotecteurs sont associés à l'activation du récepteur A1, tandis que ses propriétés antiplaquettaires et anti-inflammatoires passent principalement par le récepteur A2 ; à l'inverse, elle peut jouer un rôle pro-inflammatoire dans des pathologies respiratoires comme l'asthme ou la BPCO. Ce réactif est couramment utilisé comme substrat de référence pour le dosage enzymatique de l'adénosine désaminase en laboratoire de recherche.",
+      "variant_name_fr": "Flacon 25 g",
+      "price_gbp": 115.44,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/348/954/dd77fc56-d19c-4080-a2c3-c145b96f5ef8/640/dd77fc56-d19c-4080-a2c3-c145b96f5ef8",
+      "specs_fr": {
+        "Famille chimique": "Nucléoside purique (adénine + ribose)",
+        "Cible biologique": "Récepteurs à l'adénosine A1 et A2",
+        "Application principale": "Substrat de dosage de l'adénosine désaminase",
+        "Conditionnement": "25 g"
+      }
+    },
+    {
+      "sku": "01905-250MG-F",
+      "slug": "adenosine-5-diphosphate-sigma-aldrich-95-hplc-250mg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Adénosine 5'-diphosphate (ADP), pureté ≥95 % (HPLC)",
+      "description_fr": "L'adénosine 5'-diphosphate (ADP) est un nucléotide clé du métabolisme énergétique cellulaire, largement employé comme composé d'étude pour la réponse vasculaire endothélium-dépendante, y compris dans des modèles comparant des animaux sensibles et résistants au sel. Sur le plan physiologique, l'ADP déclenche l'agrégation plaquettaire humaine et inhibe de façon non compétitive l'adénylate cyclase plaquettaire, ce qui en fait un outil de choix pour la recherche sur l'hémostase et les récepteurs purinergiques P2 des muscles lisses vasculaires et de l'endothélium. Le produit est fourni dans un flacon en verre à fond amovible, dont le contenu est isolé dans un cône fusionné inséré.",
+      "variant_name_fr": "Flacon 250 mg",
+      "price_gbp": 100.68,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/376/684/972a2641-9468-4244-9726-1f03946da7ea/640/972a2641-9468-4244-9726-1f03946da7ea",
+      "specs_fr": {
+        "Famille chimique": "Nucléotide diphosphate (ADP)",
+        "Pureté": "≥95 % (HPLC)",
+        "Application principale": "Étude de l'agrégation plaquettaire et des récepteurs P2 purinergiques",
+        "Conditionnement": "Flacon en verre à fond amovible, contenu en cône fusionné inséré, 250 mg"
+      }
+    },
+    {
+      "sku": "10220647001",
+      "slug": "gtp-gamma-s-sel-tetralithium-roche-merck",
+      "brand": "Merck (Roche)",
+      "name_fr": "GTP-γ-S, sel tétralithium (guanosine 5'-O-(3-thiotriphosphate))",
+      "description_fr": "Le GTP-γ-S est un analogue non hydrolysable du GTP qui active durablement les protéines G en résistant à l'hydrolyse enzymatique rapide, tout en inhibant plus fortement les GTPases que le GTP naturel ; il agit également comme inhibiteur de la phosphodiestérase des photorécepteurs. Ce composé est largement utilisé dans les tests d'activation de protéines G, notamment pour évaluer la fonctionnalité du récepteur activé par les protéases PAR4, ainsi que dans les essais fluorimétriques d'échange de nucléotides guanidiques permettant de suivre l'activité de sous-unités Gα, comme la GTPase Rac2 stimulant la phospholipase Cγ2 mutante. La teneur en produit est déterminée par mesure d'absorption à 254 nm sur une solution aqueuse diluée (environ 10 mg/ml).",
+      "variant_name_fr": "Sel tétralithium, flacon standard",
+      "price_gbp": 404.40,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/352/091/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1/640/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1",
+      "specs_fr": {
+        "Famille chimique": "Analogue non hydrolysable du GTP, sel tétralithium",
+        "Méthode de dosage": "Absorption à 254 nm en solution aqueuse (~10 mg/ml)",
+        "Application principale": "Activation de protéines G, tests d'échange de nucléotides guanidiques",
+        "Usage": "Recherche uniquement — non destiné au diagnostic"
+      }
+    },
+    {
+      "sku": "10621692001",
+      "slug": "nadph-sel-tetrasodique-roche-merck",
+      "brand": "Merck (Roche)",
+      "name_fr": "NADPH, sel tétrasodique",
+      "description_fr": "Le NADPH est un cofacteur donneur d'électrons essentiel à de nombreuses enzymes redox, dont la nitrique oxyde synthétase, et intervient notamment dans la détermination de l'activité de la thiorédoxine réductase. Fourni sous forme de poudre amorphe conditionnée sous azote, ce sel tétrasodique présente une pureté d'au moins 97 % en β-NADPH-Na4 sur base sèche (mesurée par voie enzymatique et par absorbance à 340 nm) et d'au moins 80 % par absorbance à 260 nm, avec une teneur en solvants organiques limitée à 3 % maximum. En solution à 10 mg/ml dans un tampon bicarbonate de sodium à pH 9, le produit conserve au moins 95 % de NADPH après quatre semaines de stockage entre 2 et 8 °C.",
+      "variant_name_fr": "Sel tétrasodique, flacon standard",
+      "price_gbp": 1066.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/381/486/9c382ca1-e8a3-4c3d-a476-91650af83747/640/9c382ca1-e8a3-4c3d-a476-91650af83747",
+      "specs_fr": {
+        "Famille chimique": "Cofacteur redox, sel tétrasodique (NADPH-Na4)",
+        "Pureté": "≥97 % β-NADPH-Na4 (poids sec) ; ≥80 % par absorbance 260 nm",
+        "Poids moléculaire": "NADPH-Na4 : Mr 833,4 ; NADPH : Mr 745,4",
+        "Coefficients d'absorbance": "15,0 × 10³ l·mol⁻¹·cm⁻¹ à 260 nm ; 6,3 × 10³ l·mol⁻¹·cm⁻¹ à 340 nm",
+        "pH en solution (10 mg/ml, eau)": "8,0 ± 1,0",
+        "Solvants organiques": "≤3 % (CG)",
+        "Stockage (solution de travail)": "2 à 8 °C",
+        "Forme physique": "Poudre amorphe conditionnée sous azote"
+      }
+    },
+    {
+      "sku": "10760994001",
+      "slug": "bcip-sel-toluidine-roche-merck",
+      "brand": "Merck (Roche)",
+      "name_fr": "BCIP, sel de 4-toluidine (5-bromo-4-chloro-3-indolyl phosphate)",
+      "description_fr": "Le BCIP sert de substrat colorimétrique pour la détection de la phosphatase alcaline : en présence de l'enzyme, il forme un produit de réaction bleu, insoluble dans l'eau et facilement observable à l'œil nu. Utilisé en combinaison avec le nitro blue tétrazolium (NBT), le système BCIP/NBT est très polyvalent et s'applique aux transferts Northern, Southern et Western, à l'hybridation in situ ainsi qu'à l'immunohistochimie. Ce sel de p-toluidine se dissout dans le diméthylformamide, à la différence du sel disodique soluble en phase aqueuse, ce qui permet de préparer une solution mère combinable au NBT et à un tampon réactionnel pour former le substrat final de la phosphatase alcaline.",
+      "variant_name_fr": "Sel de 4-toluidine, poudre",
+      "price_gbp": 196.80,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/structures/233/592/f9fa8612-2521-406c-8da3-7afa198732c8/640/f9fa8612-2521-406c-8da3-7afa198732c8",
+      "specs_fr": {
+        "Famille chimique": "Substrat chromogène de la phosphatase alcaline (sel de 4-toluidine)",
+        "Solubilité": "Diméthylformamide (DMF)",
+        "Couleur du produit de réaction": "Bleu, insoluble dans l'eau",
+        "Applications": "Transferts Northern/Southern/Western, hybridation in situ, immunohistochimie",
+        "Usage": "Recherche uniquement — non destiné au diagnostic"
+      }
+    },
+    {
+      "sku": "11383221001",
+      "slug": "bcip-solution-dmf-roche-merck",
+      "brand": "Merck (Roche)",
+      "name_fr": "BCIP, sel de 4-toluidine en solution (50 mg/ml, DMF)",
+      "description_fr": "Cette solution prête à l'emploi de BCIP (sel de 4-toluidine) à 50 mg/ml dans le diméthylformamide sert de substrat pour la détection de l'activité phosphatase alcaline, produisant une coloration bleue insoluble facilement visible à l'œil nu. Associée au nitro blue tétrazolium (NBT) comme accepteur d'électrons, elle est employée dans les protocoles de détection par transfert Southern, Northern et Western, ainsi que pour l'hybridation de colonies, de plages et l'hybridation in situ. Le format liquide prêt à l'emploi évite l'étape de pesée et de dissolution de la poudre, ce qui simplifie la préparation du réactif au laboratoire.",
+      "variant_name_fr": "Solution 50 mg/ml dans DMF",
+      "price_gbp": 112.32,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/352/091/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1/640/ef743cea-ccd8-44f1-8f3b-dec5a1e4f5d1",
+      "specs_fr": {
+        "Famille chimique": "Substrat chromogène de la phosphatase alcaline (sel de 4-toluidine)",
+        "Forme physique": "Solution à 50 mg/ml dans le diméthylformamide (DMF)",
+        "Utilisation combinée": "Avec nitro blue tétrazolium (NBT) comme accepteur d'électrons",
+        "Applications": "Transferts Southern/Northern/Western, hybridation de colonies et de plages, hybridation in situ"
+      }
+    },
+    {
+      "sku": "28406551",
+      "slug": "kit-dntp-100mm-4x25umol-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Kit dNTP 100 mM, 4 x 25 µmol",
+      "description_fr": "Ce kit de désoxynucléotides triphosphates (dNTP) de haute pureté est conçu pour l'amplification d'ADN, le séquençage didésoxy, le marquage, la mutagenèse dirigée, la synthèse d'ADNc et le profilage d'expression protéique. Testé fonctionnellement pour la PCR longue et le séquençage, il affiche une pureté en triphosphate supérieure à 99 % (mesurée par HPLC), garantissant des performances constantes d'un lot à l'autre. Les solutions sont exemptes d'activité DNase, RNase et enzyme de coupure (nicking), livrées sans tampon et prêtes à l'emploi ; des formulations, conditionnements et étiquetages sur mesure peuvent également être proposés sur demande.",
+      "variant_name_fr": "Kit 4 x 25 µmol (dATP, dCTP, dGTP, dTTP), 100 mM chacun",
+      "price_gbp": 253.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/28406551",
+      "specs_fr": {
+        "Composition": "dATP, dCTP, dGTP, dTTP — 100 mM chacun, 4 x 25 µmol",
+        "Pureté": ">99 % en triphosphate (HPLC)",
+        "Qualité": "Exempt de DNase, RNase et activité de coupure (nicking)",
+        "Format": "Solutions sans tampon, prêtes à l'emploi",
+        "Applications": "Amplification ADN, séquençage didésoxy, marquage, mutagenèse, synthèse ADNc"
+      }
+    },
+    {
+      "sku": "28406564",
+      "slug": "melange-nucleotides-pcr-dntp-10mm-acgt-cytiva",
+      "brand": "Cytiva",
+      "name_fr": "Mélange de nucléotides pour PCR, dNTP 10 mM (A, C, G, T)",
+      "description_fr": "Ce mélange prêt à l'emploi de désoxynucléotides triphosphates (dATP, dCTP, dGTP, dTTP) à 10 mM chacun est formulé pour l'amplification par PCR, offrant une alternative pratique aux kits individuels lorsqu'un dosage standard des quatre bases est suffisant. Il s'intègre facilement dans les protocoles de PCR de routine, en apportant les briques nucléotidiques nécessaires à la synthèse du brin d'ADN complémentaire par la polymérase. La gamme de formats dNTP proposée par le fabricant permet d'adapter le choix du produit à l'échelle et aux besoins spécifiques de chaque application de biologie moléculaire.",
+      "variant_name_fr": "Mélange 10 mM chacun (A, C, G, T)",
+      "price_gbp": 124.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/28406564_1",
+      "specs_fr": {
+        "Composition": "dATP, dCTP, dGTP, dTTP — 10 mM chacun",
+        "Application principale": "Amplification par PCR",
+        "Format": "Mélange prêt à l'emploi"
+      }
+    },
+    {
+      "sku": "50950-1KG",
+      "slug": "chlorhydrate-de-guanidine-98-sigma-aldrich-1kg",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Chlorhydrate de guanidine, pureté ≥98 %",
+      "description_fr": "Le chlorhydrate de guanidine est un agent chaotropique puissant, très utilisé pour dénaturer les protéines avant de les faire refolder dans leur conformation active, y compris pour solubiliser les protéines insolubles ou dénaturées présentes dans les corps d'inclusion bactériens. Il constitue souvent la première étape d'un protocole de repliement de protéines ou d'enzymes recombinantes, généralement complété par l'usage d'urée et de dithiothréitol (DTT) selon le profil de l'échantillon. Ce réactif de pureté élevée (≥98 %) convient aux applications de biologie moléculaire et de purification de protéines exigeant une reproductibilité stricte.",
+      "variant_name_fr": "Flacon plastique 1 kg",
+      "price_gbp": 99.60,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/170/066/ad5a9493-d3b3-4c19-9877-721b4f41b20a/640/ad5a9493-d3b3-4c19-9877-721b4f41b20a",
+      "specs_fr": {
+        "Famille chimique": "Agent chaotropique (sel de guanidine)",
+        "Pureté": "≥98 %",
+        "Application principale": "Dénaturation et repliement de protéines, solubilisation de corps d'inclusion",
+        "Conditionnement": "1 kg en flacon plastique (existe aussi en 250 g et 2,5 kg)"
+      }
+    },
+    {
+      "sku": "89270-1G",
+      "slug": "thymidine-99-hplc-sigma-aldrich-1g",
+      "brand": "Sigma-Aldrich",
+      "name_fr": "Thymidine, pureté ≥99,0 % (HPLC)",
+      "description_fr": "La thymidine (dT) est un désoxyriboside pyrimidique qui, après phosphorylation séquentielle en désoxythymidine triphosphate (dTTP), sert de brique à la synthèse de l'ADN ainsi qu'à la formation de la boucle T de l'ARN de transfert. Elle constitue le substrat naturel de la thymidine kinase (EC 2.7.1.21), enzyme qui la phosphoryle à partir d'un groupement phosphate cédé par l'ATP, ce qui en fait un outil de référence pour étudier la distribution, la spécificité et la cinétique des différentes thymidine kinases. Ce lot présente une pureté élevée, contrôlée par HPLC à au moins 99,0 %, adaptée aux applications de recherche en biologie moléculaire et en enzymologie.",
+      "variant_name_fr": "Flacon 1 g",
+      "price_gbp": 58.68,
+      "image_url": "https://api.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/152/649/f515028e-b0d9-47e6-8eda-1625286ab4c7/640/f515028e-b0d9-47e6-8eda-1625286ab4c7",
+      "specs_fr": {
+        "Famille chimique": "Désoxynucléoside pyrimidique",
+        "Pureté": "≥99,0 % (HPLC)",
+        "Application principale": "Substrat de la thymidine kinase, synthèse d'ADN",
+        "Conditionnement": "1 g"
+      }
+    }
+  ]
+}
