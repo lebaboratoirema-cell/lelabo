@@ -7,14 +7,15 @@ function getImageUrl(storagePath: string): string {
 }
 
 interface Props {
-  products: ProductWithImage[]
-  basePath: string
+  products: (ProductWithImage & { basePath?: string })[]
+  basePath?: string
+  emptyMessage?: string
 }
 
-export default function ProductGrid({ products, basePath }: Props) {
+export default function ProductGrid({ products, basePath, emptyMessage }: Props) {
   if (products.length === 0) {
     return (
-      <p className="empty-state">Aucun produit dans cette catégorie pour l&apos;instant.</p>
+      <p className="empty-state">{emptyMessage ?? 'Aucun produit dans cette catégorie pour l’instant.'}</p>
     )
   }
 
@@ -23,9 +24,10 @@ export default function ProductGrid({ products, basePath }: Props) {
       {products.map((p) => {
         const primaryImage = p.product_images.find((img) => img.is_primary) ?? p.product_images[0]
         const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
+        const href = `${p.basePath ?? basePath}/${p.slug}`
 
         return (
-          <a className="product-card reveal" href={`${basePath}/${p.slug}`} key={p.id}>
+          <a className="product-card reveal" href={href} key={p.id}>
             <div className="pimg">
               {p.promo_label && (
                 <span className="promo-badge">{p.promo_label}</span>

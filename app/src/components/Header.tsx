@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import SearchBar from './SearchBar';
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -56,6 +57,7 @@ export default function Header() {
           </nav>
 
           <div className="header-actions">
+            <SearchBar className="header-search" />
             <Link href="/contact" className="quote-btn">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/>
@@ -81,6 +83,7 @@ export default function Header() {
         <div className="panel">
           <button className="close" onClick={() => setMobileOpen(false)}>&times;</button>
           <div style={{ clear: 'both', height: 8 }} />
+          <SearchBar className="mobile-search" onSubmit={() => setMobileOpen(false)} />
           <Link href="/" onClick={() => setMobileOpen(false)}>Accueil</Link>
           <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipement scientifique</Link>
           <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Produit chimie</Link>

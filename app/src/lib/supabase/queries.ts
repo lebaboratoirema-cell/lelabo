@@ -74,6 +74,50 @@ export async function getProductBySlug(slug: string): Promise<ProductWithVariant
   return (data as ProductWithVariants | null) ?? null
 }
 
+const FAMILY_ROUTE_BY_SLUG: Record<string, string> = {
+  chimie: 'chemicals',
+  verrerie: 'glassware',
+  equipements: 'lab-equipment',
+  'petit-outillage': 'petit-outillage',
+}
+
+export type SearchResult = ProductWithImage & { basePath: string }
+
+export async function searchProducts(query: string): Promise<SearchResult[]> {
+  const supabase = await createClient()
+  const term = `%${query.replace(/[,()%]/g, ' ').trim()}%`
+
+  const [{ data: products }, { data: roots }] = await Promise.all([
+    supabase
+      .from('products')
+      .select('*, product_images(storage_path, is_primary), category:categories(slug, parent_id)')
+      .or(`name->>fr.ilike.${term},brand.ilike.${term}`)
+      .eq('is_active', true)
+      .order('created_at', { ascending: false })
+      .limit(60),
+    supabase.from('categories').select('id, slug').is('parent_id', null),
+  ])
+
+  const rootSlugById = new Map((roots ?? []).map((r) => [r.id, r.slug]))
+
+  return ((products ?? []) as Array<ProductWithImage & { category: { slug: string; parent_id: string | null } | null }>).map(
+    ({ category, ...p }) => {
+      let basePath = '/fr'
+      if (category) {
+        if (category.parent_id) {
+          const rootSlug = rootSlugById.get(category.parent_id)
+          const route = rootSlug ? FAMILY_ROUTE_BY_SLUG[rootSlug] : undefined
+          basePath = route ? `/fr/${route}/${category.slug}` : '/fr'
+        } else {
+          const route = FAMILY_ROUTE_BY_SLUG[category.slug]
+          basePath = route ? `/fr/${route}` : '/fr'
+        }
+      }
+      return { ...p, basePath }
+    }
+  )
+}
+
 export async function getBlogPosts(): Promise<BlogPost[]> {
   const supabase = await createClient()
   const { data } = await supabase
