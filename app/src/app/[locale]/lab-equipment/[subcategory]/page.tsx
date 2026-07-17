@@ -28,9 +28,10 @@ export default async function LabEquipmentSubcategoryPage({ params }: Props) {
   const parent = await getCategoryBySlug(CATEGORY_ROUTE_SLUGS['lab-equipment'])
   if (!parent) notFound()
 
+  const siblings = await getChildCategories(parent.id)
+
   const child = await getCategoryBySlug(subcategory)
   if (child && child.parent_id === parent.id) {
-    const siblings = await getChildCategories(parent.id)
     const products = await getProductsByCategory(child.id)
 
     const chips = siblings.map((c) => ({
@@ -77,8 +78,9 @@ export default async function LabEquipmentSubcategoryPage({ params }: Props) {
   }
 
   const product = await getProductBySlug(subcategory)
-  if (product && product.category_id === parent.id) {
-    const related = await getRelatedProducts(parent.id, product.id)
+  const familyIds = [parent.id, ...siblings.map((c) => c.id)]
+  if (product && familyIds.includes(product.category_id)) {
+    const related = await getRelatedProducts(product.category_id, product.id)
 
     return (
       <>
