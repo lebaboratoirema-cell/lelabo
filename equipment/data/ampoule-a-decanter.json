@@ -1,0 +1,274 @@
+{
+  "category": {
+    "slug": "ampoule-a-decanter",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Ampoules à décanter" },
+    "description": {
+      "fr": "Ampoules à décanter en verre Pyrex ou borosilicaté 3.3, de forme poire, conique ou Squibb, pour la séparation de phases liquides non miscibles en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "217994",
+      "slug": "ampoule-decanter-conique-pyrex-cle-verre-2l",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter conique en Pyrex avec clé verre, 2 L",
+      "description_fr": "Ampoule à décanter de forme conique, en verre Pyrex chimiquement inerte, conforme à la norme ISO 4800 Type 1. Équipée d'un robinet en PTFE interchangeable et fournie avec un bouchon en verre.",
+      "variant_name_fr": "2 L",
+      "price_eur": 315.40,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "2000",
+        "Taille du bouchon": "29/32",
+        "Diamètre du robinet (mm)": "6,0",
+        "Conditionnement": "1",
+        "Poids net": "1.055 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101195601_20230818111101/humeau.com-ampoule-a-decanter-conique-en-pyrex-avec-cle-verre-cap-2l-18101195601-217994-30.jpg"
+    },
+    {
+      "sku": "205317",
+      "slug": "ampoule-decanter-poire-pyrex-100ml-rod-14-23",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire, 100 mL, rodage 14/23",
+      "description_fr": "Ampoule à décanter de forme poire, conforme à la norme ISO 4800 Type 2, munie d'une clé en verre interchangeable. Le tube d'écoulement est rodé mâle, ce qui permet un raccordement direct aux ballons et fioles à rodage normalisé du type Quickfit.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 199.60,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "100",
+        "Rodage": "14/23",
+        "Diamètre du robinet (mm)": "1,5",
+        "Poids net": "0.13 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000666_20230818111101/humeau.com-ampoule-a-decanter-poire-100ml-rob-rod-14-23-06700000666-205317-30.jpg"
+    },
+    {
+      "sku": "205314",
+      "slug": "ampoule-decanter-poire-pyrex-25ml-rod-14-23",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire, 25 mL, rodage 14/23",
+      "description_fr": "Ampoule à décanter de forme poire, conforme à la norme ISO 4800 Type 2, munie d'une clé en verre interchangeable. Le tube d'écoulement est rodé mâle, ce qui permet un raccordement direct aux ballons et fioles à rodage normalisé du type Quickfit.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 172.60,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "25",
+        "Rodage": "14/23",
+        "Diamètre du robinet (mm)": "1,5",
+        "Poids net": "0.088 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000663_20230818111101/humeau.com-ampoule-a-decanter-poire-25ml-rob-rod-14-23-06700000663-205314-30.jpg"
+    },
+    {
+      "sku": "205321",
+      "slug": "ampoule-decanter-poire-pyrex-500ml-rod-19-26-24-29",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire, 500 mL, rodage 19/26 – 24/29",
+      "description_fr": "Ampoule à décanter de forme poire, conforme à la norme ISO 4800 Type 2, munie d'une clé en verre interchangeable. Le tube d'écoulement est rodé mâle, ce qui permet un raccordement direct aux ballons et fioles à rodage normalisé du type Quickfit.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 232.20,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "500",
+        "Rodage mâle": "19/26",
+        "Rodage femelle": "24/29",
+        "Diamètre du robinet (mm)": "4,0",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000670_20230818111101/humeau.com-ampoule-a-decanter-poire-500ml-rob-rod-19-26-24-29-06700000670-205321-30.jpg"
+    },
+    {
+      "sku": "205274",
+      "slug": "ampoule-decanter-poire-pyrex-bouchon-cle-1l",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire en Pyrex avec bouchon et clé, 1 L",
+      "description_fr": "Ampoule à décanter de forme poire, en verre Pyrex chimiquement inerte, conforme à la norme ISO 4800 Type 2. Livrée avec une clé en verre interchangeable et un bouchon en verre.",
+      "variant_name_fr": "1 L",
+      "price_eur": 216.80,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "1000",
+        "Taille du bouchon": "29/32",
+        "Diamètre du robinet (mm)": "4,0",
+        "Conditionnement": "1",
+        "Poids net": "0.52 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000623_20260430105101/humeau.com-ampoule-a-decanter-poire-pyrex-bouchon-cle-1000ml-205274-205274-30.jpg"
+    },
+    {
+      "sku": "205272",
+      "slug": "ampoule-decanter-poire-pyrex-bouchon-cle-100ml",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire en Pyrex avec bouchon et clé, 100 mL",
+      "description_fr": "Ampoule à décanter de forme poire, en verre Pyrex chimiquement inerte, conforme à la norme ISO 4800 Type 2. Livrée avec une clé en verre interchangeable et un bouchon en verre.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 125.00,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "100",
+        "Taille du bouchon": "19/26",
+        "Diamètre du robinet (mm)": "2,0",
+        "Conditionnement": "1",
+        "Poids net": "0.17 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000621_20230818111101/humeau.com-ampoule-a-decanter-poire-pyrex-bouchon-cle-100ml-06700000621-205272-30.jpg"
+    },
+    {
+      "sku": "205275",
+      "slug": "ampoule-decanter-poire-pyrex-bouchon-cle-2l",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire en Pyrex avec bouchon et clé, 2 L",
+      "description_fr": "Ampoule à décanter de forme poire, en verre Pyrex chimiquement inerte, conforme à la norme ISO 4800 Type 2. Livrée avec une clé en verre interchangeable et un bouchon en verre.",
+      "variant_name_fr": "2 L",
+      "price_eur": 357.10,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "2000",
+        "Taille du bouchon": "29/32",
+        "Diamètre du robinet (mm)": "6,0",
+        "Conditionnement": "1",
+        "Poids net": "1.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000624_20260430105101/humeau.com-ampoule-a-decanter-poire-pyrex-bouchon-cle-2000ml-205275-205275-30.jpg"
+    },
+    {
+      "sku": "205541",
+      "slug": "ampoule-decanter-poire-pyrex-bouchon-cle-250ml",
+      "brand": "PYREX",
+      "name_fr": "Ampoule à décanter poire en Pyrex avec bouchon et clé, 250 mL",
+      "description_fr": "Ampoule à décanter de forme poire, en verre Pyrex chimiquement inerte, conforme à la norme ISO 4800 Type 2. Livrée avec une clé en verre interchangeable et un bouchon en verre.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 142.80,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Capacité (mL)": "250",
+        "Taille du bouchon": "24/29",
+        "Diamètre du robinet (mm)": "2,5",
+        "Conditionnement": "1",
+        "Poids net": "0.28 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700218006_20230817154101/humeau.com-ampoule-a-decanter-poire-pyrex-bouchon-cle-250ml-205541-205541-30.jpg"
+    },
+    {
+      "sku": "258928",
+      "slug": "ampoule-squibb-labsolute-graduee-100ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE graduée, robinet PTFE, rodage CN 19/26, 100 mL",
+      "description_fr": "Ampoule à décanter de forme Squibb, graduée, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP. Graduation en émail blanc.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 48.60,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "100",
+        "Rodage femelle": "19/26",
+        "Diamètre du tube de sortie (mm)": "2,5",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000011_20230818111101/humeau.com-ampoule-squibb-labsolute-rob-ptfe-graduee-cn19-26-cap-100ml-82710000011-258928-30.jpg"
+    },
+    {
+      "sku": "258929",
+      "slug": "ampoule-squibb-labsolute-graduee-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE graduée, robinet PTFE, rodage CN 29/32, 1 L",
+      "description_fr": "Ampoule à décanter de forme Squibb, graduée, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP. Graduation en émail blanc.",
+      "variant_name_fr": "1 L",
+      "price_eur": 80.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Rodage femelle": "29/32",
+        "Diamètre du tube de sortie (mm)": "6,0",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000012_20240308103101/humeau.com-ampoule-squibb-labsolute-rob-ptfe-graduee-cn29-32-cap-1l-258929-258929-30.jpg"
+    },
+    {
+      "sku": "258931",
+      "slug": "ampoule-squibb-labsolute-graduee-250ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE graduée, robinet PTFE, rodage CN 29/32, 250 mL",
+      "description_fr": "Ampoule à décanter de forme Squibb, graduée, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP. Graduation en émail blanc.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 55.50,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "250",
+        "Rodage femelle": "29/32",
+        "Diamètre du tube de sortie (mm)": "4,0",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000014_20230818111101/humeau.com-ampoule-squibb-labsolute-rob-ptfe-graduee-cn29-32-cap-250ml-82710000014-258931-30.jpg"
+    },
+    {
+      "sku": "258933",
+      "slug": "ampoule-squibb-labsolute-graduee-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE graduée, robinet PTFE, rodage CN 29/32, 500 mL",
+      "description_fr": "Ampoule à décanter de forme Squibb, graduée, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP. Graduation en émail blanc.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 61.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Rodage femelle": "29/32",
+        "Diamètre du tube de sortie (mm)": "4,0",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000016_20230818111101/humeau.com-ampoule-squibb-labsolute-rob-ptfe-graduee-cn29-32-cap-500ml-82710000016-258933-30.jpg"
+    },
+    {
+      "sku": "258926",
+      "slug": "ampoule-squibb-labsolute-50ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE, robinet PTFE, rodage CN 19/26, 50 mL",
+      "description_fr": "Ampoule à décanter de forme Squibb, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 46.60,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "50",
+        "Rodage femelle": "19/26",
+        "Diamètre du tube de sortie (mm)": "2,5",
+        "Conditionnement": "1",
+        "Poids net": "0.155 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000009_20220505220233/humeau.com-ampoule-squibb-labsolute-robinet-ptfe-cn19-26-cap-50ml-82710000009-258926-30.jpg"
+    },
+    {
+      "sku": "258923",
+      "slug": "ampoule-squibb-labsolute-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE, robinet PTFE, rodage CN 29/32, 1 L",
+      "description_fr": "Ampoule à décanter de forme Squibb, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP.",
+      "variant_name_fr": "1 L",
+      "price_eur": 72.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Rodage femelle": "29/32",
+        "Diamètre du tube de sortie (mm)": "6,0",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000006_20230818111101/humeau.com-ampoule-squibb-labsolute-robinet-ptfe-cn29-32-cap-1l-82710000006-258923-30.jpg"
+    },
+    {
+      "sku": "258924",
+      "slug": "ampoule-squibb-labsolute-2l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ampoule Squibb LABSOLUTE, robinet PTFE, rodage CN 29/32, 2 L",
+      "description_fr": "Ampoule à décanter de forme Squibb, en verre borosilicaté 3.3 résistant aux températures jusqu'à 500 °C et présentant une très bonne résistance chimique. Fabrication conforme à la norme DIN ISO 4800, équipée d'un robinet d'arrêt en PTFE et d'un bouchon en polypropylène ; la résistance chimique globale dépend principalement de celle du bouchon en PP.",
+      "variant_name_fr": "2 L",
+      "price_eur": 97.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "2000",
+        "Rodage femelle": "29/32",
+        "Diamètre du tube de sortie (mm)": "6,0",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000007_20230818111101/humeau.com-ampoule-squibb-labsolute-robinet-ptfe-cn29-32-cap-2l-82710000007-258924-30.jpg"
+    }
+  ]
+}

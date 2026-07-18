@@ -1,0 +1,122 @@
+{
+  "category": {
+    "slug": "water-purification",
+    "parent_slug": "equipements",
+    "name": { "fr": "Purification de l'eau", "en": "Water Purification" },
+    "description": {
+      "fr": "Systèmes de purification d'eau de laboratoire — osmose inverse, déionisation et eau ultrapure, pour préparation de tampons, rinçage de verrerie, alimentation d'autoclaves et de laveurs."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B06258T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-20-type-3",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 20 — Type 3, 35 L, sans UV",
+      "description_fr": "Système de purification d'eau par osmose inverse produisant de l'eau de type 3 (grade primaire), adaptée à l'alimentation des laveurs de verrerie, autoclaves, systèmes d'eau ultrapure, hydroponie et générateurs de vapeur. Réservoir intégré de 35 L avec robinet de distribution en façade pour un débit rapide à la demande. Solution compacte tout-en-un, montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 % limitant la consommation d'eau, consommation électrique inférieure à 60 W. Cartouche RO jetable unique maintenant l'efficacité maximale, consommables remplaçables en quelques secondes, installation et entretien simples.",
+      "variant_name_fr": "Type 3, 20 L/h, sans UV",
+      "price_gbp": 3888.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 3 (osmose inverse)", "Réservoir": "35 L" }
+    },
+    {
+      "sku": "B2B06260T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-20-type-3-uv",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 20 — Type 3, 35 L, avec UV",
+      "description_fr": "Système de purification d'eau par osmose inverse produisant de l'eau de type 3 (grade primaire), avec module UV sans mercure intégré pour un contrôle biologique renforcé — adapté à l'alimentation des laveurs de verrerie, autoclaves, systèmes d'eau ultrapure, hydroponie et générateurs de vapeur. Réservoir intégré de 35 L avec robinet de distribution en façade. Solution compacte tout-en-un, montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W. Cartouche RO jetable unique, consommables remplaçables en quelques secondes.",
+      "variant_name_fr": "Type 3, 20 L/h, avec UV",
+      "price_gbp": 4200.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 3 (osmose inverse)", "Réservoir": "35 L", "Traitement UV": "Oui (sans mercure)" }
+    },
+    {
+      "sku": "B2B7072T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-10-type-3",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 10 — Type 3, 35 L, sans UV",
+      "description_fr": "Version à débit réduit (10 L/h) du système de purification par osmose inverse PurA-Q Choice, produisant de l'eau de type 3 (grade primaire) pour laveurs de verrerie, autoclaves, alimentation de systèmes ultrapurs, hydroponie et générateurs de vapeur. Réservoir intégré de 35 L, robinet de distribution en façade. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W. Cartouche RO jetable unique, entretien minimal.",
+      "variant_name_fr": "Type 3, 10 L/h, sans UV",
+      "price_gbp": 3360.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 3 (osmose inverse)", "Réservoir": "35 L" }
+    },
+    {
+      "sku": "B2B7314T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-10-type-3-uv",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 10 — Type 3, 35 L, avec UV",
+      "description_fr": "Version à débit réduit (10 L/h) du système de purification par osmose inverse PurA-Q Choice, avec module UV sans mercure intégré. Produit de l'eau de type 3 (grade primaire) pour laveurs de verrerie, autoclaves, alimentation de systèmes ultrapurs, hydroponie et générateurs de vapeur. Réservoir intégré de 35 L, robinet de distribution en façade. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W.",
+      "variant_name_fr": "Type 3, 10 L/h, avec UV",
+      "price_gbp": 3720.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 3 (osmose inverse)", "Réservoir": "35 L", "Traitement UV": "Oui (sans mercure)" }
+    },
+    {
+      "sku": "B2B06262T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-20-type-2",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 20 — Type 2, 35 L, sans UV",
+      "description_fr": "Système de purification d'eau par déionisation produisant de l'eau de type 2 (grade laboratoire général), adaptée à la préparation de tampons et milieux, dilution d'échantillons, préparation de réactifs, spectrophotométrie, électrophorèse de protéines, cytologie, histologie et rinçage de verrerie. Réservoir intégré de 35 L, robinet de distribution en façade pour un débit rapide. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W. Cartouche jetable unique, remplacement des consommables en quelques secondes.",
+      "variant_name_fr": "Type 2, 20 L/h, sans UV",
+      "price_gbp": 4410.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 2 (déionisation)", "Réservoir": "35 L" }
+    },
+    {
+      "sku": "B2B06264T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-20-type-2-uv",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 20 — Type 2, 35 L, avec UV",
+      "description_fr": "Système de purification d'eau par déionisation avec module UV sans mercure intégré, produisant de l'eau de type 2 (grade laboratoire général) pour préparation de tampons et milieux, dilution d'échantillons, réactifs, spectrophotométrie, électrophorèse de protéines, cytologie, histologie et rinçage de verrerie. Réservoir intégré de 35 L, robinet de distribution en façade. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W.",
+      "variant_name_fr": "Type 2, 20 L/h, avec UV",
+      "price_gbp": 4740.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 2 (déionisation)", "Réservoir": "35 L", "Traitement UV": "Oui (sans mercure)" }
+    },
+    {
+      "sku": "B2B7074T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-10-type-2-uv",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 10 — Type 2, 35 L, avec UV",
+      "description_fr": "Version à débit réduit (10 L/h) du système de purification par déionisation PurA-Q Choice, avec module UV sans mercure intégré. Produit de l'eau de type 2 (grade laboratoire général) pour tampons, milieux, dilution d'échantillons, réactifs, spectrophotométrie, électrophorèse, cytologie, histologie et rinçage de verrerie. Réservoir intégré de 35 L, robinet de distribution en façade. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W.",
+      "variant_name_fr": "Type 2, 10 L/h, avec UV",
+      "price_gbp": 4410.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 2 (déionisation)", "Réservoir": "35 L", "Traitement UV": "Oui (sans mercure)" }
+    },
+    {
+      "sku": "B2B7316T",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-10-type-2",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 10 — Type 2, 35 L, sans UV",
+      "description_fr": "Version à débit réduit (10 L/h) du système de purification par déionisation PurA-Q Choice, produisant de l'eau de type 2 (grade laboratoire général) pour tampons, milieux, dilution d'échantillons, réactifs, spectrophotométrie, électrophorèse, cytologie, histologie et rinçage de verrerie. Réservoir intégré de 35 L, robinet de distribution en façade. Montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique inférieure à 60 W. Cartouche jetable unique, entretien minimal.",
+      "variant_name_fr": "Type 2, 10 L/h, sans UV",
+      "price_gbp": 4086.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 2 (déionisation)", "Réservoir": "35 L" }
+    },
+    {
+      "sku": "WAT2408",
+      "slug": "purificateur-eau-sls-lab-pro-pura-q-choice-20-type-2-200l-jour",
+      "brand": "SLS Lab Pro",
+      "name_fr": "Purificateur d'eau SLS Lab Pro PurA-Q Choice 20 — Type 2, 20 L/h, 200 L/jour",
+      "description_fr": "Système de purification d'eau par déionisation haute capacité, produisant jusqu'à 200 L/jour d'eau de type 2 (grade laboratoire général) pour tampons, milieux, dilution d'échantillons, réactifs, spectrophotométrie, électrophorèse, cytologie, histologie et rinçage de verrerie. Réservoir intégré de 35 L, robinet de distribution en façade pour un débit rapide à la demande. Solution compacte tout-en-un, montage mural ou paillasse, faible encombrement (485 × 330 × 500 mm). Taux de récupération de 50 %, consommation électrique de 60 W. Option UV sans mercure disponible selon modèle.",
+      "variant_name_fr": "Type 2, 20 L/h, 200 L/jour",
+      "price_gbp": 6680.40,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT2406",
+      "specs_fr": { "Référence fournisseur": "TRI003", "Grade d'eau": "Type 2 (déionisation)", "Réservoir": "35 L", "Débit": "20 L/h, 200 L/jour" }
+    },
+    {
+      "sku": "WAT4920",
+      "slug": "deioniseur-elga-b114-4-cartouches-c114",
+      "brand": "Elga",
+      "name_fr": "Déioniseur Elga B114 — avec 4 cartouches C114",
+      "description_fr": "Système de déionisation mural Elga, produisant de 30 à 90 L/h d'eau de haute pureté pour applications de laboratoire et de fabrication générale. Solution autonome économique fournissant des volumes faibles à moyens d'eau de grade primaire ou déionisée. Cartouche jetable permettant un remplacement rapide et propre dès épuisement de la résine. Indicateur électronique à code couleur affichant en continu la qualité de l'eau traitée, pour un suivi simple sans instrumentation complexe. Livré avec 4 cartouches C114.",
+      "variant_name_fr": "Avec 4 cartouches C114",
+      "price_gbp": 1519.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/WAT4920",
+      "specs_fr": { "Référence fournisseur": "ELG001", "Débit": "30 à 90 L/h" }
+    }
+  ]
+}

@@ -20,6 +20,7 @@ if (!slug) {
 const DATA_PATH = join(ROOT, 'equipment', 'data', `${slug}.json`)
 const IMAGE_DIR = join(ROOT, '.tmp', `${slug}-images`)
 const GBP_TO_MAD = 12.5 // approximate — adjust before go-live
+const EUR_TO_MAD = 10.8 // approximate — adjust before go-live
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL,
@@ -28,8 +29,10 @@ const supabase = createClient(
 
 const { category, products } = JSON.parse(readFileSync(DATA_PATH, 'utf-8'))
 
-function toMad(gbp) {
-  return Math.round((gbp * GBP_TO_MAD) / 5) * 5
+function toMad(p) {
+  const rate = p.price_eur != null ? EUR_TO_MAD : GBP_TO_MAD
+  const amount = p.price_eur ?? p.price_gbp
+  return Math.round((amount * rate) / 5) * 5
 }
 
 async function getOrCreateCategory() {
@@ -117,7 +120,7 @@ async function importProduct(categoryId, p) {
     product_id: product.id,
     name: { fr: p.variant_name_fr ?? 'Standard' },
     sku: p.sku,
-    price: toMad(p.price_gbp),
+    price: toMad(p),
     stock: 0,
     position: 0,
     is_active: true,
@@ -134,7 +137,7 @@ async function importProduct(categoryId, p) {
   })
   if (imgErr) throw new Error(`Insert image failed (${p.sku}): ${imgErr.message}`)
 
-  console.log(`Imported: ${p.slug} (${toMad(p.price_gbp)} MAD)`)
+  console.log(`Imported: ${p.slug} (${toMad(p)} MAD)`)
 }
 
 async function main() {

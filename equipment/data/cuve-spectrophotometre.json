@@ -1,0 +1,287 @@
+{
+  "category": {
+    "slug": "cuve-spectrophotometre",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Cuves de spectrophotométrie" },
+    "description": {
+      "fr": "Cuves et cuvettes en quartz, verre optique, polystyrène et PMMA pour spectrophotométrie UV et visible, ainsi que leurs accessoires (bouchons, cuves de réaction pour tests colorimétriques)."
+    }
+  },
+  "products": [
+    {
+      "sku": "258815",
+      "slug": "bouchon-pression-cuve-ldpe-x1000",
+      "brand": "KARTELL",
+      "name_fr": "Bouchon à pression pour cuve, PEBD — lot de 1000",
+      "description_fr": "Bouchon à pression en polyéthylène basse densité (PEBD), à ouverture carrée de 10 x 10 mm, destiné à la fermeture des cuves de spectrophotométrie. Il sécurise l'homogénéisation d'un échantillon et évite le renversement accidentel de liquide.",
+      "variant_name_fr": "Lot de 1000",
+      "price_eur": 59.80,
+      "specs_fr": {
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Ouverture (mm)": "10 x 10",
+        "Stérile": "Non",
+        "Conditionnement": "1000",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/258815_20251002160101/humeau.com-bouchon-a-pression-pour-cuve-en-ldpe-pack-x1000-258815-258815-30.jpg"
+    },
+    {
+      "sku": "235572",
+      "slug": "cuve-usage-unique-ps-10mm-x100",
+      "brand": "BRAND",
+      "name_fr": "Cuve à usage unique en polystyrène, trajet optique 10 mm — lot de 100",
+      "description_fr": "Macro-cuvette à usage unique en polystyrène, trajet optique de 10 mm, avec volume de remplissage de 2,5 à 4,5 mL. Le chemin optique est marqué pour indiquer son orientation. Fabriquée en conditions ambiantes contrôlées et conditionnée sans contact humain, avec un regroupement par numéro de cavité de moule afin de limiter la variation du coefficient d'extinction entre cuvettes.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 10.00,
+      "specs_fr": {
+        "Matière": "Polystyrène",
+        "Volume (mL)": "2,5 à 4,5",
+        "Trajet optique (mm)": "10",
+        "Hauteur (mm)": "45",
+        "Profondeur (mm)": "12.5",
+        "Conditionnement": "100",
+        "Poids net": "0.31 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/25602810031_20251223130103/humeau.com-cuve-a-usage-unique-brand-10x45mm-traj-opt-10mm-x100-235572-235572-30.jpg"
+    },
+    {
+      "sku": "238682",
+      "slug": "cuve-hellma-quartz-type-100-10mm-3500ul",
+      "brand": "HELLMA",
+      "name_fr": "Cuve Hellma en quartz Suprasil, type 100, trajet optique 10 mm, 3 500 µL",
+      "description_fr": "Cuve de haute précision en quartz Suprasil (QS), de type 100, avec un trajet optique de 10 mm et un volume de 3 500 µL. Compatible avec la quasi-totalité des appareils de mesure spectrophotométrique du marché, elle convient aux mesures d'absorption sur une large plage de longueurs d'onde.",
+      "variant_name_fr": "Trajet optique 10 mm — 3 500 µL",
+      "price_eur": 129.90,
+      "specs_fr": {
+        "Matière": "Quartz Suprasil (QS)",
+        "Volume (µL)": "3 500",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures H x L x P (mm)": "45 x 12,5 x 12,5",
+        "Nombre de fenêtres": "2",
+        "Conditionnement": "1",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/238682_20251021111101/humeau.com-cuve-hellma-en-quartz-type-100-t-o-10mm-vol-3500ul-238682-238682-30.jpg"
+    },
+    {
+      "sku": "251352",
+      "slug": "cuve-spectro-humeau-quartz-10mm-x2",
+      "brand": "HUMEAU",
+      "name_fr": "Cuve spectro Humeau en quartz, trajet optique 10 mm — lot de 2",
+      "description_fr": "Cuve standard en quartz pour spectrophotomètres, trajet optique de 10 mm et capacité de 3,5 mL, utilisable sur une gamme spectrale de 190 à 2700 nm. Fournie avec un bouchon en téflon.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 2",
+      "price_eur": 80.00,
+      "specs_fr": {
+        "Matière": "Quartz",
+        "Capacité (mL)": "3,5",
+        "Trajet optique (mm)": "10",
+        "Gamme spectrale": "190-2700 nm",
+        "Dimensions extérieures H x L x P (mm)": "45 x 12,5 x 12,5",
+        "Nombre de fenêtres": "2",
+        "Conditionnement": "2",
+        "Poids net": "0.052 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/2/72411000302_20250101033001/humeau.com-cuves-spectro-humeau-en-quartz-10mm-par-2-72411000302-251352-30.jpg"
+    },
+    {
+      "sku": "203148",
+      "slug": "cuve-spectro-humeau-verre-optique-10mm-x4",
+      "brand": "HUMEAU",
+      "name_fr": "Cuve spectro Humeau en verre optique, trajet optique 10 mm — lot de 4",
+      "description_fr": "Cuve standard en verre optique pour spectrophotomètres, trajet optique de 10 mm et capacité de 3,5 mL, utilisable sur une gamme spectrale de 335 à 2500 nm. Fournie avec un bouchon en téflon.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 4",
+      "price_eur": 15.00,
+      "specs_fr": {
+        "Matière": "Verre optique",
+        "Capacité (mL)": "3,5",
+        "Trajet optique (mm)": "10",
+        "Gamme spectrale": "335-2500 nm",
+        "Dimensions extérieures H x L x P (mm)": "45 x 12,5 x 12,5",
+        "Nombre de fenêtres": "2",
+        "Conditionnement": "4",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04220000043_20250101033001/humeau.com-cuves-spectro-humeau-en-verre-optique-10mm-par-4-203148-203148-30.jpg"
+    },
+    {
+      "sku": "202132",
+      "slug": "cuvette-verre-10ml-spectro-hach-dr2010-2800-3900-6000-x2",
+      "brand": "HACH",
+      "name_fr": "Cuvette carrée en verre, 10 mL, pour spectrophotomètres Hach DR2010/2800/3900/6000 — lot de 2",
+      "description_fr": "Cuvette d'échantillon de forme carrée en verre, d'une capacité de 10 mL, conçue pour les spectrophotomètres Hach des séries DR2010, DR2800, DR3900 et DR6000.",
+      "variant_name_fr": "10 mL — lot de 2",
+      "price_eur": 324.00,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "10",
+        "Conditionnement": "2",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03602495402_20220505195556/humeau.com-cuvette-10-ml-pour-spectro-dr2010-2800-3900-6000-pack-2-03602495402-202132-30.jpg"
+    },
+    {
+      "sku": "218016",
+      "slug": "cuvette-verre-10ml-bouchon-hach-x6",
+      "brand": "HACH",
+      "name_fr": "Cuvette ronde en verre avec bouchon, 10 mL, pour spectrophotomètres Hach — lot de 6",
+      "description_fr": "Cuvette d'échantillon de forme ronde en verre, d'une capacité de 10 mL, livrée avec son bouchon, pour utilisation sur spectrophotomètres Hach.",
+      "variant_name_fr": "10 mL — lot de 6",
+      "price_eur": 116.00,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Conditionnement": "6",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101261783_20241106155106/humeau.com-cuvette-10ml-avec-bouchon-hach-x6-18101261783-218016-30.jpg"
+    },
+    {
+      "sku": "218017",
+      "slug": "cuvette-verre-25ml-bouchon-hach-x6",
+      "brand": "HACH",
+      "name_fr": "Cuvette ronde en verre avec bouchon, 25 mL, pour colorimètres et spectrophotomètres Hach — lot de 6",
+      "description_fr": "Cuvette d'échantillon de forme ronde en verre transparent, d'une capacité de 25 mL, livrée avec son bouchon, compatible avec les colorimètres et spectrophotomètres Hach.",
+      "variant_name_fr": "25 mL — lot de 6",
+      "price_eur": 99.90,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "25",
+        "Couleur": "Transparent",
+        "Conditionnement": "6",
+        "Poids net": "0.173 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101261784_20220505201050/humeau.com-cuvette-25ml-avec-bouchon-hach-24019-06-x6-18101261784-218017-30.jpg"
+    },
+    {
+      "sku": "259736",
+      "slug": "cuvette-multi-cellulaire-pmma-12x0-1ml-x1000",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette multi-cellulaire en PMMA, 12 cellules, 0,1 mL — lot de 1000",
+      "description_fr": "Cuvette multi-cellulaire en polyméthacrylate de méthyle (PMMA) comptant 12 cellules d'un volume de travail de 0,1 mL chacune (volume total 0,4 mL), utilisable sur la gamme spectrale 340-700 nm. Conçue pour le contrôle qualité et l'analyse photométrique, elle est adaptée aux analyseurs automatiques Thermo Scientific de la gamme Arena (20, 20XT, 30, 60) et Konelab (30, Arena 30, Prime 30).",
+      "variant_name_fr": "12 cellules — 0,1 mL — lot de 1000",
+      "price_eur": 893.00,
+      "specs_fr": {
+        "Matière": "Polyméthacrylate de méthyle (PMMA)",
+        "Volume total (mL)": "0,4",
+        "Volume de travail (mL)": "0,1",
+        "Gamme spectrale": "340-700 nm",
+        "Pack": "40 x 25",
+        "Conditionnement": "1000"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000819_20220505220233/humeau.com-cuvette-multi-cellulaire-en-pmma-12x0-1ml-x1000-82710000819-259736-30.jpg"
+    },
+    {
+      "sku": "259737",
+      "slug": "cuvette-pmma-macro-visible-10mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette macro en PMMA pour visible, trajet optique 10 mm, 2,5-4,5 mL — lot de 100",
+      "description_fr": "Cuvette jetable de type macro en polyméthacrylate de méthyle (PMMA), pour la gamme visible (300-900 nm), avec trajet optique de 10 mm et volume de 2,5 à 4,5 mL. Les cuvettes d'un même conditionnement proviennent de la même cavité de moule, ce qui limite les écarts de coefficient d'extinction entre elles ; une flèche indique le sens de transmission. Livrée en casiers refermables en polystyrène.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 19.90,
+      "specs_fr": {
+        "Matière": "Polyméthacrylate de méthyle (PMMA)",
+        "Type": "Macro",
+        "Volume (mL)": "2,5 - 4,5",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures L x H x P (mm)": "12,5 x 45 x 12,5",
+        "Gamme spectrale": "300-900 nm",
+        "Conditionnement": "100",
+        "Poids net": "0.29 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000820_20250321144101/humeau.com-cuvette-pmma-macro-pour-visible-trajet-10mm-2-5-4-5ml-x100-259737-259737-30.jpg"
+    },
+    {
+      "sku": "259735",
+      "slug": "cuvette-ps-macro-uv-10mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette macro en polystyrène pour UV, trajet optique 10 mm, 2,5-4,5 mL — lot de 100",
+      "description_fr": "Cuvette jetable de type macro en polystyrène, pour la gamme UV (220-900 nm), avec trajet optique de 10 mm et volume de 2,5 à 4,5 mL. Les cuvettes d'un même conditionnement proviennent de la même cavité de moule, ce qui limite les écarts de coefficient d'extinction entre elles ; une flèche indique le sens de transmission. Livrée en casiers refermables en polystyrène.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 43.40,
+      "specs_fr": {
+        "Matière": "Polystyrène",
+        "Type": "Macro",
+        "Volume (mL)": "2,5 à 4,5",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures L x H x P (mm)": "12,5 x 45 x 12,5",
+        "Gamme spectrale": "220-900 nm",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000818_20231130122005/humeau.com-cuvette-ps-macro-pour-uv-trajet-10mm-2-5-4-5ml-x100-259735-259735-30.jpg"
+    },
+    {
+      "sku": "259738",
+      "slug": "cuvette-ps-macro-visible-10mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette macro en polystyrène pour visible, trajet optique 10 mm, 2,5-4,5 mL — lot de 100",
+      "description_fr": "Cuvette jetable de type macro en polystyrène, pour la gamme visible (340-900 nm), avec trajet optique de 10 mm et volume de 2,5 à 4,5 mL. Les cuvettes d'un même conditionnement proviennent de la même cavité de moule, ce qui limite les écarts de coefficient d'extinction entre elles ; une flèche indique le sens de transmission. Livrée en casiers refermables en polystyrène.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 16.40,
+      "specs_fr": {
+        "Matière": "Polystyrène",
+        "Type": "Macro",
+        "Volume (mL)": "2,5 - 4,5",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures L x H x P (mm)": "12,5 x 45 x 12,5",
+        "Gamme spectrale": "340-900 nm",
+        "Conditionnement": "100",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000821_20250226140101/humeau.com-cuvette-ps-macro-pour-visible-trajet-10mm-2-5-4-5ml-x100-259738-259738-30.jpg"
+    },
+    {
+      "sku": "259739",
+      "slug": "cuvette-ps-semi-micro-visible-10mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette semi-micro en polystyrène pour visible, trajet optique 10 mm, 1,5-3 mL — lot de 100",
+      "description_fr": "Cuvette jetable de type semi-micro en polystyrène, pour la gamme visible (340-900 nm), avec trajet optique de 10 mm et volume de 1,5 à 3,0 mL. Les cuvettes d'un même conditionnement proviennent de la même cavité de moule, ce qui limite les écarts de coefficient d'extinction entre elles ; une flèche indique le sens de transmission. Livrée en casiers refermables en polystyrène.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 11.30,
+      "specs_fr": {
+        "Matière": "Polystyrène",
+        "Type": "Semi-micro",
+        "Volume (mL)": "1,5 - 3,0",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures L x H x P (mm)": "12,5 x 45 x 12,5",
+        "Gamme spectrale": "340-900 nm",
+        "Conditionnement": "100",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000822_20250221143101/humeau.com-cuvette-ps-semi-micro-pour-visible-trajet-10mm-1-5-3ml-x100-259739-259739-30.jpg"
+    },
+    {
+      "sku": "259740",
+      "slug": "cuvette-semi-micro-uv-10mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cuvette semi-micro pour UV, trajet optique 10 mm, 1,6 mL — lot de 100",
+      "description_fr": "Cuvette jetable de type semi-micro, pour la gamme UV (220-900 nm), avec trajet optique de 10 mm et volume de l'ordre de 1,6 mL. Les cuvettes d'un même conditionnement proviennent de la même cavité de moule, ce qui limite les écarts de coefficient d'extinction entre elles ; une flèche indique le sens de transmission. Livrée en casiers refermables en polystyrène.",
+      "variant_name_fr": "Trajet optique 10 mm — lot de 100",
+      "price_eur": 49.90,
+      "specs_fr": {
+        "Type": "Semi-micro",
+        "Volume (mL)": "1,5 - 3,0",
+        "Trajet optique (mm)": "10",
+        "Dimensions extérieures L x H x P (mm)": "12,5 x 45 x 12,5",
+        "Gamme spectrale": "220-900 nm",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000823_20230817161102/humeau.com-cuvette-semi-micro-pour-uv-trajet-10mm-1-6ml-x100-82710000823-259740-30.jpg"
+    },
+    {
+      "sku": "201601",
+      "slug": "cuvette-reaction-20mm-bouchon-vis-hach-x5",
+      "brand": "HACH",
+      "name_fr": "Cuvette de réaction avec bouchon à vis, diamètre 20 mm, pour systèmes de test Hach — lot de 5",
+      "description_fr": "Cuvette de réaction en verre, diamètre 20 mm, munie d'un bouchon à vis, destinée aux systèmes de test Hach (notamment DBO, Laton et Crack Set).",
+      "variant_name_fr": "Diamètre 20 mm — lot de 5",
+      "price_eur": 33.10,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Diamètre (mm)": "20",
+        "Couleur bouchon": "Rouge",
+        "Conditionnement": "5",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03600280004_20251013110102/humeau.com-eprouvette-de-reaction-pack-de-5-03600280004-201601-30.jpg"
+    }
+  ]
+}

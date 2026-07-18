@@ -1,0 +1,300 @@
+{
+  "category": {
+    "slug": "pipettes-verre-graduees",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Pipettes en verre" },
+    "description": {
+      "fr": "Pipettes graduées, jaugées et sérologiques en verre sodocalcique ou AR-Glas, classes de précision B, AS et A, pour le prélèvement et le transfert précis de volumes en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "204828",
+      "slug": "pipette-graduee-mbl-verre-type-1-classe-b-2ml-x5",
+      "brand": "MBL",
+      "name_fr": "Pipette graduée MBL en verre, type 1, classe B, 2 mL — lot de 5",
+      "description_fr": "Pipette graduée type 1 (zéro en haut, écoulement partiel) en verre sodocalcique, classe de précision B, conforme à la norme ISO 835. Graduations ambrées indélébiles résistantes aux solutions de nettoyage agressives, pointe conçue pour une bonne résistance.",
+      "variant_name_fr": "2 mL — lot de 5",
+      "price_eur": 28.90,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "2",
+        "Graduation (mL)": "0,02",
+        "Classe de précision": "B",
+        "Tolérance": "± 0,02 mL",
+        "Temps d'écoulement": "2-12 s",
+        "Conditionnement": "5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000177_20250523143102/humeau.com-pipette-graduee-mbl-verre-type-1-classe-b-2ml-par-5-204828-204828-30.jpg"
+    },
+    {
+      "sku": "204833",
+      "slug": "pipette-graduee-mbl-verre-type-2-classe-as-2ml-x2",
+      "brand": "MBL",
+      "name_fr": "Pipette graduée MBL en verre, type 2, classe AS, 2 mL — lot de 2",
+      "description_fr": "Pipette graduée type 2 (zéro à la pointe, écoulement total) en verre sodocalcique, classe de précision AS, conforme à la norme ISO 835. Calibrée pour écoulement « Ex » avec un temps d'attente de 5 secondes, graduations ambrées indélébiles résistantes aux solutions de nettoyage agressives.",
+      "variant_name_fr": "2 mL — lot de 2",
+      "price_eur": 13.20,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "2",
+        "Graduation (mL)": "0,02",
+        "Classe de précision": "AS",
+        "Tolérance": "± 0,010 mL",
+        "Temps d'écoulement": "4-10 s",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000182_20230817161102/humeau.com-pipette-graduee-mbl-verre-type-2-classe-as-2ml-par-2-06700000182-204833-30.jpg"
+    },
+    {
+      "sku": "204838",
+      "slug": "pipette-graduee-mbl-verre-type-2-classe-b-25ml-x5",
+      "brand": "MBL",
+      "name_fr": "Pipette graduée MBL en verre, type 2, classe B, 25 mL — lot de 5",
+      "description_fr": "Pipette graduée type 2 (zéro à la pointe, écoulement total) en verre sodocalcique à pointe renforcée, classe de précision B, conforme à la norme ISO 835. Graduations ambrées permanentes diffusées dans le verre pour une résistance maximale aux solutions de nettoyage agressives.",
+      "variant_name_fr": "25 mL — lot de 5",
+      "price_eur": 64.40,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "25",
+        "Graduation (mL)": "0,10",
+        "Classe de précision": "B",
+        "Tolérance": "± 0,20 mL",
+        "Temps d'écoulement": "9-21 s",
+        "Conditionnement": "5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000187_20240206102103/humeau.com-pipette-graduee-mbl-verre-type-2-classe-b-25ml-par-5-204838-204838-30.jpg"
+    },
+    {
+      "sku": "207964",
+      "slug": "pipette-graduee-verre-hirschmann-ambree-type-1-classe-as-5ml-x12",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Pipette graduée Hirschmann en verre AR-Glas, ambrée, type 1, classe AS, 5 mL — lot de 12",
+      "description_fr": "Pipette graduée type 1 (zéro en haut, écoulement partiel, non graduée jusqu'à la pointe) en verre AR-Glas, classe de précision AS, ajustée sur « Ex » et conforme à la norme DIN EN ISO 835. Graduation ambrée permanente par diffusion, numéro de lot daté avec déclaration de conformité selon DIN 12600 ; certificat de lot individuel ou DAkkS disponible en option.",
+      "variant_name_fr": "5 mL — lot de 12",
+      "price_eur": 96.00,
+      "specs_fr": {
+        "Matière": "Verre AR-Glas",
+        "Capacité (mL)": "5",
+        "Graduation (mL)": "0,05",
+        "Couleur de graduation": "Ambrée",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "360",
+        "Tolérance": "± 0,03 mL",
+        "Conditionnement": "12"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000040_20220505200331/humeau.com-pipette-graduee-verre-gr-ambr-t1-cc-cl-as-1-20-5ml-par-12-10711000040-207964-30.jpg"
+    },
+    {
+      "sku": "207959",
+      "slug": "pipette-graduee-verre-hirschmann-ambree-type-3-classe-as-50ml-x6",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Pipette graduée Hirschmann en verre AR-Glas, ambrée, type 3, classe AS, 50 mL — lot de 6",
+      "description_fr": "Pipette graduée type 3 (zéro en haut, graduée jusqu'à la pointe) en verre AR-Glas, classe de précision AS, ajustée sur « Ex » et conforme à la norme DIN EN ISO 835. Graduation ambrée permanente par diffusion, numéro de lot daté avec déclaration de conformité selon DIN 12600 ; certificat de lot individuel ou DAkkS disponible en option.",
+      "variant_name_fr": "50 mL — lot de 6",
+      "price_eur": 158.70,
+      "specs_fr": {
+        "Matière": "Verre AR-Glas",
+        "Capacité (mL)": "50",
+        "Graduation (mL)": "0,2",
+        "Couleur de graduation": "Ambrée",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "450",
+        "Tolérance": "± 0,2 mL",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000035_20220505200331/humeau.com-pipette-graduee-verre-gr-ambr-t3-cc-cl-as-1-2-50ml-par-6-10711000035-207959-30.jpg"
+    },
+    {
+      "sku": "207949",
+      "slug": "pipette-graduee-verre-hirschmann-ambree-type-3-classe-b-5ml-x12",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Pipette graduée Hirschmann en verre AR-Glas, ambrée, type 3, classe B, 5 mL — lot de 12",
+      "description_fr": "Pipette graduée type 3 (zéro en haut, graduée jusqu'à la pointe) en verre AR-Glas, classe de précision B, ajustée sur « Ex » et conforme à la norme DIN EN ISO 835. Graduation brune permanente par diffusion et traits de division réguliers.",
+      "variant_name_fr": "5 mL — lot de 12",
+      "price_eur": 64.80,
+      "specs_fr": {
+        "Matière": "Verre AR-Glas",
+        "Capacité (mL)": "5",
+        "Graduation (mL)": "0,1",
+        "Couleur de graduation": "Ambrée",
+        "Classe de précision": "B",
+        "Longueur (mm)": "360",
+        "Tolérance": "± 0,045 mL",
+        "Poids net": "0.25 kg",
+        "Conditionnement": "12"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000025_20220505200331/humeau.com-pipette-graduee-verre-gr-ambr-t3-cl-b-1-10-5ml-par-12-10711000025-207949-30.jpg"
+    },
+    {
+      "sku": "204856",
+      "slug": "pipette-jaugee-mbl-verre-1-trait-classe-as-5ml-x2",
+      "brand": "MBL",
+      "name_fr": "Pipette jaugée MBL en verre, 1 trait, classe AS, 5 mL — lot de 2",
+      "description_fr": "Pipette jaugée à 1 trait en verre sodocalcique, classe de précision AS, conforme aux normes ISO 648 et DIN 12691. Calibrée pour écoulement total avec un temps d'attente de 5 secondes, graduation ambrée indélébile et pointe en verre robuste ; numéro de lot imprimé permettant de télécharger le certificat de lot.",
+      "variant_name_fr": "5 mL — lot de 2",
+      "price_eur": 14.20,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "5",
+        "Classe de précision": "AS",
+        "Tolérance": "± 0,015 mL",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000205_20250407100101/humeau.com-pipette-jaugee-mbl-verre-1-trait-classe-as-5ml-par-2-204856-204856-30.jpg"
+    },
+    {
+      "sku": "204867",
+      "slug": "pipette-jaugee-mbl-verre-1-trait-classe-b-20ml-x5",
+      "brand": "MBL",
+      "name_fr": "Pipette jaugée MBL en verre, 1 trait, classe B, 20 mL — lot de 5",
+      "description_fr": "Pipette jaugée à 1 trait en verre sodocalcique, classe de précision B, conforme aux normes ISO 648 et DIN 12690. Calibrée pour écoulement total, marquages ambrés indélébiles et pointe en verre robuste.",
+      "variant_name_fr": "20 mL — lot de 5",
+      "price_eur": 60.70,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "20",
+        "Classe de précision": "B",
+        "Tolérance": "± 0,060 mL",
+        "Conditionnement": "5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000216_20231218093101/humeau.com-pipette-jaugee-mbl-verre-1-trait-classe-b-20ml-par-5-204867-204867-30.jpg"
+    },
+    {
+      "sku": "204884",
+      "slug": "pipette-jaugee-mbl-verre-2-traits-classe-as-100ml-x2",
+      "brand": "MBL",
+      "name_fr": "Pipette jaugée MBL en verre, 2 traits, classe AS, 100 mL — lot de 2",
+      "description_fr": "Pipette jaugée à 2 traits en verre, classe de précision AS, conforme aux normes ISO 648 et DIN 12691. Calibrée pour écoulement « Ex » avec un temps d'attente de 5 secondes, boule de sécurité en tête de pipette et pointe renforcée, graduations ambrées indélébiles.",
+      "variant_name_fr": "100 mL — lot de 2",
+      "price_eur": 79.50,
+      "specs_fr": {
+        "Capacité (mL)": "100",
+        "Classe de précision": "AS",
+        "Tolérance": "± 0,08 mL",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000233_20230817161102/humeau.com-pipette-jaugee-mbl-verre-2-traits-classe-as-100ml-par-2-06700000233-204884-30.jpg"
+    },
+    {
+      "sku": "207983",
+      "slug": "pipette-jaugee-verre-hirschmann-ambree-classe-as-9ml-x6",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Pipette jaugée Hirschmann en verre AR-Glas, ambrée, 1 trait, classe AS, 9 mL — lot de 6",
+      "description_fr": "Pipette jaugée à 1 trait en verre AR-Glas, classe de précision AS, ajustée sur « Ex » et conforme à la norme DIN EN ISO 648. Graduation ambrée par diffusion, numéro de lot daté avec déclaration de conformité selon DIN 12600 ; certificat de lot individuel ou DAkkS disponible en option.",
+      "variant_name_fr": "9 mL — lot de 6",
+      "price_eur": 64.50,
+      "specs_fr": {
+        "Matière": "Verre AR-Glas",
+        "Capacité (mL)": "9",
+        "Couleur de graduation": "Ambrée",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "450",
+        "Tolérance": "± 0,02 mL",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000059_20220505200331/humeau.com-pipette-jaugee-verre-grad-ambr-1-trait-cc-cl-as-9ml-par-6-10711000059-207983-30.jpg"
+    },
+    {
+      "sku": "207988",
+      "slug": "pipette-jaugee-verre-hirschmann-bleue-classe-as-4ml-x6",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Pipette jaugée Hirschmann en verre AR-Glas, bleue, 1 trait, classe AS, 4 mL — lot de 6",
+      "description_fr": "Pipette jaugée à 1 trait en verre AR-Glas, classe de précision AS, ajustée sur « Ex » et conforme à la norme DIN EN ISO 648. Graduation bleue avec numéro de lot daté et déclaration de conformité selon DIN 12600 ; certificat de lot individuel ou DAkkS disponible en option.",
+      "variant_name_fr": "4 mL — lot de 6",
+      "price_eur": 57.80,
+      "specs_fr": {
+        "Matière": "Verre AR-Glas",
+        "Capacité (mL)": "4",
+        "Couleur de graduation": "Bleue",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "410",
+        "Tolérance": "± 0,015 mL",
+        "Poids net": "0.25 kg",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000064_20251202151101/humeau.com-pipette-jaugee-verre-grad-blue-1-trait-cc-cl-as-4ml-par-6-207988-207988-30.jpg"
+    },
+    {
+      "sku": "260803",
+      "slug": "pipette-jaugee-verre-labsolute-brune-classe-as-2ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pipette jaugée LABSOLUTE en verre, 1 trait, classe AS, 2 mL — lot de 6",
+      "description_fr": "Pipette jaugée à 1 trait en verre sodocalcique, classe de précision AS, conforme à la norme DIN EN ISO 648. Calibrée sur « Ex » (+5 secondes), numéro de lot identifié et étiquetage durable par colorant de diffusion brun brûlé en surface, résistant aux produits chimiques et agents de nettoyage.",
+      "variant_name_fr": "2 mL — lot de 6",
+      "price_eur": 33.10,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "2",
+        "Couleur": "Orange",
+        "Couleur de graduation": "Brune",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "330",
+        "Poids net": "0.08 kg",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001886_20260618115103/humeau.com-pipette-jaugee-verre-grad-brun-1-trait-cl-as-2ml-x6-260803-260803-30.jpg"
+    },
+    {
+      "sku": "260808",
+      "slug": "pipette-jaugee-verre-labsolute-brune-classe-as-5ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pipette jaugée LABSOLUTE en verre, 1 trait, classe AS, 5 mL — lot de 6",
+      "description_fr": "Pipette jaugée à 1 trait en verre sodocalcique, classe de précision AS, conforme à la norme DIN EN ISO 648. Calibrée sur « Ex » (+5 secondes), numéro de lot identifié et étiquetage durable par colorant de diffusion brun brûlé en surface, résistant aux produits chimiques et agents de nettoyage.",
+      "variant_name_fr": "5 mL — lot de 6",
+      "price_eur": 42.40,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "5",
+        "Couleur": "Blanc",
+        "Couleur de graduation": "Brune",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "400",
+        "Poids net": "0.135 kg",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001891_20260309114101/humeau.com-pipette-jaugee-verre-grad-brun-1-trait-cl-as-5ml-x6-260808-260808-30.jpg"
+    },
+    {
+      "sku": "204847",
+      "slug": "pipette-serologique-mbl-verre-classe-b-10ml-x5",
+      "brand": "MBL",
+      "name_fr": "Pipette sérologique MBL en verre, classe B, 10 mL — lot de 5",
+      "description_fr": "Pipette sérologique type 4 (zéro en haut, écoulement total avec dernière goutte expulsée par soufflage) en verre sodocalcique, classe de précision B, conforme à la norme ISO 835. Extrémité supérieure prévue pour tampon coton, graduations ambrées indélébiles, pointe conçue pour une bonne résistance.",
+      "variant_name_fr": "10 mL — lot de 5",
+      "price_eur": 35.00,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "10",
+        "Couleur de graduation": "Ambrée",
+        "Graduation (mL)": "0,10",
+        "Classe de précision": "B",
+        "Tolérance": "± 0,10 mL",
+        "Temps d'écoulement": "4-10 s",
+        "Conditionnement": "5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000196_20250516142102/humeau.com-pipette-serologie-mbl-verre-l-o-classe-b-10ml-par-x5-204847-204847-30.jpg"
+    },
+    {
+      "sku": "260830",
+      "slug": "pipette-graduee-verre-labsolute-brune-type-3-classe-as-20ml-x3",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pipette graduée LABSOLUTE en verre, type 3, classe AS, 20 mL — lot de 3",
+      "description_fr": "Pipette graduée type 3 (zéro en haut, graduée jusqu'à la pointe) en verre sodocalcique, classe de précision AS. Calibrée sur « Ex » (+5 secondes), numéro de lot identifié et étiquetage durable par colorant de diffusion brun brûlé en surface, résistant aux produits chimiques et agents de nettoyage.",
+      "variant_name_fr": "20 mL — lot de 3",
+      "price_eur": 28.00,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Capacité (mL)": "20",
+        "Couleur": "Rayure jaune",
+        "Couleur de graduation": "Brune",
+        "Graduation (mL)": "0,10",
+        "Classe de précision": "AS",
+        "Longueur (mm)": "360",
+        "Poids net": "0.15 kg",
+        "Conditionnement": "3"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001913_20260318133103/humeau.com-pipette-verre-graduee-brun-cl-as-20ml-x3-260830-260830-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "category": {
+    "slug": "tubes-essai-centrifugation",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Tubes à essai et à centrifuger" },
+    "description": {
+      "fr": "Tubes à essai et tubes à centrifuger en verre borosilicaté et en polypropylène, pour la collecte, la centrifugation et le stockage d'échantillons en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "237645",
+      "slug": "tube-centrifuger-duran-fond-conique-50ml-34x100mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Tube à centrifuger en verre Duran, fond conique, 50 mL — lot de 10",
+      "description_fr": "Tube à centrifuger en verre borosilicaté Duran à fond conique (angle 60°), offrant une bonne résistance à la sollicitation mécanique et autoclavable à 121 °C.",
+      "variant_name_fr": "50 mL, Ø ext. 34 x 100 mm — lot de 10",
+      "price_eur": 293.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "50",
+        "Diamètre ext. col (mm)": "34",
+        "Hauteur (mm)": "100",
+        "Forme du fond": "Conique (60°)",
+        "Conditionnement": "10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000188_20230613150104/humeau.com-tube-a-centrifuger-duran-fond-conique-50ml-34x100mm-x10-30600000188-237645-30.jpg"
+    },
+    {
+      "sku": "223262",
+      "slug": "tube-centrifuger-duran-fond-rond-50ml-34x100mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Tube à centrifuger en verre Duran, fond rond, 50 mL — lot de 10",
+      "description_fr": "Tube à centrifuger en verre borosilicaté Duran à fond rond, offrant une bonne résistance à la sollicitation mécanique et autoclavable à 121 °C.",
+      "variant_name_fr": "50 mL, Ø ext. 34 x 100 mm — lot de 10",
+      "price_eur": 217.60,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "50",
+        "Diamètre ext. col (mm)": "34",
+        "Hauteur (mm)": "100",
+        "Forme du fond": "Rond",
+        "Conditionnement": "10",
+        "Poids net": "0.59 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402160117_20231130112101/humeau.com-tube-a-centrifuger-duran-fond-rond-50ml-34x100mm-x10-223262-223262-30.jpg"
+    },
+    {
+      "sku": "204765",
+      "slug": "tube-centrifuger-forme-poire-gradue-astm-100ml-l157mm-x2",
+      "brand": "SIMAX",
+      "name_fr": "Tube à centrifuger en verre Pyrex, forme poire, gradué ASTM, 100 mL — lot de 2",
+      "description_fr": "Tube à centrifuger en verre Pyrex de forme poire, gradué en émail blanc, conforme aux normes ASTM D96 et D-1966 ; destiné à la détermination de la teneur en eau et en sédiments dans les produits pétroliers.",
+      "variant_name_fr": "100 mL, longueur 157 mm — lot de 2",
+      "price_eur": 376.70,
+      "specs_fr": {
+        "Matière": "Verre Pyrex",
+        "Forme": "Poire",
+        "Longueur (mm)": "157",
+        "Norme": "ASTM D96 / D-1966",
+        "Graduation": "Émail blanc",
+        "Poids net": "0.268 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000114_20231023090101/humeau.com-tube-a-centrifuger-forme-poire-gradue-astm-100ml-l-157mm-x2-204765-204765-30.jpg"
+    },
+    {
+      "sku": "237728",
+      "slug": "tube-essai-duran-bord-droit-100ml-30x200mm-x50",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord droit, 100 mL — lot de 50",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord droit et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "100 mL, Ø ext. 30 x 200 mm — lot de 50",
+      "price_eur": 254.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "100",
+        "Diamètre ext. corps (mm)": "30",
+        "Épaisseur (mm)": "1,0 - 1,4",
+        "Longueur (mm)": "200",
+        "Bord": "Droit",
+        "Conditionnement": "50",
+        "Poids net": "2.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000271_20250701122003/humeau.com-tube-a-essai-verre-duran-bord-droit-100ml-30x200mm-x50-237728-237728-30.jpg"
+    },
+    {
+      "sku": "237716",
+      "slug": "tube-essai-duran-bord-droit-2ml-8x70mm-x100",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord droit, 2 mL — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord droit et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "2 mL, Ø ext. 8 x 70 mm — lot de 100",
+      "price_eur": 82.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "2",
+        "Diamètre ext. corps (mm)": "8",
+        "Épaisseur (mm)": "0,8 - 1,0",
+        "Longueur (mm)": "70",
+        "Bord": "Droit",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000259_20230613154102/humeau.com-tube-a-essai-verre-duran-bord-droit-2ml-8x70mm-x100-30600000259-237716-30.jpg"
+    },
+    {
+      "sku": "237764",
+      "slug": "tube-essai-duran-bord-droit-55ml-25x150mm-x50",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord droit, 55 mL — lot de 50",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord droit et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "55 mL, Ø ext. 25 x 150 mm — lot de 50",
+      "price_eur": 145.90,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "55",
+        "Diamètre ext. corps (mm)": "25",
+        "Épaisseur (mm)": "1,0 - 1,2",
+        "Longueur (mm)": "150",
+        "Bord": "Droit",
+        "Conditionnement": "50",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30602032501_20240409160101/humeau.com-tube-a-essai-verre-duran-bord-droit-55ml-25x150mm-x50-237764-237764-30.jpg"
+    },
+    {
+      "sku": "237721",
+      "slug": "tube-essai-duran-bord-droit-9ml-13x100mm-x100",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord droit, 9 mL — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord droit et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "9 mL, Ø ext. 13 x 100 mm — lot de 100",
+      "price_eur": 128.70,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "9",
+        "Diamètre ext. corps (mm)": "13",
+        "Épaisseur (mm)": "0,8 - 1,0",
+        "Longueur (mm)": "100",
+        "Bord": "Droit",
+        "Conditionnement": "100",
+        "Poids net": "0.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000264_20231130130101/humeau.com-tube-a-essai-verre-duran-bord-droit-9ml-13x100mm-x100-237721-237721-30.jpg"
+    },
+    {
+      "sku": "237711",
+      "slug": "tube-essai-duran-bord-evase-34ml-20x150mm-x100",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord évasé, 34 mL — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord évasé et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "34 mL, Ø ext. 20 x 150 mm — lot de 100",
+      "price_eur": 204.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "34",
+        "Diamètre ext. corps (mm)": "20",
+        "Épaisseur (mm)": "1,0 - 1,2",
+        "Longueur (mm)": "150",
+        "Bord": "Évasé",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000254_20230613154102/humeau.com-tube-a-essai-verre-duran-bord-evase-34ml-20x150mm-x100-30600000254-237711-30.jpg"
+    },
+    {
+      "sku": "237706",
+      "slug": "tube-essai-duran-bord-evase-9ml-13x100mm-x100",
+      "brand": "DURAN",
+      "name_fr": "Tube à essai en verre Duran, bord évasé, 9 mL — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté Duran à bord évasé et paroi épaisse, offrant une forte résistance mécanique et thermique ; autoclavable à 121 °C.",
+      "variant_name_fr": "9 mL, Ø ext. 13 x 100 mm — lot de 100",
+      "price_eur": 147.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "9",
+        "Diamètre ext. corps (mm)": "13",
+        "Épaisseur (mm)": "0,8 - 1,0",
+        "Longueur (mm)": "100",
+        "Bord": "Évasé",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000249_20250319100101/humeau.com-tube-a-essai-verre-duran-bord-evase-9ml-13x100mm-x100-237706-237706-30.jpg"
+    },
+    {
+      "sku": "261228",
+      "slug": "tube-centrifuger-15ml-pp-fond-conique-non-sterile-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à centrifuger en polypropylène, fond conique, non stérile, 15 mL — lot de 500",
+      "description_fr": "Tube à centrifuger en polypropylène de haute qualité (équivalent USP classe VI), fond conique, capuchon séparé en polyéthylène, non stérile. Bonne stabilité thermique, mécanique et chimique ; supporte la centrifugation jusqu'à 16 000 x g (fond conique) ou 3 000 x g (au niveau du bord), exempt de DNase et RNase.",
+      "variant_name_fr": "15 mL — lot de 500",
+      "price_eur": 117.00,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Matière bouchon": "Polyéthylène",
+        "Capacité (mL)": "15",
+        "Diamètre (mm)": "16",
+        "Hauteur (mm)": "120",
+        "Forme du fond": "Conique, capuchon séparé",
+        "Stérile": "Non",
+        "Conditionnement": "500"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002311_20230817161102/humeau.com-tubes-a-centrifuger-15ml-en-pp-fond-conique-non-ster-x500-82710002311-261228-30.jpg"
+    },
+    {
+      "sku": "261237",
+      "slug": "tube-centrifuger-50ml-pp-fond-conique-sterile-rack-x300",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à centrifuger en polypropylène, fond conique, stérile, en rack, 50 mL — lot de 300",
+      "description_fr": "Tube à centrifuger en polypropylène de haute qualité (équivalent USP classe VI), fond conique, capuchon séparé en polyéthylène, stérile (stérilisation gamma, SAL 10⁻⁶), conditionné en rack. Bonne stabilité thermique, mécanique et chimique ; supporte la centrifugation jusqu'à 16 000 x g (fond conique) ou 3 000 x g (au niveau du bord), exempt de DNase et RNase.",
+      "variant_name_fr": "50 mL — lot de 300",
+      "price_eur": 117.10,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Matière bouchon": "Polyéthylène",
+        "Capacité (mL)": "50",
+        "Diamètre (mm)": "28",
+        "Hauteur (mm)": "115",
+        "Forme du fond": "Conique, en rack",
+        "Stérile": "Oui",
+        "Conditionnement": "300",
+        "Poids net": "6.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261237_20250109092103/humeau.com-tubes-a-centrifuger-50ml-en-pp-fond-con-sterile-racks-x300-261237-261237-30.jpg"
+    },
+    {
+      "sku": "261235",
+      "slug": "tube-centrifuger-50ml-pp-fond-conique-non-sterile-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à centrifuger en polypropylène, fond conique, non stérile, 50 mL — lot de 500",
+      "description_fr": "Tube à centrifuger en polypropylène de haute qualité (équivalent USP classe VI), fond conique, capuchon séparé, non stérile. Bonne stabilité thermique, mécanique et chimique ; supporte la centrifugation jusqu'à 16 000 x g (fond conique) ou 3 000 x g (au niveau du bord), exempt de DNase et RNase.",
+      "variant_name_fr": "50 mL — lot de 500",
+      "price_eur": 162.00,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "50",
+        "Diamètre (mm)": "28",
+        "Hauteur (mm)": "115",
+        "Forme du fond": "Conique, capuchon séparé",
+        "Stérile": "Non",
+        "Conditionnement": "500"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261235_20250109092103/humeau.com-tubes-a-centrifuger-50ml-en-pp-fond-conique-non-ster-x500-261235-261235-30.jpg"
+    },
+    {
+      "sku": "261230",
+      "slug": "tube-centrifuger-50ml-pp-jupe-non-sterile-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à centrifuger en polypropylène avec jupe, non stérile, 50 mL — lot de 500",
+      "description_fr": "Tube à centrifuger en polypropylène de haute qualité (équivalent USP classe VI), fond conique à jupe pour tenue stable, capuchon séparé en polyéthylène, non stérile, conditionné en rack. Bonne stabilité thermique, mécanique et chimique ; supporte la centrifugation jusqu'à 16 000 x g (fond conique) ou 3 000 x g (au niveau du bord), exempt de DNase et RNase.",
+      "variant_name_fr": "50 mL — lot de 500",
+      "price_eur": 199.00,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Matière bouchon": "Polyéthylène",
+        "Capacité (mL)": "50",
+        "Diamètre (mm)": "28",
+        "Hauteur (mm)": "115",
+        "Forme du fond": "Conique à jupe, en rack",
+        "Stérile": "Non",
+        "Conditionnement": "500",
+        "Poids net": "9.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261230_20250110164101/humeau.com-tubes-a-centrifuger-en-pp-50ml-avec-jupe-non-sterile-s-s-25-pack-x500-261230-261230-30.jpg"
+    },
+    {
+      "sku": "261242",
+      "slug": "tube-essai-bord-evase-verre-boro-10x100mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à essai en verre borosilicaté, bord évasé, 10 x 100 mm — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté spécial 4.9, à bord évasé et paroi mince, peu sensible aux changements importants de température et au chauffage localisé. Bonne résistance chimique, notamment aux acides, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "Ø 10 x 100 mm — lot de 100",
+      "price_eur": 28.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 4.9",
+        "Diamètre (mm)": "10",
+        "Épaisseur (mm)": "0,5",
+        "Hauteur (mm)": "100",
+        "Bord": "Évasé",
+        "Conditionnement": "100",
+        "Poids net": "0.37 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002325_20260226122004/humeau.com-tubes-a-essai-a-bords-evases-verre-boro-10x100mm-x100-261242-261242-30.jpg"
+    },
+    {
+      "sku": "261249",
+      "slug": "tube-essai-bord-evase-verre-boro-8x70mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Tube à essai en verre borosilicaté, bord évasé, 8 x 70 mm — lot de 100",
+      "description_fr": "Tube à essai en verre borosilicaté spécial 4.9, à bord évasé et paroi mince, peu sensible aux changements importants de température et au chauffage localisé. Bonne résistance chimique, notamment aux acides, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "Ø 8 x 70 mm — lot de 100",
+      "price_eur": 28.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 4.9",
+        "Diamètre (mm)": "8",
+        "Épaisseur (mm)": "0,5",
+        "Hauteur (mm)": "70",
+        "Bord": "Évasé",
+        "Conditionnement": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002332_20220505220233/humeau.com-tubes-a-essai-a-bords-evases-verre-boro-8x70mm-x100-82710002332-261249-30.jpg"
+    }
+  ]
+}

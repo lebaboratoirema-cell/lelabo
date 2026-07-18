@@ -1,0 +1,301 @@
+{
+  "category": {
+    "slug": "eprouvette",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Éprouvettes graduées" },
+    "description": {
+      "fr": "Éprouvettes graduées en verre borosilicaté ou en plastique (polypropylène, PMP), de classe A ou B, pour la mesure et le transfert précis de volumes de liquides en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "259801",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-10ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 10 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 8.56,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "10",
+        "Diamètre (mm)": "21.3",
+        "Divisions (mL)": "0,2",
+        "Hauteur (mm)": "135",
+        "Tolérance": "0,1 mL",
+        "Conditionnement": "1",
+        "Poids net": "1.21 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000884_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-10ml-259801-259801-30.jpg"
+    },
+    {
+      "sku": "259804",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-250ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 250 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 18.64,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "250",
+        "Divisions (mL)": "2",
+        "Hauteur (mm)": "320",
+        "Tolérance": "+/- 1 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.31 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000887_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-250ml-259804-259804-30.jpg"
+    },
+    {
+      "sku": "259803",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-25ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 25 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 8.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "25",
+        "Diamètre (mm)": "26.0",
+        "Divisions (mL)": "0,5",
+        "Hauteur (mm)": "160",
+        "Tolérance": "+/- 0,25 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000886_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-25ml-259803-259803-30.jpg"
+    },
+    {
+      "sku": "259802",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-2l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 2 L",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "2 L",
+      "price_eur": 70.56,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "2000",
+        "Divisions (mL)": "20",
+        "Hauteur (mm)": "565",
+        "Tolérance": "+/- 10 mL",
+        "Conditionnement": "1",
+        "Poids net": "1.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000885_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-2l-82710000885-259802-30.jpg"
+    },
+    {
+      "sku": "259807",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 500 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 29.52,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Divisions (mL)": "5",
+        "Hauteur (mm)": "380",
+        "Tolérance": "+/- 2,5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.53 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000890_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-500ml-259807-259807-30.jpg"
+    },
+    {
+      "sku": "259806",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-50ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 50 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 9.60,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "50",
+        "Diamètre (mm)": "31.3",
+        "Divisions (mL)": "1",
+        "Hauteur (mm)": "195",
+        "Tolérance": "+/- 0,5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000889_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-50ml-259806-259806-30.jpg"
+    },
+    {
+      "sku": "259805",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-5ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 5 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "5 mL",
+      "price_eur": 8.32,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5",
+        "Divisions (mL)": "0,1",
+        "Hauteur (mm)": "115",
+        "Tolérance": "+/- 0,05 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000888_20260504033001/humeau.com-eprouvette-graduee-bleu-forme-haute-en-verre-boro-cl-a-5ml-259805-259805-30.jpg"
+    },
+    {
+      "sku": "258574",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-1000ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 1000 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 48.72,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Divisions (mL)": "10",
+        "Hauteur (mm)": "465",
+        "Tolérance": "+/- 5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.965 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707691007_20260504033001/humeau.com-eprouvette-graduee-forme-haute-verre-classe-a-1000ml-258574-258574-30.jpg"
+    },
+    {
+      "sku": "258573",
+      "slug": "eprouvette-graduee-verre-classe-a-bleue-100ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, verre borosilicaté, graduations bleues, 100 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en verre borosilicaté 3.3, conforme à la norme DIN EN ISO 4788. Calibrée « In » à 20 °C, elle repose sur une base hexagonale stable et dispose d'un bec verseur et d'un numéro de lot ; un certificat de conformité spécifique au lot est disponible sur demande.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 10.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "100",
+        "Couleur de graduation": "Bleu",
+        "Divisions (mL)": "1",
+        "Hauteur (mm)": "240",
+        "Tolérance": "+/- 0,5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707691004_20260504033001/humeau.com-eprouvette-graduee-forme-haute-verre-classe-a-100ml-258573-258573-30.jpg"
+    },
+    {
+      "sku": "205214",
+      "slug": "eprouvette-graduee-pp-squat-azlon-500ml",
+      "brand": "AZLON",
+      "name_fr": "Éprouvette graduée forme basse (squat), polypropylène, classe B, 500 mL",
+      "description_fr": "Éprouvette de mesure forme basse (squat) à profil trapézoïdal, en polypropylène haute transparence, classe B. Sa base auto-drainante limite la rétention d'eau et la contamination lors du lavage en machine automatique, ses graduations moulées bleues restent lisibles, et sa conception anti-aspiration évite qu'elle n'adhère à une surface humide ; bonne résistance chimique et thermique.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 26.10,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "66",
+        "Graduation (mL)": "10,0",
+        "Hauteur (mm)": "218",
+        "Conditionnement": "1",
+        "Poids net": "0.095 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000563_20231023091101/humeau.com-eprouvette-graduee-forme-basse-en-pp-cl-b-azlon-500ml-205214-205214-30.jpg"
+    },
+    {
+      "sku": "259818",
+      "slug": "eprouvette-graduee-pmp-classe-a-100ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe A, PMP, 100 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe A, en PMP entièrement transparent, conforme aux normes DIN 12681 et ISO 6706. Calibrée « In » à 20 °C, elle possède une base hexagonale solide, une échelle en relief et un bec verseur fonctionnel ; compatible lave-vaisselle et autoclavable à 121 °C selon la norme DIN EN ISO 285, sans dépassement permanent des tolérances de classe A.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 11.50,
+      "specs_fr": {
+        "Matière": "PMP",
+        "Capacité (mL)": "100",
+        "Divisions (mL)": "0,5",
+        "Hauteur (mm)": "250",
+        "Tolérance": "+/- 0,5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000901_20250303155104/humeau.com-eprouvette-graduee-forme-haute-en-pmp-cl-a-100ml-259818-259818-30.jpg"
+    },
+    {
+      "sku": "259819",
+      "slug": "eprouvette-graduee-pp-classe-b-100ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe B, polypropylène, 100 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe B, en polypropylène entièrement transparent, conforme aux normes DIN 12681 et ISO 6706. Calibrée « In » à 20 °C, elle repose sur une base hexagonale solide et dispose d'une échelle en relief ainsi que d'un bec verseur fonctionnel.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 4.70,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "100",
+        "Divisions (mL)": "1",
+        "Hauteur (mm)": "250",
+        "Tolérance": "+/- 1 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000902_20230817161102/humeau.com-eprouvette-graduee-forme-haute-en-pp-cl-b-100ml-82710000902-259819-30.jpg"
+    },
+    {
+      "sku": "259830",
+      "slug": "eprouvette-graduee-pp-classe-b-250ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe B, polypropylène, 250 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe B, en polypropylène entièrement transparent, conforme aux normes DIN 12681 et ISO 6706. Calibrée « In » à 20 °C, elle repose sur une base hexagonale solide et dispose d'une échelle en relief ainsi que d'un bec verseur fonctionnel.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 7.40,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "250",
+        "Divisions (mL)": "2",
+        "Hauteur (mm)": "327",
+        "Tolérance": "+/- 2 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000913_20260521160101/humeau.com-eprouvette-graduee-forme-haute-en-pp-cl-b-250ml-259830-259830-30.jpg"
+    },
+    {
+      "sku": "259827",
+      "slug": "eprouvette-graduee-pp-classe-b-25ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe B, polypropylène, 25 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe B, en polypropylène entièrement transparent, conforme aux normes DIN 12681 et ISO 6706. Calibrée « In » à 20 °C, elle repose sur une base hexagonale solide et dispose d'une échelle en relief ainsi que d'un bec verseur fonctionnel.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 3.40,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "25",
+        "Divisions (mL)": "0,5",
+        "Hauteur (mm)": "170",
+        "Tolérance": "+/- 0,5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000910_20230817161102/humeau.com-eprouvette-graduee-forme-haute-en-pp-cl-b-25ml-82710000910-259827-30.jpg"
+    },
+    {
+      "sku": "259837",
+      "slug": "eprouvette-graduee-pp-classe-b-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Éprouvette graduée forme haute, classe B, polypropylène, 500 mL",
+      "description_fr": "Éprouvette de mesure forme haute, classe B, en polypropylène entièrement transparent, conforme aux normes DIN 12681 et ISO 6706. Calibrée « In » à 20 °C, elle repose sur une base hexagonale solide et dispose d'une échelle en relief moulée dans le plastique ainsi que d'un bec verseur fonctionnel.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 10.20,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "500",
+        "Divisions (mL)": "5",
+        "Hauteur (mm)": "389",
+        "Tolérance": "+/- 5 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.18 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000920_20250820085104/humeau.com-eprouvette-graduee-forme-haute-en-pp-cl-b-500ml-82710000920-259837-30.jpg"
+    }
+  ]
+}

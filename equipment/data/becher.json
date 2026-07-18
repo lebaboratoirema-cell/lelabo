@@ -1,0 +1,281 @@
+{
+  "category": {
+    "slug": "becher",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Béchers" },
+    "description": {
+      "fr": "Béchers gradués en verre borosilicaté et en polypropylène, forme basse, pour la préparation, le transfert et la mesure approximative de volumes en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "259031",
+      "slug": "becher-verre-borosilicate-gradue-100ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 100 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "100 mL — lot de 10",
+      "price_eur": 31.28,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "100",
+        "Diamètre (mm)": "50",
+        "Hauteur (mm)": "70",
+        "Conditionnement": "10",
+        "Poids net": "0.56 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000114_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-100ml-x10-259031-259031-30.jpg"
+    },
+    {
+      "sku": "259030",
+      "slug": "becher-verre-borosilicate-gradue-10ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 10 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "10 mL — lot de 10",
+      "price_eur": 28.88,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "10",
+        "Diamètre (mm)": "26",
+        "Hauteur (mm)": "35",
+        "Conditionnement": "10",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000113_20260630155103/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-10ml-x10-259030-259030-30.jpg"
+    },
+    {
+      "sku": "259033",
+      "slug": "becher-verre-borosilicate-gradue-150ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 150 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "150 mL — lot de 10",
+      "price_eur": 34.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "150",
+        "Diamètre (mm)": "60",
+        "Hauteur (mm)": "80",
+        "Conditionnement": "10",
+        "Poids net": "1.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000116_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-150ml-x10-259033-259033-30.jpg"
+    },
+    {
+      "sku": "259032",
+      "slug": "becher-verre-borosilicate-gradue-1l-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 1 L — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "1 L — lot de 10",
+      "price_eur": 79.04,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Diamètre (mm)": "105",
+        "Hauteur (mm)": "145",
+        "Conditionnement": "10",
+        "Poids net": "3.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000115_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-1l-x10-259032-259032-30.jpg"
+    },
+    {
+      "sku": "258567",
+      "slug": "becher-verre-borosilicate-gradue-250ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 250 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "250 mL — lot de 10",
+      "price_eur": 35.92,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "250",
+        "Diamètre (mm)": "70",
+        "Hauteur (mm)": "95",
+        "Conditionnement": "10",
+        "Poids net": "0.95 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707690006_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-250ml-x10-258567-258567-30.jpg"
+    },
+    {
+      "sku": "259034",
+      "slug": "becher-verre-borosilicate-gradue-25ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 25 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "25 mL — lot de 10",
+      "price_eur": 32.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "25",
+        "Diamètre (mm)": "34",
+        "Hauteur (mm)": "50",
+        "Conditionnement": "10",
+        "Poids net": "0.38 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000117_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-25ml-x10-259034-259034-30.jpg"
+    },
+    {
+      "sku": "258568",
+      "slug": "becher-verre-borosilicate-gradue-2l-x4",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 2 L — lot de 4",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "2 L — lot de 4",
+      "price_eur": 54.24,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "2000",
+        "Diamètre (mm)": "130",
+        "Hauteur (mm)": "185",
+        "Conditionnement": "4",
+        "Poids net": "2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707690011_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-2l-x4-258568-258568-30.jpg"
+    },
+    {
+      "sku": "259035",
+      "slug": "becher-verre-borosilicate-gradue-3l-x4",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 3 L — lot de 4",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "3 L — lot de 4",
+      "price_eur": 128.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "3000",
+        "Diamètre (mm)": "150",
+        "Hauteur (mm)": "210",
+        "Conditionnement": "4"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000118_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-3l-x4-82710000118-259035-30.jpg"
+    },
+    {
+      "sku": "259036",
+      "slug": "becher-verre-borosilicate-gradue-400ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 400 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "400 mL — lot de 10",
+      "price_eur": 41.68,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "400",
+        "Diamètre (mm)": "80",
+        "Hauteur (mm)": "110",
+        "Conditionnement": "10",
+        "Poids net": "3.94 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000119_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-400ml-x10-82710000119-259036-30.jpg"
+    },
+    {
+      "sku": "259038",
+      "slug": "becher-verre-borosilicate-gradue-50ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 50 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "50 mL — lot de 10",
+      "price_eur": 30.64,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "50",
+        "Diamètre (mm)": "42",
+        "Hauteur (mm)": "60",
+        "Conditionnement": "10",
+        "Poids net": "0.36 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000121_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-50ml-x10-259038-259038-30.jpg"
+    },
+    {
+      "sku": "259039",
+      "slug": "becher-verre-borosilicate-gradue-5l-x2",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 5 L — lot de 2",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "5 L — lot de 2",
+      "price_eur": 96.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5000",
+        "Diamètre (mm)": "170",
+        "Hauteur (mm)": "270",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000122_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-5l-x2-82710000122-259039-30.jpg"
+    },
+    {
+      "sku": "259037",
+      "slug": "becher-verre-borosilicate-gradue-5ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 5 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "5 mL — lot de 10",
+      "price_eur": 28.48,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5",
+        "Diamètre (mm)": "22",
+        "Hauteur (mm)": "30",
+        "Conditionnement": "10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000120_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-5ml-x10-82710000120-259037-30.jpg"
+    },
+    {
+      "sku": "259040",
+      "slug": "becher-verre-borosilicate-gradue-600ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher forme basse en verre borosilicaté gradué, 600 mL — lot de 10",
+      "description_fr": "Bécher forme basse à bec verseur, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme aux normes DIN 12331 et ISO 3819. Graduation durable, bonne tenue aux solutions alcalines et aux acides forts (à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud).",
+      "variant_name_fr": "600 mL — lot de 10",
+      "price_eur": 55.28,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "600",
+        "Diamètre (mm)": "90",
+        "Hauteur (mm)": "125",
+        "Conditionnement": "10",
+        "Poids net": "0.187 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000123_20260504033001/humeau.com-becher-a-bec-forme-basse-verre-borosilicate-gradue-600ml-x10-259040-259040-30.jpg"
+    },
+    {
+      "sku": "259055",
+      "slug": "becher-pp-anse-gradue-2l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher gradué avec anse, polypropylène, 2 L",
+      "description_fr": "Bécher de mesure avec anse en polypropylène transparent, léger et résistant aux produits chimiques. Graduation imprimée lisible, bec verseur fonctionnel, agréé contact alimentaire, autoclavable jusqu'à 121 °C, conforme à la norme ISO 7056. Bonne résistance aux acides forts, aux solutions alcalines et aux alcools aliphatiques.",
+      "variant_name_fr": "2 L",
+      "price_eur": 9.70,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "2000",
+        "Graduation (mL)": "100",
+        "Diamètre (mm)": "172",
+        "Hauteur (mm)": "192",
+        "Conditionnement": "1",
+        "Poids net": "0.26 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000138_20250424150102/humeau.com-becher-a-bec-gradue-avec-anse-en-pp-2l-259055-259055-30.jpg"
+    },
+    {
+      "sku": "259063",
+      "slug": "becher-pp-rouge-gradue-50ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bécher gradué sans anse, polypropylène rouge, 50 mL",
+      "description_fr": "Bécher de mesure forme basse, sans anse, en polypropylène transparent, léger et résistant aux produits chimiques. Graduation imprimée lisible, bec verseur fonctionnel, agréé contact alimentaire, autoclavable jusqu'à 121 °C, conforme à la norme ISO 7056. Bonne résistance aux acides forts, aux solutions alcalines et aux alcools aliphatiques.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 1.60,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Capacité (mL)": "50",
+        "Graduation (mL)": "5",
+        "Diamètre (mm)": "54",
+        "Hauteur (mm)": "58",
+        "Conditionnement": "1",
+        "Poids net": "0.005 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000146_20230817161102/humeau.com-becher-a-bec-gradue-rouge-pp-forme-basse-50ml-82710000146-259063-30.jpg"
+    }
+  ]
+}

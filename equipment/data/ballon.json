@@ -1,0 +1,287 @@
+{
+  "category": {
+    "slug": "ballon",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Ballons" },
+    "description": {
+      "fr": "Ballons de laboratoire en verre borosilicaté, à fond rond ou à fond plat, mono ou multi-cols, pour les opérations de chauffage, de distillation, d'évaporation et de synthèse chimique."
+    }
+  },
+  "products": [
+    {
+      "sku": "258948",
+      "slug": "ballon-fond-plat-col-rode-29-32-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ballon à fond plat, col rodé 29/32, 1 L",
+      "description_fr": "Ballon à fond plat et col rodé standard, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme à la norme DIN EN ISO 4797. Sa forme ronde favorise un chauffage régulier des liquides tandis que le fond plat assure une bonne stabilité sur la paillasse. Le rodage standard permet un assemblage facile avec d'autres éléments de verrerie (réfrigérants, etc.). Bonne résistance aux solvants froids, aux solutions alcalines et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "1 L",
+      "price_eur": 30.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Diamètre ext. corps (mm)": "131",
+        "Hauteur (mm)": "187",
+        "Rodage femelle": "29/32",
+        "Conditionnement": "1",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000031_20260318133103/humeau.com-ballon-a-fond-plat-col-rode-29-32-cap-1l-258948-258948-30.jpg"
+    },
+    {
+      "sku": "258952",
+      "slug": "ballon-fond-plat-col-rode-29-32-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ballon à fond plat, col rodé 29/32, 500 mL",
+      "description_fr": "Ballon à fond plat et col rodé standard, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme à la norme DIN EN ISO 4797. Sa forme ronde favorise un chauffage régulier des liquides tandis que le fond plat assure une bonne stabilité sur la paillasse. Le rodage standard permet un assemblage facile avec d'autres éléments de verrerie (réfrigérants, etc.). Bonne résistance aux solvants froids, aux solutions alcalines et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 21.70,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Diamètre ext. corps (mm)": "105",
+        "Hauteur (mm)": "160",
+        "Rodage femelle": "29/32",
+        "Conditionnement": "1",
+        "Poids net": "0.09 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000035_20260318110101/humeau.com-ballon-a-fond-plat-col-rode-29-32-cap-500ml-258952-258952-30.jpg"
+    },
+    {
+      "sku": "258980",
+      "slug": "ballon-fond-rond-2-cols-29-32-14-23-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ballon à fond rond, col central 29/32 et col latéral 20° 14/23, 500 mL",
+      "description_fr": "Ballon à fond rond à deux cols — col central rodé 29/32 et col latéral incliné à 20° rodé 14/23 — en verre borosilicaté 3.3, conforme à la norme DIN 12394. Cette configuration multi-cols permet le montage simultané d'un réfrigérant et d'un accessoire annexe (ampoule à brome, thermomètre, etc.) pour les montages de synthèse et de distillation.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 36.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Diamètre ext. corps (mm)": "105",
+        "Hauteur (mm)": "163",
+        "Rodage femelle": "central 29/32, latéral 14/23",
+        "Conditionnement": "1",
+        "Poids net": "0.255 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000063_20250403152101/humeau.com-ballon-a-fond-rond-1-col-29-32-1-col-20-14-23-cap-500ml-258980-258980-30.jpg"
+    },
+    {
+      "sku": "258975",
+      "slug": "ballon-fond-rond-3-cols-29-32-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ballon à fond rond, col central 29/32 et deux cols latéraux 29/32, 500 mL",
+      "description_fr": "Ballon à fond rond à trois cols — un col central et deux cols latéraux parallèles, tous rodés 29/32 — en verre borosilicaté 3.3, conforme à la norme DIN 12394. Adapté aux montages nécessitant plusieurs accès simultanés (agitation, addition de réactif, reflux).",
+      "variant_name_fr": "500 mL",
+      "price_eur": 61.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Diamètre ext. corps (mm)": "105",
+        "Hauteur (mm)": "163",
+        "Rodage femelle": "central 29/32, latéral 29/32",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000058_20230817161102/humeau.com-ballon-a-fond-rond-1-col-29-32-2-cols-29-32-cap-500ml-82710000058-258975-30.jpg"
+    },
+    {
+      "sku": "204704",
+      "slug": "ballon-pyrex-fond-plat-col-court-cn29-32-100ml-x5",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond plat, col court rodé CN 29/32, 100 mL — lot de 5",
+      "description_fr": "Ballon à fond plat en verre borosilicaté PYREX, à col court muni d'un rodage femelle Quickfit® de haute qualité. Conception robuste adaptée aux usages courants de laboratoire nécessitant un raccordement rodé standard.",
+      "variant_name_fr": "100 mL — lot de 5",
+      "price_eur": 153.90,
+      "specs_fr": {
+        "Capacité (mL)": "100",
+        "Hauteur (mm)": "103",
+        "Longueur col (mm)": "15",
+        "Rodage mâle et femelle CN": "29/32",
+        "Conditionnement": "5",
+        "Poids net": "0.425 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000053_20220505195556/humeau.com-ballon-fond-plat-col-court-pyrex-cn29-32-100ml-par-5-06700000053-204704-30.jpg"
+    },
+    {
+      "sku": "204710",
+      "slug": "ballon-pyrex-fond-plat-col-court-cn34-35-500ml-x20",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond plat, col court rodé CN 34/35, 500 mL — lot de 20",
+      "description_fr": "Ballon à fond plat en verre borosilicaté PYREX, à col court muni d'un rodage femelle Quickfit® de haute qualité. Conception robuste adaptée aux usages courants de laboratoire nécessitant un raccordement rodé standard.",
+      "variant_name_fr": "500 mL — lot de 20",
+      "price_eur": 1001.90,
+      "specs_fr": {
+        "Capacité (mL)": "500",
+        "Hauteur (mm)": "155",
+        "Longueur col (mm)": "20",
+        "Rodage mâle et femelle CN": "34/35",
+        "Conditionnement": "5",
+        "Poids net": "4.7 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000059_20251103122003/humeau.com-ballon-fond-plat-col-court-pyrex-cn34-35-500ml-par-20-204710-204710-30.jpg"
+    },
+    {
+      "sku": "223269",
+      "slug": "ballon-duran-fond-plat-col-etroit-2l-x10",
+      "brand": "DURAN",
+      "name_fr": "Ballon à fond plat, col étroit, verre DURAN, 2 L — lot de 10",
+      "description_fr": "Ballon à fond plat à col étroit et bord évasé, en verre borosilicaté DURAN. Offre une haute résistance chimique et mécanique ainsi qu'une excellente régularité d'épaisseur des parois, gage de sécurité en utilisation.",
+      "variant_name_fr": "2 L — lot de 10",
+      "price_eur": 639.30,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "2000",
+        "Diamètre ext. col (mm)": "42",
+        "Diamètre base (mm)": "166",
+        "Hauteur (mm)": "250",
+        "Conditionnement": "10",
+        "Poids net": "5.85 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402171165_20231002122004/humeau.com-ballon-fond-plat-col-etroit-verre-duran-2l-pack-de-10-223269-223269-30.jpg"
+    },
+    {
+      "sku": "223271",
+      "slug": "ballon-duran-fond-plat-col-etroit-4l",
+      "brand": "DURAN",
+      "name_fr": "Ballon à fond plat, col étroit, verre DURAN, 4 L",
+      "description_fr": "Ballon à fond plat à col étroit et bord évasé, en verre borosilicaté DURAN. Offre une haute résistance chimique et mécanique ainsi qu'une excellente régularité d'épaisseur des parois, gage de sécurité en utilisation.",
+      "variant_name_fr": "4 L",
+      "price_eur": 176.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "4000",
+        "Diamètre ext. col (mm)": "50",
+        "Diamètre ext. corps (mm)": "207",
+        "Hauteur (mm)": "275",
+        "Conditionnement": "1",
+        "Poids net": "1.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402171171_20231002151101/humeau.com-ballon-fond-plat-col-etroit-verre-duran-4l-223271-223271-30.jpg"
+    },
+    {
+      "sku": "205337",
+      "slug": "ballon-pyrex-fond-rond-col-court-cn14-23-5ml-x5",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col court rodé CN 14/23, 5 mL — lot de 5",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col court rodé Quickfit® de haute qualité. Le diamètre du corps et l'épaisseur des parois sont conformes aux normes ISO 1773 et ISO 4797, garantissant une bonne résistance aux chocs thermiques et aux agressions chimiques. Fait partie d'une gamme complète de ballons à fond rond disponibles de 5 mL à 10 L.",
+      "variant_name_fr": "5 mL — lot de 5",
+      "price_eur": 72.70,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5",
+        "Hauteur (mm)": "65",
+        "Longueur col (mm)": "15",
+        "Rodage mâle et femelle CN": "14/23",
+        "Conditionnement": "5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/205337_20250428122011/humeau.com-ballon-fond-rond-col-court-pyrex-cn14-23-5ml-par-5-06700000686-205337-30.jpg"
+    },
+    {
+      "sku": "204677",
+      "slug": "ballon-pyrex-fond-rond-col-court-cn29-32-150ml-x5",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col court rodé CN 29/32, 150 mL — lot de 5",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col court rodé Quickfit® de haute qualité. Le diamètre du corps et l'épaisseur des parois sont conformes aux normes ISO 1773 et ISO 4797, garantissant une bonne résistance aux chocs thermiques et aux agressions chimiques. Fait partie d'une gamme complète de ballons à fond rond disponibles de 5 mL à 10 L.",
+      "variant_name_fr": "150 mL — lot de 5",
+      "price_eur": 134.80,
+      "specs_fr": {
+        "Capacité (mL)": "150",
+        "Hauteur (mm)": "120",
+        "Longueur col (mm)": "15",
+        "Rodage mâle et femelle CN": "29/32",
+        "Conditionnement": "5",
+        "Poids net": "0.465 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000026_20230817161102/humeau.com-ballon-fond-rond-col-court-pyrex-cn29-32-150-ml-par-5-06700000026-204677-30.jpg"
+    },
+    {
+      "sku": "204687",
+      "slug": "ballon-pyrex-fond-rond-col-court-cn34-35-1l-x2",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col court rodé CN 34/35, 1 L — lot de 2",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col court rodé Quickfit® de haute qualité. Le diamètre du corps et l'épaisseur des parois sont conformes aux normes ISO 1773 et ISO 4797, garantissant une bonne résistance aux chocs thermiques et aux agressions chimiques. Fait partie d'une gamme complète de ballons à fond rond disponibles de 5 mL à 10 L.",
+      "variant_name_fr": "1 L — lot de 2",
+      "price_eur": 93.50,
+      "specs_fr": {
+        "Capacité (mL)": "1000",
+        "Hauteur (mm)": "196",
+        "Longueur col (mm)": "20",
+        "Rodage mâle et femelle CN": "34/35",
+        "Conditionnement": "2",
+        "Poids net": "0.72 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000036_20240417142102/humeau.com-ballon-fond-rond-col-court-pyrex-cn34-35-1l-par-2-204687-204687-30.jpg"
+    },
+    {
+      "sku": "204682",
+      "slug": "ballon-pyrex-fond-rond-col-court-cn34-35-250ml-x5",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col court rodé CN 34/35, 250 mL — lot de 5",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col court rodé Quickfit® de haute qualité. Le diamètre du corps et l'épaisseur des parois sont conformes aux normes ISO 1773 et ISO 4797, garantissant une bonne résistance aux chocs thermiques et aux agressions chimiques. Fait partie d'une gamme complète de ballons à fond rond disponibles de 5 mL à 10 L.",
+      "variant_name_fr": "250 mL — lot de 5",
+      "price_eur": 152.20,
+      "specs_fr": {
+        "Capacité (mL)": "250",
+        "Hauteur (mm)": "140",
+        "Longueur col (mm)": "15",
+        "Rodage mâle et femelle CN": "34/35",
+        "Conditionnement": "5",
+        "Poids net": "0.61 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000031_20230817161102/humeau.com-ballon-fond-rond-col-court-pyrex-cn34-35-250-ml-par-5-06700000031-204682-30.jpg"
+    },
+    {
+      "sku": "204654",
+      "slug": "ballon-pyrex-fond-rond-col-etroit-250ml-x10",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col étroit, verre PYREX, 250 mL — lot de 10",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col étroit, conforme à la norme DIN ISO 1773. Convient aux opérations classiques de chauffage, de distillation et d'évaporation en laboratoire.",
+      "variant_name_fr": "250 mL — lot de 10",
+      "price_eur": 132.68,
+      "specs_fr": {
+        "Capacité (mL)": "250",
+        "Diamètre int. col (mm)": "30",
+        "Diamètre ext. corps (mm)": "85",
+        "Hauteur (mm)": "144",
+        "Conditionnement": "10",
+        "Poids net": "1.24 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000003_20260115033003/humeau.com-ballon-fond-rond-col-etroit-pyrex-250ml-pack-de-10-06700000003-204654-30.jpg"
+    },
+    {
+      "sku": "204651",
+      "slug": "ballon-pyrex-fond-rond-col-etroit-50ml-x10",
+      "brand": "PYREX",
+      "name_fr": "Ballon à fond rond, col étroit, verre PYREX, 50 mL — lot de 10",
+      "description_fr": "Ballon à fond rond en verre borosilicaté PYREX, à col étroit, conforme à la norme DIN ISO 1773. Convient aux opérations classiques de chauffage, de distillation et d'évaporation en laboratoire.",
+      "variant_name_fr": "50 mL — lot de 10",
+      "price_eur": 170.60,
+      "specs_fr": {
+        "Capacité (mL)": "50",
+        "Diamètre int. col (mm)": "18",
+        "Diamètre ext. corps (mm)": "50",
+        "Hauteur (mm)": "105",
+        "Conditionnement": "10",
+        "Poids net": "0.52 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000000_20220505195556/humeau.com-ballon-fond-rond-col-etroit-pyrex-50ml-pack-de-10-06700000000-204651-30.jpg"
+    },
+    {
+      "sku": "259002",
+      "slug": "ballon-forme-poire-col-rode-14-23-250ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ballon forme poire, col rodé 14/23, 250 mL",
+      "description_fr": "Ballon en forme de poire à col rodé standard 14/23, en verre borosilicaté 3.3, résistant aux températures jusqu'à 500 °C et conforme à la norme DIN 12383. Sa forme effilée facilite la récupération de faibles volumes de résidu, notamment lors d'une évaporation rotative. Bonne résistance aux solvants froids, aux solutions alcalines et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 23.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "250",
+        "Diamètre ext. corps (mm)": "85",
+        "Hauteur (mm)": "150",
+        "Rodage femelle": "14/23",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000085_20230817161102/humeau.com-ballon-forme-poire-col-rode-14-23-cap-250ml-82710000085-259002-30.jpg"
+    }
+  ]
+}

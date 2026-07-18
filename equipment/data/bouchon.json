@@ -1,0 +1,284 @@
+{
+  "category": {
+    "slug": "bouchon",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Bouchons et couvercles" },
+    "description": {
+      "fr": "Bouchons à vis, couvercles en silicone extensibles et accessoires d'étanchéité pour flacons et récipients de laboratoire, adaptés à la fermeture, au transport et à la conservation des échantillons."
+    }
+  },
+  "products": [
+    {
+      "sku": "237547",
+      "slug": "bague-deversement-bleue-gl80-x10",
+      "brand": "DURAN",
+      "name_fr": "Bague de déversement bleue pour flacon GL 80 — lot de 10",
+      "description_fr": "Bague de déversement en polypropylène bleu, conçue pour s'adapter sur le col des flacons à vis Schott à filetage GL 80. Stérilisable jusqu'à 140 °C, elle permet un versement contrôlé du contenu sans retirer le bouchon principal. Vendue par lot de 10 pièces.",
+      "variant_name_fr": "GL 80 — lot de 10",
+      "price_eur": 38.30,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu",
+        "Filetage compatible": "GL 80",
+        "Hauteur (mm)": "6.85",
+        "Conditionnement": "10",
+        "Poids net": "0.018 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000090_20231213164101/humeau.com-bague-de-deversement-bleu-pour-flacon-schott-gls80-pack-de-10-237547-237547-30.jpg"
+    },
+    {
+      "sku": "259173",
+      "slug": "bouchon-vis-gl45-pp-bleu-joint-levre",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bouchon à vis GL 45 en polypropylène bleu, avec joint à lèvre intégré",
+      "description_fr": "Bouchon à vis en polypropylène bleu, avec joint à lèvre intégré ne nécessitant aucun joint supplémentaire. Compatible avec les flacons de laboratoire en verre clair ou ambré à filetage GL 32 ou GL 45, il est autoclavable à 121 °C.",
+      "variant_name_fr": "GL 45 — bleu",
+      "price_eur": 2.10,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu",
+        "Filetage compatible": "GL 45",
+        "Conditionnement": "1",
+        "Poids net": "0.016 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000256_20250317171102/humeau.com-bouchon-a-vis-gl45-en-pp-bleu-avec-joint-a-levre-259173-259173-30.jpg"
+    },
+    {
+      "sku": "259178",
+      "slug": "bouchon-vis-gl45-pbt-rouge-joint-ptfe",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bouchon à vis GL 45 en PBT rouge, avec joint silicone/PTFE",
+      "description_fr": "Bouchon à vis en polybutylène téréphtalate (PBT) rouge, équipé d'un joint en silicone recouvert de PTFE. Destiné aux flacons de laboratoire en verre clair ou ambré à filetage GL 45, il résiste à des températures jusqu'à 200 °C, supporte la stérilisation à l'air chaud à 180 °C, et limite l'évaporation des substances volatiles grâce à son joint additionnel.",
+      "variant_name_fr": "GL 45 — rouge",
+      "price_eur": 7.30,
+      "specs_fr": {
+        "Matière": "PBT (polybutylène téréphtalate)",
+        "Filetage compatible": "GL 45",
+        "Température maximum": "200°C",
+        "Conditionnement": "1",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000261_20230117101101/humeau.com-bouchon-a-vis-gl45-pbt-rouge-avec-joint-ptfe-82710000261-259178-30.jpg"
+    },
+    {
+      "sku": "207924",
+      "slug": "bouchon-silicone-spongieux-tube-10mm-x10",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Bouchon spongieux en silicone SILICOSEN, pour tube Ø 10 mm — lot de 10",
+      "description_fr": "Bouchon en silicone spongieux à pores réguliers, destiné aux tubes de 10 mm de diamètre externe. Sa structure poreuse offre une bonne perméabilité à l'air, adaptée à la culture de micro-organismes aérobies ainsi qu'à la préparation et à la stérilisation de milieux de culture. Résistant aux produits chimiques et aux hautes températures, hydrofuge et réutilisable. Vendu par lot de 10.",
+      "variant_name_fr": "T10 — Ø ext. 10 mm, lot de 10",
+      "price_eur": 338.50,
+      "specs_fr": {
+        "Couleur": "Rose/naturel",
+        "Diamètre externe bouchon (mm)": "10",
+        "Diamètre intérieur bouchon (mm)": "6",
+        "Hauteur (mm)": "30",
+        "Taille": "T10",
+        "Diamètre de col compatible (mm)": "6-9",
+        "Conditionnement": "10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000000_20220505200331/humeau.com-bouchon-silicone-spongieux-pr-tube-10mm-ext-x10-10711000000-207924-30.jpg"
+    },
+    {
+      "sku": "237859",
+      "slug": "couvercle-silicone-l-rose-84-100mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille L rose, pour verrerie Ø 84 à 100 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille L adaptée aux ouvertures de 84 à 100 mm, coloris rose pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille L — rose",
+      "price_eur": 7.90,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "84 à 100",
+        "Couleur": "Rose",
+        "Taille": "L (Large)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000012_20250523141101/humeau.com-couvercle-en-silicone-t-l-rose-pour-verrerie-diam-84-a-100mm-237859-237859-30.jpg"
+    },
+    {
+      "sku": "237857",
+      "slug": "couvercle-silicone-m-cyan-64-76mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille M cyan, pour verrerie Ø 64 à 76 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille M adaptée aux ouvertures de 64 à 76 mm, coloris cyan pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille M — cyan",
+      "price_eur": 5.10,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "64 à 76",
+        "Couleur": "Cyan",
+        "Taille": "M (Moyen)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000010_20230817161102/humeau.com-couvercle-en-silicone-t-m-cyan-pour-verrerie-diam-64-a-76mm-30610000010-237857-30.jpg"
+    },
+    {
+      "sku": "237856",
+      "slug": "couvercle-silicone-m-rose-64-76mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille M rose, pour verrerie Ø 64 à 76 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille M adaptée aux ouvertures de 64 à 76 mm, coloris rose pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille M — rose",
+      "price_eur": 6.20,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "64 à 76",
+        "Couleur": "Rose",
+        "Taille": "M (Moyen)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000009_20230817161102/humeau.com-couvercle-en-silicone-t-m-rose-pour-verrerie-diam-64-a-76mm-30610000009-237856-30.jpg"
+    },
+    {
+      "sku": "237854",
+      "slug": "couvercle-silicone-s-cyan-43-61mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille S cyan, pour verrerie Ø 43 à 61 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille S adaptée aux ouvertures de 43 à 61 mm, coloris cyan pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille S — cyan",
+      "price_eur": 4.00,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "43 à 61",
+        "Couleur": "Cyan",
+        "Taille": "S (Small)",
+        "Température d'utilisation": "-40°C à 180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000007_20230817161102/humeau.com-couvercle-en-silicone-t-s-cyan-pour-verrerie-diam-43-a-61mm-30610000007-237854-30.jpg"
+    },
+    {
+      "sku": "237862",
+      "slug": "couvercle-silicone-xl-rose-102-120mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille XL rose, pour verrerie Ø 102 à 120 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille XL adaptée aux ouvertures de 102 à 120 mm, coloris rose pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille XL — rose",
+      "price_eur": 11.30,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "102 à 120",
+        "Couleur": "Rose",
+        "Taille": "XL (Très large)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000015_20230817161102/humeau.com-couvercle-silicone-t-xl-rose-pour-verrerie-diam-102-a-120mm-30610000015-237862-30.jpg"
+    },
+    {
+      "sku": "237864",
+      "slug": "couvercle-silicone-xl-vert-102-120mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille XL vert, pour verrerie Ø 102 à 120 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille XL adaptée aux ouvertures de 102 à 120 mm, coloris vert pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille XL — vert",
+      "price_eur": 11.30,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "102 à 120",
+        "Couleur": "Vert",
+        "Taille": "XL (Très large)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000017_20230817161102/humeau.com-couvercle-silicone-t-xl-vert-pour-verrerie-diam-102-a-120mm-30610000017-237864-30.jpg"
+    },
+    {
+      "sku": "237866",
+      "slug": "couvercle-silicone-xxl-cyan-132-147mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille XXL cyan, pour verrerie Ø 132 à 147 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille XXL adaptée aux ouvertures de 132 à 147 mm, coloris cyan pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille XXL — cyan",
+      "price_eur": 13.70,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "132 à 147",
+        "Couleur": "Cyan",
+        "Taille": "XXL (Très large)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000019_20230817161102/humeau.com-couvercle-silicone-t-xxl-cyan-pour-verrerie-diam-132-a-147mm-30610000019-237866-30.jpg"
+    },
+    {
+      "sku": "237867",
+      "slug": "couvercle-silicone-xxl-vert-132-147mm",
+      "brand": "DURAN",
+      "name_fr": "Couvercle en silicone extensible, taille XXL vert, pour verrerie Ø 132 à 147 mm",
+      "description_fr": "Couvercle en silicone extensible DURAN, conçu pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire. Résiste aux produits chimiques et aux températures de -40 °C à +180 °C, réutilisable, et se retire facilement grâce à sa languette de préhension, avec ou sans gants. Taille XXL adaptée aux ouvertures de 132 à 147 mm, coloris vert pour une identification rapide. Non recommandé pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "Taille XXL — vert",
+      "price_eur": 13.70,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "132 à 147",
+        "Couleur": "Vert",
+        "Taille": "XXL (Très large)",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "1",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000020_20230817161102/humeau.com-couvercle-silicone-t-xxl-vert-pour-verrerie-diam-132-a-147mm-30610000020-237867-30.jpg"
+    },
+    {
+      "sku": "237852",
+      "slug": "couvercles-silicone-set-xl-xxl-vert",
+      "brand": "DURAN",
+      "name_fr": "Ensemble de couvercles en silicone extensibles, tailles XL/XXL vert (2 pièces)",
+      "description_fr": "Ensemble de 2 couvercles en silicone extensible DURAN, tailles XL (Ø 102 à 120 mm) et XXL (Ø 132 à 147 mm), coloris vert. Conçus pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire, ils résistent aux produits chimiques et aux températures de -40 °C à +180 °C, sont réutilisables et se retirent facilement grâce à leur languette de préhension. Non recommandés pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "XL + XXL — vert, lot de 2",
+      "price_eur": 22.40,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "XL = 102 à 120, XXL = 132 à 147",
+        "Couleur": "Vert",
+        "Taille": "XL et XXL",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000005_20220505203737/humeau.com-couvercles-en-silicone-set-de-2-pieces-xl-xxl-vert-30610000005-237852-30.jpg"
+    },
+    {
+      "sku": "237847",
+      "slug": "couvercles-silicone-set-s-m-l-rose",
+      "brand": "DURAN",
+      "name_fr": "Ensemble de couvercles en silicone extensibles, tailles S/M/L rose (3 pièces)",
+      "description_fr": "Ensemble de 3 couvercles en silicone extensible DURAN, tailles S (Ø 43 à 61 mm), M (Ø 64 à 76 mm) et L (Ø 84 à 100 mm), coloris rose. Conçus pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire, ils résistent aux produits chimiques et aux températures de -40 °C à +180 °C, sont réutilisables et se retirent facilement grâce à leur languette de préhension. Non recommandés pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "S + M + L — rose, lot de 3",
+      "price_eur": 16.80,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "S = 43 à 61, M = 64 à 76, L = 84 à 100",
+        "Couleur": "Rose",
+        "Taille": "S, M et L",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "3"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000000_20220505203737/humeau.com-couvercles-en-silicone-set-de-3-pieces-s-m-l-rose-30610000000-237847-30.jpg"
+    },
+    {
+      "sku": "237849",
+      "slug": "couvercles-silicone-set-s-m-l-vert",
+      "brand": "DURAN",
+      "name_fr": "Ensemble de couvercles en silicone extensibles, tailles S/M/L vert (3 pièces)",
+      "description_fr": "Ensemble de 3 couvercles en silicone extensible DURAN, tailles S (Ø 43 à 61 mm), M (Ø 64 à 76 mm) et L (Ø 84 à 100 mm), coloris vert. Conçus pour recouvrir et sceller les récipients de laboratoire ronds ou carrés sans accessoire supplémentaire, ils résistent aux produits chimiques et aux températures de -40 °C à +180 °C, sont réutilisables et se retirent facilement grâce à leur languette de préhension. Non recommandés pour l'autoclavage en raison des variations de pression.",
+      "variant_name_fr": "S + M + L — vert, lot de 3",
+      "price_eur": 16.80,
+      "specs_fr": {
+        "Matière": "Silicone",
+        "Diamètre compatible (mm)": "S = 43 à 61, M = 64 à 76, L = 84 à 100",
+        "Couleur": "Vert",
+        "Taille": "S, M et L",
+        "Température d'utilisation": "-40°C à +180°C",
+        "Conditionnement": "3",
+        "Poids net": "0.034 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30610000002_20230817161102/humeau.com-couvercles-en-silicone-set-de-3-pieces-s-m-l-vert-30610000002-237849-30.jpg"
+    }
+  ]
+}

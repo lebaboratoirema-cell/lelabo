@@ -1,0 +1,290 @@
+{
+  "category": {
+    "slug": "burette",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Burettes" },
+    "description": {
+      "fr": "Burettes graduées en verre borosilicaté, manuelles ou automatiques, pour le dosage précis de volumes en analyse volumétrique et titrage."
+    }
+  },
+  "products": [
+    {
+      "sku": "207937",
+      "slug": "burette-pellet-duran-classe-as-robinet-lateral-verre-50ml",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Burette automatique de Pellet DURAN, classe AS, robinet latéral en verre, 50 mL",
+      "description_fr": "Burette automatique de type Pellet en verre DURAN, classe de précision AS, avec flacon réservoir en verre clair de 2000 mL inclus. Robinet d'arrêt latéral en verre, sans robinet intermédiaire, graduation bleue avec traits circulaires aux points principaux et bande photophore pour faciliter la lecture. Conforme à la norme DIN EN ISO 385, livrée avec déclaration de conformité DIN 12600 et numéro de lot daté ; certificat de lot individuel ou certificat DAkkS disponible en option.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 269.00,
+      "specs_fr": {
+        "Capacité (mL)": "50",
+        "Graduation (mL)": "0,1",
+        "Longueur (mm)": "500",
+        "Tolérance (mL)": "+/- 0,05",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000013_20220505200331/humeau.com-burette-auto-pellet-duran-sb-cc-cl-as-cle-verre-1-10-50ml-10711000013-207937-30.jpg"
+    },
+    {
+      "sku": "207932",
+      "slug": "burette-pellet-duran-classe-b-cle-ptfe-10ml",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Burette automatique de Pellet DURAN, classe B, clé PTFE, 10 mL",
+      "description_fr": "Burette automatique de type Pellet en verre DURAN, classe de précision B, avec flacon réservoir en verre clair de 2000 mL inclus. Robinet d'arrêt à clé PTFE, sans robinet intermédiaire, graduation bleue avec traits de division et bande photophore pour faciliter la lecture. Conforme à la norme DIN EN ISO 385.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 283.00,
+      "specs_fr": {
+        "Capacité (mL)": "10",
+        "Graduation (mL)": "0,02",
+        "Longueur (mm)": "500",
+        "Tolérance (mL)": "+/- 0,03",
+        "Conditionnement": "1",
+        "Poids net": "2.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000008_20230817161102/humeau.com-burette-auto-pellet-duran-sb-classe-b-cle-ptfe-1-50-10ml-10711000008-207932-30.jpg"
+    },
+    {
+      "sku": "257783",
+      "slug": "burette-schilling-25ml-gaine-anti-eclat-reservoir-1l",
+      "brand": "BURKLE",
+      "name_fr": "Burette de Schilling avec gaine anti-éclat, 25 mL en 0,1 mL, réservoir 1 L",
+      "description_fr": "Burette de titrage automatique selon le principe du Dr Schilling, en verre borosilicaté 3.3 avec bande Schellbach sur fond blanc pour une lecture précise du ménisque. Une gaine de protection anti-éclat enveloppe le corps de la burette, renforçant sa résistance à la casse et limitant la dispersion d'éclats de verre en cas de bris. Livrée complète avec la burette 25 mL en 0,1 mL, le réservoir d'1 litre, le support et le robinet.",
+      "variant_name_fr": "25 mL — réservoir 1 L",
+      "price_eur": 97.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "25 mL",
+        "Graduation (mL)": "0,1",
+        "Précision de la graduation (mL)": "0,045",
+        "Réservoir": "1 litre",
+        "Conditionnement": "1",
+        "Poids net": "0.68 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000079_20250328113108/humeau.com-burette-de-schilling-25ml-en-0-1ml-gaine-ae-vol-1000ml-257783-257783-30.jpg"
+    },
+    {
+      "sku": "259368",
+      "slug": "burette-schilling-classe-b-10ml-flacon-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette de Schilling, classe B, 10 mL en 0,05 mL, flacon 500 mL",
+      "description_fr": "Burette automatique selon le Dr Schilling, classe de précision B, certifiée « Ex » et conforme à la norme DIN EN ISO 385. Utilisable dans de nombreux domaines (galvanoplastie, traitement des eaux, stations d'épuration) grâce à son dosage précis, sa capacité de titrage fin et sa pointe de vidange exacte. Livrée avec un flacon réservoir en PEBD et un support solide ; une bande de Schellbach au dos de la burette facilite la lecture du niveau de remplissage. Le flacon et la burette sont solidarisés par l'armature de titrage ; l'ensemble est livré démonté et s'installe sans outil supplémentaire.",
+      "variant_name_fr": "10 mL — flacon 500 mL",
+      "price_eur": 69.40,
+      "specs_fr": {
+        "Capacité (mL)": "10",
+        "Capacité du flacon réservoir (mL)": "500",
+        "Divisions (mL)": "0,05",
+        "Tolérance (mL)": "+/- 0,03",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1",
+        "Poids net": "0.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000451_20230817161102/humeau.com-burette-de-schilling-cl-b-10ml-en-0-05ml-flacon-500ml-82710000451-259368-30.jpg"
+    },
+    {
+      "sku": "259369",
+      "slug": "burette-schilling-classe-b-15ml-flacon-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette de Schilling, classe B, 15 mL en 0,1 mL, flacon 1 L",
+      "description_fr": "Burette automatique selon le Dr Schilling, classe de précision B, certifiée « Ex » et conforme à la norme DIN EN ISO 385. Utilisable dans de nombreux domaines (galvanoplastie, traitement des eaux, stations d'épuration) grâce à son dosage précis, sa capacité de titrage fin et sa pointe de vidange exacte. Livrée avec un flacon réservoir en PEBD et un support solide ; une bande de Schellbach au dos de la burette facilite la lecture du niveau de remplissage. Le flacon et la burette sont solidarisés par l'armature de titrage ; l'ensemble est livré démonté et s'installe sans outil supplémentaire.",
+      "variant_name_fr": "15 mL — flacon 1 L",
+      "price_eur": 69.40,
+      "specs_fr": {
+        "Capacité (mL)": "15",
+        "Capacité du flacon réservoir (mL)": "1000",
+        "Divisions (mL)": "0,1",
+        "Tolérance (mL)": "+/- 0,04",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1",
+        "Poids net": "0.22 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000452_20251027155102/humeau.com-burette-de-schilling-cl-b-15ml-en-0-1ml-flacon-1l-259369-259369-30.jpg"
+    },
+    {
+      "sku": "259370",
+      "slug": "burette-schilling-classe-b-25ml-flacon-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette de Schilling, classe B, 25 mL en 0,1 mL, flacon 1 L",
+      "description_fr": "Burette automatique selon le Dr Schilling, classe de précision B, certifiée « Ex » et conforme à la norme DIN EN ISO 385. Utilisable dans de nombreux domaines (galvanoplastie, traitement des eaux, stations d'épuration) grâce à son dosage précis, sa capacité de titrage fin et sa pointe de vidange exacte. Livrée avec un flacon réservoir en PEBD et un support solide ; une bande de Schellbach au dos de la burette facilite la lecture du niveau de remplissage. Le flacon et la burette sont solidarisés par l'armature de titrage ; l'ensemble est livré démonté et s'installe sans outil supplémentaire.",
+      "variant_name_fr": "25 mL — flacon 1 L",
+      "price_eur": 69.40,
+      "specs_fr": {
+        "Capacité (mL)": "25",
+        "Capacité du flacon réservoir (mL)": "1000",
+        "Divisions (mL)": "0,1",
+        "Tolérance (mL)": "+/- 0,05",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1",
+        "Poids net": "0.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000453_20241028105102/humeau.com-burette-de-schilling-cl-b-25ml-en-0-1ml-flacon-1l-259370-259370-30.jpg"
+    },
+    {
+      "sku": "207940",
+      "slug": "burette-duran-classe-b-robinet-verre-50ml-x2",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Burette DURAN en verre, classe B, robinet droit en verre, 50 mL — lot de 2",
+      "description_fr": "Burette de Mohr en verre DURAN, classe de précision B, d'une capacité de 50 mL et d'une précision de 0,1 mL. Équipée d'un robinet d'arrêt droit en verre, avec bande de verre teintée facilitant la lecture et graduation bleue. Conforme à la norme DIN EN ISO 385.",
+      "variant_name_fr": "50 mL — lot de 2",
+      "price_eur": 116.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "50",
+        "Graduation (mL)": "0,1",
+        "Longueur (mm)": "500",
+        "Tolérance (mL)": "0,075",
+        "Conditionnement": "2",
+        "Poids net": "0.375 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000016_20220505200331/humeau.com-burette-duran-verre-classe-b-sb-cle-verre-1-10-50ml-par-2-10711000016-207940-30.jpg"
+    },
+    {
+      "sku": "259373",
+      "slug": "burette-classe-as-robinet-droit-cle-ptfe-25ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette en verre, classe AS, robinet droit à clé PTFE, 25 mL en 0,05 mL",
+      "description_fr": "Burette en verre borosilicaté 3.3, classe de précision AS, conforme à la norme DIN EN ISO 385, équipée d'un robinet d'arrêt droit à pointeau en PTFE. Calibrée « Ex », elle offre un moyen économique d'obtenir rapidement des valeurs fiables en analyse volumétrique. Graduation et inscriptions bleues, avec bande de Schellbach au dos pour une lecture précise du ménisque.",
+      "variant_name_fr": "25 mL en 0,05 mL",
+      "price_eur": 77.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "25",
+        "Robinet d'arrêt": "Broche en PTFE",
+        "Divisions (mL)": "0,05",
+        "Tolérance (mL)": "+/- 0,03",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000456_20250407113101/humeau.com-burette-en-verre-cl-as-robinet-droit-cle-ptfe-25ml-en-0-05ml-259373-259373-30.jpg"
+    },
+    {
+      "sku": "259378",
+      "slug": "burette-classe-as-robinet-lateral-cle-verre-25ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette en verre, classe AS, robinet latéral à clé en verre, 25 mL en 0,05 mL",
+      "description_fr": "Burette en verre borosilicaté 3.3, classe de précision AS, conforme à la norme DIN EN ISO 385, équipée d'un robinet d'arrêt latéral à clé en verre. Calibrée « Ex », elle offre un moyen économique d'obtenir rapidement des valeurs fiables en analyse volumétrique. Graduation et inscriptions bleues, avec bande de Schellbach au dos pour une lecture précise du ménisque.",
+      "variant_name_fr": "25 mL en 0,05 mL",
+      "price_eur": 67.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "25 mL",
+        "Robinet d'arrêt": "Clé en verre",
+        "Divisions (mL)": "0,05",
+        "Tolérance (mL)": "0,03",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1",
+        "Poids net": "0.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000461_20250826083101/humeau.com-burette-en-verre-rob-lateral-cle-verre-25ml-en-0-05ml-259378-259378-30.jpg"
+    },
+    {
+      "sku": "259380",
+      "slug": "burette-classe-as-robinet-lateral-cle-verre-50ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Burette en verre, classe AS, robinet latéral à clé en verre, 50 mL en 0,1 mL",
+      "description_fr": "Burette en verre borosilicaté 3.3, classe de précision AS, conforme à la norme DIN EN ISO 385, équipée d'un robinet d'arrêt latéral à clé en verre. Calibrée « Ex », elle offre un moyen économique d'obtenir rapidement des valeurs fiables en analyse volumétrique. Graduation et inscriptions bleues, avec bande de Schellbach au dos pour une lecture précise du ménisque.",
+      "variant_name_fr": "50 mL en 0,1 mL",
+      "price_eur": 67.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "50 mL",
+        "Robinet d'arrêt": "Clé en verre",
+        "Divisions (mL)": "0,1",
+        "Tolérance (mL)": "0,05",
+        "Conformité": "DIN EN ISO 385",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259380_20230828113101/humeau.com-burette-en-verre-rob-lateral-cle-verre-50ml-en-0-1ml-82710000463-259380-30.jpg"
+    },
+    {
+      "sku": "204805",
+      "slug": "burette-mbl-classe-b-cle-ptfe-25ml",
+      "brand": "MBL",
+      "name_fr": "Burette MBL en verre, classe B, clé PTFE, 25 mL en 0,1 mL",
+      "description_fr": "Burette en verre de la gamme MBL, classe de précision B, équipée d'une clé de robinet en PTFE, conforme à la norme ISO 385. Sommet en forme d'entonnoir facilitant et sécurisant le remplissage, graduations émaillées bleues faciles à lire.",
+      "variant_name_fr": "25 mL en 0,1 mL",
+      "price_eur": 59.50,
+      "specs_fr": {
+        "Capacité (mL)": "25",
+        "Graduation (mL)": "0,10",
+        "Longueur (mm)": "620",
+        "Tolérance (mL)": "+/- 0,10",
+        "Conditionnement": "1",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000154_20250320141101/humeau.com-burette-mbl-verre-classe-b-cle-ptfe-1-10-25ml-204805-204805-30.jpg"
+    },
+    {
+      "sku": "204810",
+      "slug": "burette-mbl-classe-b-rotaflo-100ml",
+      "brand": "MBL",
+      "name_fr": "Burette MBL en verre borosilicaté, classe B, robinet Rotaflo, 100 mL en 0,2 mL",
+      "description_fr": "Burette en verre borosilicaté de la gamme MBL, classe de précision B, équipée d'un robinet Rotaflo à clé PTFE, conforme à la norme ISO 385. Graduations ambrées permanentes, fondues dans le verre, offrant une haute résistance aux solutions de nettoyage agressives. Le robinet Rotaflo ne nécessite aucune lubrification, ne grippe pas au contact de solutions caustiques, permet un réglage très précis de l'écoulement et dispose d'une clé avec voie de 0,3 mm.",
+      "variant_name_fr": "100 mL en 0,2 mL",
+      "price_eur": 146.90,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "100",
+        "Graduation (mL)": "0,20",
+        "Tolérance (mL)": "+/- 0,20",
+        "Conditionnement": "1",
+        "Poids net": "0.304 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000159_20230817161102/humeau.com-burette-mbl-verre-classe-b-rotaflo-2-10-100ml-06700000159-204810-30.jpg"
+    },
+    {
+      "sku": "204815",
+      "slug": "burette-pyrex-classe-as-cle-ptfe-50ml",
+      "brand": "PYREX",
+      "name_fr": "Burette Pyrex en verre, classe AS, clé PTFE, 50 mL en 0,1 mL",
+      "description_fr": "Burette Pyrex en verre borosilicaté (tube calibré), classe de précision AS, munie d'une clé d'obturateur en PTFE, conforme à la norme ISO 385. Graduations émaillées blanches pour une meilleure visibilité avec les solutions sombres. Clé en PTFE interchangeable et auto-lubrifiante avec voie de 1,5 mm ; temps d'attente de vidange de +30 secondes pour une haute précision.",
+      "variant_name_fr": "50 mL en 0,1 mL",
+      "price_eur": 57.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté (tube calibré)",
+        "Volume": "50 mL",
+        "Graduation (mL)": "0,1",
+        "Longueur (mm)": "820",
+        "Conditionnement": "1",
+        "Poids net": "0.21 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000164_20240112103102/humeau.com-burette-pyrex-verre-classe-as-cle-ptfe-50ml-204815-204815-30.jpg"
+    },
+    {
+      "sku": "204817",
+      "slug": "burette-pyrex-classe-b-cle-ptfe-10ml",
+      "brand": "PYREX",
+      "name_fr": "Burette Pyrex en verre, classe B, clé PTFE, 10 mL en 0,05 mL",
+      "description_fr": "Burette Pyrex en verre borosilicaté, classe de précision B, munie d'une clé d'obturateur en PTFE, conforme à la norme ISO 385. Graduations émaillées blanches pour une meilleure visibilité avec les solutions sombres. Clé en PTFE interchangeable, utilisable sans graisse, avec voie de 1,5 mm ; le verre borosilicaté assure une bonne résistance chimique.",
+      "variant_name_fr": "10 mL en 0,05 mL",
+      "price_eur": 65.50,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Volume": "10 mL",
+        "Graduation (mL)": "0,02",
+        "Longueur (mm)": "820",
+        "Conditionnement": "1",
+        "Poids net": "0.19 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000166_20220505195556/humeau.com-burette-pyrex-verre-classe-b-cle-ptfe-10ml-06700000166-204817-30.jpg"
+    },
+    {
+      "sku": "207944",
+      "slug": "microburette-bang-classe-as-cle-verre-10ml-x2",
+      "brand": "HIRSCHMANN",
+      "name_fr": "Microburette Bang DURAN en verre, classe AS, robinet à clé en verre, 10 mL en 0,02 mL — lot de 2",
+      "description_fr": "Microburette de Mohr de type Bang, en verre DURAN, classe de précision AS, d'une capacité de 10 mL et d'une précision de 0,02 mL. Robinet d'arrêt droit en verre avec clé à rodage sphérique, second robinet sur le tube de remplissage également à clé en verre, bande de verre teintée facilitant la lecture et graduation bleue. Livrée avec certificat de conformité, conforme à la norme DIN EN ISO 385.",
+      "variant_name_fr": "10 mL en 0,02 mL — lot de 2",
+      "price_eur": 318.00,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "10",
+        "Graduation (mL)": "0,02",
+        "Tolérance (mL)": "+/- 0,02",
+        "Conditionnement": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10711000020_20220505200331/humeau.com-microburette-bang-verre-cl-as-sb-cc-cle-verre-1-50-10ml-x2-10711000020-207944-30.jpg"
+    }
+  ]
+}

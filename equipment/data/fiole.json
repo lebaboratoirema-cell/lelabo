@@ -1,0 +1,285 @@
+{
+  "category": {
+    "slug": "fiole",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Fioles" },
+    "description": {
+      "fr": "Fioles coniques (Erlenmeyer) graduées et fioles jaugées de précision en verre borosilicaté, pour la préparation de solutions, les réactions chimiques et les dilutions volumétriques exactes en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "260215",
+      "slug": "fiole-conique-col-etroit-graduee-1l-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole conique à col étroit graduée, 1 L — lot de 10",
+      "description_fr": "Fiole conique (Erlenmeyer) à col étroit, à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "1 L — lot de 10",
+      "price_eur": 86.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Diamètre col (mm)": "42",
+        "Diamètre base (mm)": "131",
+        "Hauteur (mm)": "220",
+        "Conditionnement": "10",
+        "Poids net": "3.9 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001298_20260504033001/humeau.com-fiole-conique-a-col-etroit-graduee-cap-1l-pack-de-10-260215-260215-30.jpg"
+    },
+    {
+      "sku": "260218",
+      "slug": "fiole-conique-col-etroit-graduee-25ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole conique à col étroit graduée, 25 mL — lot de 10",
+      "description_fr": "Fiole conique (Erlenmeyer) à col étroit, à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "25 mL — lot de 10",
+      "price_eur": 38.64,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "25",
+        "Diamètre (mm)": "42",
+        "Diamètre col (mm)": "22",
+        "Hauteur (mm)": "75",
+        "Conditionnement": "10",
+        "Poids net": "0.28 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001301_20260519185103/humeau.com-fiole-conique-a-col-etroit-graduee-cap-25ml-pack-de-10-82710001301-260218-30.jpg"
+    },
+    {
+      "sku": "260217",
+      "slug": "fiole-conique-col-etroit-graduee-2l-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole conique à col étroit graduée, 2 L — lot de 6",
+      "description_fr": "Fiole conique (Erlenmeyer) à col étroit, à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "2 L — lot de 6",
+      "price_eur": 71.92,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "2000",
+        "Diamètre col (mm)": "50",
+        "Diamètre base (mm)": "166",
+        "Hauteur (mm)": "280",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001300_20260504033001/humeau.com-fiole-conique-a-col-etroit-graduee-cap-2l-pack-de-6-260217-260217-30.jpg"
+    },
+    {
+      "sku": "260220",
+      "slug": "fiole-conique-col-etroit-graduee-3l-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole conique à col étroit graduée, 3 L — lot de 6",
+      "description_fr": "Fiole conique (Erlenmeyer) à col étroit, à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "3 L — lot de 6",
+      "price_eur": 207.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "3000",
+        "Diamètre col (mm)": "50",
+        "Diamètre base (mm)": "187",
+        "Hauteur (mm)": "310",
+        "Conditionnement": "6"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001303_20260504033001/humeau.com-fiole-conique-a-col-etroit-graduee-cap-3l-pack-de-6-82710001303-260220-30.jpg"
+    },
+    {
+      "sku": "260223",
+      "slug": "fiole-conique-col-etroit-graduee-5l-x2",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole conique à col étroit graduée, 5 L — lot de 2",
+      "description_fr": "Fiole conique (Erlenmeyer) à col étroit, à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "5 L — lot de 2",
+      "price_eur": 103.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5000",
+        "Diamètre col (mm)": "50",
+        "Diamètre base (mm)": "220",
+        "Hauteur (mm)": "365",
+        "Conditionnement": "2",
+        "Poids net": "2.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001306_20260519185103/humeau.com-fiole-conique-a-col-etroit-graduee-cap-5l-pack-de-2-260223-260223-30.jpg"
+    },
+    {
+      "sku": "260222",
+      "slug": "fiole-erlenmeyer-verre-borosilicate-graduee-500ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole Erlenmeyer en verre borosilicaté graduée, 500 mL — lot de 10",
+      "description_fr": "Fiole conique (Erlenmeyer) à graduation durable, en verre borosilicaté 3.3 de haute qualité, résistante aux températures jusqu'à 500 °C et conforme à la norme ISO 1773. Bonne résistance aux solutions alcalines froides et aux acides forts, à l'exception de l'acide fluorhydrique et de l'acide phosphorique concentré chaud.",
+      "variant_name_fr": "500 mL — lot de 10",
+      "price_eur": 52.08,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Diamètre col (mm)": "34",
+        "Diamètre intérieur corps (mm)": "105",
+        "Hauteur (mm)": "180",
+        "Conditionnement": "10",
+        "Poids net": "2.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001305_20260504033001/humeau.com-fiole-erlenmeyer-en-verre-boro-graduee-cap-500ml-pack-de-10-260222-260222-30.jpg"
+    },
+    {
+      "sku": "260275",
+      "slug": "fiole-jaugee-verre-clair-classe-a-100ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 100 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 14.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "100",
+        "Tolérance (mL)": "+/- 0,100",
+        "Rodage": "12/21",
+        "Conditionnement": "1",
+        "Poids net": "0.27 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001358_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn12-21-100ml-260275-260275-30.jpg"
+    },
+    {
+      "sku": "260277",
+      "slug": "fiole-jaugee-verre-clair-classe-a-20ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 20 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "20 mL",
+      "price_eur": 11.60,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "20",
+        "Tolérance (mL)": "± 0,060",
+        "Rodage": "12/21",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001360_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn12-21-20ml-82710001360-260277-30.jpg"
+    },
+    {
+      "sku": "260281",
+      "slug": "fiole-jaugee-verre-clair-classe-a-25ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 25 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 12.08,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "25",
+        "Tolérance (mL)": "± 0,060",
+        "Rodage": "12/21",
+        "Conditionnement": "1",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001364_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn12-21-25ml-260281-260281-30.jpg"
+    },
+    {
+      "sku": "260284",
+      "slug": "fiole-jaugee-verre-clair-classe-a-50ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 50 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 13.20,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "50",
+        "Tolérance (mL)": "± 0,060",
+        "Rodage": "12/21",
+        "Conditionnement": "1",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001367_20260526153102/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn12-21-50ml-260284-260284-30.jpg"
+    },
+    {
+      "sku": "260282",
+      "slug": "fiole-jaugee-verre-clair-classe-a-250ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 250 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 16.64,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "250",
+        "Tolérance (mL)": "± 0,150",
+        "Rodage": "14/23",
+        "Conditionnement": "1",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001365_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn14-23-250ml-260282-260282-30.jpg"
+    },
+    {
+      "sku": "260286",
+      "slug": "fiole-jaugee-verre-clair-classe-a-500ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 500 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 21.12,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Tolérance (mL)": "± 0,250",
+        "Rodage": "19/26",
+        "Conditionnement": "1",
+        "Poids net": "0.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001369_20260521151102/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn19-26-500ml-260286-260286-30.jpg"
+    },
+    {
+      "sku": "260287",
+      "slug": "fiole-jaugee-verre-clair-classe-a-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 1 L",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "1 L",
+      "price_eur": 36.88,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "1000",
+        "Tolérance (mL)": "± 0,600",
+        "Rodage": "29/32",
+        "Conditionnement": "1",
+        "Poids net": "0.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001370_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn29-32-1l-260287-260287-30.jpg"
+    },
+    {
+      "sku": "260279",
+      "slug": "fiole-jaugee-verre-clair-classe-a-2l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 2 L",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "2 L",
+      "price_eur": 51.44,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "2000",
+        "Tolérance (mL)": "± 0,600",
+        "Rodage": "29/32",
+        "Conditionnement": "1",
+        "Poids net": "0.52 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001362_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn29-32-2l-260279-260279-30.jpg"
+    },
+    {
+      "sku": "260274",
+      "slug": "fiole-jaugee-verre-clair-classe-a-10ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Fiole jaugée en verre clair, classe A, bouchon PE, 10 mL",
+      "description_fr": "Fiole jaugée classe de précision A, en verre borosilicaté 3.3 de haute qualité, avec bouchon en polyéthylène et graduation bleue. Calibrée « In » à 20 °C et conforme à la norme DIN EN ISO 1042. Un certificat de conformité spécifique au lot peut être fourni sur demande.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 11.36,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "10",
+        "Tolérance (mL)": "± 0,025",
+        "Rodage": "7/16",
+        "Conditionnement": "1",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001357_20260504033001/humeau.com-fiole-jaugee-verre-clair-cl-a-bouchon-en-pe-cn7-16-10ml-82710001357-260274-30.jpg"
+    }
+  ]
+}

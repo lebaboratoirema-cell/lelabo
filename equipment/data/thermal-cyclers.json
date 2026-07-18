@@ -1,0 +1,122 @@
+{
+  "category": {
+    "slug": "thermal-cyclers",
+    "parent_slug": "equipements",
+    "name": { "fr": "Thermocycleurs PCR", "en": "Thermal Cyclers" },
+    "description": {
+      "fr": "Thermocycleurs PCR de paillasse pour amplification d'ADN — blocs 96 et 384 puits, gradient de température, écran tactile, refroidissement actif des échantillons."
+    }
+  },
+  "products": [
+    {
+      "sku": "B2B2432",
+      "slug": "thermocycleur-cole-parmer-pcr-300-q-quad-96-puits",
+      "brand": "Cole-Parmer",
+      "name_fr": "Thermocycleur Cole-Parmer PCR-300-Q — 4 blocs indépendants, 96 puits",
+      "description_fr": "Thermocycleur PCR compact conçu pour des résultats reproductibles avec peu de formation requise. Écran tactile réactif, connexion utilisateur sécurisée par clé USB (sans mot de passe), interface tablette Android HD intuitive. Assistant de programme générant un protocole adapté à la séquence en quelques secondes, pratique pour optimiser rapidement de nouveaux essais. Couvercle chauffant réglable et refroidissement actif des échantillons pour une amplification plus nette. Quatre blocs de 96 puits pilotables indépendamment pour optimiser température et espace selon les besoins. Mémorise environ 1000 rapports de cycles consultables ultérieurement.",
+      "variant_name_fr": "4 blocs × 96 puits",
+      "price_gbp": 16888.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MOL6232",
+      "specs_fr": { "Référence fournisseur": "TEC002" }
+    },
+    {
+      "sku": "B2B8030",
+      "slug": "thermocycleur-cole-parmer-pcr-300-s-simple-96-puits",
+      "brand": "Cole-Parmer",
+      "name_fr": "Thermocycleur Cole-Parmer PCR-300-S — bloc unique, 96 puits",
+      "description_fr": "Version mono-bloc du thermocycleur compact Cole-Parmer PCR-300, pour laboratoires à besoin unique de bloc 96 puits. Écran tactile réactif, connexion utilisateur sécurisée par clé USB (sans mot de passe), interface tablette Android HD intuitive. Assistant de programme générant un protocole adapté à la séquence en quelques secondes. Couvercle chauffant réglable et refroidissement actif des échantillons pour une amplification plus nette. Mémorise environ 1000 rapports de cycles consultables ultérieurement, accès rapide aux protocoles fréquemment utilisés.",
+      "variant_name_fr": "1 bloc × 96 puits",
+      "price_gbp": 4099.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/MOL6346",
+      "specs_fr": { "Référence fournisseur": "TEC002" }
+    },
+    {
+      "sku": "B2B2586",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50s-96-puits-argent",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50s — bloc 96 puits argent, avec panneau de commande",
+      "description_fr": "Thermocycleur PCR alliant vitesse, flexibilité et optimisation pour la recherche comme pour la PCR de routine (contrôle alimentaire, etc.). Écran tactile intuitif donnant accès direct à toutes les fonctions. Fonction 2D-Gradient innovante pour l'optimisation avancée des protocoles PCR en biologie moléculaire. Vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C. Concept de couvercle flexlid® à ajustement automatique de hauteur, compatible tous types de consommables. Jusqu'à 10 unités interconnectables pour du haut débit, ou 50 unités en réseau piloté par ordinateur. Faible niveau sonore, faible consommation électrique, encombrement réduit. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 96 puits argent, avec panneau de commande",
+      "price_gbp": 8916.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6311000045",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B2588",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50a-96-puits-aluminium",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50a — bloc 96 puits aluminium, avec panneau de commande",
+      "description_fr": "Thermocycleur PCR alliant vitesse, flexibilité et optimisation pour la recherche comme pour la PCR de routine. Écran tactile intuitif, fonction 2D-Gradient pour l'optimisation avancée des protocoles. Bloc aluminium offrant une montée en température rapide, vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C. Concept de couvercle flexlid® à ajustement automatique de hauteur, compatible tous types de consommables. Jusqu'à 10 unités interconnectables pour du haut débit, ou 50 unités en réseau piloté par ordinateur. Faible niveau sonore, faible consommation électrique, encombrement réduit. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 96 puits aluminium, avec panneau de commande",
+      "price_gbp": 8424.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6313000042",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B2590",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50h-384-puits-haute-pression",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50h — bloc 384 puits aluminium, couvercle haute pression, avec panneau de commande",
+      "description_fr": "Version haute capacité du Mastercycler X50, avec bloc aluminium 384 puits pour un débit d'échantillons élevé. Couvercle haute pression assurant une étanchéité renforcée sur les plaques 384 puits. Écran tactile intuitif, fonction 2D-Gradient pour l'optimisation avancée des protocoles PCR. Vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C. Jusqu'à 10 unités interconnectables pour du haut débit, ou 50 unités en réseau piloté par ordinateur. Faible niveau sonore, faible consommation électrique. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 384 puits aluminium, couvercle haute pression, avec panneau de commande",
+      "price_gbp": 8916.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6316000043",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B2592",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50i-96-puits-argent-sans-panneau",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50i — bloc 96 puits argent, sans panneau de commande",
+      "description_fr": "Unité satellite du Mastercycler X50, sans panneau de commande propre, destinée à être pilotée en réseau depuis une unité maître ou par ordinateur — solution économique pour équiper plusieurs postes. Bloc argent 96 puits, vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C, fonction 2D-Gradient. Concept de couvercle flexlid® à ajustement automatique de hauteur. Faible niveau sonore, faible consommation électrique, encombrement réduit. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 96 puits argent, sans panneau de commande",
+      "price_gbp": 7332.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6301000047",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B2594",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50l-96-puits-aluminium-sans-panneau",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50l — bloc 96 puits aluminium, sans panneau de commande",
+      "description_fr": "Unité satellite du Mastercycler X50, sans panneau de commande propre, à piloter en réseau depuis une unité maître ou par ordinateur. Bloc aluminium 96 puits pour montée en température rapide, vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C, fonction 2D-Gradient. Concept de couvercle flexlid® à ajustement automatique de hauteur. Faible niveau sonore, faible consommation électrique, encombrement réduit. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 96 puits aluminium, sans panneau de commande",
+      "price_gbp": 6838.80,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6303000044",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B2596",
+      "slug": "thermocycleur-eppendorf-mastercycler-x50t-384-puits-sans-panneau",
+      "brand": "Eppendorf",
+      "name_fr": "Thermocycleur Eppendorf Mastercycler X50t — bloc 384 puits aluminium, couvercle haute pression, sans panneau de commande",
+      "description_fr": "Unité satellite haute capacité du Mastercycler X50, bloc aluminium 384 puits avec couvercle haute pression, sans panneau de commande propre — à piloter en réseau depuis une unité maître ou par ordinateur, pour équiper des laboratoires à plusieurs postes de PCR haut débit. Vitesse de chauffe jusqu'à 10 °C/s, plage de gradient de 30 à 99 °C, fonction 2D-Gradient. Faible niveau sonore, faible consommation électrique. Garantie 2 ans.",
+      "variant_name_fr": "Bloc 384 puits aluminium, couvercle haute pression, sans panneau de commande",
+      "price_gbp": 7830.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E6306000045",
+      "specs_fr": { "Référence fournisseur": "EPP001C" }
+    },
+    {
+      "sku": "B2B3078",
+      "slug": "thermocycleur-axygen-maxygene-ii-96-puits",
+      "brand": "Axygen",
+      "name_fr": "Thermocycleur Axygen MaxyGene II — bloc 96 puits",
+      "description_fr": "Successeur du thermocycleur MaxyGene, offrant vitesse et fonctionnalités avancées avec la fiabilité reconnue de la marque Axygen. Programmation flexible, temps de cycle rapides, rampes de température jusqu'à 5 °C/s. Interface utilisateur simple, protocoles standards préprogrammés. Couvercle chauffant réglable compatible barrettes, tubes et microplaques. Bonne alternative économique aux thermocycleurs à gradient traditionnels pour les laboratoires à besoins standards.",
+      "variant_name_fr": "Bloc 96 puits",
+      "price_gbp": 3696.00,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/B2B3078",
+      "specs_fr": { "Référence fournisseur": "COR008" }
+    },
+    {
+      "sku": "E5341612006",
+      "slug": "cable-connexion-can-bus-eppendorf-mastercycler-50cm",
+      "brand": "Eppendorf",
+      "name_fr": "Câble de connexion CAN Bus Eppendorf Mastercycler — 50 cm",
+      "description_fr": "Câble de connexion CAN Bus de 50 cm pour relier plusieurs unités Mastercycler X50 entre elles ou à une unité maître, dans le cadre d'un réseau de thermocycleurs piloté en série. Accessoire compatible avec l'ensemble de la gamme Mastercycler X50 (avec ou sans panneau de commande).",
+      "variant_name_fr": "50 cm",
+      "price_gbp": 67.20,
+      "image_url": "https://www.scientificlabs.co.uk/image/display/E5341612006",
+      "specs_fr": { "Référence fournisseur": "EPP001" }
+    }
+  ]
+}

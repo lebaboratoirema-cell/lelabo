@@ -1,0 +1,289 @@
+{
+  "category": {
+    "slug": "entonnoirs",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Entonnoirs" },
+    "description": {
+      "fr": "Entonnoirs de laboratoire en verre, polypropylène, porcelaine et inox, pour le transfert, la filtration et le versement de liquides et de poudres."
+    }
+  },
+  "products": [
+    {
+      "sku": "259766",
+      "slug": "entonnoir-poudre-pp-150mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir à poudre en polypropylène, Ø 150 mm",
+      "description_fr": "Entonnoir à poudre en polypropylène transparent, incassable et autoclavable à 121 °C. Sa tige parallèle limite les risques de blocage lors du transfert de poudres, de matériaux granulés ou de liquides très visqueux ; des nervures intérieures accélèrent l'écoulement tandis que des nervures extérieures évitent l'obstruction par l'air.",
+      "variant_name_fr": "Ø 150 mm",
+      "price_eur": 5.80,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Diamètre (mm)": "150",
+        "Longueur de la tige (mm)": "30",
+        "Diamètre de la tige (mm)": "28",
+        "Autoclavable": "Oui (121 °C)",
+        "Conditionnement": "1",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000849_20260318133103/humeau.com-entonnoir-a-poudre-en-pp-diam-150mm-259766-259766-30.jpg"
+    },
+    {
+      "sku": "259767",
+      "slug": "entonnoir-poudre-pp-65mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir à poudre en polypropylène, Ø 65 mm",
+      "description_fr": "Entonnoir à poudre en polypropylène transparent, incassable et autoclavable à 121 °C. Sa tige parallèle limite les risques de blocage lors du transfert de poudres, de matériaux granulés ou de liquides très visqueux ; des nervures intérieures accélèrent l'écoulement tandis que des nervures extérieures évitent l'obstruction par l'air.",
+      "variant_name_fr": "Ø 65 mm",
+      "price_eur": 2.10,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Diamètre (mm)": "22",
+        "Longueur de la tige (mm)": "65",
+        "Diamètre de la tige (mm)": "16",
+        "Autoclavable": "Oui (121 °C)",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000850_20241011113101/humeau.com-entonnoir-a-poudre-en-pp-diam-65mm-259767-259767-30.jpg"
+    },
+    {
+      "sku": "204797",
+      "slug": "entonnoir-poudre-verre-pyrex-rodage-29-32",
+      "brand": "PYREX",
+      "name_fr": "Entonnoir à poudre en verre Pyrex, rodage 29/32",
+      "description_fr": "Entonnoir à poudre en verre borosilicaté Pyrex, doté d'une tige à rodage normalisé 29/32 pour un raccordement direct sur flacons et récipients à col rodé. Diamètre d'entonnoir de 105 mm, résistant aux produits chimiques usuels de laboratoire.",
+      "variant_name_fr": "Ø 105 mm — rodage 29/32",
+      "price_eur": 75.30,
+      "specs_fr": {
+        "Diamètre (mm)": "105",
+        "Rodage (CN)": "29/32",
+        "Tube d'écoulement rodé": "29/32",
+        "Conditionnement": "1",
+        "Poids net": "0.178 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000146_20250506103101/humeau.com-entonnoir-a-poudre-en-verre-avec-rodage-29-32-pyrex-204797-204797-30.jpg"
+    },
+    {
+      "sku": "223779",
+      "slug": "entonnoir-poudre-inox-240mm",
+      "brand": "BOCHEM",
+      "name_fr": "Entonnoir à poudre en inox 18/10, Ø 240 mm — H. 210 mm",
+      "description_fr": "Entonnoir à poudre en acier inoxydable 18/10, à tube droit, conçu pour la manipulation de poudres en laboratoire. Sa construction en inox garantit une bonne résistance mécanique et chimique ainsi qu'un nettoyage aisé.",
+      "variant_name_fr": "Ø 240 mm — H. 210 mm",
+      "price_eur": 250.40,
+      "specs_fr": {
+        "Matière": "Acier inoxydable 18/10",
+        "Diamètre intérieur du col (mm)": "240",
+        "Diamètre extérieur du col (mm)": "250",
+        "Diamètre de la tige (mm)": "30",
+        "Longueur de la tige (mm)": "60",
+        "Hauteur (mm)": "210",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000004_20251016144101/humeau.com-entonnoir-a-poudre-inox-18-10-d-240mm-h-210mm-223779-223779-30.jpg"
+    },
+    {
+      "sku": "259772",
+      "slug": "entonnoir-tige-courte-pp-35mm-x12",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir à tige courte en polypropylène transparent, Ø 35 mm — lot de 12",
+      "description_fr": "Entonnoir à tige courte en polypropylène transparent, incassable et autoclavable à 121 °C, alternative pratique au verre pour la filtration de liquides peu visqueux. Accepte un papier filtre standard ; des nervures intérieures accélèrent la filtration et des nervures extérieures évitent la formation de bulles d'air entre le papier et la paroi de l'entonnoir.",
+      "variant_name_fr": "Ø 35 mm — lot de 12",
+      "price_eur": 8.10,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Diamètre (mm)": "35",
+        "Longueur de la tige (mm)": "52",
+        "Diamètre filtre (mm)": "55",
+        "Autoclavable": "Oui (121 °C)",
+        "Conditionnement": "12"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000855_20230817161102/humeau.com-entonnoir-a-tige-courte-pp-transparent-diam-35mm-x12-82710000855-259772-30.jpg"
+    },
+    {
+      "sku": "259780",
+      "slug": "entonnoir-tige-courte-pp-75mm-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir à tige courte en polypropylène transparent, Ø 75 mm — lot de 6",
+      "description_fr": "Entonnoir à tige courte en polypropylène transparent, incassable et autoclavable à 121 °C, alternative pratique au verre pour la filtration de liquides peu visqueux. Accepte un papier filtre standard ; des nervures intérieures accélèrent la filtration et des nervures extérieures évitent la formation de bulles d'air entre le papier et la paroi de l'entonnoir.",
+      "variant_name_fr": "Ø 75 mm — lot de 6",
+      "price_eur": 7.20,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Diamètre (mm)": "75",
+        "Longueur de la tige (mm)": "80",
+        "Diamètre filtre (mm)": "125",
+        "Autoclavable": "Oui (121 °C)",
+        "Conditionnement": "6",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000863_20250318130103/humeau.com-entonnoir-a-tige-courte-pp-transparent-diam-75mm-x6-259780-259780-30.jpg"
+    },
+    {
+      "sku": "259777",
+      "slug": "entonnoir-tige-courte-verre-boro-55mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir à tige courte en verre borosilicaté, Ø 55 mm",
+      "description_fr": "Entonnoir à tige courte en verre borosilicaté 3.3 de haute qualité, fabriqué conformément à la norme ISO 4798. Adapté à la décantation et à la filtration de liquides, y compris à chaud, cette gamme de diamètres de 35 à 150 mm couvre la plupart des usages de laboratoire.",
+      "variant_name_fr": "Ø 55 mm",
+      "price_eur": 9.50,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Diamètre (mm)": "55",
+        "Longueur de la tige (mm)": "55",
+        "Diamètre filtre (mm)": "70 - 90",
+        "Norme": "ISO 4798",
+        "Conditionnement": "1",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000860_20260612131102/humeau.com-entonnoir-a-tige-courte-verre-boro-diam-55mm-259777-259777-30.jpg"
+    },
+    {
+      "sku": "237640",
+      "slug": "entonnoir-buchner-verre-duran-500ml",
+      "brand": "DURAN",
+      "name_fr": "Entonnoir Büchner en verre Duran, 500 mL — Ø 95 mm",
+      "description_fr": "Entonnoir de Büchner en verre Duran, à plaque filtrante à fentes servant de support pour filtres à membrane ou en papier. Contenance de 500 mL, offrant une bonne résistance chimique et thermique pour la filtration sous vide en laboratoire.",
+      "variant_name_fr": "500 mL — Ø 95 mm",
+      "price_eur": 271.30,
+      "specs_fr": {
+        "Capacité (mL)": "500",
+        "Diamètre du filtre (mm)": "90",
+        "Diamètre extérieur du corps (mm)": "106",
+        "Diamètre de la plaque (mm)": "95",
+        "Diamètre de la tige (mm)": "22",
+        "Hauteur (mm)": "240",
+        "Poids net": "0.46 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000183_20230613150102/humeau.com-entonnoir-buchner-en-verre-500ml-d-95mm-duran-30600000183-237640-30.jpg"
+    },
+    {
+      "sku": "259782",
+      "slug": "entonnoir-buchner-porcelaine-116mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir Büchner en porcelaine, Ø 116 mm",
+      "description_fr": "Entonnoir Büchner en porcelaine de haute qualité, émaillé à l'intérieur et à l'extérieur, fabriqué conformément à la norme DIN 12905. Il offre une excellente résistance aux lessives et aux acides, à l'exception de l'acide fluorhydrique.",
+      "variant_name_fr": "Ø 116 mm",
+      "price_eur": 63.20,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Diamètre filtre (mm)": "110",
+        "Diamètre intérieur du corps (mm)": "116",
+        "Norme": "DIN 12905",
+        "Conditionnement": "1",
+        "Poids net": "0.88 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000865_20230817161102/humeau.com-entonnoir-de-buchner-labsolute-porcelaine-d-116mm-82710000865-259782-30.jpg"
+    },
+    {
+      "sku": "259787",
+      "slug": "entonnoir-buchner-porcelaine-48mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Entonnoir Büchner en porcelaine, Ø 48 mm",
+      "description_fr": "Entonnoir Büchner en porcelaine de haute qualité, émaillé à l'intérieur et à l'extérieur, fabriqué conformément à la norme DIN 12905. Il offre une excellente résistance aux lessives et aux acides, à l'exception de l'acide fluorhydrique.",
+      "variant_name_fr": "Ø 48 mm",
+      "price_eur": 25.50,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Diamètre filtre (mm)": "45",
+        "Diamètre intérieur (mm)": "48",
+        "Norme": "DIN 12905",
+        "Conditionnement": "1",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000870_20220505220233/humeau.com-entonnoir-de-buchner-labsolute-porcelaine-d-48mm-82710000870-259787-30.jpg"
+    },
+    {
+      "sku": "204790",
+      "slug": "entonnoir-filtrant-cylindrique-pyrex-por1-175mm",
+      "brand": "PYREX",
+      "name_fr": "Entonnoir filtrant cylindrique en verre Pyrex, porosité 1 — Ø 175 mm",
+      "description_fr": "Entonnoir filtrant cylindrique de Büchner en verre Pyrex, à plaque filtrante en verre fritté intégrée, évitant l'usage de papier filtre. Chimiquement résistant, y compris à la plupart des réactifs corrosifs tels que l'ammoniaque et l'acide sulfurique concentré ; disponible en plusieurs diamètres et porosités de disque.",
+      "variant_name_fr": "Ø 175 mm — porosité 1",
+      "price_eur": 1129.70,
+      "specs_fr": {
+        "Capacité (mL)": "4000",
+        "Diamètre (mm)": "190",
+        "Diamètre de la tige (mm)": "30x150",
+        "Hauteur (mm)": "390",
+        "Porosité": "1",
+        "Conditionnement": "1",
+        "Poids net": "1.975 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000139_20230817161102/humeau.com-entonnoir-filtrant-cylindrique-d-175mm-125ml-por-1-pyrex-06700000139-204790-30.jpg"
+    },
+    {
+      "sku": "204771",
+      "slug": "entonnoir-filtrant-cylindrique-pyrex-por4-30mm-x5",
+      "brand": "PYREX",
+      "name_fr": "Entonnoir filtrant cylindrique en verre Pyrex, porosité 4 — Ø 30 mm — lot de 5",
+      "description_fr": "Entonnoir filtrant cylindrique de Büchner en verre Pyrex, à plaque filtrante en verre fritté intégrée, évitant l'usage de papier filtre. Chimiquement résistant, y compris à la plupart des réactifs corrosifs tels que l'ammoniaque et l'acide sulfurique concentré ; disponible en plusieurs diamètres et porosités de disque.",
+      "variant_name_fr": "Ø 30 mm — porosité 4 — lot de 5",
+      "price_eur": 391.30,
+      "specs_fr": {
+        "Capacité (mL)": "30",
+        "Diamètre (mm)": "38",
+        "Diamètre de la tige (mm)": "8x100",
+        "Hauteur (mm)": "160",
+        "Porosité": "4",
+        "Conditionnement": "5",
+        "Poids net": "0.38 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000120_20230817161102/humeau.com-entonnoir-filtrant-cylindrique-d-30mm-30ml-por-4-pyrex-par-5-06700000120-204771-30.jpg"
+    },
+    {
+      "sku": "204783",
+      "slug": "entonnoir-filtrant-cylindrique-pyrex-por3-95mm-x5",
+      "brand": "PYREX",
+      "name_fr": "Entonnoir filtrant cylindrique en verre Pyrex, porosité 3 — Ø 95 mm — lot de 5",
+      "description_fr": "Entonnoir filtrant cylindrique de Büchner en verre Pyrex, à plaque filtrante en verre fritté intégrée, évitant l'usage de papier filtre. Chimiquement résistant, y compris à la plupart des réactifs corrosifs tels que l'ammoniaque et l'acide sulfurique concentré ; disponible en plusieurs diamètres et porosités de disque.",
+      "variant_name_fr": "Ø 95 mm — porosité 3 — lot de 5",
+      "price_eur": 906.60,
+      "specs_fr": {
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "106",
+        "Diamètre de la tige (mm)": "19x115",
+        "Hauteur (mm)": "250",
+        "Porosité": "3",
+        "Conditionnement": "5",
+        "Poids net": "0.466 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000132_20230817161102/humeau.com-entonnoir-filtrant-cylindrique-d-95mm-125ml-por-3-pyrex-x5-06700000132-204783-30.jpg"
+    },
+    {
+      "sku": "224003",
+      "slug": "entonnoir-standard-inox-anse-150mm",
+      "brand": "BOCHEM",
+      "name_fr": "Entonnoir standard en inox 18/10 avec anse, Ø 150 mm",
+      "description_fr": "Entonnoir en acier inoxydable 18/10, à tube conique, muni d'une anse facilitant la préhension et le versement. Conçu pour la manipulation de poudres en laboratoire, il allie robustesse mécanique et résistance à la corrosion.",
+      "variant_name_fr": "Ø 150 mm",
+      "price_eur": 59.57,
+      "specs_fr": {
+        "Matière": "Acier inoxydable 18/10",
+        "Diamètre (mm)": "150",
+        "Hauteur (mm)": "190",
+        "Longueur de la tige (mm)": "90",
+        "Diamètre de la tige (mm)": "21 / 27",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200884300_20231018122001/humeau.com-entonnoir-standard-inox-18-10-d-150mm-avec-anse-224003-224003-30.jpg"
+    },
+    {
+      "sku": "257646",
+      "slug": "entonnoir-sterile-jetable-ps-100mm-x10",
+      "brand": "BURKLE",
+      "name_fr": "Entonnoir stérile jetable pour liquide en polystyrène, Ø 100 mm — lot de 10",
+      "description_fr": "Entonnoir jetable stérile à usage unique, en polystyrène blanc, fabriqué en salle blanche (classe 7) et conforme aux directives alimentaires UE et FDA. Destiné au remplissage ou au filtrage simple de liquides dans les laboratoires, salles blanches ou lors de prélèvements d'échantillons.",
+      "variant_name_fr": "Ø 100 mm — lot de 10",
+      "price_eur": 32.80,
+      "specs_fr": {
+        "Matière": "Polystyrène",
+        "Stérile": "Oui",
+        "Couleur": "Blanc",
+        "Diamètre extérieur (mm)": "100",
+        "Diamètre d'évacuation (mm)": "10",
+        "Conditionnement": "10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/257646_20250428122034/humeau.com-entonnoir-sterile-pour-liquide-ps-diam-100mm-s-s-u-par-10-82100000082-257646-30.jpg"
+    }
+  ]
+}
