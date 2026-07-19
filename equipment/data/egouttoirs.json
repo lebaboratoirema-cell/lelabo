@@ -1,0 +1,254 @@
+{
+  "category": {
+    "slug": "egouttoirs",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Égouttoirs"
+    },
+    "description": {
+      "fr": "Égouttoirs de paillasse et muraux pour le séchage de la verrerie et du matériel de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "214002",
+      "slug": "egouttoir-de-laboratoire-en-fil-metallique-plastifie-214002",
+      "brand": "HUMEAU",
+      "name_fr": "Égouttoir de laboratoire en fil métallique plastifié",
+      "description_fr": "Égouttoir de laboratoire en fil métallique plastifié, 64 broches réparties en 7 rangées, destiné au séchage de la verrerie. Dimensions L 460 x h 550 mm.",
+      "variant_name_fr": "Standard",
+      "price_eur": 85.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L 460 x h 550 mm",
+        "Matière": "Fil métallique plastifié",
+        "Couleur": "Blanc",
+        "Poids net": "1.48 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15700954001_20240812153101/humeau.com-egouttoir-de-laboratoire-en-fil-metallique-plastifie-214002-214002-30.jpg"
+    },
+    {
+      "sku": "242013",
+      "slug": "egouttoir-de-paillasse-electrique-lab-aire-ii-242013",
+      "brand": "BEL-ART",
+      "name_fr": "Égouttoir de paillasse électrique Lab-Aire II",
+      "description_fr": "Égouttoir de paillasse électrique BEL-ART Lab-Aire II, qui accélère le séchage du matériel de laboratoire grâce à une circulation d'air chaud (400 W) tout en occupant un espace de paillasse réduit. Filtre en mousse remplaçable, réglage de la chaleur sur trois niveaux (haute, moyenne, basse). Alimentation 230 V.",
+      "variant_name_fr": "230V",
+      "price_eur": 2177.4,
+      "specs_fr": {
+        "Dimensions": "42.5 x 19 x 57.7 cm",
+        "Alimentation": "230 V",
+        "Poids net": "5.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/4/6/46001881900_20220505203737/humeau.com-egouttoir-de-paillasse-abs-electrique-lab-aire-ii-230v-46001881900-242013-30.jpg"
+    },
+    {
+      "sku": "257704",
+      "slug": "egouttoir-de-paillasse-en-pvc-avec-cuve-400-x-400-mm-paillasse-cuve-400-x-400-mm",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir de paillasse en PVC avec cuve, 400 x 400 mm",
+      "description_fr": "Égouttoir de paillasse BURKLE en PVC double-face, avec pointes de suspension en polypropylène et cuvette de rétention amovible. Larges pieds pour une bonne stabilité. Dimensions 400 x 400 mm.",
+      "variant_name_fr": "400 x 400 mm",
+      "price_eur": 281.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "400 x 400 mm",
+        "Matière": "Plaque en polychlorure de vinyle (PVC)/Pointes en polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000000_20240130142102/humeau.com-egouttoir-de-paillasse-pvc-400x400mm-avec-cuve-257704-257704-30.jpg"
+    },
+    {
+      "sku": "257705",
+      "slug": "egouttoir-de-paillasse-en-pvc-avec-cuve-500-x-500-mm-paillasse-cuve-500-x-500-mm",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir de paillasse en PVC avec cuve, 500 x 500 mm",
+      "description_fr": "Égouttoir de paillasse BURKLE en PVC double-face, avec pointes de suspension en polypropylène et cuvette de rétention amovible. Larges pieds pour une bonne stabilité. Dimensions 500 x 500 mm.",
+      "variant_name_fr": "500 x 500 mm",
+      "price_eur": 335.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "500 x 500 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues",
+        "Poids net": "4.57 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000001_20230817161102/humeau.com-egouttoir-de-paillasse-pvc-500x500mm-avec-cuve-82110000001-257705-30.jpg"
+    },
+    {
+      "sku": "257706",
+      "slug": "egouttoir-de-paillasse-en-pvc-avec-cuve-600-x-600-mm-paillasse-cuve-600-x-600-mm",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir de paillasse en PVC avec cuve, 600 x 600 mm",
+      "description_fr": "Égouttoir de paillasse BURKLE en PVC double-face, avec pointes de suspension en polypropylène et cuvette de rétention amovible. Larges pieds pour une bonne stabilité. Dimensions 600 x 600 mm.",
+      "variant_name_fr": "600 x 600 mm",
+      "price_eur": 383.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "600 x 600 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues",
+        "Poids net": "6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000002_20230817161102/humeau.com-egouttoir-de-paillasse-pvc-600x600mm-avec-cuve-82110000002-257706-30.jpg"
+    },
+    {
+      "sku": "255836",
+      "slug": "egouttoir-en-acier-epoxy-pour-vaisselle-de-laboratoire-255836",
+      "brand": "BEL-ART",
+      "name_fr": "Égouttoir en acier époxy pour vaisselle de laboratoire",
+      "description_fr": "Égouttoir BEL-ART en acier recouvert d'époxy, à poser sur paillasse ou à suspendre, compatible avec tout type de vaisselle de laboratoire. 26 emplacements dont 14 à tiges doublées pour la verrerie lourde, plateaux de récupération des gouttes en polystyrène. Dimensions 430 x 480 x 170 mm (LxHxl).",
+      "variant_name_fr": "Standard",
+      "price_eur": 222,
+      "specs_fr": {
+        "Dimensions": "430 x 480 x 170 mm (LxHxl)",
+        "Matière": "Acier recouvert d'époxy",
+        "Poids net": "1.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80204584200_20250411143101/humeau.com-egouttoir-en-acier-epoxy-pour-vaisselle-de-laboratiore-255836-255836-30.jpg"
+    },
+    {
+      "sku": "224012",
+      "slug": "egouttoir-en-polyamide-pour-tubes-et-ballons-224012",
+      "brand": "BOCHEM",
+      "name_fr": "Égouttoir en polyamide pour tubes et ballons",
+      "description_fr": "Égouttoir BOCHEM à poser, avec cuvette, pour tubes à essai et ballons — 44 emplacements. En polyamide utilisable de -30 à +80 °C.",
+      "variant_name_fr": "44 emplacements",
+      "price_eur": 253.95,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyamide",
+        "Couleur": "Blanc",
+        "Dimensions extérieures L x P x H": "420 x 160 x 610",
+        "Poids net": "0.11 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201014000_20231004144101/humeau.com-egouttoir-en-polyamide-pour-tubes-ballons-d420x160x610mm-224012-224012-30.jpg"
+    },
+    {
+      "sku": "218256",
+      "slug": "egouttoir-en-fil-metallique-recouvert-de-vinyle-218256",
+      "brand": "VWR",
+      "name_fr": "Égouttoir en fil métallique recouvert de vinyle",
+      "description_fr": "Égouttoir VWR en fil métallique recouvert de vinyle, utilisable sur paillasse ou en support mural. Peut être retiré latéralement pour faciliter la vidange. Dimensions 457×181×525 mm.",
+      "variant_name_fr": "Standard",
+      "price_eur": 396,
+      "specs_fr": {
+        "Dimensions": "457×181×525 mm",
+        "Pack": "1",
+        "Poids net": "2.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218256_20230207135102/humeau.com-egouttoir-metal-recouvert-viny-le-d-457x181x525mm-18102110196-218256-30.jpg"
+    },
+    {
+      "sku": "257708",
+      "slug": "egouttoir-mural-en-pvc-avec-gouttiere-400-x-400-mm-mural-400-x-400-mm-avec-gouttiere",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir mural en PVC avec gouttière, 400 x 400 mm",
+      "description_fr": "Égouttoir mural BURKLE en PVC avec pointes de support en polypropylène, équipé d'une rigole d'évacuation amovible avec raccord de drainage et tuyau. Pointes changeables à l'aide de la clef de montage fournie. Dimensions 400 x 400 mm.",
+      "variant_name_fr": "400 x 400 mm — avec gouttière",
+      "price_eur": 281.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "400 x 400 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues",
+        "Poids net": "2.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000004_20220505220233/humeau.com-egouttoir-mural-pvc-400x400mm-burkle-avec-gouttiere-82110000004-257708-30.jpg"
+    },
+    {
+      "sku": "258081",
+      "slug": "egouttoir-mural-en-pvc-sans-gouttiere-400-x-400-mm-mural-400-x-400-mm-sans-gouttiere",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir mural en PVC sans gouttière, 400 x 400 mm",
+      "description_fr": "Égouttoir mural BURKLE en PVC avec pointes de support en polypropylène, sans rigole d'évacuation. Pointes changeables à l'aide de la clef de montage fournie. Dimensions 400 x 400 mm.",
+      "variant_name_fr": "400 x 400 mm — sans gouttière",
+      "price_eur": 243.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "400 x 400 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82196401040_20220505220233/humeau.com-egouttoir-mural-pvc-400x400mm-burkle-sans-gouttiere-82196401040-258081-30.jpg"
+    },
+    {
+      "sku": "257709",
+      "slug": "egouttoir-mural-en-pvc-avec-gouttiere-500-x-500-mm-mural-500-x-500-mm-avec-gouttiere",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir mural en PVC avec gouttière, 500 x 500 mm",
+      "description_fr": "Égouttoir mural BURKLE en PVC avec pointes de support en polypropylène, équipé d'une rigole d'évacuation amovible avec raccord de drainage et tuyau. Pointes changeables à l'aide de la clef de montage fournie. Dimensions 500 x 500 mm.",
+      "variant_name_fr": "500 x 500 mm — avec gouttière",
+      "price_eur": 335.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "500 x 500 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues",
+        "Poids net": "3.978 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000005_20220505220233/humeau.com-egouttoir-mural-pvc-500x500mm-burkle-avec-gouttiere-82110000005-257709-30.jpg"
+    },
+    {
+      "sku": "258082",
+      "slug": "egouttoir-mural-en-pvc-sans-gouttiere-500-x-500-mm-mural-500-x-500-mm-sans-gouttiere",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir mural en PVC sans gouttière, 500 x 500 mm",
+      "description_fr": "Égouttoir mural BURKLE en PVC avec pointes de support en polypropylène, sans rigole d'évacuation. Pointes changeables à l'aide de la clef de montage fournie. Dimensions 500 x 500 mm.",
+      "variant_name_fr": "500 x 500 mm — sans gouttière",
+      "price_eur": 289.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "500 x 500 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues",
+        "Poids net": "3.711 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82196401050_20220505220233/humeau.com-egouttoir-mural-pvc-500x500mm-burkle-sans-gouttiere-82196401050-258082-30.jpg"
+    },
+    {
+      "sku": "257707",
+      "slug": "egouttoir-mural-en-pvc-sans-gouttiere-600-x-600-mm-mural-600-x-600-mm-sans-gouttiere",
+      "brand": "BURKLE",
+      "name_fr": "Égouttoir mural en PVC sans gouttière, 600 x 600 mm",
+      "description_fr": "Égouttoir mural BURKLE en PVC avec pointes de support en polypropylène, sans rigole d'évacuation. Pointes changeables à l'aide de la clef de montage fournie. Dimensions 600 x 600 mm.",
+      "variant_name_fr": "600 x 600 mm — sans gouttière",
+      "price_eur": 335.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "600 x 600 mm",
+        "Matière": "Plaque polychlorure de vinyle (PVC)/Pointes polypropylène (PP)",
+        "Couleur": "Plaque blanche/Pointes bleues"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000003_20220505220233/humeau.com-egouttoir-mural-pvc-600x600mm-burkle-sans-gouttiere-82110000003-257707-30.jpg"
+    },
+    {
+      "sku": "281399",
+      "slug": "egouttoir-sur-pied-et-mural-avec-plateau-d-egouttage-32-postes-32-postes",
+      "brand": "NAHITA",
+      "name_fr": "Égouttoir sur pied et mural avec plateau d'égouttage, 32 postes",
+      "description_fr": "Égouttoir pour verrerie de laboratoire, utilisable posé sur paillasse ou suspendu au mur, avec plateau inférieur de collecte des gouttes. Structure en fil (plastifié ou acier plastifié), 32 emplacements pour le séchage de matériel de laboratoire varié.",
+      "variant_name_fr": "32 postes",
+      "price_eur": 38.5,
+      "specs_fr": {
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/8/281399_20260403122008/humeau.com-egouttoir-sur-pied-mural-avec-plateau-d-egouttage-32-postes-281399-281399-30.jpg"
+    },
+    {
+      "sku": "222105",
+      "slug": "egouttoir-sur-pied-et-mural-avec-plateau-d-egouttage-55-postes-55-postes",
+      "brand": "HUMEAU",
+      "name_fr": "Égouttoir sur pied et mural avec plateau d'égouttage, 55 postes",
+      "description_fr": "Égouttoir pour verrerie de laboratoire, utilisable posé sur paillasse ou suspendu au mur, avec plateau inférieur de collecte des gouttes. Structure en fil (plastifié ou acier plastifié), 55 emplacements pour le séchage de matériel de laboratoire varié.",
+      "variant_name_fr": "55 postes",
+      "price_eur": 42.7,
+      "specs_fr": {
+        "Dimensions": "640x360x140 mm (HxLxP)",
+        "Matière": "Acier plastifié",
+        "Poids net": "1.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19765005500_20251029150101/humeau.com-egouttoir-sur-pied-mural-plateau-d-egouttage-55-postes-222105-222105-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "category": {
+    "slug": "seau",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Seaux de laboratoire" },
+    "description": {
+      "fr": "Seaux de laboratoire en plastique, polyéthylène ou acier inoxydable, avec ou sans couvercle, pour le stockage, le transport et la préparation de solides et de liquides en environnement de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "205389",
+      "slug": "seau-carre-pe-blanc-anse-14l",
+      "brand": "AZLON",
+      "name_fr": "Seau carré en polyéthylène blanc avec anse, 14 L",
+      "description_fr": "Seau de forme carrée en polyéthylène blanc, doté d'une anse de transport et de graduations moulées directement dans la matière. Convient au contact alimentaire ; un couvercle est disponible en option.",
+      "variant_name_fr": "14 L",
+      "price_eur": 98.70,
+      "specs_fr": {
+        "Volume": "14 L",
+        "Dimensions extérieures (mm)": "292 x 292 x 292",
+        "Marque commerciale": "AZLON",
+        "Poids net": "0.725 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700011600_20231010154102/humeau.com-seau-carre-en-pe-blanc-avec-anse-cap-14l-d-292x292x292mm-06700011600-205389-30.jpg"
+    },
+    {
+      "sku": "257798",
+      "slug": "seau-laboratoire-pe-blanc-bec-verseur-10l",
+      "brand": "BURKLE",
+      "name_fr": "Seau de laboratoire en polyéthylène blanc avec bec verseur, 10 L",
+      "description_fr": "Seau de laboratoire en polyéthylène blanc, sans couvercle, équipé d'un bec verseur et d'une anse de transport métallique noire. Échelle de contenance graduée tous les litres.",
+      "variant_name_fr": "10 L",
+      "price_eur": 50.30,
+      "specs_fr": {
+        "Matière": "Polyéthylène (PE) / anse métal",
+        "Volume": "10 litres",
+        "Couleur": "Blanc (anse noire)",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "0.871 kg",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82123060010_20220505220233/humeau.com-seau-de-laboratoire-en-pe-blanc-avec-bec-verseur-cap-10l-82123060010-257798-30.jpg"
+    },
+    {
+      "sku": "223957",
+      "slug": "seau-inox-18-10-gradue-bec-15l",
+      "brand": "BOCHEM",
+      "name_fr": "Seau gradué en acier inoxydable 18/10 avec bec verseur, 15 L",
+      "description_fr": "Seau en acier inoxydable 18/10, gradué, muni d'un bec verseur et d'une anse de transport. Le couvercle correspondant se commande séparément.",
+      "variant_name_fr": "15 L",
+      "price_eur": 1244.60,
+      "specs_fr": {
+        "Volume": "15 L",
+        "Diamètre (mm)": "270",
+        "Hauteur (mm)": "300",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200839100_20220505202054/humeau.com-seau-en-inox-18-10-15l-gradue-avec-bec-sans-couvercle-22200839100-223957-30.jpg"
+    },
+    {
+      "sku": "210576",
+      "slug": "seau-inox-afnor-z7-cn18-9-gradue-10l",
+      "name_fr": "Seau en acier inoxydable AFNOR Z7 CN18.9, gradué au litre, 10 L",
+      "description_fr": "Seau en acier inoxydable AFNOR Z7 CN18.9, gradué tous les litres, d'une contenance de 10 L, fabriqué par DE BUYER.",
+      "variant_name_fr": "10 L",
+      "price_eur": 626.10,
+      "specs_fr": {
+        "Volume": "10 L",
+        "Graduation (mL)": "1000",
+        "Poids net": "1.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611980605_20230731104107/humeau.com-seau-en-inox-afnor-z7-cn18-9-capacite-12l-gradue-en-1l-210576-210576-30.jpg"
+    },
+    {
+      "sku": "218445",
+      "slug": "seau-pe-ld-anse-bec-gradue-15l",
+      "name_fr": "Seau en polyéthylène basse densité avec anse et bec verseur gradué, 15 L",
+      "description_fr": "Seau en polyéthylène basse densité (PE-LD) à parois épaisses, offrant une bonne résistance chimique et thermique ainsi qu'une grande stabilité. Équipé d'une anse et d'un bec verseur.",
+      "variant_name_fr": "15 L",
+      "price_eur": 52.90,
+      "specs_fr": {
+        "Capacité": "15 L",
+        "Diamètre (mm)": "316",
+        "Couleur": "Blanc",
+        "Hauteur (mm)": "335"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218445_20231215163101/humeau.com-seau-en-pe-ld-avec-anse-et-bec-gradue-15-l-18102161536-218445-30.jpg"
+    },
+    {
+      "sku": "220403",
+      "slug": "seau-pehd-blanc-bec-verseur-12l",
+      "brand": "KARTELL",
+      "name_fr": "Seau en polyéthylène blanc avec bec verseur, 12 L",
+      "description_fr": "Seau en polyéthylène basse densité blanc KARTELL, muni d'un bec verseur et de graduations au litre. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "12 L",
+      "price_eur": 11.80,
+      "specs_fr": {
+        "Matière": "LDPE",
+        "Capacité (mL)": "12000",
+        "Diamètre (mm)": "300",
+        "Hauteur (mm)": "280",
+        "Marque commerciale": "KARTELL",
+        "Poids net": "0.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700090600_20240819161102/humeau.com-seau-en-pehd-blanc-avec-bec-verseur-12-l-220403-220403-30.jpg"
+    },
+    {
+      "sku": "220404",
+      "slug": "seau-pehd-blanc-bec-verseur-17l",
+      "brand": "KARTELL",
+      "name_fr": "Seau en polyéthylène blanc avec bec verseur, 17 L",
+      "description_fr": "Seau en polyéthylène basse densité blanc KARTELL, muni d'un bec verseur et de graduations au litre. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "17 L",
+      "price_eur": 37.80,
+      "specs_fr": {
+        "Matière": "LDPE",
+        "Capacité (mL)": "17000",
+        "Diamètre (mm)": "340",
+        "Hauteur (mm)": "310",
+        "Marque commerciale": "KARTELL",
+        "Poids net": "0.85 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700090700_20240819162101/humeau.com-seau-en-pehd-blanc-avec-bec-verseur-17-l-220404-220404-30.jpg"
+    },
+    {
+      "sku": "273002",
+      "slug": "seau-pp-blanc-couvercle-10l",
+      "brand": "BURKLE",
+      "name_fr": "Seau d'emballage en polypropylène blanc avec couvercle, 10 L",
+      "description_fr": "Seau d'emballage en polypropylène blanc destiné au transport, au conditionnement et au stockage de produits alimentaires, de matériaux de construction ou de produits chimiques non agressifs. Muni d'une anse de transport fixe et d'une fermeture étanche à l'air.",
+      "variant_name_fr": "10 L",
+      "price_eur": 6.70,
+      "specs_fr": {
+        "Capacité": "10 L",
+        "Couleur": "Blanc",
+        "Hauteur (mm)": "263",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "0.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/273002_20250114165101/humeau.com-seau-en-pp-blanc-cap-10l-avec-couvercle-273002-273002-30.jpg"
+    },
+    {
+      "sku": "257800",
+      "slug": "seau-pp-blanc-couvercle-3l",
+      "brand": "BURKLE",
+      "name_fr": "Seau d'emballage en polypropylène blanc opaque avec couvercle, 3 L",
+      "description_fr": "Seau d'emballage en polypropylène blanc opaque, muni d'une anse plastique et d'un couvercle étanche à l'air. Adapté au stockage ou au conditionnement de produits alimentaires ou chimiques non agressifs.",
+      "variant_name_fr": "3 L",
+      "price_eur": 4.00,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Volume": "3 litres",
+        "Diamètre (mm)": "225",
+        "Couleur": "Blanc opaque",
+        "Hauteur (mm)": "123",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "0.146 kg",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82123270030_20240119082101/humeau.com-seau-en-pp-blanc-cap-3l-avec-couvercle-257800-257800-30.jpg"
+    },
+    {
+      "sku": "221889",
+      "slug": "seau-pp-transparent-gradue-bec-15l",
+      "brand": "VITLAB",
+      "name_fr": "Seau gradué en polypropylène transparent avec bec verseur, 15 L",
+      "description_fr": "Seau gradué au litre en polypropylène transparent, doté d'une poignée et d'un bec verseur. Hautement résistant aux produits chimiques, sans couvercle, conforme à la réglementation CE n° 10/2011 relative aux matériaux au contact alimentaire.",
+      "variant_name_fr": "15 L",
+      "price_eur": 30.20,
+      "specs_fr": {
+        "Capacité": "15 litres",
+        "Diamètre (mm)": "310",
+        "Marque commerciale": "VITLAB",
+        "Poids net": "0.84 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/221889_20250728160102/humeau.com-seau-en-pp-blanc-gradue-avec-bec-capacite-15l-221889-221889-30.jpg"
+    },
+    {
+      "sku": "223955",
+      "slug": "seau-inox-gradue-anse-10l",
+      "brand": "BOCHEM",
+      "name_fr": "Seau gradué en acier inoxydable avec anse, 10 L",
+      "description_fr": "Seau en acier inoxydable gradué, muni d'une anse de transport, sans bec verseur. Le couvercle correspondant se commande séparément.",
+      "variant_name_fr": "10 L",
+      "price_eur": 165.89,
+      "specs_fr": {
+        "Volume": "10 L",
+        "Diamètre (mm)": "280",
+        "Hauteur (mm)": "235",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200832200_20240110145102/humeau.com-seau-inox-gradue-10l-avec-anse-h-235-x-d-280mm-223955-223955-30.jpg"
+    },
+    {
+      "sku": "203391",
+      "slug": "seau-plastique-blanc-couvercle-10l",
+      "name_fr": "Seau rond en plastique blanc avec couvercle, 10 L",
+      "description_fr": "Seau rond en plastique blanc, apte au contact alimentaire, conçu pour le stockage et le transport de matières liquides ou solides. Livré avec couvercle, volumes conformes aux normes ISO.",
+      "variant_name_fr": "10 L",
+      "price_eur": 7.60,
+      "specs_fr": {
+        "Capacité": "10 litres",
+        "Poids net": "0.27 kg",
+        "Contact alimentaire": "Oui",
+        "Couvercle": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04301180077_20260318033013/humeau.com-seau-plastique-blanc-avec-couvercle-de-10l-203391-203391-30.jpg"
+    },
+    {
+      "sku": "203392",
+      "slug": "seau-plastique-blanc-couvercle-18l",
+      "name_fr": "Seau autoclavable en plastique blanc avec couvercle, 18 L",
+      "description_fr": "Seau autoclavable en plastique blanc d'une capacité de 18 L, livré avec couvercle. Facilite l'autoclavage de flacons, accessoires et pipettes.",
+      "variant_name_fr": "18 L",
+      "price_eur": 12.40,
+      "specs_fr": {
+        "Capacité (mL)": "18000",
+        "Diamètre ext. corps": "280 mm",
+        "Hauteur": "295 mm",
+        "Poids net": "0.46 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04301180083_20260318033013/humeau.com-seau-plastique-blanc-avec-couvercle-de-18l-203392-203392-30.jpg"
+    },
+    {
+      "sku": "203390",
+      "slug": "seau-plastique-blanc-couvercle-4-6l",
+      "name_fr": "Seau en plastique blanc avec couvercle, 4,6 L",
+      "description_fr": "Seau rond en plastique blanc d'une capacité de 4,6 L, avec couvercle, dimensions de 227 x 153 mm. Apte au contact alimentaire, conforme aux volumes ISO, adapté au stockage et au transport de matières liquides ou solides.",
+      "variant_name_fr": "4,6 L",
+      "price_eur": 4.54,
+      "specs_fr": {
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04301180069_20260318033013/humeau.com-seau-plastique-blanc-avec-couvercle-de-4-6l-203390-203390-30.jpg"
+    },
+    {
+      "sku": "206871",
+      "slug": "seau-pp-blanc-opaque-couvercle-separe-carton-45",
+      "brand": "GOSSELIN",
+      "name_fr": "Seau en polypropylène blanc opaque avec couvercle séparé — carton de 45",
+      "description_fr": "Seau blanc opaque en polypropylène de 5,7 L, destiné au stockage en laboratoire, livré avec couvercle non assemblé muni d'un joint d'inviolabilité. Poignée de transport intégrée, conditionnement par carton de 45 unités.",
+      "variant_name_fr": "5,7 L — carton de 45",
+      "price_eur": 349.40,
+      "specs_fr": {
+        "Volume": "5.7 L",
+        "Couleur": "Blanc",
+        "Matériaux": "Polypropylène",
+        "Pack": "45",
+        "Marque commerciale": "GOSSELIN",
+        "Poids net": "11.4 kg",
+        "Stérilité": "Aseptique"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/9/09100549275_20220505195556/humeau.com-seau-pp-blanc-opaque-avec-couvercle-separe-6l-cart-45-09100549275-206871-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "category": {
+    "slug": "densimetre-areometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Densimètres et aréomètres"
+    },
+    "description": {
+      "fr": "Densimètres, aréomètres, lactodensimètres et saccharomètres en verre pour la mesure de la masse volumique et de la concentration de liquides."
+    }
+  },
+  "products": [
+    {
+      "sku": "200180",
+      "slug": "densimetre-baume-30-45-be-division-0-1-200180",
+      "brand": "ALLA",
+      "name_fr": "Densimètre Baumé 30-45°Bé, division 0.1",
+      "description_fr": "Densimètre en verre ALLA de la série Baumé, amplitude de mesure 30-45 °Bé avec des divisions de 0.1 et une tolérance de ± 0.2. Étalonné à 15°C, longueur 280 mm.",
+      "variant_name_fr": "30-45°Bé — div. 0.1",
+      "price_eur": 54.4,
+      "specs_fr": {
+        "Unité de mesure": "°Bé",
+        "Divisions": "0.1",
+        "Longueur (mm)": "280",
+        "Tolérance": "± 0.2",
+        "Amplitude": "30-45",
+        "Etalonnage": "15°C",
+        "Modèle": "0160FG045/15-qp"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00510000020_20220505195556/humeau.com-densimetre-baume-30-45-en-0-1-be-15-c-l280mm-00510000020-200180-30.jpg"
+    },
+    {
+      "sku": "200185",
+      "slug": "densimetre-baume-60-75-be-division-0-5-200185",
+      "brand": "ALLA",
+      "name_fr": "Densimètre Baumé 60-75°Bé, division 0.5",
+      "description_fr": "Densimètre en verre ALLA de la série Baumé, amplitude de mesure 60-75 °Bé avec des divisions de 0.5 et une tolérance de ± 1. Étalonné à 15°C, longueur 280 mm.",
+      "variant_name_fr": "60-75°Bé — div. 0.5",
+      "price_eur": 60.9,
+      "specs_fr": {
+        "Unité de mesure": "°Bé",
+        "Divisions": "0.5",
+        "Longueur (mm)": "280",
+        "Tolérance": "± 1",
+        "Amplitude": "60-75",
+        "Etalonnage": "15°C",
+        "Modèle": "0150FG075/15-qp"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00510000025_20220505195556/humeau.com-densimetre-baume-60-75-en-0-5-be-15-c-l280mm-00510000025-200185-30.jpg"
+    },
+    {
+      "sku": "200111",
+      "slug": "densimetre-standard-0-900-1-000-g-ml-200111",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 0.900-1.000 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 0.900-1.000, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "0.900-1.000 g/ml",
+      "price_eur": 22.2,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "0.900-1.000",
+        "Etalonnage": "20°C",
+        "Modèle": "3010FG090/20-qp",
+        "Type": "Non Normalisé",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420009_20250918143101/humeau.com-densimetre-m100-iso649-900-1000-en-1g-l-20-c-l300mm-200111-200111-30.jpg"
+    },
+    {
+      "sku": "200172",
+      "slug": "densimetre-normalise-0-700-0-800-g-ml-200172",
+      "brand": "ALLA",
+      "name_fr": "Densimètre normalisé 0.700-0.800 g/ml",
+      "description_fr": "Densimètre en verre ALLA, conforme à la norme ISO 649, pour la mesure de masse volumique en g/ml. Amplitude de mesure 0.700-0.800, divisions de 0.002, tolérance ± 0.002, étalonné à 20°C, longueur 250 mm.",
+      "variant_name_fr": "0.700-0.800 g/ml",
+      "price_eur": 44.9,
+      "specs_fr": {
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.002",
+        "Longueur (mm)": "250",
+        "Tolérance": "± 0.002",
+        "Amplitude": "0.700-0.800",
+        "Modèle": "3100MC070/20/B-qp",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00510000012_20251010154102/humeau.com-densimetre-norm-m100-iso649-b-700-800-en-2g-l-20-c-l250mm-200172-200172-30.jpg"
+    },
+    {
+      "sku": "200112",
+      "slug": "densimetre-standard-1-000-1-100-g-ml-200112",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.000-1.100 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 1.000-1.100, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.000-1.100 g/ml",
+      "price_eur": 16.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.000-1.100",
+        "Modèle": "3010FG100/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420010_20230921093101/humeau.com-densimetre-standard-1000-1100-en-1g-l-20-c-l300mm-200112-200112-30.jpg"
+    },
+    {
+      "sku": "200128",
+      "slug": "densimetre-standard-1-000-1-200-g-ml-200128",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.000-1.200 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 200 g/ml). Amplitude de mesure 1.000-1.200, divisions de 0.002, tolérance ± 0.004, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.000-1.200 g/ml",
+      "price_eur": 17.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 200 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.002",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.004",
+        "Amplitude": "1.000-1.200",
+        "Modèle": "3020FG100/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.055 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502425012_20230921094102/humeau.com-densimetre-standard-1000-1200-en-2g-l-20-c-l300mm-200128-200128-30.jpg"
+    },
+    {
+      "sku": "200113",
+      "slug": "densimetre-standard-1-100-1-200-g-ml-200113",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.100-1.200 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 1.100-1.200, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.100-1.200 g/ml",
+      "price_eur": 16.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.100-1.200",
+        "Modèle": "3010FG110/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.035 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420011_20230921094101/humeau.com-densimetre-standard-1100-1200-en-1g-l-20-c-l300mm-200113-200113-30.jpg"
+    },
+    {
+      "sku": "200162",
+      "slug": "densimetre-standard-1-100-1-200-g-ml-avec-thermometre-200162",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.100-1.200 g/ml avec thermomètre",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml. Amplitude de mesure 1.100-1.200, divisions de 0.001, tolérance ± 0.001, étalonné à 20°C, longueur 320 mm. Équipé d'un thermomètre intégré.",
+      "variant_name_fr": "1.100-1.200 g/ml",
+      "price_eur": 55.9,
+      "specs_fr": {
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "320",
+        "Tolérance": "± 0.001",
+        "Amplitude": "1.100-1.200",
+        "Modèle": "3011TP110/20-qp"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00510000002_20250801161102/humeau.com-densimetre-standard-1100-1200-en-1g-l-avec-thermo-0-a-40-c-200162-200162-30.jpg"
+    },
+    {
+      "sku": "200126",
+      "slug": "densimetre-standard-1-150-1-250-g-ml-200126",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.150-1.250 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml décalé). Amplitude de mesure 1.150-1.250, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.150-1.250 g/ml",
+      "price_eur": 36.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml décalé",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.150-1.250",
+        "Modèle": "3110FG115/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.058 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502421011_20230921094102/humeau.com-densimetre-standard-1150-1250-en-1g-l-20-c-l300mm-200126-200126-30.jpg"
+    },
+    {
+      "sku": "200114",
+      "slug": "densimetre-standard-1-200-1-300-g-ml-200114",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.200-1.300 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 1.200-1.300, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.200-1.300 g/ml",
+      "price_eur": 20.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.200-1.300",
+        "Modèle": "3010FG120/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420012_20231206141101/humeau.com-densimetre-standard-1200-1300-en-1g-l-20-c-l300mm-200114-200114-30.jpg"
+    },
+    {
+      "sku": "200116",
+      "slug": "densimetre-standard-1-400-1-500-g-ml-200116",
+      "brand": "HUMEAU",
+      "name_fr": "Densimètre standard 1.400-1.500 g/ml",
+      "description_fr": "Densimètre en verre de laboratoire non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 1.400-1.500, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.400-1.500 g/ml",
+      "price_eur": 25.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.400-1.500",
+        "Modèle": "3010FG140/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420014_20250611130103/humeau.com-densimetre-standard-1400-1500-en-1g-l-20-c-l300mm-200116-200116-30.jpg"
+    },
+    {
+      "sku": "200117",
+      "slug": "densimetre-standard-1-500-1-600-g-ml-200117",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.500-1.600 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Masse volumique série 100 g/ml). Amplitude de mesure 1.500-1.600, divisions de 0.001, tolérance ± 0.002, étalonné à 20°C, longueur 300 mm.",
+      "variant_name_fr": "1.500-1.600 g/ml",
+      "price_eur": 25.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Masse volumique série 100 g/ml",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.001",
+        "Longueur (mm)": "300",
+        "Tolérance": "± 0.002",
+        "Amplitude": "1.500-1.600",
+        "Modèle": "3010FG150/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502420015_20250828092101/humeau.com-densimetre-standard-1500-1600-en-1g-l-20-c-l300mm-200117-200117-30.jpg"
+    },
+    {
+      "sku": "200134",
+      "slug": "densimetre-standard-1-500-2-000-g-ml-200134",
+      "brand": "ALLA",
+      "name_fr": "Densimètre standard 1.500-2.000 g/ml",
+      "description_fr": "Densimètre en verre ALLA non normalisé, pour la mesure de masse volumique en g/ml (Chercheur à usage général). Amplitude de mesure 1.500-2.000, divisions de 0.005, tolérance ± 0.010, étalonné à 20°C, longueur 235 mm.",
+      "variant_name_fr": "1.500-2.000 g/ml",
+      "price_eur": 29.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Domaine d'application": "Chercheur à usage général",
+        "Unité de mesure": "g/ml",
+        "Divisions": "0.005",
+        "Longueur (mm)": "235",
+        "Tolérance": "± 0.010",
+        "Amplitude": "1.500-2.000",
+        "Modèle": "3050FG150/20-qp",
+        "Type": "Non Normalisé",
+        "Température d'étalonnage": "20°C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502425120_20220505195556/humeau.com-densimetre-standard-1500-2000-en-5g-l-20-c-l235mm-00502425120-200134-30.jpg"
+    },
+    {
+      "sku": "249749",
+      "slug": "lactodensimetre-de-quevenne-sans-thermometre-249749",
+      "brand": "GERBER INSTRUMENTS",
+      "name_fr": "Lactodensimètre de Quevenne, sans thermomètre",
+      "description_fr": "Lactodensimètre de Quevenne GERBER INSTRUMENTS, sans thermomètre, gradué de 1,015 à 1,040 en 0,001 g/mL, lecture au ménisque supérieur à 20 °C. Dimensions Ø 22 x h 220 mm.",
+      "variant_name_fr": "1.015-1.040",
+      "price_eur": 19.7,
+      "specs_fr": {
+        "Dimensions": "Ø 22 x h 220 mm",
+        "Poids net": "0.065 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/4/64002410620_20250115153102/humeau.com-lactodensimetre-quevenne-sans-thermometre-1-015-1-040-t-20-c-249749-249749-30.jpg"
+    },
+    {
+      "sku": "200030",
+      "slug": "saccharometre-plato-avec-thermometre-20-30-plato-20-30-plato",
+      "brand": "ALLA",
+      "name_fr": "Saccharomètre Plato avec thermomètre, 20-30 °Plato",
+      "description_fr": "Saccharomètre de précision ALLA en échelle Plato, équipé d'un thermomètre intégré (plage 0+40°C : 1°C). Utilisé en brasserie et sucrerie pour le contrôle du moût et des liquides sucrés.",
+      "variant_name_fr": "20-30 °Plato",
+      "price_eur": 67.7,
+      "specs_fr": {
+        "Echelle de mesure": "20-30 °Plato",
+        "Unité de mesure": "% mas",
+        "Divisions": "0.1",
+        "Longueur (mm)": "370",
+        "Tolérance": "± 0.1",
+        "Plage / Gamme de température": "0+40°C : 1°C",
+        "Modèle": "2940TC020/20-qp",
+        "Température d'étalonnage": "20°C",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00500294020_20240326140101/humeau.com-saccharometre-plato-20-30-avec-thermometre-200030-200030-30.jpg"
+    }
+  ]
+}

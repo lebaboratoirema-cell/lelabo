@@ -1,0 +1,44 @@
+{
+  "category": {
+    "slug": "coupe-tube",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Coupe-tubes et coupe-verre"
+    },
+    "description": {
+      "fr": "Outils manuels pour sectionner ou découper proprement les tubes et plaques de verre en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "219923",
+      "slug": "coupe-tube-verre-molette-d30mm",
+      "brand": "SELECTA",
+      "name_fr": "Coupe-tube en verre à molette, Ø 30 mm max",
+      "description_fr": "Coupe-tube de verre à molette de la marque Selecta, conçu pour sectionner proprement des tubes de verre jusqu'à 30 mm de diamètre. Modèle simple et robuste pour un usage courant de laboratoire.",
+      "variant_name_fr": "Ø 30 mm max",
+      "price_eur": 49.4,
+      "specs_fr": {
+        "Diamètre coupe": "30 mm",
+        "Marque commerciale": "SELECTA",
+        "Poids brut": "0.079 KG",
+        "Poids net": "0.079 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19000957501_20231005144101/humeau.com-coupe-tube-verre-a-molette-jusqu-a-d-30-mm-219923-219923-30.jpg"
+    },
+    {
+      "sku": "224030",
+      "slug": "coupe-verre-18cm-lame-carbure",
+      "brand": "BOCHEM",
+      "name_fr": "Coupe-verre 18 cm avec lame carbure",
+      "description_fr": "Coupe-verre Bochem de 18 cm, livré complet avec une lame en carbure pour une découpe nette et durable du verre en laboratoire.",
+      "variant_name_fr": "18 cm — lame carbure",
+      "price_eur": 106.98,
+      "specs_fr": {
+        "Longueur (mm)": "180",
+        "Marque commerciale": "BOCHEM"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201225000_20220505202054/humeau.com-coupe-verre-18cm-avec-lame-d-40x18cm-22201225000-224030-30.jpg"
+    }
+  ]
+}

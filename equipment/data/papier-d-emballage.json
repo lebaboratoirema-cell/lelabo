@@ -1,0 +1,298 @@
+{
+  "category": {
+    "slug": "papier-d-emballage",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Papier aluminium et emballage de laboratoire"
+    },
+    "description": {
+      "fr": "Rouleaux de papier aluminium en différentes épaisseurs et largeurs, avec ou sans boîte distributrice, pour la protection et l'emballage en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "258649",
+      "slug": "papier-aluminium-13um-rouleau-20m-30cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 13 µm, rouleau 20 m x 30 cm",
+      "description_fr": "Rouleau de papier aluminium Labsolute de 13 µm d'épaisseur, fabriqué à partir d'un alliage d'aluminium pur (plus de 98 %). Approuvé pour le contact alimentaire, étanche à l'oxygène et à la vapeur d'eau, résistant aux graisses, à l'humidité, à la chaleur et à la plupart des produits chimiques.",
+      "variant_name_fr": "20 m x 30 cm",
+      "price_eur": 7.8,
+      "specs_fr": {
+        "Conditionnement": "Rouleau de 20 m",
+        "Epaisseur": "13 µm",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707696854_20220903033003/humeau.com-papier-aluminium-ep-13um-rouleau-20m-x-30cm-82707696854-258649-30.jpg"
+    },
+    {
+      "sku": "260748",
+      "slug": "papier-aluminium-15um-150m-45cm-rechargeable",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 15 µm en distributeur, 150 m x 45 cm rechargeable",
+      "description_fr": "Grand rouleau Labsolute de 45 cm de large sur 150 m de long, épaisseur 15 µm, livré dans une boîte distributrice stable et réutilisable avec bord déchirable en plastique. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "150 m x 45 cm — rechargeable",
+      "price_eur": 84.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,015",
+        "Longueur (mm)": "150 000",
+        "Largeur (mm)": "450",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001831_20230705164101/humeau.com-papier-aluminium-ep-15um-150m-x-45cm-rechargeable-82710001831-260748-30.jpg"
+    },
+    {
+      "sku": "260746",
+      "slug": "papier-aluminium-15um-rouleau-10m-30cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 15 µm en distributeur, 10 m x 30 cm",
+      "description_fr": "Petit rouleau Labsolute de 30 cm de large sur 10 m de long, épaisseur 15 µm, avec distributeur pratique à bord déchirable en carton. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "10 m x 30 cm",
+      "price_eur": 6.55,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,015",
+        "Longueur (mm)": "10 000",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001829_20231207102103/humeau.com-papier-aluminium-ep-15um-rouleau-10m-x-30cm-260746-260746-30.jpg"
+    },
+    {
+      "sku": "260747",
+      "slug": "papier-aluminium-15um-rouleau-10m-45cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 15 µm en distributeur, 10 m x 45 cm",
+      "description_fr": "Petit rouleau Labsolute de 45 cm de large sur 10 m de long, épaisseur 15 µm, avec distributeur pratique à bord déchirable en carton. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "10 m x 45 cm",
+      "price_eur": 7.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,015",
+        "Longueur (mm)": "10 000",
+        "Largeur (mm)": "450",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001830_20230711122004/humeau.com-papier-aluminium-ep-15um-rouleau-10m-x-45cm-82710001830-260747-30.jpg"
+    },
+    {
+      "sku": "260749",
+      "slug": "papier-aluminium-15um-rouleau-20m-30cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 15 µm en distributeur, 20 m x 30 cm",
+      "description_fr": "Rouleau Labsolute de 30 cm de large sur 20 m de long, épaisseur 15 µm, avec distributeur pratique à bord déchirable en carton. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "20 m x 30 cm",
+      "price_eur": 4.55,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,015",
+        "Longueur (mm)": "20 000",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.32 KG",
+        "Poids net": "0.32 KG",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001832_20251112132101/humeau.com-papier-aluminium-ep-15um-rouleau-20m-x-30cm-260749-260749-30.jpg"
+    },
+    {
+      "sku": "260750",
+      "slug": "papier-aluminium-15um-sans-boite-150m-45cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 15 µm sans boîte, rouleau 150 m x 45 cm",
+      "description_fr": "Grand rouleau Labsolute de 45 cm de large sur 150 m de long, épaisseur 15 µm, vendu sans boîte distributrice pour recharger un distributeur existant. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "150 m x 45 cm — sans boîte",
+      "price_eur": 91.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,015",
+        "Longueur (mm)": "150 000",
+        "Largeur (mm)": "450",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001833_20230712163104/humeau.com-papier-aluminium-ep-15um-sans-boite-rouleau-150m-x-45cm-82710001833-260750-30.jpg"
+    },
+    {
+      "sku": "260753",
+      "slug": "papier-aluminium-30um-100m-30cm-rechargeable",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm en distributeur, 100 m x 30 cm rechargeable",
+      "description_fr": "Grand rouleau Labsolute de 30 cm de large sur 100 m de long, épaisseur 30 µm, en boîte distributrice stable et réutilisable. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 30 cm — rechargeable",
+      "price_eur": 82.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001836_20230901033001/humeau.com-papier-aluminium-ep-30um-100m-x-30cm-rechargeable-82710001836-260753-30.jpg"
+    },
+    {
+      "sku": "260754",
+      "slug": "papier-aluminium-30um-100m-45cm-rechargeable",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm en distributeur, 100 m x 45 cm rechargeable",
+      "description_fr": "Grand rouleau Labsolute de 45 cm de large sur 100 m de long, épaisseur 30 µm, en boîte distributrice stable et réutilisable. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 45 cm — rechargeable",
+      "price_eur": 118.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminiuim",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "450",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001837_20230901033001/humeau.com-papier-aluminium-ep-30um-100m-x-45cm-rechargeable-82710001837-260754-30.jpg"
+    },
+    {
+      "sku": "260755",
+      "slug": "papier-aluminium-30um-100m-50cm-rechargeable",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm en distributeur, 100 m x 50 cm rechargeable",
+      "description_fr": "Grand rouleau Labsolute de 50 cm de large sur 100 m de long, épaisseur 30 µm, en boîte distributrice stable et réutilisable. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 50 cm — rechargeable",
+      "price_eur": 120.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,30",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "500",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001838_20230901033001/humeau.com-papier-aluminium-ep-30um-100m-x-50cm-rechargeable-82710001838-260755-30.jpg"
+    },
+    {
+      "sku": "260751",
+      "slug": "papier-aluminium-30um-rouleau-10m-30cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm en distributeur, 10 m x 30 cm",
+      "description_fr": "Petit rouleau Labsolute de 30 cm de large sur 10 m de long, épaisseur 30 µm, avec distributeur pratique à bord déchirable en carton. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "10 m x 30 cm",
+      "price_eur": 8.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "10 000",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001834_20230901033001/humeau.com-papier-aluminium-ep-30um-rouleau-10m-x-30cm-82710001834-260751-30.jpg"
+    },
+    {
+      "sku": "260752",
+      "slug": "papier-aluminium-30um-rouleau-10m-45cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm en distributeur, 10 m x 45 cm",
+      "description_fr": "Petit rouleau Labsolute de 45 cm de large sur 10 m de long, épaisseur 30 µm, avec distributeur pratique à bord déchirable en carton. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "10 m x 45 cm",
+      "price_eur": 13.2,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "10 000",
+        "Largeur (mm)": "450",
+        "Matériaux": "Aluminiium",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001835_20230901033001/humeau.com-papier-aluminium-ep-30um-rouleau-10m-x-45cm-82710001835-260752-30.jpg"
+    },
+    {
+      "sku": "260756",
+      "slug": "papier-aluminium-30um-sans-boite-100m-30cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm sans boîte, rouleau 100 m x 30 cm",
+      "description_fr": "Grand rouleau Labsolute de 30 cm de large sur 100 m de long, épaisseur 30 µm, vendu sans boîte distributrice pour recharger un distributeur existant. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 30 cm — sans boîte",
+      "price_eur": 80.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "300",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001839_20230712163105/humeau.com-papier-aluminium-ep-30um-sans-boite-rouleau-100m-x-30cm-82710001839-260756-30.jpg"
+    },
+    {
+      "sku": "260757",
+      "slug": "papier-aluminium-30um-sans-boite-100m-45cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm sans boîte, rouleau 100 m x 45 cm",
+      "description_fr": "Grand rouleau Labsolute de 45 cm de large sur 100 m de long, épaisseur 30 µm, vendu sans boîte distributrice pour recharger un distributeur existant. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 45 cm — sans boîte",
+      "price_eur": 108.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "450",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001840_20230712163105/humeau.com-papier-aluminium-ep-30um-sans-boite-rouleau-100m-x-45cm-82710001840-260757-30.jpg"
+    },
+    {
+      "sku": "260758",
+      "slug": "papier-aluminium-30um-sans-boite-100m-50cm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier aluminium 30 µm sans boîte, rouleau 100 m x 50 cm",
+      "description_fr": "Grand rouleau Labsolute de 50 cm de large sur 100 m de long, épaisseur 30 µm, vendu sans boîte distributrice pour recharger un distributeur existant. Approuvé contact alimentaire, résistant à la chaleur, à l'humidité et aux produits chimiques courants.",
+      "variant_name_fr": "100 m x 50 cm — sans boîte",
+      "price_eur": 118.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Aluminium",
+        "Epaisseur": "0,030",
+        "Longueur (mm)": "100 000",
+        "Largeur (mm)": "500",
+        "Marque commerciale": "LABSOLUTE",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001841_20230712163105/humeau.com-papier-aluminium-ep-30um-sans-boite-rouleau-100m-x-50cm-82710001841-260758-30.jpg"
+    },
+    {
+      "sku": "217556",
+      "slug": "papier-aluminium-korff-45cm-100m-30u",
+      "brand": "KORFF",
+      "name_fr": "Papier aluminium Korff, largeur 45 cm, rouleau 100 m, 30 µm",
+      "description_fr": "Grand rouleau économique de papier aluminium Korff en aluminium pur (99 à 99,5 %), livré dans un distributeur pratique. Adapté aux consommations importantes en laboratoire.",
+      "variant_name_fr": "45 cm x 100 m",
+      "price_eur": 291.4,
+      "specs_fr": {
+        "Epaisseur": "30 µm",
+        "Longueur (mm)": "100 m",
+        "Pack": "1 Rouleau",
+        "Largeur (mm)": "450 mm",
+        "Marque commerciale": "KORFF",
+        "Poids brut": "3.962 KG",
+        "Poids net": "3.962 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/217556_20230127122002/humeau.com-papier-aluminium-larg-45cm-en-rlx-100m-epaisseur-30-u-18100336445-217556-30.jpg"
+    }
+  ]
+}

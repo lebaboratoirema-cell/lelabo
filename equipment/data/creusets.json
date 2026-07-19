@@ -1,0 +1,281 @@
+{
+  "category": {
+    "slug": "creusets",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Creusets"
+    },
+    "description": {
+      "fr": "Creusets et couvercles en porcelaine ou en nickel pour l'incinération, la calcination et le traitement thermique d'échantillons en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "259645",
+      "slug": "couvercle-pour-creuset-en-porcelaine-interieur-30-mm-30-mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Couvercle pour creuset en porcelaine, Ø intérieur 30 mm",
+      "description_fr": "Couvercle émaillé en porcelaine de laboratoire LABSOLUTE, conforme à la norme DIN 12904. Il s'adapte aux creusets de forme basse, moyenne ou haute et supporte des températures jusqu'à 1000 °C. Bonne tenue aux solutions alcalines et aux acides forts, à l'exception de l'acide fluorhydrique.",
+      "variant_name_fr": "Ø int. 30 mm",
+      "price_eur": 28.4,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Diamètre ext. corps": "34 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12904",
+        "Diamètre intérieur (mm)": "30 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000728_20230817161102/humeau.com-couvercle-pour-creuset-en-porcelaine-diam-int-30mm-x5-82710000728-259645-30.jpg"
+    },
+    {
+      "sku": "259650",
+      "slug": "couvercle-pour-creuset-en-porcelaine-interieur-60-mm-60-mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Couvercle pour creuset en porcelaine, Ø intérieur 60 mm",
+      "description_fr": "Couvercle émaillé en porcelaine de laboratoire LABSOLUTE, conforme à la norme DIN 12904. Il s'adapte aux creusets de forme basse, moyenne ou haute et supporte des températures jusqu'à 1000 °C. Bonne tenue aux solutions alcalines et aux acides forts, à l'exception de l'acide fluorhydrique.",
+      "variant_name_fr": "Ø int. 60 mm",
+      "price_eur": 39.3,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Diamètre ext. corps": "64 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12904",
+        "Diamètre intérieur (mm)": "60 mm",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000733_20250826083101/humeau.com-couvercle-pour-creuset-en-porcelaine-diam-int-60mm-x5-259650-259650-30.jpg"
+    },
+    {
+      "sku": "223832",
+      "slug": "couvercle-pour-creuset-en-nickel-35-mm-mm-35-mmmm",
+      "brand": "BOCHEM",
+      "name_fr": "Couvercle pour creuset en nickel, Ø 35 mm mm",
+      "description_fr": "Couvercle en nickel 99,5 % de la marque BOCHEM, conçu pour s'adapter aux creusets en nickel de même diamètre. Matériau robuste, résistant à la corrosion, adapté aux usages courants de laboratoire.",
+      "variant_name_fr": "Ø 35 mm mm",
+      "price_eur": 60.95,
+      "specs_fr": {
+        "Diamètre (mm)": "35 mm",
+        "Matériaux": "Ni 99,5%"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000057_20231211111101/humeau.com-couvercle-pour-creuset-nickel-diam-35mm-223832-223832-30.jpg"
+    },
+    {
+      "sku": "223951",
+      "slug": "couvercle-pour-creuset-en-nickel-50-mm-50mm",
+      "brand": "BOCHEM",
+      "name_fr": "Couvercle pour creuset en nickel, Ø 50 mm",
+      "description_fr": "Couvercle en nickel 99,5 % de la marque BOCHEM, conçu pour s'adapter aux creusets en nickel de même diamètre. Matériau robuste, résistant à la corrosion, adapté aux usages courants de laboratoire.",
+      "variant_name_fr": "Ø 50 mm",
+      "price_eur": 69.14,
+      "specs_fr": {
+        "Diamètre (mm)": "50",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200818600_20220505202054/humeau.com-couvercle-pour-creuset-nickel-diam-50mm-22200818600-223951-30.jpg"
+    },
+    {
+      "sku": "223800",
+      "slug": "creuset-en-nickel-10-ml-25-mm-x-h30-mm-10-ml-25-mm-30-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 10 mL, Ø25 mm x H30 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 0,5 mm, d'une contenance de 10 mL. Dimensions Ø 25 mm x hauteur 30 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 69.22,
+      "specs_fr": {
+        "Volume": "10 mL",
+        "Diamètre (mm)": "25 mm",
+        "Epaisseur": "0,5 mm",
+        "Hauteur (mm)": "30 mm",
+        "Matériaux": "Ni 99,5%"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000025_20220505202054/humeau.com-creuset-en-nickel-10ml-ep-0-5mm-diam-25mm-h-25mm-22200000025-223800-30.jpg"
+    },
+    {
+      "sku": "223807",
+      "slug": "creuset-en-nickel-15-ml-30-mm-x-h30-mm-15-ml-30-mm-30-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 15 mL, Ø30 mm x H30 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 1,0 mm, d'une contenance de 15 mL. Dimensions Ø 30 mm x hauteur 30 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "15 mL",
+      "price_eur": 88.62,
+      "specs_fr": {
+        "Volume": "15 mL",
+        "Diamètre (mm)": "30 mm",
+        "Epaisseur": "1,0 mm",
+        "Matériaux": "Ni 99,5%",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000032_20220505202054/humeau.com-creuset-en-nickel-15ml-ep-1mm-diam-30mm-h-30mm-22200000032-223807-30.jpg"
+    },
+    {
+      "sku": "223825",
+      "slug": "creuset-en-nickel-25-ml-35-mm-x-h35-mm-25-ml-35-mm-35-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 25 mL, Ø35 mm x H35 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 0,5 mm, d'une contenance de 25 mL. Dimensions Ø 35 mm x hauteur 35 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 73.99,
+      "specs_fr": {
+        "Volume": "25 mL",
+        "Diamètre (mm)": "35 mm",
+        "Epaisseur": "0,5 mm",
+        "Matériaux": "Ni 99,5%"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000050_20231208170103/humeau.com-creuset-en-nickel-25ml-ep-0-5mm-diam-35mm-h-35mm-223825-223825-30.jpg"
+    },
+    {
+      "sku": "223805",
+      "slug": "creuset-en-nickel-270-ml-80-mm-x-h80-mm-270-ml-80-mm-80-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 270 mL, Ø80 mm x H80 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 0,5 mm, d'une contenance de 270 mL. Dimensions Ø 80 mm x hauteur 80 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "270 mL",
+      "price_eur": 150.97,
+      "specs_fr": {
+        "Volume": "270 mL",
+        "Diamètre (mm)": "80 mm",
+        "Epaisseur": "0,5 mm",
+        "Matériaux": "Ni 99,5%"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000030_20220505202054/humeau.com-creuset-en-nickel-270ml-ep-0-5mm-diam-80mm-h-80mm-22200000030-223805-30.jpg"
+    },
+    {
+      "sku": "223802",
+      "slug": "creuset-en-nickel-30-ml-40-mm-x-h40-mm-30-ml-40-mm-40-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 30 mL, Ø40 mm x H40 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 0,5 mm, d'une contenance de 30 mL. Dimensions Ø 40 mm x hauteur 40 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "30 mL",
+      "price_eur": 79.84,
+      "specs_fr": {
+        "Volume": "30 mL",
+        "Diamètre (mm)": "40 mm",
+        "Epaisseur": "0,5 mm",
+        "Matériaux": "Ni 99,5%"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000027_20231016101101/humeau.com-creuset-en-nickel-30ml-ep-0-5mm-diam-40mm-h-40mm-223802-223802-30.jpg"
+    },
+    {
+      "sku": "223803",
+      "slug": "creuset-en-nickel-50-ml-45-mm-x-h45-mm-50-ml-45-mm-45-mm",
+      "brand": "BOCHEM",
+      "name_fr": "Creuset en nickel, 50 mL, Ø45 mm x H45 mm",
+      "description_fr": "Creuset de laboratoire BOCHEM en nickel 99,5 %, épaisseur 0,5 mm, d'une contenance de 50 mL. Dimensions Ø 45 mm x hauteur 45 mm. Le couvercle est vendu séparément en accessoire.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 85.91,
+      "specs_fr": {
+        "Volume": "50 mL",
+        "Diamètre (mm)": "45 mm",
+        "Epaisseur": "0,5 mm",
+        "Matériaux": "Ni 99,5%",
+        "Poids net": "0.025 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200000028_20250725130101/humeau.com-creuset-en-nickel-50ml-ep-0-5mm-diam-45mm-h-45mm-223803-223803-30.jpg"
+    },
+    {
+      "sku": "259664",
+      "slug": "creuset-en-porcelaine-forme-basse-21-ml-basse-21ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Creuset en porcelaine forme basse, 21 mL",
+      "description_fr": "Creuset LABSOLUTE en porcelaine de laboratoire, forme basse, émaillé à l'intérieur et conforme à la norme DIN 12904. Capacité de 21 mL pour un diamètre de 45 mm et une hauteur de 28 mm. Résiste à des températures jusqu'à 1000 °C et aux solutions alcalines comme aux acides forts, hormis l'acide fluorhydrique — adapté à l'incinération d'échantillons.",
+      "variant_name_fr": "21 mL — forme basse",
+      "price_eur": 29.1,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Capacité (ml)": "21",
+        "Diamètre (mm)": "45",
+        "Hauteur (mm)": "28",
+        "Température maximum": "1000°C",
+        "Forme": "Basse",
+        "Conformité": "DIN 12904"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000747_20260417100102/humeau.com-creuset-en-porcelaine-forme-basse-21ml-d-45x28mm-x5-259664-259664-30.jpg"
+    },
+    {
+      "sku": "259666",
+      "slug": "creuset-en-porcelaine-forme-basse-91-ml-basse-91ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Creuset en porcelaine forme basse, 91 mL",
+      "description_fr": "Creuset LABSOLUTE en porcelaine de laboratoire, forme basse, émaillé à l'intérieur et conforme à la norme DIN 12904. Capacité de 91 mL pour un diamètre de 70 mm mm et une hauteur de 44 mm mm. Résiste à des températures jusqu'à 1000 °C et aux solutions alcalines comme aux acides forts, hormis l'acide fluorhydrique — adapté à l'incinération d'échantillons.",
+      "variant_name_fr": "91 mL — forme basse",
+      "price_eur": 55.8,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Capacité (ml)": "91",
+        "Diamètre (mm)": "70 mm",
+        "Hauteur (mm)": "44 mm",
+        "Température maximum": "1000 °C",
+        "Forme": "Basse",
+        "Conformité": "DIN 12904",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000749_20260417100101/humeau.com-creuset-en-porcelaine-forme-basse-91ml-d-70x44mm-x5-259666-259666-30.jpg"
+    },
+    {
+      "sku": "259659",
+      "slug": "creuset-en-porcelaine-forme-haute-35-ml-ml-haute-35-mlml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Creuset en porcelaine forme haute, 35 mL mL",
+      "description_fr": "Creuset LABSOLUTE en porcelaine de laboratoire, forme haute, émaillé à l'intérieur et conforme à la norme DIN 12904. Capacité de 35 mL mL pour un diamètre de 40 mm mm et une hauteur de 50 mm mm. Résiste à des températures jusqu'à 1000 °C et aux solutions alcalines comme aux acides forts, hormis l'acide fluorhydrique — adapté à l'incinération d'échantillons.",
+      "variant_name_fr": "35 mL mL — forme haute",
+      "price_eur": 30.5,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Volume": "35 mL",
+        "Diamètre (mm)": "40 mm",
+        "Hauteur (mm)": "50 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12904",
+        "Poids net": "0.126 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000742_20250317171102/humeau.com-creuset-en-porcelaine-forme-haute-35ml-d-40x50mm-x5-259659-259659-30.jpg"
+    },
+    {
+      "sku": "259669",
+      "slug": "creuset-en-porcelaine-forme-moyenne-20-ml-ml-moyenne-20-mlml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Creuset en porcelaine forme moyenne, 20 mL mL",
+      "description_fr": "Creuset LABSOLUTE en porcelaine de laboratoire, forme moyenne, émaillé à l'intérieur et conforme à la norme DIN 12904. Capacité de 20 mL mL pour un diamètre de 40 mm mm et une hauteur de 32 mm mm. Résiste à des températures jusqu'à 1000 °C et aux solutions alcalines comme aux acides forts, hormis l'acide fluorhydrique — adapté à l'incinération d'échantillons.",
+      "variant_name_fr": "20 mL mL — forme moyenne",
+      "price_eur": 23,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Volume": "20 mL",
+        "Diamètre (mm)": "40 mm",
+        "Hauteur (mm)": "32 mm",
+        "Température maximum": "1000 °C",
+        "Forme": "Moyenne",
+        "Conformité": "DIN 12904",
+        "Poids net": "0.087 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000752_20260417100102/humeau.com-creuset-en-porcelaine-forme-moyenne-20ml-d-40x32mm-x5-259669-259669-30.jpg"
+    },
+    {
+      "sku": "259671",
+      "slug": "creuset-en-porcelaine-forme-basse-80-ml-ml-basse-80-mlml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Creuset en porcelaine forme basse, 80 mL mL",
+      "description_fr": "Creuset LABSOLUTE en porcelaine de laboratoire, forme basse, émaillé à l'intérieur et conforme à la norme DIN 12904. Capacité de 80 mL mL pour un diamètre de 60 mm mm et une hauteur de 48 mm mm. Résiste à des températures jusqu'à 1000 °C et aux solutions alcalines comme aux acides forts, hormis l'acide fluorhydrique — adapté à l'incinération d'échantillons.",
+      "variant_name_fr": "80 mL mL — forme basse",
+      "price_eur": 42.3,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Volume": "80 mL",
+        "Diamètre (mm)": "60 mm",
+        "Hauteur (mm)": "48 mm",
+        "Température maximum": "1000 °C",
+        "Forme": "Basse",
+        "Conformité": "DIN 12904",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000754_20260417100101/humeau.com-creuset-en-porcelaine-forme-moyenne-80ml-d-60x48mm-x5-259671-259671-30.jpg"
+    }
+  ]
+}

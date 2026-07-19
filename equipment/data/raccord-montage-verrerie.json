@@ -1,0 +1,253 @@
+{
+  "category": {
+    "slug": "raccord-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Raccords pour montage de verrerie" },
+    "description": {
+      "fr": "Pinces de maintien pour rodages coniques, adaptateurs pour thermomètre et têtes de distillation en verre Pyrex, pour l'assemblage de montages de laboratoire (distillation, reflux, mesure de température)."
+    }
+  },
+  "products": [
+    {
+      "sku": "204936",
+      "slug": "pince-polyacetal-rodage-12-21-violet-lot10",
+      "brand": "PYREX",
+      "name_fr": "Pince clip en polyacétal, rodage conique CN 12/21, violet — lot de 10",
+      "description_fr": "Clip de maintien en polyacétal pour verrerie à raccords coniques rodés Quickfit, réduisant le besoin en pinces de serrage traditionnelles. Installation et retrait faciles, utilisable jusqu'à 80 °C. Code couleur violet pour identification rapide. Non recommandé pour supporter seul des montages lourds ou volumineux, ni exposé aux gaz halogènes ou acides. Format CN 12/21, vendu en lot de 10.",
+      "variant_name_fr": "12/21 — violet — lot de 10",
+      "price_eur": 78.80,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Couleur": "Violet",
+        "Rodage mâle et femelle CN": "12/21",
+        "Marque": "Pyrex",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000285_20220505195556/humeau.com-pince-polyacet-rod-conique-cn12-21-violet-par-10-06700000285-204936-30.jpg"
+    },
+    {
+      "sku": "204938",
+      "slug": "pince-polyacetal-rodage-40-38-ocre-lot10",
+      "brand": "PYREX",
+      "name_fr": "Pince clip en polyacétal, rodage conique CN 40/38, ocre — lot de 10",
+      "description_fr": "Clip de maintien en polyacétal pour verrerie à raccords coniques rodés Quickfit, réduisant le besoin en pinces de serrage traditionnelles. Installation et retrait faciles, utilisable jusqu'à 80 °C. Code couleur ocre pour identification rapide. Non recommandé pour supporter seul des montages lourds ou volumineux, ni exposé aux gaz halogènes ou acides. Format CN 40/38, vendu en lot de 10.",
+      "variant_name_fr": "40/38 — ocre — lot de 10",
+      "price_eur": 115.70,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Couleur": "Ocre",
+        "Rodage mâle et femelle CN": "40/38",
+        "Marque": "Pyrex",
+        "Poids net": "0.23 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000287_20220505195556/humeau.com-pince-polyacet-rod-conique-cn40-38-ocre-par-10-06700000287-204938-30.jpg"
+    },
+    {
+      "sku": "204939",
+      "slug": "pince-polyacetal-rodage-45-40-marron-lot10",
+      "brand": "PYREX",
+      "name_fr": "Pince clip en polyacétal, rodage conique CN 45/40, marron — lot de 10",
+      "description_fr": "Clip de maintien en polyacétal pour verrerie à raccords coniques rodés Quickfit, réduisant le besoin en pinces de serrage traditionnelles. Installation et retrait faciles, utilisable jusqu'à 80 °C. Code couleur marron pour identification rapide. Non recommandé pour supporter seul des montages lourds ou volumineux, ni exposé aux gaz halogènes ou acides. Format CN 45/40, vendu en lot de 10.",
+      "variant_name_fr": "45/40 — marron — lot de 10",
+      "price_eur": 122.10,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Couleur": "Marron",
+        "Rodage mâle et femelle CN": "45/40",
+        "Marque": "Pyrex",
+        "Poids net": "0.24 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000288_20220505195556/humeau.com-pince-polyacet-rod-conique-cn45-40-marron-par-10-06700000288-204939-30.jpg"
+    },
+    {
+      "sku": "204929",
+      "slug": "pince-ptfe-rodage-14-23-jaune-lot5",
+      "brand": "PYREX",
+      "name_fr": "Pince à joint conique en PTFE, CN 14/23, jaune — lot de 5",
+      "description_fr": "Pince à joint conique Quickfit en PTFE, dotée d'un ressort en acier encapsulé assurant une prise ferme. Très résistante aux attaques chimiques et utilisable jusqu'à 250 °C. Numérotée selon la taille du joint pour une identification facile. Format CN 14/23, vendue en lot de 5.",
+      "variant_name_fr": "14/23 — jaune — lot de 5",
+      "price_eur": 99.50,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Rodage mâle et femelle CN": "14/23",
+        "Marque": "Pyrex",
+        "Poids net": "0.075 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000278_20220505195556/humeau.com-pince-ptfe-rod-conique-pyrex-cn14-23-jaune-par-5-06700000278-204929-30.jpg"
+    },
+    {
+      "sku": "204931",
+      "slug": "pince-ptfe-rodage-24-29-vert-lot5",
+      "brand": "PYREX",
+      "name_fr": "Pince à joint conique en PTFE, CN 24/29, vert — lot de 5",
+      "description_fr": "Pince à joint conique Quickfit en PTFE, dotée d'un ressort en acier encapsulé assurant une prise ferme. Très résistante aux attaques chimiques et utilisable jusqu'à 250 °C. Numérotée selon la taille du joint pour une identification facile. Format CN 24/29, vendue en lot de 5.",
+      "variant_name_fr": "24/29 — vert — lot de 5",
+      "price_eur": 105.50,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Rodage mâle et femelle CN": "24/29",
+        "Marque": "Pyrex",
+        "Poids net": "0.115 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000280_20220505195556/humeau.com-pince-ptfe-rod-conique-pyrex-cn24-29-vert-par-5-06700000280-204931-30.jpg"
+    },
+    {
+      "sku": "204933",
+      "slug": "pince-ptfe-rodage-40-38-jaune-lot5",
+      "brand": "PYREX",
+      "name_fr": "Pince à joint conique en PTFE, CN 40/38, jaune — lot de 5",
+      "description_fr": "Pince à joint conique Quickfit en PTFE, conçue pour retenir la verrerie à joints coniques dépolis. Ressort en acier encapsulé pour une prise ferme, très résistante aux attaques chimiques et utilisable jusqu'à 250 °C. Numérotée selon la taille du joint. Format CN 40/38.",
+      "variant_name_fr": "40/38 — jaune",
+      "price_eur": 118.80,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "40/38",
+        "Marque": "Pyrex",
+        "Poids net": "0.195 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000282_20250430114101/humeau.com-pince-ptfe-rod-conique-pyrex-cn40-38-jaune-par-5-204933-204933-30.jpg"
+    },
+    {
+      "sku": "204934",
+      "slug": "pince-ptfe-rodage-45-40-marron-lot5",
+      "brand": "PYREX",
+      "name_fr": "Pince à joint conique en PTFE, CN 45/40, marron — lot de 5",
+      "description_fr": "Pince à joint conique Quickfit en PTFE, conçue pour retenir la verrerie à joints coniques dépolis. Ressort en acier encapsulé pour une prise ferme, très résistante aux attaques chimiques et utilisable jusqu'à 250 °C. Numérotée selon la taille du joint. Format CN 45/40, vendue en lot de 5.",
+      "variant_name_fr": "45/40 — marron — lot de 5",
+      "price_eur": 115.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Rodage mâle et femelle CN": "45/40",
+        "Marque": "Pyrex",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000283_20220505195556/humeau.com-pince-ptfe-rod-conique-pyrex-cn45-40-marron-par-5-06700000283-204934-30.jpg"
+    },
+    {
+      "sku": "204920",
+      "slug": "raccord-thermometre-pyrex-filetage13-24-29-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord pour thermomètre Pyrex, filetage 13, CN 24/29 — lot de 2",
+      "description_fr": "Adaptateur à filetage conique en verre Quickfit pour thermomètre de 6 à 7 mm de diamètre, avec joint fileté complet, capuchon en plastique, anneau en caoutchouc silicone et rondelle en PTFE. Permet de sécuriser un thermomètre ou un tube d'entrée de gaz sur un rodage 24/29. Vendu en lot de 2.",
+      "variant_name_fr": "filetage 13 — CN 24/29 — lot de 2",
+      "price_eur": 104.80,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Filetage (mm)": "13",
+        "Rodage mâle et femelle CN": "24/29",
+        "Marque": "Pyrex",
+        "Poids net": "0.084 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000269_20220505195556/humeau.com-raccord-pour-thermometre-pyrex-fil-13-cn24-29-par-2-06700000269-204920-30.jpg"
+    },
+    {
+      "sku": "204923",
+      "slug": "raccord-thermometre-pyrex-filetage13-29-32-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord pour thermomètre Pyrex, filetage 13, CN 29/32 — lot de 2",
+      "description_fr": "Adaptateur à filetage conique en verre Quickfit pour thermomètre de 6 à 7 mm de diamètre, avec joint fileté complet, capuchon en plastique, anneau en caoutchouc silicone et rondelle en PTFE. Permet de sécuriser un thermomètre ou un tube d'entrée de gaz sur un rodage 29/32. Vendu en lot de 2.",
+      "variant_name_fr": "filetage 13 — CN 29/32 — lot de 2",
+      "price_eur": 136.90,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Filetage (mm)": "13",
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "Pyrex",
+        "Poids net": "0.092 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000272_20260505143101/humeau.com-raccord-pour-thermometre-pyrex-fil-13-cn29-32-par-2-204923-204923-30.jpg"
+    },
+    {
+      "sku": "204918",
+      "slug": "raccord-thermometre-pyrex-filetage18-19-26-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord pour thermomètre Pyrex, filetage 18, CN 19/26 — lot de 2",
+      "description_fr": "Adaptateur à filetage conique en verre Quickfit pour thermomètre de 7,0 à 8,5 mm de diamètre, avec joint fileté complet, capuchon en plastique, anneau en caoutchouc silicone et rondelle en PTFE. Permet de sécuriser un thermomètre ou un tube d'entrée de gaz sur un rodage 19/26. Vendu en lot de 2.",
+      "variant_name_fr": "filetage 18 — CN 19/26 — lot de 2",
+      "price_eur": 104.80,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Filetage (mm)": "18",
+        "Rodage mâle et femelle CN": "19/26",
+        "Marque": "Pyrex",
+        "Poids net": "0.082 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000267_20220505195556/humeau.com-raccord-pour-thermometre-pyrex-fil-18-cn19-26-par-2-06700000267-204918-30.jpg"
+    },
+    {
+      "sku": "204925",
+      "slug": "raccord-thermometre-pyrex-filetage24-29-32-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord pour thermomètre Pyrex, filetage 24, CN 29/32 — lot de 2",
+      "description_fr": "Adaptateur à filetage conique en verre Quickfit pour thermomètre de 10,5 à 11,5 mm de diamètre, avec joint fileté complet, capuchon en plastique, anneau en caoutchouc silicone et rondelle en PTFE. Permet de sécuriser un thermomètre ou un tube d'entrée de gaz sur un rodage 29/32. Vendu en lot de 2.",
+      "variant_name_fr": "filetage 24 — CN 29/32 — lot de 2",
+      "price_eur": 155.30,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Filetage (mm)": "24",
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "Pyrex",
+        "Poids net": "0.124 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000274_20230109102102/humeau.com-raccord-pour-thermometre-pyrex-fil-24-cn29-32-par-2-06700000274-204925-30.jpg"
+    },
+    {
+      "sku": "204914",
+      "slug": "tete-distillation-coudee-2-rodages-14-23",
+      "brand": "PYREX",
+      "name_fr": "Tête de distillation coudée à 2 rodages, Pyrex, CN 14/23-14/23",
+      "description_fr": "Tête de distillation coudée en verre Pyrex, avec deux rodages mâles 14/23 permettant d'adapter le réfrigérant et le ballon. Angle de 75° entre les deux branches, pour un montage compact de distillation.",
+      "variant_name_fr": "CN 14/23-14/23",
+      "price_eur": 73.80,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Pyrex",
+        "Poids net": "0.022 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000263_20220505195556/humeau.com-tete-distillation-coudee-2rod-pyrex-cn14-23-14-23-06700000263-204914-30.jpg"
+    },
+    {
+      "sku": "205391",
+      "slug": "tete-distillation-coudee-2-rodages-19-26",
+      "brand": "PYREX",
+      "name_fr": "Tête de distillation coudée à 2 rodages, Pyrex, CN 19/26-19/26",
+      "description_fr": "Tête de distillation coudée en verre Pyrex, avec deux rodages mâles 19/26 permettant d'adapter le réfrigérant et le ballon. Angle de 80° entre les deux branches, pour un montage compact de distillation.",
+      "variant_name_fr": "CN 19/26-19/26",
+      "price_eur": 70.80,
+      "specs_fr": {
+        "Marque": "Pyrex",
+        "Poids net": "0.034 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700012200_20220505195556/humeau.com-tete-distillation-coudee-2rod-pyrex-cn19-26-19-26-06700012200-205391-30.jpg"
+    },
+    {
+      "sku": "204906",
+      "slug": "tete-distillation-coudee-ampoule-garde-24-29-lot5",
+      "brand": "PYREX",
+      "name_fr": "Tête de distillation coudée avec ampoule de garde, Pyrex, CN 24/29-24/29 — lot de 5",
+      "description_fr": "Tête de distillation coudée en verre Pyrex avec ampoule de garde, comportant deux rodages mâles 24/29 pour adapter le réfrigérant et le ballon. L'ampoule de garde prévient le débordement de liquide brut dans le flux de vapeur lors de la distillation. Vendue en lot de 5.",
+      "variant_name_fr": "CN 24/29-24/29 — lot de 5",
+      "price_eur": 865.20,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque": "Pyrex",
+        "Poids net": "0.475 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000255_20230817154101/humeau.com-tete-distillation-coudee-avec-amp-de-garde-cn24-29-24-29-x5-06700000255-204906-30.jpg"
+    },
+    {
+      "sku": "204908",
+      "slug": "tete-distillation-longue-ampoule-garde-24-29-19-26",
+      "brand": "PYREX",
+      "name_fr": "Tête de distillation longue avec ampoule de garde, Pyrex, CN 24/29-19/26",
+      "description_fr": "Tête de distillation longue en verre Pyrex avec ampoule de garde, destinée aux montages où le réfrigérant est assemblé verticalement. Le cône inférieur (24/29) accueille le ballon, le cône supérieur (19/26) le réfrigérant. L'ampoule de garde réduit l'entraînement de liquide brut dans le flux de vapeur.",
+      "variant_name_fr": "CN 24/29-19/26",
+      "price_eur": 202.50,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Pyrex",
+        "Poids net": "0.135 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000257_20250808092101/humeau.com-tete-distillation-longue-avec-amp-de-garde-cn24-29-19-26-204908-204908-30.jpg"
+    }
+  ]
+}

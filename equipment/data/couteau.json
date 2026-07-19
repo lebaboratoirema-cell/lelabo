@@ -1,0 +1,79 @@
+{
+  "category": {
+    "slug": "couteau",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Couteaux de laboratoire"
+    },
+    "description": {
+      "fr": "Couteaux et lames de laboratoire en céramique, acier ou ABS, pour la découpe d'échantillons et les opérations courantes de préparation."
+    }
+  },
+  "products": [
+    {
+      "sku": "213660",
+      "slug": "couteau-ceramique-150mm-lame-large",
+      "brand": "HUMEAU",
+      "name_fr": "Couteau de laboratoire en céramique, lame large 150 mm",
+      "description_fr": "Couteau de laboratoire à lame céramique extrêmement dure, résistant aux produits chimiques, aux cassures et à la corrosion. Antimagnétique, léger, lavable au lave-vaisselle et conservant longtemps son affûtage.",
+      "variant_name_fr": "150 mm — lame large",
+      "price_eur": 199.0,
+      "specs_fr": {
+        "Dimensions": "150 mm",
+        "Pack": "1",
+        "Type": "Lame large"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213660_20251215145101/humeau.com-couteau-ceramique-150mm-x1-14523301490-213660-30.jpg"
+    },
+    {
+      "sku": "258496",
+      "slug": "couteau-labo-lame-crantee-80mm-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Couteau de laboratoire, lame crantée 80 mm — lot de 10",
+      "description_fr": "Couteau de laboratoire à lame crantée de 80 mm, vendu en lot de 10 pièces, adapté aux découpes courantes en laboratoire ou en atelier.",
+      "variant_name_fr": "80 mm — lot de 10",
+      "price_eur": 12.6,
+      "specs_fr": {
+        "Poids brut": "0.4 KG",
+        "Poids net": "0.4 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82706801384_20250605171101/humeau.com-couteau-de-laboratoire-a-lame-crantee-de-80mm-pack-x10-258496-258496-30.jpg"
+    },
+    {
+      "sku": "273241",
+      "slug": "couteau-labo-noir-lame-lisse-60mm-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Couteau de laboratoire noir, lame lisse 60 mm — lot de 10",
+      "description_fr": "Couteau de laboratoire à lame lisse de 60 mm et manche noir, vendu en lot de 10 pièces pour un usage général de découpe en laboratoire.",
+      "variant_name_fr": "60 mm — lot de 10",
+      "price_eur": 22.6,
+      "specs_fr": {
+        "Poids brut": "0.15 KG",
+        "Poids net": "0.15 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/273241_20251125154101/humeau.com-couteau-de-laboratoire-noir-lame-lisse-60mm-pack-x10-273241-273241-30.jpg"
+    },
+    {
+      "sku": "214720",
+      "slug": "couteau-securite-abs-polycoupe",
+      "brand": "HUMEAU",
+      "name_fr": "Couteau de sécurité ABS Polycoupe",
+      "description_fr": "Couteau de sécurité à corps en ABS, conçu pour limiter les risques de coupure lors des opérations courantes de découpe en laboratoire ou en atelier.",
+      "variant_name_fr": "Standard",
+      "price_eur": 8.9,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/214720_20241122153102/humeau.com-couteau-de-securite-abs-polycoupe-16100701000-214720-30.jpg"
+    },
+    {
+      "sku": "262597",
+      "slug": "pelle-tranche-fromage-inox",
+      "brand": "HUMEAU",
+      "name_fr": "Pelle-tranche à fromage en inox",
+      "description_fr": "Ustensile en inox permettant de trancher et présenter un échantillon de fromage sans le toucher, en un seul mouvement de va-et-vient, dans des conditions d'hygiène optimales. Convient aux fromages à pâte peu collante, mi-dure ou dure.",
+      "variant_name_fr": "Standard",
+      "price_eur": 8.55,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/9/4/94804420000_20241021155102/humeau.com-pelle-tranche-fromage-en-inox-262597-262597-30.jpg"
+    }
+  ]
+}

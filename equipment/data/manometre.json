@@ -1,0 +1,137 @@
+{
+  "category": {
+    "slug": "manometre",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Manomètres" },
+    "description": {
+      "fr": "Manomètres analogiques et digitaux pour le contrôle de pression et de vide sur bouteilles, canettes et installations, ainsi que leurs accessoires de mesure associés."
+    }
+  },
+  "products": [
+    {
+      "sku": "248310",
+      "slug": "manometre-zahm-nagel-0-100psi-0-7kg-cm",
+      "brand": "HUMEAU",
+      "name_fr": "Manomètre Zahm & Nagel, 0-100 psi / 0-7 kg/cm²",
+      "description_fr": "Manomètre de la marque Zahm & Nagel offrant une double échelle de lecture, de 0 à 100 psi et de 0 à 7 kg/cm². Instrument compact et léger, adapté au contrôle de pression sur bouteilles et contenants pressurisés en laboratoire.",
+      "variant_name_fr": "0-100 psi / 0-7 kg/cm²",
+      "price_eur": 78.30,
+      "specs_fr": {
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/248310_20250619132101/humeau.com-manometre-0-100psi-0-7kg-cm-248310-248310-30.jpg"
+    },
+    {
+      "sku": "262041",
+      "slug": "manometre-analogique-pvg-d-canette-bouteille",
+      "brand": "AT2E",
+      "name_fr": "Manomètre analogique PVG-D pour canettes et bouteilles",
+      "description_fr": "Manomètre analogique AT2E de la gamme PVG, destiné à mesurer la pression ou le vide de canettes et de bouteilles. Il suffit de placer l'échantillon sous l'ensemble manomètre-vacuomètre et d'abaisser la manette pour obtenir une lecture immédiate. Précision de 0,1 à 5 % et pression d'utilisation conseillée de 0 à 6 bar, avec résolution de 0,001 bar.",
+      "variant_name_fr": "Modèle D",
+      "price_eur": 1523.70,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Précision": "0,1-5%",
+        "Pression d'utilisation conseillée (bar)": "0-6",
+        "Résolution": "0,001 bar",
+        "Poids net": "4.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/5/85400000023_20250411152101/humeau.com-manometre-analogique-pvg-d-canette-et-bouteille-262041-262041-30.jpg"
+    },
+    {
+      "sku": "262379",
+      "slug": "manometre-pression-analogique-0-6-bar",
+      "brand": "HUMEAU",
+      "name_fr": "Manomètre de pression analogique, 0-6 bar",
+      "description_fr": "Testeur de pression analogique conçu pour se fixer facilement et de façon ergonomique sur les bouteilles en verre à fermeture à couronne ou sur les bouteilles en PET. Il perce la fermeture afin de permettre la lecture directe de la pression interne sur le cadran. Échelle de mesure de 0 à 6 bar (0 à 87 psi) avec une précision de 1 % de la pleine échelle.",
+      "variant_name_fr": "0-6 bar",
+      "price_eur": 325.00,
+      "specs_fr": {
+        "Echelle": "0…6 bar / 0...87 PSI",
+        "Précision": "1 % FS",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262379_20250711104101/humeau.com-manometre-de-pression-analogique-0-6bar-262379-262379-30.jpg"
+    },
+    {
+      "sku": "214547",
+      "slug": "manometre-testo-511-pression-absolue",
+      "brand": "HUMEAU",
+      "name_fr": "Manomètre Testo 511, pression absolue",
+      "description_fr": "Manomètre absolu Testo 511, compact et portable, destiné à la mesure de pression absolue (compensation de densité pour les mesures d'écoulement en canalisations, laboratoires et process) ainsi qu'aux mesures barométriques d'altitude. Précision de ±3 hPa ± 1 digit, résolution 0,1 hPa, 8 unités de pression disponibles. Livré avec capuchon de protection, pochette ceinture, piles et protocole d'étalonnage.",
+      "variant_name_fr": "Standard",
+      "price_eur": 195.00,
+      "specs_fr": {
+        "Dimensions": "119 x 46 x 25 mm (avec capuchon de protection)",
+        "Température de stockage": "-40 à +70 °C",
+        "Unité de mesure": "hPa, mbar, Pa, mmH2O, inH2O, inHg, mmHg, psi",
+        "Température d'utilisation": "0 à +50 °C",
+        "Autonomie": "200 h (typique, sans éclairage de l'écran)",
+        "Type de pile": "2 piles Micro AAA",
+        "Précision": "±3 hPa ± 1 Digit",
+        "Résolution": "0,1 hPa",
+        "Poids net": "0.24 kg",
+        "Modèle": "TESTO 511",
+        "Etendue de mesure - Pression": "300 à 1200 hPa"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15905600511_20220505200331/humeau.com-manometre-testo-511-15905600511-214547-30.jpg"
+    },
+    {
+      "sku": "100072",
+      "slug": "manometre-testo-512-1-0-200hpa-app",
+      "brand": "TESTO",
+      "name_fr": "Manomètre différentiel Testo 512-1 (0-200 hPa) avec connexion à l'app",
+      "description_fr": "Manomètre différentiel numérique compact permettant une mesure simple, rapide et précise de la pression différentielle de 0 à 200 hPa. Adapté au contrôle des filtres de climatisation et aux mesures par tube de Pitot en conduits d'air. Se connecte à l'application testo Smart pour la configuration, l'affichage et l'enregistrement des mesures. Livré avec sac de transport, tuyau de raccordement en silicone, protocole d'étalonnage et 3 piles AA.",
+      "variant_name_fr": "0-200 hPa",
+      "price_eur": 495.00,
+      "specs_fr": {
+        "Dimensions": "146 x 60 x 28 mm",
+        "Température de stockage": "-20 à +50 °C",
+        "Température d'utilisation": "-20 à +50 °C",
+        "Autonomie": "120 h",
+        "Type de pile": "3x AA",
+        "Classe de protection": "IP 40",
+        "Précision": "±(0,3 Pa + 1 % v.m.)± digit (0 à 25,00 hPa) ±(0,1 hPa + 1,5 % v.m.)± digit (25,0 à 200,00 hPa)",
+        "Résolution": "0,001 hPa (0 à + 2,0 hPa) 0,01 hPa (2,01 à + 20,0 hPa) 0,10 hPa (20,1 à + 200,0 hPa)",
+        "Poids net": "0.7 kg",
+        "Etendue de mesure - Pression": "0 à +200 hPa"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/100072_20230615105101/humeau.com-manometre-testo-512-1-0-200hpa-avec-connexion-a-l-app-100072-100072-30.jpg"
+    },
+    {
+      "sku": "100073",
+      "slug": "manometre-testo-512-2-0-2000hpa-app",
+      "brand": "TESTO",
+      "name_fr": "Manomètre différentiel Testo 512-2 (0-2000 hPa) avec connexion à l'app",
+      "description_fr": "Manomètre différentiel numérique à grande étendue de mesure (0 à 2000 hPa), pour le contrôle de la pression de gaz dynamique et statique sur les installations de chauffage et de climatisation. Alarme sonore en cas de dépassement de limites, calcul de moyennes temporelles et multipoints, connexion à l'application testo Smart. Livré avec sac de transport, tuyau de raccordement en silicone, protocole d'étalonnage et 3 piles AA.",
+      "variant_name_fr": "0-2000 hPa",
+      "price_eur": 495.00,
+      "specs_fr": {
+        "Dimensions": "146 x 60 x 28 mm",
+        "Température de stockage": "-20 à +50 °C",
+        "Autonomie": "120 h",
+        "Type de pile": "3x AA",
+        "Classe de protection": "IP 40",
+        "Précision": "0,5 % val. fin.",
+        "Résolution": "1 hPa",
+        "Poids net": "0.7 kg",
+        "Etendue de mesure - Pression": "0 à +2000 hPa"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/100073_20230607101102/humeau.com-manometre-testo-512-2-0-2000hpa-avec-connexion-a-l-app-100073-100073-30.jpg"
+    },
+    {
+      "sku": "201667",
+      "slug": "membrane-premontee-capteurs-9182-9185-pack-4",
+      "brand": "HACH",
+      "name_fr": "Membrane premontée pour capteurs Hach 9182 et 9185, lot de 4",
+      "description_fr": "Lot de 4 membranes premontées, pièces de rechange compatibles avec les capteurs de pression Hach 9182 et 9185, utilisées pour le remplacement périodique lors de la maintenance de ces instruments.",
+      "variant_name_fr": "Lot de 4",
+      "price_eur": 475.00,
+      "specs_fr": {
+        "Conditionnement": "4",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03600918535_20240722105101/humeau.com-membrane-premontee-pr-capteurs-9182-9185-pack-de-4-201667-201667-30.jpg"
+    }
+  ]
+}

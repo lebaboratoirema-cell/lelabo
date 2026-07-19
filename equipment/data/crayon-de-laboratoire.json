@@ -1,0 +1,199 @@
+{
+  "category": {
+    "slug": "crayon-de-laboratoire",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Marqueurs et crayons de laboratoire"
+    },
+    "description": {
+      "fr": "Marqueurs permanents, cryomarqueurs et stylos-pointes pour l'identification durable des échantillons, tubes et contenants de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "218953",
+      "slug": "cryomarqueur-pointe-tres-fine-noir-x4",
+      "brand": "NALGENE",
+      "name_fr": "Cryomarqueurs pointe très fine, noir — lot de 4",
+      "description_fr": "Set de 4 cryomarqueurs Nalgene à pointe très fine, dont l'encre ne déteint pas même aux températures ultra-basses. Idéal pour l'étiquetage d'échantillons cryogéniques.",
+      "variant_name_fr": "Noir — lot de 4",
+      "price_eur": 46.6,
+      "specs_fr": {
+        "Couleur": "noir",
+        "Pack": "4",
+        "Marque commerciale": "NALGENE",
+        "Poids brut": "0.068 KG",
+        "Poids net": "0.03 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218953_20230822171101/humeau.com-cryomarqueur-pointe-tres-fine-noir-x4-218953-218953-30.jpg"
+    },
+    {
+      "sku": "270739",
+      "slug": "feutre-permanent-bic-rouge-pointe-fine",
+      "brand": "HUMEAU",
+      "name_fr": "Feutre permanent BIC rouge, pointe fine ogive 1,1 mm",
+      "description_fr": "Feutre permanent BIC à pointe fine ogive de 1,1 mm, encre rouge, adapté au marquage courant en laboratoire.",
+      "variant_name_fr": "Rouge — pointe 1,1 mm",
+      "price_eur": 3.3,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/270739_20251017143101/humeau.com-feutre-permanent-bic-rouge-pointe-fine-ogive-1-1mm-270739-270739-30.jpg"
+    },
+    {
+      "sku": "234061",
+      "slug": "jeu-marqueurs-cryoware-noir-x4",
+      "brand": "NALGENE",
+      "name_fr": "Jeu de marqueurs Cryoware noir — lot de 4",
+      "description_fr": "Jeu de 4 marqueurs Nalgene Cryoware à pointe très fine, pour marquer de façon permanente le tissu, le carton et le plastique. Encre anti-salissures ne s'estompant pas à très basse température.",
+      "variant_name_fr": "Noir — lot de 4",
+      "price_eur": 39.6,
+      "specs_fr": {
+        "Conditionnement": "4",
+        "Couleur": "Noir",
+        "Marque commerciale": "NALGENE",
+        "Poids brut": "0.06 KG",
+        "Poids net": "0.06 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/234061_20240213150128/humeau.com-jeu-de-marqueurs-cryoware-noir-pack-x4-24337731702-234061-30.jpg"
+    },
+    {
+      "sku": "256566",
+      "slug": "marqueur-labo-n50s-noir",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueur de laboratoire N50S, noir",
+      "description_fr": "Marqueur de laboratoire modèle N50S, encre noire, format compact pour un usage quotidien.",
+      "variant_name_fr": "Noir",
+      "price_eur": 4.3,
+      "specs_fr": {
+        "Poids brut": "0.01 KG",
+        "Poids net": "0.01 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256566_20260316113102/humeau.com-marqueur-de-labo-n50s-noir-256566-256566-30.jpg"
+    },
+    {
+      "sku": "219688",
+      "slug": "marqueur-labo-pointe-fine-noire-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueurs de laboratoire pointe fine, noir — lot de 10",
+      "description_fr": "Lot de 10 marqueurs de laboratoire à pointe fine (1,0 mm), pour un marquage permanent sur surfaces sèches ou humides (plastique, verre, métal, porcelaine). Encre résistante à l'eau et à l'alcool, mais qui peut être lavée si besoin.",
+      "variant_name_fr": "Noir — lot de 10",
+      "price_eur": 59.5,
+      "specs_fr": {
+        "Poids brut": "0.2 KG",
+        "Poids net": "0.2 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18108110065_20250627102101/humeau.com-marqueur-de-laboratoire-pointe-fine-couleur-noire-pack-10-219688-219688-30.jpg"
+    },
+    {
+      "sku": "219687",
+      "slug": "marqueur-encre-indelebile-assortis-12-crayons",
+      "brand": "VWR",
+      "name_fr": "Marqueurs à encre indélébile, coloris assortis — lot de 12",
+      "description_fr": "Lot de 12 feutres indélébiles VWR, coloris assortis, permettant d'écrire sur le verre, le plastique, la porcelaine, le film, le caoutchouc, le bois et le papier. L'encre indélébile sèche en quelques secondes.",
+      "variant_name_fr": "Assortis — lot de 12",
+      "price_eur": 80.7,
+      "specs_fr": {
+        "Couleur": "assortiment",
+        "Pack": "12",
+        "Marque commerciale": "VWR",
+        "Poids brut": "0.1 KG",
+        "Poids net": "0.1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219687_20230207110101/humeau.com-marqueur-encre-indelebile-coloris-assortis-12-crayons-18108110055-219687-30.jpg"
+    },
+    {
+      "sku": "256521",
+      "slug": "marqueur-lab-marker-pointe-fine-n50-rouge",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueur Lab Marker pointe fine N50, rouge",
+      "description_fr": "Marqueur de laboratoire à pointe fine modèle N50, encre rouge, pratique pour le repérage rapide d'échantillons.",
+      "variant_name_fr": "Rouge",
+      "price_eur": 4.6,
+      "specs_fr": {
+        "Poids brut": "0.014 KG",
+        "Poids net": "0.014 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256521_20240207122009/humeau.com-marqueur-lab-marker-pointe-fine-n50-rouge-256521-256521-30.jpg"
+    },
+    {
+      "sku": "256520",
+      "slug": "marqueur-lab-marker-pointe-fine-vert",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueur Lab Marker pointe fine, vert",
+      "description_fr": "Marqueur de laboratoire à pointe fine, encre verte, adapté au codage couleur des échantillons et contenants.",
+      "variant_name_fr": "Vert",
+      "price_eur": 8.64,
+      "specs_fr": {
+        "Poids brut": "0.013 KG",
+        "Poids net": "0.013 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256520_20240209163103/humeau.com-marqueur-lab-marker-pointe-fine-vert-256520-256520-30.jpg"
+    },
+    {
+      "sku": "270134",
+      "slug": "marqueur-permanent-edding-404-noir",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueur permanent Edding 404, pointe noire",
+      "description_fr": "Marqueur permanent Edding 404 à pointe fine, encre noire, pour un marquage résistant sur la plupart des surfaces de laboratoire.",
+      "variant_name_fr": "Noir",
+      "price_eur": 2.1,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/270134_20250804161101/humeau.com-marqueur-permanent-edding-404-pointe-noire-270134-270134-30.jpg"
+    },
+    {
+      "sku": "210181",
+      "slug": "marqueur-permanent-noir-x6",
+      "brand": "HUMEAU",
+      "name_fr": "Marqueurs permanents Fisherbrand noir — lot de 6",
+      "description_fr": "Lot de 6 marqueurs permanents Fisherbrand à pointe ultrafine de 0,3 mm, encre noire inaltérable et résistante à l'eau séchant quasi instantanément. Capuchon à bague d'étanchéité et corps en acier inoxydable pour écrire précisément dans les espaces confinés.",
+      "variant_name_fr": "Noir — lot de 6",
+      "price_eur": 45.6,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Poids brut": "0.061 KG",
+        "Poids net": "0.061 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611744386_20230731104107/humeau.com-marqueur-permanent-noir-pack-de-6-210181-210181-30.jpg"
+    },
+    {
+      "sku": "219689",
+      "slug": "marqueur-labo-pointe-fine-bleue-x10",
+      "brand": "VWR",
+      "name_fr": "Marqueurs de laboratoire pointe fine, bleu — lot de 10",
+      "description_fr": "Lot de 10 marqueurs de laboratoire VWR à pointe fine, encre bleue, adaptés aux surfaces humides ou sèches. L'encre ne coule pas et sèche immédiatement.",
+      "variant_name_fr": "Bleu — lot de 10",
+      "price_eur": 72.5,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Marque commerciale": "VWR"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18108110066_20240417142101/humeau.com-marqueur-pour-laboratoire-pointe-fine-bleue-pack-de-10-219689-219689-30.jpg"
+    },
+    {
+      "sku": "255841",
+      "slug": "stylo-graveur-pointe-retractable",
+      "brand": "HUMEAU",
+      "name_fr": "Stylo graveur à pointe rétractable",
+      "description_fr": "Stylo graveur à pointe rétractable, pratique pour marquer durablement le verre, le métal ou le plastique en laboratoire.",
+      "variant_name_fr": "Standard",
+      "price_eur": 114.9,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255841_20251017143101/humeau.com-stylo-graveur-a-pointe-retrac-table-255841-255841-30.jpg"
+    },
+    {
+      "sku": "220767",
+      "slug": "stylo-pointe-diamant-selecta",
+      "brand": "SELECTA",
+      "name_fr": "Stylo à pointe diamant Selecta",
+      "description_fr": "Stylo-pointe Selecta en aluminium équipé d'une véritable pointe en diamant, permettant d'écrire durablement sur le verre.",
+      "variant_name_fr": "Standard",
+      "price_eur": 74.5,
+      "specs_fr": {
+        "Matière": "Pointe en diamant",
+        "Marque commerciale": "SELECTA",
+        "Poids brut": "0.02 KG",
+        "Poids net": "0.02 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19704100113_20231130151101/humeau.com-stylo-pointe-diamand-220767-220767-30.jpg"
+    }
+  ]
+}

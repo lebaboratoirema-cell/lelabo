@@ -1,0 +1,107 @@
+{
+  "category": {
+    "slug": "elevateur-de-laboratoire",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Élévateurs de laboratoire" },
+    "description": {
+      "fr": "Supports élévateurs à ciseaux ou à commande manuelle, en acier inoxydable ou en aluminium anodisé, pour ajuster la hauteur de la verrerie et des équipements de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "218675",
+      "slug": "elevateur-labo-inox-400x400mm",
+      "brand": "VWR",
+      "name_fr": "Élévateur de laboratoire en inox, plateau 400 x 400 mm",
+      "description_fr": "Élévateur de laboratoire en acier inoxydable, plateau de 400 x 400 mm, hauteur de travail réglable de 165 à 615 mm. Portée statique maximale de 60 kg et portée dynamique maximale de 15 kg.",
+      "variant_name_fr": "400 x 400 mm",
+      "price_eur": 923.00,
+      "specs_fr": {
+        "Marque commerciale": "VWR",
+        "Poids net": "14.8 kg",
+        "Hauteur de travail": "165-615 mm",
+        "Portée statique max": "60 kg",
+        "Portée dynamique max": "15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218675_20250225110101/humeau.com-elevateur-de-laboratoire-en-inox-d-400x400mm-portee-80kg-218675-218675-30.jpg"
+    },
+    {
+      "sku": "221960",
+      "slug": "elevateur-aluminium-anodise-100x100mm",
+      "name_fr": "Élévateur en aluminium anodisé, plateau 100 x 100 mm",
+      "description_fr": "Élévateur à commande manuelle en aluminium anodisé, doté de pieds antidérapants en caoutchouc et d'un trou permettant d'insérer une tige (non fournie). Plateau de 100 x 100 mm, hauteur réglable de 65 à 140 mm, supportant une charge de 20 kg en statique et 10 kg en dynamique.",
+      "variant_name_fr": "100 x 100 mm — H. 65-140 mm",
+      "price_eur": 34.80,
+      "specs_fr": {
+        "Hauteur réglable": "65 à 140 mm",
+        "Poids net": "0.52 kg",
+        "Charge statique max": "20 kg",
+        "Charge dynamique max": "10 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19745010000_20250404094101/humeau.com-elevateur-en-aluminium-anonise-d-100x100mm-h-65-140mm-221960-221960-30.jpg"
+    },
+    {
+      "sku": "218673",
+      "slug": "elevateur-aluminium-anodise-180x216mm",
+      "brand": "VWR",
+      "name_fr": "Élévateur de laboratoire en aluminium anodisé, plateau 180 x 216 mm",
+      "description_fr": "Élévateur de laboratoire VWR en aluminium anodisé, avec plateau de 180 x 216 mm, destiné à ajuster la hauteur de travail de la verrerie et des équipements.",
+      "variant_name_fr": "180 x 216 mm",
+      "price_eur": 660.00,
+      "specs_fr": {
+        "Marque commerciale": "VWR",
+        "Poids net": "2.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218673_20240729153104/humeau.com-elevateur-pour-laboratoire-en-aluminium-anonise-d-180x216mm-218673-218673-30.jpg"
+    },
+    {
+      "sku": "261329",
+      "slug": "elevateur-swissboy-40x50mm-vert",
+      "name_fr": "Élévateur Swiss Boy en aluminium, plateau 40 x 50 mm, vert",
+      "description_fr": "Support élévateur Swiss Boy en aluminium anodisé, résistant à la corrosion, stable et facilement réglable. Positions maximales supérieure et inférieure réglables, avec arrêt automatique en position maximale. Charge maximale de 20 kg.",
+      "variant_name_fr": "40 x 50 mm — vert — 20 kg",
+      "price_eur": 112.40,
+      "specs_fr": {
+        "Couleur": "Vert",
+        "Hauteur maximale": "93 mm",
+        "Largeur": "40 mm",
+        "Profondeur": "50 mm",
+        "Poids net": "0.076 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261329_20240823152101/humeau.com-elevateur-swissboy-d-40x50mm-charge-maxi-20kg-vert-261329-261329-30.jpg"
+    },
+    {
+      "sku": "218674",
+      "slug": "support-verin-inox-plaque-200x200mm",
+      "brand": "VWR",
+      "name_fr": "Support à vérin en acier inoxydable, plaque 200 x 200 mm",
+      "description_fr": "Élévateur de laboratoire en acier inoxydable équipé d'un bouton de réglage en hauteur ergonomique. Plaque de 200 x 200 mm, hauteur réglable de 70 à 260 mm, portée statique maximale de 30 kg et portée dynamique maximale de 7 kg.",
+      "variant_name_fr": "200 x 200 mm",
+      "price_eur": 212.00,
+      "specs_fr": {
+        "Dimensions plaque": "200 x 200 mm",
+        "Marque commerciale": "VWR",
+        "Hauteur": "70-260 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218674_20230127114102/humeau.com-support-a-verin-en-acier-inox-plaque-200x200mm-portee-7kg-18102451223-218674-30.jpg"
+    },
+    {
+      "sku": "224016",
+      "slug": "support-elevateur-mecanique-inox-200x200mm",
+      "brand": "BOCHEM",
+      "name_fr": "Support élévateur mécanique en inox, plateau 200 x 200 mm",
+      "description_fr": "Support élévateur en acier inoxydable 18/10, à mécanisme à ciseaux amélioré et tolérances réduites, bouton de commande ergonomique et arrondi. Conforme à la norme DIN 12897, avec une charge maximale statique de 30 kg et dynamique de 7 kg.",
+      "variant_name_fr": "200 x 200 mm — H. 60-275 mm",
+      "price_eur": 329.40,
+      "specs_fr": {
+        "Filetage": "M8 x 1,25",
+        "Hauteur": "60 à 275 mm",
+        "Longueur": "200 mm",
+        "Largeur": "200 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "2.833 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201113002_20260701092101/humeau.com-support-elevateur-mecanique-en-inox-200x200-hauteur-60-275mm-224016-224016-30.jpg"
+    }
+  ]
+}

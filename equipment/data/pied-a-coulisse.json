@@ -1,0 +1,253 @@
+{
+  "category": {
+    "slug": "pied-a-coulisse",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Pieds à coulisse et instruments de métrologie" },
+    "description": {
+      "fr": "Pieds à coulisse analogiques et digitaux, micromètres, jauges de profondeur et cales étalons pour le contrôle dimensionnel de précision en laboratoire et en industrie."
+    }
+  },
+  "products": [
+    {
+      "sku": "237204",
+      "slug": "cale-acier-1-7mm-cofrac-mitutoyo",
+      "brand": "MITUTOYO",
+      "name_fr": "Cale étalon acier 1,7 mm, avec certificat Cofrac",
+      "description_fr": "Cale étalon en acier Mitutoyo d'une longueur nominale de 1,7 mm, livrée avec certificat Cofrac pour la traçabilité des mesures.",
+      "variant_name_fr": "1,7 mm",
+      "price_eur": 121.70,
+      "specs_fr": {
+        "Longueur (mm)": "1.7"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30100755715_20250707093101/humeau.com-cale-acier-1-7mm-avec-certificat-cofrac-237204-237204-30.jpg"
+    },
+    {
+      "sku": "280796",
+      "slug": "cale-acier-40mm-iso-classe-k-jcss-cofrac",
+      "brand": "MITUTOYO",
+      "name_fr": "Cale étalon acier 40 mm, ISO classe K, avec certificat JCSS/Cofrac",
+      "description_fr": "Cale étalon acier de haute précision, conçue pour les opérations de contrôle dimensionnel, d'étalonnage et de vérification d'équipements de mesure. De longueur nominale 40 mm, elle offre une excellente stabilité dimensionnelle et une grande résistance à l'usure, conforme aux exigences industrielles les plus strictes. Livrée avec certificat d'étalonnage officiel.",
+      "variant_name_fr": "40 mm — classe K",
+      "price_eur": 338.40,
+      "specs_fr": {
+        "Longueur (mm)": "40",
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/8/280796_20260226160101/humeau.com-cale-acier-40mm-iso-classe-k-avec-certificat-jcss-cofrac-280796-280796-30.jpg"
+    },
+    {
+      "sku": "211003",
+      "slug": "jauge-profondeur-digitale-200mm-1-100e",
+      "brand": "HUMEAU",
+      "name_fr": "Jauge de profondeur digitale, capacité 200 mm, précision 1/100e",
+      "description_fr": "Jauge de profondeur digitale en acier inox, d'une capacité de 200 mm avec une précision au 1/100e de mm. Semelle de 100 mm et règle de 15 mm, dotée d'une sortie RS232. Livrée en coffret avec pile.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 44.50,
+      "specs_fr": {
+        "Poids net": "0.21 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/211003_20250306144101/humeau.com-jauge-de-profondeur-digitale-capacite-200mm-en-1-100e-211003-211003-30.jpg"
+    },
+    {
+      "sku": "272432",
+      "slug": "jauge-profondeur-micrometrique-digimatic-0-6-6tiges",
+      "brand": "HUMEAU",
+      "name_fr": "Jauge de profondeur micrométrique Digimatic 0-6, 6 tiges",
+      "description_fr": "Jauge de profondeur micrométrique Digimatic Mitutoyo destinée aux mesures précises de profondeurs, rainures et épaulements en métrologie et contrôle qualité. Équipée de 6 tiges interchangeables, elle couvre une capacité de 0 à 150 mm avec lecture digitale Digimatic et sortie de données. Résolution de 1 µm, précision jusqu'à ±4 µm selon la plage, embase en acier traité et surface de mesure en carbure rectifiée. Fonctions Inch/Métrique, DATA/HOLD, Preset, ZERO/ABS. Livrée en coffret avec clé et pile SR-44.",
+      "variant_name_fr": "0-6 pouces / 6 tiges",
+      "price_eur": 1441.60,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/272432_20260108160103/humeau.com-jauge-de-profondeur-micrometrique-digimatic-0-6-6-tiges-272432-272432-30.jpg"
+    },
+    {
+      "sku": "258174",
+      "slug": "jauge-hauteur-remplissage-0-150mm",
+      "brand": "AT2E",
+      "name_fr": "Jauge de hauteur de remplissage, 0-150 mm",
+      "description_fr": "Toise réglable en pouces ou en millimètres, destinée à vérifier le niveau de remplissage sur ligne de production ou à mesurer le point de remplissage précis d'une bouteille. La règle peut être élevée ou abaissée pour compenser l'épaisseur de différentes couronnes.",
+      "variant_name_fr": "0-150 mm",
+      "price_eur": 589.20,
+      "specs_fr": {
+        "Echelle de mesure": "0 à 150 mm",
+        "Graduation (ml)": "mm ou inch"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/258174_20240125113101/humeau.com-jauge-hauteur-de-remplissage-0-150mm-258174-258174-30.jpg"
+    },
+    {
+      "sku": "238086",
+      "slug": "micrometre-digital-0-25mm-bochem",
+      "brand": "BOCHEM",
+      "name_fr": "Micromètre digital, 0-25 mm",
+      "description_fr": "Micromètre digital avec affichage LCD 5 chiffres et interface RS232, offrant une plage de mesure de 0 à 25 mm avec une précision de ±0,002 mm. Livré en coffret.",
+      "variant_name_fr": "0-25 mm",
+      "price_eur": 342.88,
+      "specs_fr": {
+        "Alimentation": "Piles",
+        "Affichage écran": "LCD 5 chiffres",
+        "Interface": "RS 232",
+        "Mesure": "Digital",
+        "Plage / Gamme de mesure": "0 à 25 mm",
+        "Précision": "± 0,002 mm",
+        "Poids net": "0.419 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/2/32201211500_20260113112105/humeau.com-micrometre-digital-0-25mm-238086-238086-30.jpg"
+    },
+    {
+      "sku": "237220",
+      "slug": "micrometre-mesure-sertissage-0-13mm",
+      "brand": "MITUTOYO",
+      "name_fr": "Micromètre pour la mesure de sertissage, 0-13 mm ±2 µm",
+      "description_fr": "Micromètre Mitutoyo conçu pour le contrôle précis de la profondeur et de l'épaisseur des sertissages, notamment sur boîtes de conserve, canettes et aérosols, en environnement de contrôle qualité et d'inspection industrielle. Capacité de mesure de 0 à 13 mm avec une erreur maximale admissible de ±2 µm. Surfaces de mesure en acier trempé à finition micro-tour, broche de mesure Ø5 mm avec avance de 0,5 mm. Léger (65 g), livré en coffret avec clé.",
+      "variant_name_fr": "0-13 mm",
+      "price_eur": 441.10,
+      "specs_fr": {
+        "Poids net": "0.065 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/237220_20260108160101/humeau.com-micrometre-pour-la-mesure-de-sertissage-0-13mm-2um-237220-237220-30.jpg"
+    },
+    {
+      "sku": "211009",
+      "slug": "pied-a-coulisse-150mm-analogique-1-50e",
+      "brand": "HUMEAU",
+      "name_fr": "Pied à coulisse analogique, 150 mm, précision 1/50e",
+      "description_fr": "Pied à coulisse mécanique à vernier, double bec croisé pour mesures intérieures et extérieures, équipé d'une jauge de profondeur. La lecture se fait par coïncidence de traits entre le vernier et la partie fixe, avec une résolution au 1/50e de mm. Livré avec coffret.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 16.20,
+      "specs_fr": {
+        "Capacité maximum": "150 mm",
+        "Matériaux": "acier inox chromé",
+        "Mesure": "Analogique : intérieur/extérieur",
+        "Précision": "1/50 mm",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000145200_20250814150101/humeau.com-pied-a-coulisse-150mm-en-1-50e-analogique-211009-211009-30.jpg"
+    },
+    {
+      "sku": "217522",
+      "slug": "pied-a-coulisse-lecture-digitale-200mm",
+      "brand": "MOINEAU",
+      "name_fr": "Pied à coulisse à lecture digitale, 0-200 mm",
+      "description_fr": "Pied à coulisse à lecture digitale, double bec croisé pour mesures intérieures et extérieures, équipé d'une jauge de profondeur. Livré avec coffret.",
+      "variant_name_fr": "0-200 mm",
+      "price_eur": 58.40,
+      "specs_fr": {
+        "Alimentation": "Piles SR44",
+        "Capacité maximum": "200 mm",
+        "Affichage écran": "Digital",
+        "Interface": "RS 232",
+        "Matériaux": "Acier inox chromé",
+        "Précision": "1/100è mm",
+        "Poids net": "0.4 kg",
+        "Type": "Bec croisé double"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100194321_20230623100101/humeau.com-pied-a-coulisse-a-lecture-digitale-de-0-a-200mm-217522-217522-30.jpg"
+    },
+    {
+      "sku": "210995",
+      "slug": "pied-a-coulisse-digital-150mm-300g",
+      "brand": "MOINEAU",
+      "name_fr": "Pied à coulisse digital, 150 mm, précision 1/100e",
+      "description_fr": "Pied à coulisse digital de qualité supérieure, livré sans certificat d'étalonnage. Muni d'un double bec pour mesures intérieures et extérieures ainsi que d'une jauge de profondeur, avec extinction automatique pour prolonger la durée de vie de la pile. Livré en coffret.",
+      "variant_name_fr": "150 mm — 300 g",
+      "price_eur": 25.90,
+      "specs_fr": {
+        "Alimentation": "Piles SR44 incluses",
+        "Capacité maximum": "150 mm",
+        "Affichage écran": "Digital",
+        "Interface": "RS 232",
+        "Matériaux": "Acier inox chromé",
+        "Précision": "1/100è mm",
+        "Poids net": "0.3 kg",
+        "Type": "Bec double croisé"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000115002_20241118094101/humeau.com-pied-a-coulisse-digital-150mm-prec-1-100e-300g-210995-210995-30.jpg"
+    },
+    {
+      "sku": "274241",
+      "slug": "pied-a-coulisse-digital-150mm-cofrac",
+      "brand": "MOINEAU",
+      "name_fr": "Pied à coulisse digital, 150 mm, avec certificat Cofrac",
+      "description_fr": "Pied à coulisse digital de qualité supérieure, livré avec certificat d'étalonnage et constat de vérification Cofrac. Muni d'un double bec pour mesures intérieures et extérieures ainsi que d'une jauge de profondeur, avec extinction automatique. Livré en coffret.",
+      "variant_name_fr": "150 mm — certifié Cofrac",
+      "price_eur": 256.20,
+      "specs_fr": {
+        "Echelle de mesure": "150 mm",
+        "Alimentation": "Pile SR44 (incl.)",
+        "Pack": "1",
+        "Etalonnage": "Avec certificat Cofrac",
+        "Précision": "1/100ème mm",
+        "Matériaux": "acier inox chromé",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/274241_20260624101101/humeau.com-pied-a-coulisse-digital-150mm-prec-1-100e-et-certificat-cofrac-274241-274241-30.jpg"
+    },
+    {
+      "sku": "210996",
+      "slug": "pied-a-coulisse-digital-300mm-700g",
+      "brand": "MOINEAU",
+      "name_fr": "Pied à coulisse digital, 300 mm, précision 1/100e",
+      "description_fr": "Pied à coulisse à lecture digitale, double bec croisé pour mesures intérieures et extérieures, équipé d'une jauge de profondeur. Livré avec coffret.",
+      "variant_name_fr": "300 mm — 700 g",
+      "price_eur": 94.20,
+      "specs_fr": {
+        "Alimentation": "Piles SR44",
+        "Capacité maximum": "300 mm",
+        "Affichage écran": "Digital",
+        "Interface": "RS 232",
+        "Matériaux": "Acier inox chromé",
+        "Précision": "1/100è mm",
+        "Poids net": "0.72 kg",
+        "Type": "Bec double croisé"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000115302_20231002135103/humeau.com-pied-a-coulisse-digital-300mm-prec-1-100e-700g-210996-210996-30.jpg"
+    },
+    {
+      "sku": "224026",
+      "slug": "pied-a-coulisse-electronique-0-150mm-bochem",
+      "brand": "BOCHEM",
+      "name_fr": "Pied à coulisse électronique, 0-150 mm",
+      "description_fr": "Pied à coulisse digital en acier inoxydable avec affichage LCD 5 chiffres, précision de ±0,03 mm et lecture au 1/100e de mm. Commutation mm/inch.",
+      "variant_name_fr": "0-150 mm",
+      "price_eur": 245.23,
+      "specs_fr": {
+        "Longueur (mm)": "150",
+        "Affichage écran": "LCD 5 chiffres",
+        "Précision": "0,03 mm",
+        "Matériaux": "Acier inoxydable",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/224026_20230331170101/humeau.com-pied-a-coulisse-electronique-0-150mm-22201211600-224026-30.jpg"
+    },
+    {
+      "sku": "210424",
+      "slug": "pied-a-coulisse-mitutoyo-ip67-0-200mm",
+      "brand": "MITUTOYO",
+      "name_fr": "Pied à coulisse Mitutoyo IP67, 0-200 mm",
+      "description_fr": "Pied à coulisse Digimatic IP67, résistant à l'eau et à la poussière (niveau de protection IP67), conforme à la norme EN60529 et pouvant supporter une immersion temporaire dans l'eau. Adapté aux situations d'usinage avec projections de fluides de refroidissement, longue durée de vie de la pile.",
+      "variant_name_fr": "0-200 mm",
+      "price_eur": 406.50,
+      "specs_fr": {
+        "Amplitude": "0 - 200 mm",
+        "Résolution": "0.01 mm",
+        "Poids net": "0.56 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611862633_20260109155101/humeau.com-pied-a-coulisse-mytutoyo-ip67-0-200mm-210424-210424-30.jpg"
+    },
+    {
+      "sku": "210279",
+      "slug": "pied-a-coulisse-numerique-150mm-nist",
+      "brand": "FISHER",
+      "name_fr": "Pied à coulisse numérique Traceable, 0-150 mm, traçable NIST",
+      "description_fr": "Pied à coulisse numérique Traceable Fisherbrand, corps acier, avec fonction zéro relatif et affichage en mm ou en inch. Livré avec certificat de calibrage selon la norme ISO 17025, traçable NIST.",
+      "variant_name_fr": "0-150 mm",
+      "price_eur": 313.00,
+      "specs_fr": {
+        "Alimentation": "Pile bouton 1.5 V incluse",
+        "Plage / Gamme de mesure": "0 à 150 mm",
+        "Précision": "±0.03 mm",
+        "Poids net": "0.28 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611783217_20230731104107/humeau.com-pied-a-coulisse-numerique-0-150mm-tracable-nist-210279-210279-30.jpg"
+    }
+  ]
+}

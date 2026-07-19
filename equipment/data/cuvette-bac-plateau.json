@@ -1,0 +1,253 @@
+{
+  "category": {
+    "slug": "cuvette-bac-plateau",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Cuvettes, bacs et plateaux"
+    },
+    "description": {
+      "fr": "Bacs de stockage, cuves inox, cuvettes et plateaux en polyéthylène ou acier inoxydable pour la manipulation, le stockage et le transport de produits en laboratoire ou en agroalimentaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "257566",
+      "slug": "bac-de-stockage-en-hdpe-blanc-29-l-29-l-hdpe",
+      "brand": "BURKLE",
+      "name_fr": "Bac de stockage en HDPE blanc, 29 L",
+      "description_fr": "Bac de stockage empilable BURKLE en polyéthylène haute densité blanc, surfaces intérieures lisses et bords arrondis pour un nettoyage facile. Rebords recourbés permettant un transport sûr des produits liquides ou coulants. Contenance de 29 L, dimensions extérieures 660 x 450 x 130 mm, agréé contact alimentaire.",
+      "variant_name_fr": "29 L",
+      "price_eur": 56,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "29 L",
+        "Couleur": "Blanc",
+        "Dimensions extérieures L x P x H": "660 x 450 x 130",
+        "Dimensions intérieures L x P x H": "600 x 400 x 120",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000002_20260617092101/humeau.com-bac-de-stockage-en-hdpe-blanc-29l-660x450x130mm-257566-257566-30.jpg"
+    },
+    {
+      "sku": "257567",
+      "slug": "bac-de-stockage-en-hdpe-blanc-48-l-48-l-hdpe",
+      "brand": "BURKLE",
+      "name_fr": "Bac de stockage en HDPE blanc, 48 L",
+      "description_fr": "Bac de stockage empilable BURKLE en polyéthylène haute densité blanc, surfaces intérieures lisses et bords arrondis pour un nettoyage facile. Rebords recourbés permettant un transport sûr des produits liquides ou coulants. Contenance de 48 L, dimensions extérieures 660 x 450 x 220 mm, agréé contact alimentaire.",
+      "variant_name_fr": "48 L",
+      "price_eur": 79.5,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "48 L",
+        "Couleur": "Blanc",
+        "Dimensions extérieures L x P x H": "660 x 450 x 220",
+        "Dimensions intérieures L x P x H": "600 x 400 x 210",
+        "Contact alimentaire": "Oui",
+        "Poids net": "2.345 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000003_20260617092101/humeau.com-bac-de-stockage-en-hdpe-blanc-48l-660x450x210mm-257567-257567-30.jpg"
+    },
+    {
+      "sku": "257568",
+      "slug": "bac-de-stockage-en-hdpe-blanc-94-l-94-l-hdpe",
+      "brand": "BURKLE",
+      "name_fr": "Bac de stockage en HDPE blanc, 94 L",
+      "description_fr": "Bac de stockage empilable BURKLE en polyéthylène haute densité blanc, surfaces intérieures lisses et bords arrondis pour un nettoyage facile. Rebords recourbés permettant un transport sûr des produits liquides ou coulants. Contenance de 94 L, dimensions extérieures 660 x 450 x 410 mm, agréé contact alimentaire.",
+      "variant_name_fr": "94 L",
+      "price_eur": 119.9,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "94 L",
+        "Couleur": "Blanc",
+        "Dimensions extérieures L x P x H": "660 x 450 x 410",
+        "Dimensions intérieures L x P x H": "600 x 400 x 400",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000004_20260617092103/humeau.com-bac-de-stockage-en-hdpe-blanc-94l-660x450x410mm-257568-257568-30.jpg"
+    },
+    {
+      "sku": "218464",
+      "slug": "bac-en-pehd-blanc-forme-basse-8-l-8-l-pehd-basse",
+      "brand": "GILAC",
+      "name_fr": "Bac en PEHD blanc forme basse, 8 L",
+      "description_fr": "Bac plat rectangulaire GILAC en polyéthylène haute densité, emboîtable et empilable avec couvercle, dimensionné pour les réfrigérateurs. Contenance de 8 L. Convient à la décongélation, la préparation de produits ruisselants, ou encore aux bacs à ingrédients et de conservation d'échantillons.",
+      "variant_name_fr": "8 L",
+      "price_eur": 42,
+      "specs_fr": {
+        "Matière": "PEHD",
+        "Volume": "8 L",
+        "Couleur": "Blanc",
+        "Dimensions extérieures L x P x H": "485 x 335 x 75",
+        "Poids net": "0.7 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102162884_20250422155102/humeau.com-bac-en-pehd-blanc-forme-basse-capacite-8l-d-490x335x80mm-218464-218464-30.jpg"
+    },
+    {
+      "sku": "221699",
+      "slug": "bac-haccp-en-pehd-rouge-avec-couvercle-25-l-25l-haccp",
+      "brand": "GILAC",
+      "name_fr": "Bac HACCP en PEHD rouge avec couvercle, 25 L",
+      "description_fr": "Bac de stockage GILAC en polyéthylène haute densité rouge, conforme aux exigences HACCP, avec couvercle supportant des charges élevées. Cartouche d'identification réinscriptible pour le suivi des stocks, design sans zone de rétention et poignées en retrait pour une manipulation facilitée. Contenance de 25 L.",
+      "variant_name_fr": "25 L",
+      "price_eur": 76.23,
+      "specs_fr": {
+        "Matière": "PEHD",
+        "Volume": "25",
+        "Couleur": "Rouge",
+        "Dimensions extérieures L x P x H": "600 x 400 x 190",
+        "Poids net": "2.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19711970900_20230731104107/humeau.com-bac-en-pehd-rouge-haccp-25l-couvercle-d-600x400x190mm-221699-221699-30.jpg"
+    },
+    {
+      "sku": "248042",
+      "slug": "cuve-inox-nue-non-isolee-12-l-12-l-cuve-inox",
+      "brand": "PRISMA",
+      "name_fr": "Cuve inox nue, non isolée, 12 L",
+      "description_fr": "Cuve en acier inoxydable PRISMA, emboutie sans soudure, sans isolation thermique. Dimensions 300 x 240 x 200 mm. Contenance de 12 L.",
+      "variant_name_fr": "12 L",
+      "price_eur": 128.3,
+      "specs_fr": {
+        "Dimensions": "300 x 240 x 200 mm",
+        "Matériaux": "Inox"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/60702344012_20250307144101/humeau.com-cuve-inox-nue-non-isolee-12l-248042-248042-30.jpg"
+    },
+    {
+      "sku": "248044",
+      "slug": "cuve-inox-nue-non-isolee-46-l-46-l-cuve-inox",
+      "brand": "PRISMA",
+      "name_fr": "Cuve inox nue, non isolée, 46 L",
+      "description_fr": "Cuve en acier inoxydable PRISMA, emboutie sans soudure, sans isolation thermique. Dimensions 600 x 505 x 200 mm. Contenance de 46 L.",
+      "variant_name_fr": "46 L",
+      "price_eur": 253.1,
+      "specs_fr": {
+        "Dimensions": "600 x 505 x 200 mm",
+        "Matériaux": "Inox"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/60702344046_20250307144101/humeau.com-cuve-inox-nue-non-isolee-46l-248044-248044-30.jpg"
+    },
+    {
+      "sku": "248047",
+      "slug": "cuve-inox-thermo-isolee-avec-vidange-248047",
+      "brand": "PRISMA",
+      "name_fr": "Cuve inox thermo-isolée avec vidange",
+      "description_fr": "Cuve inox PRISMA thermo-isolée, emboutie sans soudure, équipée d'une vidange. Dimensions extérieures 530 x 325 x 280 mm mm. Adaptée au maintien en température de préparations en laboratoire ou en cuisine technique.",
+      "variant_name_fr": "248047",
+      "price_eur": 968.6,
+      "specs_fr": {
+        "Dimensions extérieures L x P x H": "530 x 325 x 280 mm",
+        "Dimensions intérieures L x P x H": "505 x 300 x 200 mm",
+        "Matériaux": "Inox",
+        "Poids net": "13 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/60702345026_20250307144101/humeau.com-cuve-inox-thermo-isolee-avec-vidange-26l-248047-248047-30.jpg"
+    },
+    {
+      "sku": "222032",
+      "slug": "cuvette-carree-en-polyethylene-avec-rebord-4-5-l-4-5-l-cuvette-carree",
+      "brand": "GILAC",
+      "name_fr": "Cuvette carrée en polyéthylène avec rebord, 4.5 L",
+      "description_fr": "Cuvette carrée GILAC en polyéthylène, apte au contact alimentaire, offrant une bonne résistance mécanique et chimique ainsi qu'une grande facilité de nettoyage. Emboîtable sans effet de ventouse grâce à ses ergots, munie de rebords facilitant la préhension des produits. Contenance de 4.5 L.",
+      "variant_name_fr": "4.5 L",
+      "price_eur": 14.7,
+      "specs_fr": {
+        "Dimensions": "260 x 260 x 110 mm",
+        "Matière": "PEBD",
+        "Volume": "4.5 L",
+        "Couleur": "Blanc"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760592100_20250422155102/humeau.com-cuvette-carree-en-pe-cap-4-5l-d-260x108x260mm-avec-rebord-222032-222032-30.jpg"
+    },
+    {
+      "sku": "218439",
+      "slug": "cuvette-de-laboratoire-en-polypropylene-blanc-1-5-litres-1-5-litres-cuvette-pp",
+      "brand": "BURKLE",
+      "name_fr": "Cuvette de laboratoire en polypropylène blanc, 1,5 litres",
+      "description_fr": "Cuvette de laboratoire BURKLE en polypropylène blanc, empilable et mécaniquement résistante, utilisable jusqu'à 60 °C (voire 80 °C sur de courtes durées). Ne doit pas être passée à l'étuve ni au lave-vaisselle. Contenance de 1,5 litres, agréée contact alimentaire.",
+      "variant_name_fr": "1,5 litres",
+      "price_eur": 14,
+      "specs_fr": {
+        "Dimensions": "L 180 x l 230 x h 42 mm (extérieures au bord)",
+        "Volume": "1,5 litres",
+        "Matériaux": "Polypropylène",
+        "Poids net": "0.225 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102161342_20260521161102/humeau.com-cuvette-de-laboratoire-en-pp-blanc-d-180x300mm-cap-1-5l-218439-218439-30.jpg"
+    },
+    {
+      "sku": "257809",
+      "slug": "cuvette-de-laboratoire-en-polypropylene-blanc-3-litres-3-litres-cuvette-pp",
+      "brand": "BURKLE",
+      "name_fr": "Cuvette de laboratoire en polypropylène blanc, 3 litres",
+      "description_fr": "Cuvette de laboratoire BURKLE en polypropylène blanc, empilable et mécaniquement résistante, utilisable jusqu'à 60 °C (voire 80 °C sur de courtes durées). Ne doit pas être passée à l'étuve ni au lave-vaisselle. Contenance de 3 litres, agréée contact alimentaire.",
+      "variant_name_fr": "3 litres",
+      "price_eur": 20.4,
+      "specs_fr": {
+        "Dimensions": "L 310 x l 370 x h 75 mm (extérieures au bord)",
+        "Volume": "3 litres",
+        "Matériaux": "Polypropylène",
+        "Poids net": "0.37 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82142012430_20230817161102/humeau.com-cuvette-de-laboratoire-en-pp-blanc-d-240x300mm-cap-3l-82142012430-257809-30.jpg"
+    },
+    {
+      "sku": "223982",
+      "slug": "plateau-inox-avec-couvercle-l-315-x-p-215-x-h-60-mm-l-315-x-p-215-x-h-60-mm-couvercle",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau inox avec couvercle, L.315 x P.215 x H.60 mm",
+      "description_fr": "Boîte rectangulaire à instruments BOCHEM en acier inoxydable 18/10, munie d'un couvercle à poignée non saillante. Dimensions L.315 x P.215 x H.60 mm.",
+      "variant_name_fr": "L.315 x P.215 x H.60 mm",
+      "price_eur": 151.92,
+      "specs_fr": {
+        "Dimensions": "L.315 x P.215 x H.60 mm",
+        "Matière": "Acier inoxydable"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200870100_20220505202054/humeau.com-plateau-inox-avec-couvercle-l-315-x-p-215-x-h-60-mm-22200870100-223982-30.jpg"
+    },
+    {
+      "sku": "223963",
+      "slug": "plateau-inox-avec-rebord-375-mm-x-270-mm-mm-375-mm-270-mm-rebord",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau inox avec rebord, 375 mm x 270 mm mm",
+      "description_fr": "Plateau en acier inoxydable 18/10 BOCHEM avec rebord, destiné à un usage général en laboratoire. Dimensions longueur 375 mm x largeur 270 mm x hauteur 45 mm.",
+      "variant_name_fr": "375 mm x 270 mm mm",
+      "price_eur": 60.21,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Hauteur (mm)": "45 mm",
+        "Longueur (mm)": "375 mm",
+        "Largeur (mm)": "270 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200845900_20231211122004/humeau.com-plateau-inox-avec-rebord-dimensions-375x270x45mm-223963-223963-30.jpg"
+    },
+    {
+      "sku": "213967",
+      "slug": "plateau-rectangulaire-inox-l-245-x-p-175-x-h-30-mm-l-245-x-p-175-x-h-30-mm-plateau-rect",
+      "brand": "AGENCINOX",
+      "name_fr": "Plateau rectangulaire inox, L.245 x P.175 x H.30 mm",
+      "description_fr": "Plateau rectangulaire à instruments AGENCINOX en acier inoxydable, adapté à un usage multiple y compris en environnement médical. Dimensions L.245 x P.175 x H.30 mm.",
+      "variant_name_fr": "L.245 x P.175 x H.30 mm",
+      "price_eur": 12.5,
+      "specs_fr": {
+        "Dimensions": "L.245 x P.175 x H.30 mm",
+        "Matière": "Acier inoxydable"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15602420605_20231128163101/humeau.com-plateau-rectangulaire-inox-long-245-x-larg-175-x-h-30mm-213967-213967-30.jpg"
+    },
+    {
+      "sku": "213965",
+      "slug": "plateau-rectangulaire-inox-l-355-x-p-255-x-h-40-mm-l-355-x-p-255-x-h-40-mm-plateau-rect",
+      "brand": "AGENCINOX",
+      "name_fr": "Plateau rectangulaire inox, L.355 x P.255 x H.40 mm",
+      "description_fr": "Plateau rectangulaire à instruments AGENCINOX en acier inoxydable, adapté à un usage multiple y compris en environnement médical. Dimensions L.355 x P.255 x H.40 mm.",
+      "variant_name_fr": "L.355 x P.255 x H.40 mm",
+      "price_eur": 28.2,
+      "specs_fr": {
+        "Dimensions": "L.355 x P.255 x H.40 mm",
+        "Matière": "Acier inoxydable"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15602420602_20260217093102/humeau.com-plateau-rectangulaire-inox-long-355-x-larg-255-x-h-40mm-213965-213965-30.jpg"
+    }
+  ]
+}

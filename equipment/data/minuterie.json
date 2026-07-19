@@ -1,0 +1,256 @@
+{
+  "category": {
+    "slug": "minuterie",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Minuteurs et compteurs de laboratoire"
+    },
+    "description": {
+      "fr": "Minuteurs mécaniques et électroniques, compteurs et décompteurs pour chronométrer les protocoles et manipulations de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "208482",
+      "slug": "compte-minute-table-0-60mn",
+      "brand": "HUMEAU",
+      "name_fr": "Compte-minute de table mécanique, 0-60 min",
+      "description_fr": "Minuterie de table mécanique graduée de 0 à 60 minutes, avec sonnerie de fin de compte à rebours. Boîtier en plastique pour un usage courant en laboratoire ou en cuisine.",
+      "variant_name_fr": "0-60 min",
+      "price_eur": 11.8,
+      "specs_fr": {
+        "Matière": "Plastique",
+        "Pack": "1",
+        "Poids brut": "0.132 KG",
+        "Poids net": "0.132 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11504130003_20240502135101/humeau.com-compte-minute-de-table-o-60mn-208482-208482-30.jpg"
+    },
+    {
+      "sku": "600491",
+      "slug": "compteur-decompteur-100min",
+      "brand": "STIL",
+      "name_fr": "Compteur-décompteur électronique, 100 min",
+      "description_fr": "Minuteur électronique professionnel Stil d'une durée maximale de 99 min 59 s, avec affichage min/sec, fonction décompte dégressif ou progressif et chronomètre. Grand écran, deux niveaux de sonnerie, fixation par aimant, support ou anneau de suspension.",
+      "variant_name_fr": "100 min",
+      "price_eur": 11.1,
+      "specs_fr": {
+        "Alimentation": "1 x LR03 AAA",
+        "Pack": "1",
+        "Matériaux": "Electronique",
+        "Marque commerciale": "STIL",
+        "Poids brut": "0.095 KG",
+        "Poids net": "0.055 KG",
+        "Durée de mesure": "99min59sec"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600491_20251029151101/humeau.com-compteur-decompteur-100-min-600491-600491-30.jpg"
+    },
+    {
+      "sku": "217615",
+      "slug": "compteur-decompteur-100h-alarme",
+      "brand": "LABSOLUTE",
+      "name_fr": "Compteur-décompteur double, 100 h avec alarme",
+      "description_fr": "Minuteur Labsolute intégrant deux minuteries électroniques indépendantes (T1/T2) dans un seul appareil, idéal pour comparer différents temps de compte à rebours. Grand écran lisible, alarme sonore réglable sur trois niveaux et alarme visuelle, fixation par aimant, clip et support.",
+      "variant_name_fr": "100 h — double canal",
+      "price_eur": 22.56,
+      "specs_fr": {
+        "Dimensions": "L.90 x P.20 x H.75 mm",
+        "Alimentation": "Piles",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.13 KG",
+        "Poids net": "0.13 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100585600_20260504033001/humeau.com-compteur-decompteur-100h-avec-alarme-217615-217615-30.jpg"
+    },
+    {
+      "sku": "210980",
+      "slug": "compteur-decompteur-100h-alarme-retardee",
+      "brand": "HUMEAU",
+      "name_fr": "Compteur-décompteur 4 canaux, 100 h avec alarme retardée",
+      "description_fr": "Compteur-décompteur à 4 canaux indépendants, chacun programmable en compteur ou décompteur, avec mémoire du temps par canal, alarme comptant le dépassement de temps et fonction Snooze de 5 minutes. Livré avec béquille, pince, aimant et pile.",
+      "variant_name_fr": "100 h — 4 canaux",
+      "price_eur": 30.5,
+      "specs_fr": {
+        "Dimensions": "73 x 65 x 15 mm",
+        "Alimentation": "1 pile 357",
+        "Poids brut": "0.1 KG",
+        "Poids net": "0.06 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000044000_20251203122004/humeau.com-compteur-decompteur-100h-avec-alarme-retardee-210980-210980-30.jpg"
+    },
+    {
+      "sku": "210977",
+      "slug": "compteur-decompteur-2ecrans-24h-horloge",
+      "brand": "MOINEAU",
+      "name_fr": "Compteur-décompteur double écran 24 h avec horloge",
+      "description_fr": "Compteur-décompteur de table digital Moineau à double affichage, pour deux chronomètres indépendants ou une combinaison horloge/chronomètre, avec départs indépendants ou simultanés et capacité de 24 h maximum. À poser ou à accrocher, livré avec une pile.",
+      "variant_name_fr": "24 h — double écran",
+      "price_eur": 42.9,
+      "specs_fr": {
+        "Dimensions": "140 x 95 x 15 mm",
+        "Alimentation": "1 pile AAA",
+        "Marque commerciale": "MOINEAU"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000042300_20250129100102/humeau.com-compteur-decompteur-2-ecrans-24h-avec-horloge-210977-210977-30.jpg"
+    },
+    {
+      "sku": "210974",
+      "slug": "compteur-decompteur-24h",
+      "brand": "HUMEAU",
+      "name_fr": "Compteur-décompteur 24 h, façade aluminium",
+      "description_fr": "Compteur-décompteur disposant de deux compteurs et/ou deux décompteurs pouvant fonctionner simultanément, capacité 24 heures. Façade en aluminium résistante aux attaques acides, fonctions horloge et alarme avec Snooze, plusieurs modes de fixation (béquille, pince, aimant).",
+      "variant_name_fr": "24 h",
+      "price_eur": 15.1,
+      "specs_fr": {
+        "Support": "Béquille / Pince / Aimant",
+        "Dimension écran": "40x17mm / Chiffres 15mm",
+        "Mémoire de données": "Mémoire du temps programmé par canaux",
+        "Matériaux": "Façade aluminium",
+        "Dimensions extérieures H x L x P (mm)": "67x55x20 mm",
+        "Poids brut": "0.07 KG",
+        "Poids net": "0.07 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000041900_20250926112101/humeau.com-compteur-decompteur-24h-210974-210974-30.jpg"
+    },
+    {
+      "sku": "210986",
+      "slug": "compteur-decompteur-99min-alarme-sonore-visuelle",
+      "brand": "LABSOLUTE",
+      "name_fr": "Compteur-décompteur Jumbo 99 min, alarme sonore et visuelle",
+      "description_fr": "Minuteur Jumbo Labsolute à affichage extra large combinant alarme sonore et visuelle : le bouton s'allume en vert pendant le décompte, puis en rouge avec signal sonore à la fin. Triple fonction mémoire, alarme réglable sur trois niveaux, fixation par aimant, clip et support.",
+      "variant_name_fr": "99 min",
+      "price_eur": 27.6,
+      "specs_fr": {
+        "Dimensions": "L.90 x P.20 x H.60 mm",
+        "Alimentation": "2 piles AAA",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.089 KG",
+        "Poids net": "0.089 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000057900_20260504122001/humeau.com-compteur-decompteur-99min-alarme-sonore-et-visuelle-210986-210986-30.jpg"
+    },
+    {
+      "sku": "211050",
+      "slug": "compteur-decompteur-vibrant-20h-100min",
+      "brand": "HUMEAU",
+      "name_fr": "Compteur-décompteur vibrant, 20 h / 100 min, alarme sonore",
+      "description_fr": "Compteur-décompteur d'une capacité de 20 heures, avec alarme sonore, visuelle et vibrations, mémoire du temps programmé. Livré avec béquille, aimant, pince et deux piles AAA.",
+      "variant_name_fr": "20 h / 100 min",
+      "price_eur": 24.15,
+      "specs_fr": {
+        "Dimensions": "74 x 48 x 31 mm",
+        "Alimentation": "2 piles AAA"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000381900_20260115033003/humeau.com-compteur-decompteur-vibrant-20h-100min-alarme-sonore-211050-211050-30.jpg"
+    },
+    {
+      "sku": "213771",
+      "slug": "minuterie-theben-timer-0-24h-3500w",
+      "brand": "HUMEAU",
+      "name_fr": "Minuterie Theben-Timer 0-24 h, 3500 W",
+      "description_fr": "Interrupteur temporisé Theben permettant une mise en route différée de 0 à 24 heures, programmable par pas de 15 minutes, pour un pouvoir de coupure de 3500 W en 220 V.",
+      "variant_name_fr": "0-24 h — 3500 W",
+      "price_eur": 53.7,
+      "specs_fr": {
+        "Matière": "Plastique",
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213771_20250130173102/humeau.com-minuterie-theben-timer-0-24h-3500w-213771-213771-30.jpg"
+    },
+    {
+      "sku": "600251",
+      "slug": "minuteur-2-temps-bouton-rotatif",
+      "brand": "STIL",
+      "name_fr": "Minuteur à 2 temps avec bouton rotatif",
+      "description_fr": "Minuteur Stil d'une durée de 99 h 59 min 59 s, à double affichage permettant de surveiller deux cuissons ou manipulations simultanément. Mémoire à 3 temps, bouton rotatif pour une programmation rapide à la seconde près, alarme sonore réglable sur trois intensités et alarme visuelle par LED.",
+      "variant_name_fr": "2 temps",
+      "price_eur": 21.4,
+      "specs_fr": {
+        "Température d'utilisation": "0 à 99h59 min 59sec",
+        "Type de pile": "2 x AAA",
+        "Pack": "1",
+        "Précision": "1 sec",
+        "Marque commerciale": "STIL",
+        "Poids brut": "0.13 KG",
+        "Poids net": "0.092 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600251_20251121140102/humeau.com-minuteur-a-2-temps-avec-bouton-rotatif-600251-600251-30.jpg"
+    },
+    {
+      "sku": "219207",
+      "slug": "minuteur-compteur-decompteur-12-24h-2canaux",
+      "brand": "VWR",
+      "name_fr": "Minuteur compteur-décompteur numérique 12/24 h, 2 canaux",
+      "description_fr": "Minuteur numérique VWR affichant le compte à rebours avec alarme et chronomètre, ou une horloge 12/24 heures, sur deux canaux temporisés d'une capacité de 23 h 59 min 59 s chacun. Chiffres de 1 cm lisibles à 3 m, mémoire à deux canaux.",
+      "variant_name_fr": "12/24 h — 2 canaux",
+      "price_eur": 33.1,
+      "specs_fr": {
+        "Marque commerciale": "VWR"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219207_20250512122001/humeau.com-minuteur-compteur-decompteur-12-24h-numerique-2-canaux-18106090221-219207-30.jpg"
+    },
+    {
+      "sku": "277890",
+      "slug": "minuteur-digital-100mn-compteur-decompteur",
+      "brand": "MOINEAU",
+      "name_fr": "Minuteur digital 100 min, compteur-décompteur",
+      "description_fr": "Minuteur digital Moineau extra plat, doté d'un puissant aimant en néodyme permettant de le fixer sur toute surface métallique (hotte, réfrigérateur, support mural). Capacité de 99 min 59 s, écran large à chiffres de 20 mm, alarme sonore de 65 dB, extinction automatique après 10 minutes d'inactivité.",
+      "variant_name_fr": "100 min",
+      "price_eur": 6.8,
+      "specs_fr": {
+        "Marque commerciale": "MOINEAU",
+        "Poids brut": "0.035 KG",
+        "Poids net": "0.035 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/277890_20250825160103/humeau.com-minuteur-digital-100mn-compteur-decompteur-277890-277890-30.jpg"
+    },
+    {
+      "sku": "260727",
+      "slug": "minuteur-mecanique-0-120min",
+      "brand": "LABSOLUTE",
+      "name_fr": "Minuteur mécanique Labsolute, 0-120 min",
+      "description_fr": "Minuteur mécanique Labsolute au boîtier blanc robuste avec bouton rotatif et échelle noire, ne nécessitant pas de piles. Options de fixation variables, y compris par autocollant sur surfaces lisses.",
+      "variant_name_fr": "0-120 min",
+      "price_eur": 12.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L.68 x P.40 x H.68 mm",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001810_20260504033001/humeau.com-minuteur-mecanique-0-120-min-260727-260727-30.jpg"
+    },
+    {
+      "sku": "600266",
+      "slug": "minuteur-mecanique-0-60mn-inox",
+      "brand": "STIL",
+      "name_fr": "Minuteur mécanique de cuisine en inox, 0-60 min",
+      "description_fr": "Minuteur mécanique professionnel Stil en inox, avec sonnerie puissante (70 dB) et longue (8 secondes). Il se règle en remontant complètement le bouton jusqu'à 60 minutes puis en redescendant au temps souhaité. Dessous en silicone antidérapant.",
+      "variant_name_fr": "0-60 min",
+      "price_eur": 12.7,
+      "specs_fr": {
+        "Pack": "1",
+        "Précision": "1",
+        "Résolution": "1min",
+        "Marque commerciale": "STIL",
+        "Poids brut": "0.14 KG",
+        "Poids net": "0.128 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600266_20260209103101/humeau.com-minuteur-mecanique-0-60mm-600266-600266-30.jpg"
+    },
+    {
+      "sku": "600264",
+      "slug": "minuteur-mecanique-60min-aimante",
+      "brand": "STIL",
+      "name_fr": "Minuteur mécanique aimanté, 60 minutes",
+      "description_fr": "Minuteur mécanique Stil en inox à aimanter, avec zone de couleur indiquant le temps restant. Fonctionne sans pile ni électricité, plage de réglage de 60 minutes.",
+      "variant_name_fr": "60 min",
+      "price_eur": 6.3,
+      "specs_fr": {
+        "Pack": "1",
+        "Précision": "+/- 1 seconde",
+        "Marque commerciale": "STIL"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600264_20250820122002/humeau.com-minuteur-mecanique-60-minutes-600264-600264-30.jpg"
+    }
+  ]
+}

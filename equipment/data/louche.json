@@ -1,0 +1,248 @@
+{
+  "category": {
+    "slug": "louche",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Louches et pelles de prélèvement"
+    },
+    "description": {
+      "fr": "Louches, mesureurs et pelles de prélèvement en acier inoxydable, laiton ou aluminium, utilisés pour le prélèvement et le transfert d'échantillons liquides ou pulvérulents en laboratoire et en industrie agroalimentaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "211525",
+      "slug": "louche-a-mouler-inox-sans-bec-340ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Louche à mouler en inox sans bec, Ø 110 mm, 340 mL",
+      "description_fr": "Louche à mouler en acier inoxydable, sans bec verseur, munie d'un manche de 200 mm. Diamètre de 110 mm pour une capacité de 340 mL, adaptée au transfert et au moulage d'échantillons en laboratoire.",
+      "variant_name_fr": "Ø 110 mm — 340 mL",
+      "price_eur": 41.7,
+      "specs_fr": {
+        "Dimensions": "Ø 110 x L 200 mm",
+        "Matière": "Acier inoxydable",
+        "Capacité (mL)": "340",
+        "Diamètre ext. corps": "110 mm",
+        "Conditionnement": "1",
+        "Poids net": "0.225 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/3/13204111011_20260619110102/humeau.com-louche-a-mouler-en-inox-sans-bec-d-110mm-l-200mm-cap-340ml-211525-211525-30.jpg"
+    },
+    {
+      "sku": "211524",
+      "slug": "louche-a-mouler-inox-sans-bec-135ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Louche à mouler en inox sans bec, Ø 80 mm, 135 mL",
+      "description_fr": "Louche à mouler en acier inoxydable, sans bec verseur, munie d'un manche de 200 mm. Diamètre de 80 mm pour une capacité de 135 mL, adaptée au transfert et au moulage d'échantillons en laboratoire.",
+      "variant_name_fr": "Ø 80 mm — 135 mL",
+      "price_eur": 40.8,
+      "specs_fr": {
+        "Dimensions": "Ø 80 x L 200 mm",
+        "Matière": "Acier inoxydable",
+        "Capacité (mL)": "135",
+        "Diamètre ext. corps": "80 mm",
+        "Conditionnement": "1",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/3/13204111008_20220505200331/humeau.com-louche-a-mouler-en-inox-sans-bec-d-80mm-l-200mm-cap-135ml-13204111008-211524-30.jpg"
+    },
+    {
+      "sku": "214723",
+      "slug": "louche-prelevement-inox-sans-bec-manche-450mm",
+      "brand": "HUMEAU",
+      "name_fr": "Louche de prélèvement en inox sans bec, manche 450 mm",
+      "description_fr": "Louche de prélèvement en acier inoxydable, sans bec verseur, dotée d'un long manche de 450 mm et d'une soudure repolie évitant tout foyer d'infection bactérienne. Conçue pour le prélèvement d'échantillons à distance.",
+      "variant_name_fr": "Manche 450 mm",
+      "price_eur": 43.3,
+      "specs_fr": {
+        "Dimensions": "Ø 80 x L 450 mm",
+        "Matière": "Inox",
+        "Capacité (mL)": "120",
+        "Conditionnement": "1",
+        "Poids net": "0.285 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/6/16201112000_20230921153101/humeau.com-louche-a-prelevement-en-inox-sans-bec-d-90mm-long-450mm-214723-214723-30.jpg"
+    },
+    {
+      "sku": "223986",
+      "slug": "louche-inox-manche-plat-315mm",
+      "brand": "BOCHEM",
+      "name_fr": "Louche inox à manche plat, Ø 100 mm, longueur 315 mm",
+      "description_fr": "Louche en acier inoxydable 18/10 à manche plat, longueur totale de 315 mm et diamètre de 100 mm, pour une capacité d'environ 220 mL. Adaptée au transfert de produits en laboratoire.",
+      "variant_name_fr": "Ø 100 mm — 315 mm",
+      "price_eur": 40.07,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Volume": "220 ml",
+        "Diamètre (mm)": "100",
+        "Longueur (mm)": "315",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200874200_20220505202054/humeau.com-louche-inox-manche-plat-d-100mm-longueur-315mm-22200874200-223986-30.jpg"
+    },
+    {
+      "sku": "223987",
+      "slug": "louche-inox-manche-plat-345mm",
+      "brand": "BOCHEM",
+      "name_fr": "Louche inox à manche plat, Ø 140 mm, longueur 345 mm",
+      "description_fr": "Louche en acier inoxydable 18/10 à manche plat, longueur totale de 345 mm et diamètre de 140 mm, pour une capacité d'environ 620 mL. Adaptée au transfert de volumes plus importants en laboratoire.",
+      "variant_name_fr": "Ø 140 mm — 345 mm",
+      "price_eur": 63.39,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Volume": "620 ml",
+        "Diamètre (mm)": "140",
+        "Longueur (mm)": "345",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200874300_20220505202054/humeau.com-louche-inox-manche-plat-d-140mm-longueur-345mm-22200874300-223987-30.jpg"
+    },
+    {
+      "sku": "223993",
+      "slug": "louche-inox-manche-rond-250ml",
+      "brand": "BOCHEM",
+      "name_fr": "Louche inox à manche rond, Ø 100 mm, 250 mL",
+      "description_fr": "Louche en acier inoxydable 18/10 à manche rond, longueur totale de 400 mm et diamètre de 100 mm, pour une capacité de 250 mL. Convient au transfert de liquides ou de produits en poudre en laboratoire.",
+      "variant_name_fr": "Ø 100 mm — 250 mL",
+      "price_eur": 58.54,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Volume": "250 ml",
+        "Diamètre (mm)": "100 mm",
+        "Longueur (mm)": "400 mm",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200879400_20241003152101/humeau.com-louche-inox-manche-rond-d-100mm-l-400mm-cap-250ml-223993-223993-30.jpg"
+    },
+    {
+      "sku": "223991",
+      "slug": "louche-inox-manche-rond-100ml",
+      "brand": "BOCHEM",
+      "name_fr": "Louche inox à manche rond, Ø 70 mm, 100 mL",
+      "description_fr": "Louche en acier inoxydable 18/10 à manche rond, longueur totale de 300 mm et diamètre de 70 mm, pour une capacité de 100 mL. Format compact adapté aux petits prélèvements de laboratoire.",
+      "variant_name_fr": "Ø 70 mm — 100 mL",
+      "price_eur": 42.96,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Acier inox 18/10",
+        "Volume": "100 ml",
+        "Diamètre (mm)": "70 mm",
+        "Longueur (mm)": "300 mm",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200879100_20260505153103/humeau.com-louche-inox-manche-rond-d-70mm-l-300mm-cap-100ml-223991-223991-30.jpg"
+    },
+    {
+      "sku": "223992",
+      "slug": "louche-inox-manche-rond-175ml",
+      "brand": "BOCHEM",
+      "name_fr": "Louche inox à manche rond, Ø 80 mm, 175 mL",
+      "description_fr": "Louche en acier inoxydable 18/10 à manche rond, longueur totale de 300 mm et diamètre de 80 mm, pour une capacité de 175 mL. Adaptée au prélèvement d'échantillons de laboratoire.",
+      "variant_name_fr": "Ø 80 mm — 175 mL",
+      "price_eur": 44.84,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Volume": "175 ml",
+        "Diamètre (mm)": "80 mm",
+        "Longueur (mm)": "300 mm",
+        "Poids net": "0.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200879200_20220505202054/humeau.com-louche-inox-manche-rond-d-80mm-l-300mm-cap-175ml-22200879200-223992-30.jpg"
+    },
+    {
+      "sku": "249745",
+      "slug": "mesureur-echantillon-lait-laiton-10ml",
+      "brand": "HUMEAU",
+      "name_fr": "Mesureur pour échantillon de lait en laiton, 10 mL",
+      "description_fr": "Préleveur d'échantillons de lait en laiton nickelé, muni d'une valve et stérilisable. Capacité de 10 mL, destiné au prélèvement normalisé d'échantillons de lait.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 117.9,
+      "specs_fr": {
+        "Volume": "10 ml",
+        "Conditionnement": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/4/64002000400_20240823171102/humeau.com-mesureur-pour-echantillon-a-lait-en-laiton-capacite-10ml-249745-249745-30.jpg"
+    },
+    {
+      "sku": "223996",
+      "slug": "pelle-prelevement-alu-50ml",
+      "brand": "BOCHEM",
+      "name_fr": "Pelle de prélèvement en aluminium, Ø 24 mm, 50 mL",
+      "description_fr": "Pelle de prélèvement en aluminium destinée au prélèvement de produits chimiques solides ou pulvérulents. Diamètre de la pelle de 24 mm, longueur de 135 mm, capacité d'environ 50 mL.",
+      "variant_name_fr": "Ø 24 mm — 50 mL",
+      "price_eur": 4.4,
+      "specs_fr": {
+        "Capacité (mL)": "50 mL",
+        "Diamètre (mm)": "24 mm",
+        "Longueur (mm)": "135 mm",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200881600_20231006113101/humeau.com-pelle-de-prelevement-en-alu-d-24mm-l-80-135mm-cap-50ml-223996-223996-30.jpg"
+    },
+    {
+      "sku": "223997",
+      "slug": "pelle-prelevement-alu-90ml",
+      "brand": "BOCHEM",
+      "name_fr": "Pelle de prélèvement en aluminium, Ø 32 mm, 90 mL",
+      "description_fr": "Pelle de prélèvement en aluminium destinée au prélèvement de produits chimiques solides ou pulvérulents. Diamètre de la pelle de 32 mm, longueur de 185 mm, capacité d'environ 90 mL.",
+      "variant_name_fr": "Ø 32 mm — 90 mL",
+      "price_eur": 8.19,
+      "specs_fr": {
+        "Capacité (mL)": "90 mL",
+        "Diamètre (mm)": "32 mm",
+        "Longueur (mm)": "185 mm",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200881800_20220707150101/humeau.com-pelle-de-prelevement-en-alu-d-32mm-l-115-185mm-cap-90ml-22200881800-223997-30.jpg"
+    },
+    {
+      "sku": "223998",
+      "slug": "pelle-prelevement-alu-160ml",
+      "brand": "BOCHEM",
+      "name_fr": "Pelle de prélèvement en aluminium, Ø 37 mm, 160 mL",
+      "description_fr": "Pelle de prélèvement en aluminium destinée au prélèvement de produits chimiques solides ou pulvérulents. Diamètre de la pelle de 37 mm, longueur de 210 mm, capacité d'environ 160 mL.",
+      "variant_name_fr": "Ø 37 mm — 160 mL",
+      "price_eur": 9.86,
+      "specs_fr": {
+        "Capacité (mL)": "160 mL",
+        "Diamètre (mm)": "37 mm",
+        "Longueur (mm)": "210 mm",
+        "Poids net": "0.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200881900_20240327090103/humeau.com-pelle-de-prelevement-en-alu-d-37mm-l-120-210mm-cap-160ml-223998-223998-30.jpg"
+    },
+    {
+      "sku": "224000",
+      "slug": "pelle-prelevement-alu-400ml",
+      "brand": "BOCHEM",
+      "name_fr": "Pelle de prélèvement en aluminium, Ø 55 mm, 400 mL",
+      "description_fr": "Pelle de prélèvement en aluminium destinée au prélèvement de produits chimiques solides ou pulvérulents. Diamètre de la pelle de 55 mm, longueur de 290 mm, capacité d'environ 400 mL.",
+      "variant_name_fr": "Ø 55 mm — 400 mL",
+      "price_eur": 19.45,
+      "specs_fr": {
+        "Capacité (mL)": "400 mL",
+        "Diamètre (mm)": "55 mm",
+        "Longueur (mm)": "290 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200882100_20231005145101/humeau.com-pelle-de-prelevement-en-alu-d-55mm-l-175-290mm-cap-400ml-224000-224000-30.jpg"
+    },
+    {
+      "sku": "224001",
+      "slug": "pelle-prelevement-alu-900ml",
+      "brand": "BOCHEM",
+      "name_fr": "Pelle de prélèvement en aluminium, Ø 63 mm, 900 mL",
+      "description_fr": "Pelle de prélèvement en aluminium destinée au prélèvement de produits chimiques solides ou pulvérulents. Diamètre de la pelle de 63 mm, longueur de 350 mm, capacité d'environ 900 mL.",
+      "variant_name_fr": "Ø 63 mm — 900 mL",
+      "price_eur": 33.26,
+      "specs_fr": {
+        "Capacité (mL)": "900 mL",
+        "Diamètre (mm)": "63 mm",
+        "Longueur (mm)": "350 mm",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200882300_20231005145103/humeau.com-pelle-de-prelevement-en-alu-d-63mm-l-220-350mm-cap-900ml-224001-224001-30.jpg"
+    }
+  ]
+}

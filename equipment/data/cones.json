@@ -1,0 +1,240 @@
+{
+  "category": {
+    "slug": "cones",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Cônes et pointes de laboratoire"
+    },
+    "description": {
+      "fr": "Cônes d'Imhoff pour la sédimentation des eaux, joints coniques en caoutchouc pour montages de filtration, et pointes de pipette à filtre ou standards pour micropipettage, en différents volumes et conditionnements."
+    }
+  },
+  "products": [
+    {
+      "sku": "206030",
+      "slug": "cone-imhoff-san-bouchon-vis-1l",
+      "brand": "KARTELL",
+      "name_fr": "Cône d'Imhoff en plastique SAN avec bouchon à vis, 1 L",
+      "description_fr": "Cône d'Imhoff transparent en styrène acrylonitrile (SAN), conforme à la norme DIN 12672, destiné aux tests de sédimentation dans l'analyse des eaux et eaux usées. Graduations progressives (0,1 mL de 0 à 2 mL, jusqu'à 50 mL de 100 à 1000 mL) pour une lecture précise du volume de sédiments. Bouchon à vis à la base facilitant la vidange, utilisable jusqu'à 85 °C.",
+      "variant_name_fr": "1 L",
+      "price_eur": 68.9,
+      "specs_fr": {
+        "Capacité": "1000 mL",
+        "Poids net": "0.26 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/206030_20260311091101/humeau.com-cone-d-imhoff-en-plastique-san-avec-bouchon-a-vis-capacite-1l-206030-206030-30.jpg"
+    },
+    {
+      "sku": "205586",
+      "slug": "cone-imhoff-verre-pyrex-1000ml",
+      "brand": "HUMEAU",
+      "name_fr": "Cône d'Imhoff en verre Pyrex, 1000 mL",
+      "description_fr": "Cône d'Imhoff en verre borosilicaté Pyrex, gradué jusqu'à 1000 mL, conforme à la norme DIN 12672, pour la détermination de la quantité de sédiments dans les eaux de rejet.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 296.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité": "1000 mL",
+        "Matériaux": "Verre Pyrex",
+        "Poids net": "0.765 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700530000_20250122122001/humeau.com-cone-d-imhoff-en-verre-pyrex-mbl-1000ml-205586-205586-30.jpg"
+    },
+    {
+      "sku": "258802",
+      "slug": "cone-sedimentation-imhoff-boro-sans-robinet-1l",
+      "brand": "HUMEAU",
+      "name_fr": "Cône de sédimentation d'Imhoff en verre borosilicaté, sans robinet, 1 L",
+      "description_fr": "Cône de sédimentation d'Imhoff en verre borosilicaté 3.3, conforme à la norme DIN 12672, avec graduations et inscriptions émaillées blanches pour un meilleur contraste et trait circulaire à 1000 mL.",
+      "variant_name_fr": "1 L — sans robinet",
+      "price_eur": 123.7,
+      "specs_fr": {
+        "Graduation": "Jusqu'à 1000 mL",
+        "Conditionnement": "1",
+        "Poids net": "0.5 kg",
+        "Type": "Sans robinet"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/258802_20250704144101/humeau.com-cone-de-sedimentation-d-imhoff-verre-boro-sans-robinet-1l-258802-258802-30.jpg"
+    },
+    {
+      "sku": "223401",
+      "slug": "joint-conique-caoutchouc-53mm-pack-10",
+      "brand": "HUMEAU",
+      "name_fr": "Joints coniques en caoutchouc, Ø 53 mm — lot de 10",
+      "description_fr": "Joints coniques en caoutchouc destinés au montage d'un creuset Gooch sur un entonnoir adaptateur ou d'un entonnoir filtrant Büchner sur un flacon filtrant, créant une étanchéité au gaz pour les applications de filtration sous vide.",
+      "variant_name_fr": "Ø 53 mm — lot de 10",
+      "price_eur": 121.7,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Poids net": "0.178 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/223401_20250630094101/humeau.com-joint-conique-en-caoutchouc-d-53mm-pack-de-10-223401-223401-30.jpg"
+    },
+    {
+      "sku": "260593",
+      "slug": "joint-conique-caoutchouc-33mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Joint conique en caoutchouc, Ø 33 mm",
+      "description_fr": "Joint conique en caoutchouc, Ø 33 mm, destiné au montage étanche d'accessoires de filtration en laboratoire.",
+      "variant_name_fr": "Ø 33 mm",
+      "price_eur": 13.0,
+      "specs_fr": {
+        "Poids net": "0.023 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/260593_20250630131101/humeau.com-joint-conique-en-caoutchouc-diam-33mm-260593-260593-30.jpg"
+    },
+    {
+      "sku": "209319",
+      "slug": "pointe-filtre-art-1000ul-pack-800",
+      "brand": "THERMO",
+      "name_fr": "Pointes de pipette à filtre ART 1000 µL — lot de 800",
+      "description_fr": "Pointes de pipette longues à filtre, conçues pour limiter la contamination en empêchant la tige de la pipette d'entrer en contact avec l'échantillon. Large orifice adapté à l'ADN génomique, aux lignées cellulaires fragiles et aux matériaux visqueux, protection contre les solvants agressifs (acides, bases, solvants organiques), certifiées exemptes de RNase, DNase et pyrogènes.",
+      "variant_name_fr": "1000 µL — lot de 800",
+      "price_eur": 164.0,
+      "specs_fr": {
+        "Conditionnement": "800",
+        "Stérile": "Oui",
+        "Capacité": "1000 µL",
+        "Longueur": "79 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610045460_20230731104107/humeau.com-pointe-filtre-art-1000ul-pack-de-800-209319-209319-30.jpg"
+    },
+    {
+      "sku": "209309",
+      "slug": "pointe-filtre-art-200ul-pack-960",
+      "brand": "THERMO",
+      "name_fr": "Pointes de pipette à filtre ART 200 µL — lot de 960",
+      "description_fr": "Pointes de pipette à filtre pour micropipettage précis, certifiées stériles et exemptes de DNase, conditionnées en rack de 10 x 96.",
+      "variant_name_fr": "200 µL — lot de 960",
+      "price_eur": 189.0,
+      "specs_fr": {
+        "Stérile": "Oui",
+        "Volume": "1-200 µL",
+        "Conditionnement": "Rack 10 x 96",
+        "Type": "ART200 DNase filtre"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610029040_20230731104107/humeau.com-pointe-filtre-art-200ul-pack-de-960-209309-209309-30.jpg"
+    },
+    {
+      "sku": "209344",
+      "slug": "pointe-filtre-art-reach-10ul-pack-960",
+      "brand": "THERMO",
+      "name_fr": "Pointes de pipette à filtre ART Reach 10 µL — lot de 960",
+      "description_fr": "Pointes de pipette longues à filtre, conçues pour limiter la contamination en empêchant la tige de la pipette d'entrer en contact avec l'échantillon. Large orifice adapté à l'ADN génomique, aux lignées cellulaires fragiles et aux matériaux visqueux, protection contre les solvants agressifs, certifiées exemptes de RNase, DNase et pyrogènes.",
+      "variant_name_fr": "10 µL — lot de 960",
+      "price_eur": 169.0,
+      "specs_fr": {
+        "Conditionnement": "960",
+        "Stérile": "Oui",
+        "Capacité": "10 µL",
+        "Longueur": "43.3 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610078950_20230731104107/humeau.com-pointe-filtre-art-reach-10ul-pack-de-960-209344-209344-30.jpg"
+    },
+    {
+      "sku": "255608",
+      "slug": "pointes-eppendorf-eptips-0-1-10ul-vrac-2x500",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. Standard 0,1-10 µL, en vrac — 2 x 500",
+      "description_fr": "Pointes de pipette Eppendorf Quality de 1 à 10 µL, incolores, conditionnées dans des sachets refermables de 500 unités. Autoclavables à 121 °C pendant 20 minutes, conformes à la norme EN ISO 8655.",
+      "variant_name_fr": "0,1-10 µL — vrac 2x500",
+      "price_eur": 89.6,
+      "specs_fr": {
+        "Conditionnement": "2 sachets de 500",
+        "Capacité": "1-10 µL",
+        "Couleur": "Gris",
+        "Longueur": "34 mm",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80203364202_20220505215241/humeau.com-pointes-eppendorf-eptips-0-1-10ul-vrac-pack-2x500-80203364202-255608-30.jpg"
+    },
+    {
+      "sku": "209416",
+      "slug": "pointes-eppendorf-eptips-100-5000ul-vrac-5x100-a",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. 100-5000 µL, en vrac — 5 x 100",
+      "description_fr": "Pointes de pipette Eppendorf pour volumes de 100 à 5000 µL, conditionnées en vrac par sachets de 100.",
+      "variant_name_fr": "100-5000 µL — vrac 5x100",
+      "price_eur": 88.5,
+      "specs_fr": {
+        "Poids net": "1.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610157291_20230711103101/humeau.com-pointes-eppendorf-eptips-100-5000ul-vrac-pack-5x100-209416-209416-30.jpg"
+    },
+    {
+      "sku": "255614",
+      "slug": "pointes-eppendorf-eptips-100-5000ul-vrac-5x100-b",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. Standard 100-5000 µL, en vrac — 5x100",
+      "description_fr": "Pointes de pipette originales Eppendorf, conditionnées en vrac, disponibles en plusieurs tailles de 10 µL à 10 000 µL.",
+      "variant_name_fr": "100-5000 µL — vrac 5x100",
+      "price_eur": 61.3,
+      "specs_fr": {
+        "Volume": "100 à 5000 µL",
+        "Couleur": "Violet",
+        "Longueur": "120,0 mm",
+        "Conditionnement": "5 sachets de 100 (500 pointes)",
+        "Poids net": "1.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255614_20250704151101/humeau.com-pointes-eppendorf-eptips-100-5000ul-vrac-pack-5x100-255614-255614-30.jpg"
+    },
+    {
+      "sku": "255593",
+      "slug": "pointes-eppendorf-eptips-1000-10000ul-vrac-2x100",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. 1000-10000 µL, en vrac — 2x100",
+      "description_fr": "Pointes de pipette à forme conique et ergonomique, apportant souplesse et une meilleure étanchéité lors des applications de laboratoire.",
+      "variant_name_fr": "1000-10000 µL — vrac 2x100",
+      "price_eur": 110.6,
+      "specs_fr": {
+        "Poids net": "1.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255593_20221125155102/humeau.com-pointes-eppendorf-eptips-1000-10000ul-vrac-pack-2x100-80203332802-255593-30.jpg"
+    },
+    {
+      "sku": "218712",
+      "slug": "pointes-eppendorf-eptips-2-200ul-vrac-2x500",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. Standard 2-200 µL, en vrac — 2x500",
+      "description_fr": "Pointes de pipette Eppendorf sans marquage, coloris jaune, longueur 53 mm, conditionnées en vrac par sachets de 500.",
+      "variant_name_fr": "2-200 µL — vrac 2x500",
+      "price_eur": 55.3,
+      "specs_fr": {
+        "Conditionnement": "1000",
+        "Poids net": "0.49 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218712_20240626130104/humeau.com-pointes-eppendorf-eptips-2-200ul-vrac-pack-2x500-218712-218712-30.jpg"
+    },
+    {
+      "sku": "255612",
+      "slug": "pointes-eppendorf-eptips-50-1000ul-vrac-2x500",
+      "brand": "EPPENDORF",
+      "name_fr": "Pointes Eppendorf epT.I.P.S. 50-1000 µL, en vrac — 2x500",
+      "description_fr": "Pointes de pipette non stériles à embout souple et flexible, compatibles avec les micropipettes Eppendorf, assurant une meilleure étanchéité grâce à leur conception ergonomique. Conditionnées en sachets refermables.",
+      "variant_name_fr": "50-1000 µL — vrac 2x500",
+      "price_eur": 55.3,
+      "specs_fr": {
+        "Volume": "50-1000 µL",
+        "Couleur": "Bleu",
+        "Longueur": "71 mm",
+        "Conditionnement": "2 sachets de 500 pointes",
+        "Poids net": "0.925 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80203364702_20241218100101/humeau.com-pointes-eppendorf-eptips-50-1000ul-vrac-pack-2x500-255612-255612-30.jpg"
+    },
+    {
+      "sku": "217698",
+      "slug": "serie-cones-caoutchouc-buchner-7-pieces",
+      "brand": "KARTELL",
+      "name_fr": "Série de cônes en caoutchouc pour Büchner — série de 7",
+      "description_fr": "Jeu de 7 adaptateurs coniques en caoutchouc de tailles différentes (de Ø ext. 21 mm à 86 mm), destinés aux entonnoirs de Büchner.",
+      "variant_name_fr": "Série de 7",
+      "price_eur": 46.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/217698_20250721163102/humeau.com-serie-de-cones-caoutchouc-pour-buchner-serie-de-7-217698-217698-30.jpg"
+    }
+  ]
+}

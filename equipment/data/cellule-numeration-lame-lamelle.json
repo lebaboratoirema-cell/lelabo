@@ -1,0 +1,267 @@
+{
+  "category": {
+    "slug": "cellule-numeration-lame-lamelle",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Cellules de numération"
+    },
+    "description": {
+      "fr": "Cellules de numération de type Malassez, Bürker, Neubauer, Thoma, Türk, Nageotte et Fuchs-Rosenthal, pour le comptage manuel des cellules sanguines et d'autres suspensions cellulaires au microscope."
+    }
+  },
+  "products": [
+    {
+      "sku": "207363",
+      "slug": "cellule-malassez-quadrillage-double-ce",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Malassez, quadrillage double, marquage CE",
+      "description_fr": "Cellule de numération de Malassez KARL HECHT, quadrillage double sans pinces, profondeur 0,2 mm. Surface totale de comptage de 5 mm² répartie en 100 rectangles de 0,20 x 0,25 mm, eux-mêmes subdivisés en carrés et rectangles de tailles différentes pour affiner le comptage cellulaire. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 51.2,
+      "specs_fr": {
+        "Quadrillage": "Double, sans pinces",
+        "Profondeur": "0,2 mm",
+        "Surface totale de comptage": "5 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10000000026_20260312153102/humeau.com-cellule-de-malassez-quadrillage-double-avec-marquage-ce-207363-207363-30.jpg"
+    },
+    {
+      "sku": "207349",
+      "slug": "cellule-burker-ce-quadrillage-double",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Bürker, quadrillage double, CE",
+      "description_fr": "Cellule de numération de Bürker KARL HECHT, pour le comptage des thrombocytes et des érythrocytes. Quadrillage double sans pince, profondeur 0,1 mm, marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 50.2,
+      "specs_fr": {
+        "Quadrillage": "Double, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10000000012_20240108161101/humeau.com-cellule-de-num-burker-ce-quadrillage-double-207349-207349-30.jpg"
+    },
+    {
+      "sku": "207352",
+      "slug": "cellule-burker-ce-reseau-metallise-pince",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Bürker, réseau métallisé, avec pinces, CE",
+      "description_fr": "Cellule de numération de Bürker KARL HECHT pour le comptage des thrombocytes et des érythrocytes, en version quadrillage double métallisé avec pinces. Quadrillage composé de 9 grands carrés de 1 mm² chacun, eux-mêmes divisés en 16 groupes de carrés de 0,2 x 0,2 mm, jusqu'à des carrés minuscules de 0,0025 mm². Marquage CE.",
+      "variant_name_fr": "Quadrillage double, métallisé, avec pinces",
+      "price_eur": 138.3,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, métallisé, avec pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "9 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207352_20251128094102/humeau.com-cellule-de-num-burker-ce-reseau-metallise-et-pince-10000000015-207352-30.jpg"
+    },
+    {
+      "sku": "207353",
+      "slug": "cellule-burker-turk-ce-quadrillage-double",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération Bürker/Türk, quadrillage double, CE",
+      "description_fr": "Cellule de numération combinant les systèmes Bürker et Thoma, en quadrillage double sans pince. 9 grands carrés de 1 mm² chacun, composés de 16 groupes de carrés de 0,2 x 0,2 mm, avec un carré central subdivisé en 16 carrés minuscules de 0,05 x 0,05 mm. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 59.5,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207353_20240201154101/humeau.com-cellule-de-num-burker-turk-ce-quadrillage-double-10000000016-207353-30.jpg"
+    },
+    {
+      "sku": "207354",
+      "slug": "cellule-burker-turk-ce-quadrillage-double-pince",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération Bürker/Türk, quadrillage double, avec pinces, CE",
+      "description_fr": "Cellule de numération combinant les systèmes Bürker et Thoma, en quadrillage double avec pinces de maintien de la lamelle. 9 grands carrés de 1 mm² chacun, composés de 16 groupes de carrés de 0,2 x 0,2 mm, avec un carré central subdivisé en 16 carrés minuscules de 0,05 x 0,05 mm. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, avec pinces",
+      "price_eur": 80.4,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, avec pinces",
+        "Profondeur": "0,1 mm",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207354_20251128094102/humeau.com-cellule-de-num-burker-turk-ce-quadrillage-double-pince-10000000017-207354-30.jpg"
+    },
+    {
+      "sku": "207358",
+      "slug": "cellule-fuchs-rosenthal-ce-quadrillage-double-metallise",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération Fuchs-Rosenthal, quadrillage double métallisé, CE",
+      "description_fr": "Cellule de numération de Fuchs-Rosenthal KARL HECHT, très utilisée pour le comptage cellulaire du liquide céphalorachidien. Surface totale de comptage de 16 mm², répartie en 16 grands carrés de 1 mm² chacun, eux-mêmes divisés en 16 carrés minuscules de 0,25 x 0,25 mm. Quadrillage double, métallisé, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, métallisé, sans pinces",
+      "price_eur": 105.4,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, métallisé, sans pinces",
+        "Profondeur": "0,2 mm",
+        "Surface totale de comptage": "16 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207358_20251128094102/humeau.com-cellule-de-num-fuchs-rosenthal-ce-quad-double-res-metal-10000000021-207358-30.jpg"
+    },
+    {
+      "sku": "207356",
+      "slug": "cellule-fuchs-rosenthal-ce-quadrillage-double",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération Fuchs-Rosenthal, quadrillage double, CE",
+      "description_fr": "Cellule de numération de Fuchs-Rosenthal KARL HECHT, très utilisée pour le comptage cellulaire du liquide céphalorachidien. Surface totale de comptage de 16 mm², répartie en 16 grands carrés de 1 mm² chacun, eux-mêmes divisés en 16 carrés minuscules de 0,25 x 0,25 mm. Quadrillage double, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 50.2,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, sans pinces",
+        "Profondeur": "0,2 mm",
+        "Surface totale de comptage": "16 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207356_20251128094102/humeau.com-cellule-de-num-fuchs-rosenthal-ce-quadrillage-double-10000000019-207356-30.jpg"
+    },
+    {
+      "sku": "207364",
+      "slug": "cellule-nageotte-ce-quadrillage-simple",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Nageotte, quadrillage simple, CE",
+      "description_fr": "Cellule de numération de Nageotte KARL HECHT, dédiée au comptage des cellules du liquide céphalo-rachidien. Surface totale de comptage de 100 mm², divisée en 40 rectangles de 10 x 0,25 mm chacun (2,5 mm²), avec une ligne double marquant le milieu de la cellule. Quadrillage simple, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage simple, sans pinces",
+      "price_eur": 71.5,
+      "specs_fr": {
+        "Modèle": "Quadrillage simple, sans pinces",
+        "Profondeur": "0,5 mm",
+        "Surface totale de comptage": "100 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE",
+        "Poids net": "0.044 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207364_20250317094101/humeau.com-cellule-de-num-nageotte-ce-quadrillage-simple-207364-207364-30.jpg"
+    },
+    {
+      "sku": "207371",
+      "slug": "cellule-neubauer-am-ce-quadrillage-double-metallise",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Neubauer amélioré, quadrillage double métallisé, CE",
+      "description_fr": "Cellule de numération de Neubauer amélioré KARL HECHT, pour le comptage des érythrocytes et des leucocytes. Quadrillage de 9 grands carrés de 1 mm² (9 mm² au total), le carré central étant subdivisé en 25 groupes de 16 carrés minuscules de 0,05 x 0,05 mm ; des lignes intermédiaires triples de chaque côté des groupes de carrés facilitent le repérage de la ligne médiane de comptage. Quadrillage double, métallisé, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, métallisé, sans pinces",
+      "price_eur": 105.4,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, métallisé, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "9 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207371_20251128094118/humeau.com-cellule-de-num-neubauer-am-ce-quad-double-res-metal-10000000034-207371-30.jpg"
+    },
+    {
+      "sku": "207368",
+      "slug": "cellule-neubauer-ce-quadrillage-double-pince",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Neubauer, quadrillage double, avec pinces, CE",
+      "description_fr": "Cellule de numération de Neubauer KARL HECHT, pour le comptage des érythrocytes et des leucocytes. Quadrillage de 9 grands carrés de 1 mm² (9 mm² au total), comparable au quadrillage de Thoma, avec en plus 4 carrés de coin subdivisés en 16 carrés de taille égale. Quadrillage double, avec pinces de maintien. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, avec pinces",
+      "price_eur": 80.4,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, avec pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "9 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207368_20251128094118/humeau.com-cellule-de-num-neubauer-ce-quadrillage-double-et-pince-10000000031-207368-30.jpg"
+    },
+    {
+      "sku": "207366",
+      "slug": "cellule-neubauer-ce-quadrillage-simple",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Neubauer, quadrillage simple, CE",
+      "description_fr": "Cellule de numération de Neubauer KARL HECHT, pour le comptage des érythrocytes et des leucocytes. Quadrillage de 9 grands carrés de 1 mm² (9 mm² au total), comparable au quadrillage de Thoma, avec en plus 4 carrés de coin subdivisés en 16 carrés de taille égale. Quadrillage simple, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage simple, sans pinces",
+      "price_eur": 55.8,
+      "specs_fr": {
+        "Modèle": "Quadrillage simple, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "9 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207366_20240419152101/humeau.com-cellule-de-num-neubauer-ce-quadrillage-simple-207366-207366-30.jpg"
+    },
+    {
+      "sku": "207374",
+      "slug": "cellule-thoma-ce-quadrillage-double",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Thoma, quadrillage double, CE",
+      "description_fr": "Cellule de numération de Thoma KARL HECHT, pour le comptage des thrombocytes et des érythrocytes. Le grand carré central de 1 mm² se compose de 16 groupes de carrés de 0,2 x 0,2 mm, avec des lignes intermédiaires marquant les 1er, 6e, 11e et 16e carrés ; le quadrillage total comporte 400 carrés minuscules de 0,05 x 0,05 mm. Quadrillage double, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 50.2,
+      "specs_fr": {
+        "Modèle": "Thoma, quadrillage double, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10000000037_20250213100101/humeau.com-cellule-de-num-thoma-ce-quad-double-207374-207374-30.jpg"
+    },
+    {
+      "sku": "207375",
+      "slug": "cellule-thoma-ce-quadrillage-double-pince",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Thoma, quadrillage double, avec pinces, CE",
+      "description_fr": "Cellule de numération de Thoma KARL HECHT, pour le comptage des thrombocytes et des érythrocytes. Le grand carré central de 1 mm² se compose de 16 groupes de carrés de 0,2 x 0,2 mm, avec des lignes intermédiaires marquant les 1er, 6e, 11e et 16e carrés ; le quadrillage total comporte 400 carrés minuscules de 0,05 x 0,05 mm. Quadrillage double, avec pinces de maintien. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, avec pinces",
+      "price_eur": 80.4,
+      "specs_fr": {
+        "Modèle": "Thoma, quadrillage double, avec pinces",
+        "Profondeur": "0,1 mm",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10000000038_20220505200331/humeau.com-cellule-de-num-thoma-ce-quad-double-et-pince-10000000038-207375-30.jpg"
+    },
+    {
+      "sku": "207379",
+      "slug": "cellule-thoma-nouveau-ce-quadrillage-double-pince",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Thoma nouveau modèle, quadrillage double, avec pinces, CE",
+      "description_fr": "Cellule de numération de Thoma nouveau modèle KARL HECHT. Surface totale de comptage de 1,21 mm², divisée en 16 groupes de carrés selon le principe du quadrillage de Thoma mais sans carrés circonférentiels ; des lignes triples facilitent le regroupement des cellules à compter. Quadrillage double, avec pinces de maintien. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, avec pinces",
+      "price_eur": 80.4,
+      "specs_fr": {
+        "Modèle": "Thoma nouveau, quadrillage double, avec pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "1,21 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10000000042_20240322091103/humeau.com-cellule-de-num-thoma-nouveau-ce-quad-double-et-pince-207379-207379-30.jpg"
+    },
+    {
+      "sku": "207380",
+      "slug": "cellule-turk-ce-quadrillage-double",
+      "brand": "KARL HECHT",
+      "name_fr": "Cellule de numération de Türk, quadrillage double, CE",
+      "description_fr": "Cellule de numération de Türk KARL HECHT, dont la taille totale et le carré central correspondent au système Neubauer. Surface totale de comptage de 9 mm², avec des carrés de coin divisés par des lignes doubles. Quadrillage double, sans pinces. Marquage CE.",
+      "variant_name_fr": "Quadrillage double, sans pinces",
+      "price_eur": 59.5,
+      "specs_fr": {
+        "Modèle": "Quadrillage double, sans pinces",
+        "Profondeur": "0,1 mm",
+        "Surface totale de comptage": "9 mm²",
+        "Marque commerciale": "KARL HECHT",
+        "Conformité": "CE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207380_20250513114102/humeau.com-cellule-de-num-turk-ce-quadrillage-double-10000000043-207380-30.jpg"
+    }
+  ]
+}

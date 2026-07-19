@@ -1,0 +1,98 @@
+{
+  "category": {
+    "slug": "collier-de-serrage",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Colliers de serrage pour montage de verrerie" },
+    "description": {
+      "fr": "Colliers de serrage métalliques ou en polyacétal, pour la fixation sûre de tubes, tuyaux et rodages coniques sur les montages de verrerie de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "218586",
+      "slug": "collier-serrage-nickel-chrome-12-17mm",
+      "name_fr": "Collier de serrage en nickel chromé, Ø 12-17 mm",
+      "description_fr": "Clip de fixation en nickel chromé, destiné à maintenir fermement les tubes grâce à sa vis à tête hexagonale permettant un montage et démontage rapides. Antimagnétique, avec une très bonne résistance chimique et thermique.",
+      "variant_name_fr": "12-17 mm",
+      "price_eur": 7.00,
+      "specs_fr": {
+        "Diamètre de serrage": "12-17 mm",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218586_20230127114103/humeau.com-collier-de-serrage-en-nickel-chrome-d-12-17mm-18102297414-218586-30.jpg"
+    },
+    {
+      "sku": "210530",
+      "slug": "collier-inox-vis-verticale-fermeture-main-n12-lot-10",
+      "name_fr": "Collier en inox à vis verticale, fermeture à main n°12 — lot de 10",
+      "description_fr": "Collier de serrage ALPACO en acier inoxydable, garantissant un serrage uniforme autour des tubulures pour des joints parfaitement étanches. Vis verticales, réutilisable, résistant à la pression. Vendu par lot de 10.",
+      "variant_name_fr": "N°12 — lot de 10",
+      "price_eur": 338.90,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Diamètre": "7 à 12 mm",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611939717_20230731104107/humeau.com-collier-inox-a-vis-verticale-fermeture-a-main-n-12-pack-10-210530-210530-30.jpg"
+    },
+    {
+      "sku": "224028",
+      "slug": "collier-metallique-inox-18-10-13-16-5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Collier métallique en inox 18/10, Ø 13-16,5 mm",
+      "description_fr": "Collier métallique en acier inoxydable 18/10 BOCHEM, pour un diamètre de serrage de 13 à 16,5 mm.",
+      "variant_name_fr": "13-16,5 mm",
+      "price_eur": 5.30,
+      "specs_fr": {
+        "Diamètre": "13-16,5 mm",
+        "Marque commerciale": "BOCHEM"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201213300_20220505202054/humeau.com-collier-metallique-en-inox-18-10-diam-17mm-13-16-5mm-22201213300-224028-30.jpg"
+    },
+    {
+      "sku": "224040",
+      "slug": "collier-metallique-inox-21-25mm",
+      "brand": "BOCHEM",
+      "name_fr": "Collier métallique en inox 18/10, Ø 21-25 mm",
+      "description_fr": "Collier métallique en acier inoxydable 18/10 BOCHEM, pour un diamètre de serrage de 21 à 25 mm.",
+      "variant_name_fr": "21-25 mm",
+      "price_eur": 5.59,
+      "specs_fr": {
+        "Diamètre": "21-25 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.017 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201313500_20220505202054/humeau.com-collier-metallique-en-inox-d-21-25mm-22201313500-224040-30.jpg"
+    },
+    {
+      "sku": "224027",
+      "slug": "collier-metallique-inox-8-11-5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Collier métallique en inox 18/10, Ø 8-11,5 mm",
+      "description_fr": "Collier métallique en acier inoxydable 18/10 BOCHEM, pour un diamètre de serrage de 8 à 11,5 mm.",
+      "variant_name_fr": "8-11,5 mm",
+      "price_eur": 5.30,
+      "specs_fr": {
+        "Diamètre": "8-11,5 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.014 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201213100_20220505202054/humeau.com-collier-metallique-en-inox-d-8-11-5mm-22201213100-224027-30.jpg"
+    },
+    {
+      "sku": "204120",
+      "slug": "joint-clip-polyacetal-orange-cn34-35-lot-10",
+      "name_fr": "Joint clip en polyacétal orange, rodage CN34/35 — lot de 10",
+      "description_fr": "Clip de maintien pour rodage conique, en plastique polyacétal orange, permettant de réduire le recours aux pinces de serrage sur les montages Quickfit. Facile à installer et à retirer, utilisable jusqu'à 80 °C, code couleur pour une identification rapide de la taille du rodage. Vendu par lot de 10.",
+      "variant_name_fr": "CN34/35 — lot de 10",
+      "price_eur": 154.90,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Couleur": "Orange",
+        "Rodage mâle et femelle": "CN34/35",
+        "Poids net": "0.11 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04906805402_20240729153104/humeau.com-joint-clip-en-polyacetal-orange-cn34-35-pack-de-10-204120-204120-30.jpg"
+    }
+  ]
+}

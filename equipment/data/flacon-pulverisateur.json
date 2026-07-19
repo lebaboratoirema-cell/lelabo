@@ -1,0 +1,28 @@
+{
+  "category": {
+    "slug": "flacon-pulverisateur",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Pulvérisateurs de laboratoire"
+    },
+    "description": {
+      "fr": "Pulvérisateurs en verre pour la révélation de plaques de chromatographie sur couche mince (CCM) par projection fine de réactifs."
+    }
+  },
+  "products": [
+    {
+      "sku": "219193",
+      "slug": "pulverisateur-ccm-verre",
+      "brand": null,
+      "name_fr": "Pulvérisateur pour CCM en verre",
+      "description_fr": "Vaporisateur de réactif tout en verre, alternative économique aux pulvérisateurs dédiés à la chromatographie sur couche mince (CCM). Utilisable avec de l'air comprimé ou de l'azote, il projette les réactifs en aérosol fin. Livré avec un Erlenmeyer de 100 mL.",
+      "price_eur": 462.9,
+      "specs_fr": {
+        "Volume (mL)": "100",
+        "Matière": "Verre",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219193_20251202154101/humeau.com-pulverisateur-ccm-en-verre-219193-219193-30.jpg"
+    }
+  ]
+}

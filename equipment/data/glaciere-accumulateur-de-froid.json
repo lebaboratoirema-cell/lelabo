@@ -1,0 +1,258 @@
+{
+  "category": {
+    "slug": "glaciere-accumulateur-de-froid",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Glacières et accumulateurs de froid"
+    },
+    "description": {
+      "fr": "Glacières rigides, blocs et gels réfrigérants pour le transport et la conservation au froid d'échantillons sensibles."
+    }
+  },
+  "products": [
+    {
+      "sku": "201250",
+      "slug": "accumulateur-de-froid-freez-pack-m10-m10",
+      "brand": "HUMEAU",
+      "name_fr": "Accumulateur de froid Freez'Pack M10",
+      "description_fr": "Bloc réfrigérant Freez'Pack M10, recommandé pour les glacières de 6 à 10 L. À placer au congélateur 2 à 4 heures avant utilisation ; produit du froid tant qu'il reste glacé. Dimensions 180 x 95 x 30 mm.",
+      "variant_name_fr": "M10 — glacières 6 à 10 L",
+      "price_eur": 2.2,
+      "specs_fr": {
+        "Pack": "1",
+        "Dimensions extérieures H x L x P (mm)": "180 x 95 x 30",
+        "Modèle": "M10",
+        "Poids net": "0.36 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03200937700_20240722105106/humeau.com-accumulateur-de-froid-m10-pour-glaciere-201250-201250-30.jpg"
+    },
+    {
+      "sku": "201251",
+      "slug": "accumulateur-de-froid-freez-pack-m20-m20",
+      "brand": "HUMEAU",
+      "name_fr": "Accumulateur de froid Freez'Pack M20",
+      "description_fr": "Bloc réfrigérant Freez'Pack M20, recommandé pour les glacières de 10 à 19 L. À placer au congélateur 2 à 4 heures avant utilisation ; produit du froid tant qu'il reste glacé. Dimensions 200 x 170 x 30 mm.",
+      "variant_name_fr": "M20 — glacières 10 à 19 L",
+      "price_eur": 6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions extérieures H x L x P (mm)": "200 x 170 x 30",
+        "Modèle": "M20",
+        "Poids net": "0.741 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03200937800_20250526162101/humeau.com-bloc-refrigerant-freez-pack-m20-d-17x3x20cm-201251-201251-30.jpg"
+    },
+    {
+      "sku": "201255",
+      "slug": "accumulateur-de-froid-freez-pack-m30-m30",
+      "brand": "HUMEAU",
+      "name_fr": "Accumulateur de froid Freez'Pack M30",
+      "description_fr": "Bloc réfrigérant Freez'Pack M30, recommandé pour les glacières de 19 à 32 L. À placer au congélateur 2 à 4 heures avant utilisation ; produit du froid tant qu'il reste glacé. Dimensions 250 x 200 x 30 mm.",
+      "variant_name_fr": "M30 — glacières 19 à 32 L",
+      "price_eur": 4.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions extérieures H x L x P (mm)": "250 x 200 x 30",
+        "Modèle": "M30",
+        "Poids net": "1.155 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03202162800_20240731140103/humeau.com-bloc-refrigerant-freez-pack-m30-d-20x3x25cm-201255-201255-30.jpg"
+    },
+    {
+      "sku": "259066",
+      "slug": "bloc-refrigerant-reutilisable-259066",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bloc réfrigérant réutilisable",
+      "description_fr": "Bloc réfrigérant LABSOLUTE réutilisable, compact (dimensions L.168 x P.85 x H.24 mm) et léger (environ 260 g), livré rempli et soudé. Convient à toutes les applications de laboratoire et de transport ; peut être commandé à la pièce ou en carton de 50 unités.",
+      "variant_name_fr": "L.168 x P.85 x H.24 mm",
+      "price_eur": 4.9,
+      "specs_fr": {
+        "Conditionnement": "260 g",
+        "Dimensions": "L.168 x P.85 x H.24 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000149_20220505220233/humeau.com-bloc-refrigerant-reutilisable-168x85x24mm-82710000149-259066-30.jpg"
+    },
+    {
+      "sku": "260563",
+      "slug": "gel-refrigerant-quick-freeze-pour-12-tubes-260563",
+      "brand": "LABSOLUTE",
+      "name_fr": "Gel réfrigérant Quick Freeze pour 12 tubes",
+      "description_fr": "Système de congélation rapide LABSOLUTE Quick Freeze, alternative pratique au bain de glace carbonique pour le refroidissement rapide des échantillons (par exemple environ 3 minutes pour refroidir 1,5 mL d'eau à 0 °C). Convient aux tubes à essai et cryotubes de 0,5 à 2 mL, livré avec 12 adaptateurs. Boîtier et couvercle en polycarbonate, à pré-refroidir au moins 24 heures à -80 °C maximum avant utilisation.",
+      "variant_name_fr": "12 tubes 0,5-2 mL",
+      "price_eur": 140,
+      "specs_fr": {
+        "Pack": "Pack pour 12 tubes"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001646_20220505220233/humeau.com-gel-refrigerant-quick-freeze-pour-12-tubes-0-5-2ml-82710001646-260563-30.jpg"
+    },
+    {
+      "sku": "201263",
+      "slug": "glaciere-rigide-extreme-10-l-extreme-10-l",
+      "brand": "HUMEAU",
+      "name_fr": "Glacière rigide Extrême, 10 L",
+      "description_fr": "Glacière rigide Extrême, conçue pour conserver les échantillons au frais même par fortes chaleurs. Très robuste (jusqu'à 250 kg de charge supportée), revêtement hygiénique et joint d'étanchéité intégré au couvercle, couvercle verrouillable par la poignée. Contenance 10 L, autonomie thermique d'environ 17 h.",
+      "variant_name_fr": "10 L",
+      "price_eur": 46.5,
+      "specs_fr": {
+        "Volume": "10 L",
+        "Performance": "17 h",
+        "Dimensions extérieures H x L x P (mm)": "350 x 220 x 310",
+        "Poids net": "1.45 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03203006000_20240702165102/humeau.com-glaciere-rigide-extreme-10l-201263-201263-30.jpg"
+    },
+    {
+      "sku": "201256",
+      "slug": "glaciere-rigide-extreme-17-l-extreme-17-l",
+      "brand": "HUMEAU",
+      "name_fr": "Glacière rigide Extrême, 17 L",
+      "description_fr": "Glacière rigide Extrême, conçue pour conserver les échantillons au frais même par fortes chaleurs. Très robuste (jusqu'à 250 kg de charge supportée), revêtement hygiénique et joint d'étanchéité intégré au couvercle, couvercle verrouillable par la poignée. Contenance 17 L, autonomie thermique d'environ 20h30.",
+      "variant_name_fr": "17 L",
+      "price_eur": 33.5,
+      "specs_fr": {
+        "Volume": "17 L",
+        "Performance": "20h30",
+        "Dimensions extérieures H x L x P (mm)": "370 x 363 x 243",
+        "Modèle": "Extrême 17L",
+        "Poids net": "2.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03202225400_20250820090104/humeau.com-glaciere-rigide-extreme-17l-201256-201256-30.jpg"
+    },
+    {
+      "sku": "201260",
+      "slug": "glaciere-rigide-icetime-plus-30-l-icetime-30-l",
+      "brand": "HUMEAU",
+      "name_fr": "Glacière rigide Icetime Plus, 30 L",
+      "description_fr": "Glacière rigide Icetime Plus, revêtement extérieur robuste et isolation en mousse polyuréthane de qualité, poignée rabattable facilitant le transport. Contenance 30 L, autonomie thermique d'environ 25 h. L'utilisation de blocs Freez'Pack est recommandée en complément pour prolonger la fraîcheur.",
+      "variant_name_fr": "30 L",
+      "price_eur": 38.1,
+      "specs_fr": {
+        "Volume": "30 L",
+        "Dimensions intérieures L x P x H": "366 x 328 x 243",
+        "Performance": "25 h",
+        "Dimensions extérieures H x L x P (mm)": "470 x 410 x 320",
+        "Poids net": "3.7 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03202496300_20251112104101/humeau.com-glaciere-rigide-icetime-plus-30-litres-201260-201260-30.jpg"
+    },
+    {
+      "sku": "260725",
+      "slug": "mini-refroidisseur-en-polycarbonate-12-tubes-0-5-1-5-ml-mini-refroidisseur-12-tubes-0-5-1-5",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mini-refroidisseur en polycarbonate, 12 tubes, 0,5-1,5 mL",
+      "description_fr": "Mini-refroidisseur LABSOLUTE jaune en polycarbonate robuste, rempli de gel réfrigérant non toxique, à pré-refroidir au moins 24 heures avant utilisation. Maintient la température à -20°C pendant au moins 1 à 2 heures. Prévu pour 12 tubes de 0,5-1,5 mL.",
+      "variant_name_fr": "12 tubes — 0,5-1,5 mL",
+      "price_eur": 109,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate (PC)",
+        "Couleur": "Jaune",
+        "Capacité maximum": "12 tubes",
+        "Temperature echantillon": "-20°C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001808_20230817161102/humeau.com-mini-refroidisseur-en-pc-avec-gel-pour-12-tubes-0-5-1-5ml-82710001808-260725-30.jpg"
+    },
+    {
+      "sku": "260724",
+      "slug": "mini-refroidisseur-en-polycarbonate-12-tubes-15-ml-mini-refroidisseur-12-tubes-15",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mini-refroidisseur en polycarbonate, 12 tubes, 15 mL",
+      "description_fr": "Mini-refroidisseur LABSOLUTE rouge en polycarbonate robuste, rempli de gel réfrigérant non toxique, à pré-refroidir au moins 24 heures avant utilisation. Maintient la température à 0°C pendant au moins 1 à 2 heures. Prévu pour 12 tubes de 15 mL.",
+      "variant_name_fr": "12 tubes — 15 mL",
+      "price_eur": 101,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate (PC)",
+        "Couleur": "Rouge",
+        "Capacité maximum": "12 tubes",
+        "Temperature echantillon": "0°C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001807_20230109102102/humeau.com-mini-refroidisseur-en-pc-avec-gel-pour-12-tubes-15ml-82710001807-260724-30.jpg"
+    },
+    {
+      "sku": "260726",
+      "slug": "mini-refroidisseur-en-polycarbonate-20-tubes-0-5-2-ml-mini-refroidisseur-20-tubes-0-5-2",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mini-refroidisseur en polycarbonate, 20 tubes, 0,5-2 mL",
+      "description_fr": "Mini-refroidisseur LABSOLUTE jaune en polycarbonate robuste, rempli de gel réfrigérant non toxique, à pré-refroidir au moins 24 heures avant utilisation. Maintient la température à -20°C pendant au moins 1 à 2 heures. Prévu pour 20 tubes de 0,5-2 mL.",
+      "variant_name_fr": "20 tubes — 0,5-2 mL",
+      "price_eur": 141,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate (PC)",
+        "Couleur": "Jaune",
+        "Capacité maximum": "20 tubes",
+        "Temperature echantillon": "-20°C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001809_20230817161102/humeau.com-mini-refroidisseur-en-pc-avec-gel-pour-20-tubes-0-5-2ml-82710001809-260726-30.jpg"
+    },
+    {
+      "sku": "260723",
+      "slug": "mini-refroidisseur-en-polycarbonate-12-tubes-5-ml-mini-refroidisseur-12-tubes-5",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mini-refroidisseur en polycarbonate, 12 tubes, 5 mL",
+      "description_fr": "Mini-refroidisseur LABSOLUTE jaune en polycarbonate robuste, rempli de gel réfrigérant non toxique, à pré-refroidir au moins 24 heures avant utilisation. Maintient la température à -20°C pendant au moins 1 à 2 heures. Prévu pour 12 tubes de 5 mL.",
+      "variant_name_fr": "12 tubes — 5 mL",
+      "price_eur": 111,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate (PC)",
+        "Couleur": "Jaune",
+        "Capacité maximum": "12 tubes",
+        "Temperature echantillon": "-20°C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001806_20230109102102/humeau.com-mini-refroidisseur-en-pc-pour-12-tubes-5ml-82710001806-260723-30.jpg"
+    },
+    {
+      "sku": "218432",
+      "slug": "poche-a-gel-eutectique-267x140x32-mm-poche-gel-267x140x32-mm",
+      "brand": "VWR",
+      "name_fr": "Poche à gel eutectique, 267x140x32 mm",
+      "description_fr": "Coussin réfrigérant VWR à changement de phase, assurant un refroidissement longue durée pour le transport et le stockage de produits sensibles aux variations thermiques (produits pharmaceutiques, kits de diagnostic, produits chimiques ou biologiques). Change de phase à 0 °C et reprend sa forme gelée après la fonte ; réutilisable. Dimensions 267x140x32 mm, vendu par lot de 18.",
+      "variant_name_fr": "Lot de 18",
+      "price_eur": 54.9,
+      "specs_fr": {
+        "Dimensions": "267x140x32 mm",
+        "Pack": "18",
+        "Poids net": "16.82 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218432_20250317095101/humeau.com-poche-a-gel-eutectique-267x140x32mm-909g-pack-x18-18102160196-218432-30.jpg"
+    },
+    {
+      "sku": "261059",
+      "slug": "seau-a-glace-rouge-avec-couvercle-2-5-l-seau-glace-2-5-l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Seau à glace rouge avec couvercle, 2,5 L",
+      "description_fr": "Seau à glace LABSOLUTE rouge en mousse de polyuréthane, aux excellentes propriétés isolantes, utilisable avec de la glace sèche, de la glace d'eau, de la saumure ou de l'acétone pour le refroidissement d'échantillons, de solutions ou de cultures. Robuste, léger, livré avec couvercle. Contenance 2,5 L.",
+      "variant_name_fr": "2,5 L",
+      "price_eur": 83.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Mousse de polyuréthane",
+        "Volume": "2,5 L",
+        "Couleur": "Rouge",
+        "Hauteur (mm)": "130",
+        "Largeur (mm)": "283"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002142_20230817161102/humeau.com-seau-a-glace-rouge-avec-couvercle-2-5l-283x130x283mm-82710002142-261059-30.jpg"
+    },
+    {
+      "sku": "261058",
+      "slug": "seau-a-glace-rouge-avec-couvercle-4-5-l-seau-glace-4-5-l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Seau à glace rouge avec couvercle, 4,5 L",
+      "description_fr": "Seau à glace LABSOLUTE rouge en mousse de polyuréthane, aux excellentes propriétés isolantes, utilisable avec de la glace sèche, de la glace d'eau, de la saumure ou de l'acétone pour le refroidissement d'échantillons, de solutions ou de cultures. Robuste, léger, livré avec couvercle. Contenance 4,5 L.",
+      "variant_name_fr": "4,5 L",
+      "price_eur": 126,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Mousse de polyuréthane",
+        "Volume": "4,5 L",
+        "Couleur": "Rouge",
+        "Hauteur (mm)": "185",
+        "Largeur (mm)": "280"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002141_20230817161102/humeau.com-seau-a-glace-rouge-avec-couvercle-4-5l-280x185x280mm-82710002141-261058-30.jpg"
+    }
+  ]
+}

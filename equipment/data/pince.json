@@ -1,0 +1,250 @@
+{
+  "category": {
+    "slug": "pince",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Pinces de laboratoire" },
+    "description": {
+      "fr": "Pinces à bécher, à creuset, de précision et de dissection, ainsi que leurs accessoires (anneaux, colliers), pour la manipulation sécurisée de verrerie et d'échantillons chauds ou fragiles."
+    }
+  },
+  "products": [
+    {
+      "sku": "240553",
+      "slug": "anneau-caoutchouc-15-5mm-x12",
+      "brand": "BELLINGHAM & STANLEY",
+      "name_fr": "Anneau en caoutchouc Ø 15,5 mm, lot de 12",
+      "description_fr": "Rondelles en caoutchouc utilisées comme pièces de rechange, placées entre le verre de protection et le capuchon des tubes de remplissage des polarimètres tels que l'ADP 430.",
+      "variant_name_fr": "Ø 15,5 mm — lot de 12",
+      "price_eur": 34.00,
+      "specs_fr": {
+        "Conditionnement": "12",
+        "Matière": "Caoutchouc",
+        "Diamètre (mm)": "15.5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/4/2/42400356402_20230731070138/humeau.com-anneau-en-caoutchouc-d-15-5mm-x12-240553-240553-30.jpg"
+    },
+    {
+      "sku": "218670",
+      "slug": "pince-3-doigts-statif-souple-300mm",
+      "brand": "USBECK",
+      "name_fr": "Pince 3 doigts sur statif souple, 300 mm",
+      "description_fr": "Statif souple muni d'un pied en zinc moulé antidérapant de Ø 85 mm pour une grande stabilité, et d'une pince souple à trois doigts de 300 mm en laiton nickelé. Écartement de la pince de 0 à 40 mm, doigts recouverts de plastique pour protéger les instruments.",
+      "variant_name_fr": "300 mm",
+      "price_eur": 50.50,
+      "specs_fr": {
+        "Longueur (mm)": "300",
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218670_20230831122003/humeau.com-pince-3-doigts-sur-statif-souple-long-300mm-18102417510-218670-30.jpg"
+    },
+    {
+      "sku": "224052",
+      "slug": "pince-becher-3-doigts-inox-silicone-250mm",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à béchers 3 doigts en inox, bouts silicone, 250 mm",
+      "description_fr": "Pince à bécher 3 doigts en acier inox 18/10 poli électrolytique, recouverte de silicone, longueur 250 mm.",
+      "variant_name_fr": "250 mm",
+      "price_eur": 29.52,
+      "specs_fr": {
+        "Longueur (mm)": "250",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000007_20260703161102/humeau.com-pince-a-bechers-3-doigts-inox-bouts-silicones-l-250mm-224052-224052-30.jpg"
+    },
+    {
+      "sku": "223872",
+      "slug": "pince-becher-securite-serrage-300mm",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à béchers de sécurité à serrage, 300 mm",
+      "description_fr": "Pince à béchers avec bouts silicones, longueur 300 mm, tige de 160 mm et ouverture adaptée aux béchers de 50 à 100 mm de diamètre.",
+      "variant_name_fr": "300 mm",
+      "price_eur": 411.02,
+      "specs_fr": {
+        "Longueur de la tige": "160 mm",
+        "Diamètre (mm)": "50 à 100 mm",
+        "Longueur (mm)": "300 mm",
+        "Matériaux": "Acier"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200230000_20231211113103/humeau.com-pince-a-bechers-de-securite-serrage-long-300mm-223872-223872-30.jpg"
+    },
+    {
+      "sku": "224049",
+      "slug": "pince-creuset-inox-200mm-manche-plastique",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à creuset en inox, manche plastique, 200 mm",
+      "description_fr": "Pince à creuset en acier inox 18/10 avec yeux plastifiés PVC, résistant à une température maximale de 145°C. Longueur totale 200 mm, diamètre d'ouverture 20 mm.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 13.94,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Longueur de la tige": "95 mm",
+        "Diamètre d'ouverture (mm)": "20",
+        "Longueur (mm)": "200",
+        "Poids net": "0.072 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000004_20241108105101/humeau.com-pince-a-creuset-inox-l-200mm-avec-manche-plastique-224049-224049-30.jpg"
+    },
+    {
+      "sku": "224050",
+      "slug": "pince-creuset-inox-220mm-manche-plastique",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à creuset en inox, manche plastique, 220 mm",
+      "description_fr": "Pince à creuset en acier inox 18/10 avec yeux plastifiés PVC, résistant à une température maximale de 145°C. Longueur totale 220 mm, diamètre d'ouverture 20 mm.",
+      "variant_name_fr": "220 mm",
+      "price_eur": 15.48,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Longueur de la tige": "100 mm",
+        "Diamètre d'ouverture (mm)": "20",
+        "Longueur (mm)": "220",
+        "Poids net": "0.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000005_20240905122007/humeau.com-pince-a-creuset-inox-l-220mm-avec-manche-plastique-224050-224050-30.jpg"
+    },
+    {
+      "sku": "224051",
+      "slug": "pince-creuset-inox-300mm-manche-plastique",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à creuset en inox, manche plastique, 300 mm",
+      "description_fr": "Pince à creuset en acier inox 18/10 avec yeux plastifiés PVC, résistant à une température maximale de 145°C. Longueur totale 300 mm, diamètre d'ouverture 20 mm.",
+      "variant_name_fr": "300 mm",
+      "price_eur": 19.69,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Longueur de la tige": "145 mm",
+        "Diamètre d'ouverture (mm)": "20",
+        "Longueur (mm)": "300",
+        "Poids net": "0.116 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000006_20231018122001/humeau.com-pince-a-creuset-inox-l-300mm-avec-manche-plastique-224051-224051-30.jpg"
+    },
+    {
+      "sku": "218604",
+      "slug": "pince-creuset-inox-300mm-rainures",
+      "brand": "BOCHEM",
+      "name_fr": "Pince à creuset en inox avec rainures, 300 mm",
+      "description_fr": "Pince à creuset en acier inox 18/10 avec rainures, longueur totale 300 mm, tige de 145 mm.",
+      "variant_name_fr": "300 mm — rainurée",
+      "price_eur": 17.86,
+      "specs_fr": {
+        "Longueur de la tige": "145 mm",
+        "Diamètre anneaux": "30 mm",
+        "Diamètre interne anneaux": "5 mm",
+        "Longueur (mm)": "300 mm",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102311003_20240306122001/humeau.com-pince-a-creuset-inox-long-300mm-218604-218604-30.jpg"
+    },
+    {
+      "sku": "214721",
+      "slug": "pince-dissection-inox-bouts-ronds-140mm",
+      "brand": "HUMEAU",
+      "name_fr": "Pince à dissection en inox à bouts ronds, 140 mm",
+      "description_fr": "Pince à dissection forte, à pointe droite, avec stries facilitant la prise et le maintien du tissu. Longueur totale 145 mm.",
+      "variant_name_fr": "140 mm",
+      "price_eur": 2.60,
+      "specs_fr": {
+        "Matière": "Inox",
+        "Longueur (mm)": "145",
+        "Poids net": "0.019 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/6/16200894010_20231024153101/humeau.com-pince-a-dissection-en-inox-a-bouts-ronds-long-140mm-214721-214721-30.jpg"
+    },
+    {
+      "sku": "202417",
+      "slug": "pince-clamps-inox-1-1-2-2cm",
+      "brand": "HACH",
+      "name_fr": "Pince clamps en inox, 1,1 à 2,2 cm",
+      "description_fr": "Pince à clamp pour tiges ou tuyaux de diamètre compris entre 1,1 et 2,2 cm, quel que soit le type d'installation de collier à angle droit (horizontal ou vertical). Livrée avec deux vis à oreilles côtelées à angle de 45°. À ne pas utiliser avec des supports anneaux.",
+      "variant_name_fr": "1,1 à 2,2 cm",
+      "price_eur": 52.00,
+      "specs_fr": {
+        "Matière": "Inox",
+        "Poids net": "0.129 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03603260000_20240216162101/humeau.com-pince-clamps-inox-1-1-a-2-2cm-03603260000-202417-30.jpg"
+    },
+    {
+      "sku": "224053",
+      "slug": "pince-precision-inox-120mm-bouts-pointus",
+      "brand": "BOCHEM",
+      "name_fr": "Pince de précision en inox, bouts pointus, 120 mm",
+      "description_fr": "Pince de précision pointue, auto-serrante, avec bouts sans rainures, longueur 120 mm.",
+      "variant_name_fr": "120 mm",
+      "price_eur": 13.65,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Acier inox 10/18",
+        "Longueur (mm)": "120",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000008_20250303151101/humeau.com-pince-de-precision-en-inox-l-120mm-bouts-pointus-224053-224053-30.jpg"
+    },
+    {
+      "sku": "222658",
+      "slug": "pince-inox-membrane-100mm",
+      "brand": "BOCHEM",
+      "name_fr": "Pince en inox pour membrane, 100 mm",
+      "description_fr": "Pince en inox pour membrane, à bouts plats inclinés, maintenue serrée par ressort. Longueur totale 105 mm.",
+      "variant_name_fr": "100 mm",
+      "price_eur": 8.60,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Acier inoxydable",
+        "Longueur (mm)": "105",
+        "Poids net": "0.011 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20300891510_20240417150101/humeau.com-pince-en-inox-de-100-mm-pour-membrane-222658-222658-30.jpg"
+    },
+    {
+      "sku": "218618",
+      "slug": "pince-inox-becher-ballon",
+      "brand": "BOCHEM",
+      "name_fr": "Pince inox pour béchers et ballons",
+      "description_fr": "Pince à béchers en acier inox 18/10 avec bouts isolés par céramique. Tige de 170 mm, longueur totale 300 mm, diamètre interne des anneaux de 60/100 mm.",
+      "variant_name_fr": "300 mm",
+      "price_eur": 29.52,
+      "specs_fr": {
+        "Longueur de la tige": "170 mm",
+        "Diamètre interne anneaux": "60/100 mm",
+        "Longueur (mm)": "300 mm",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102314145_20220505201050/humeau.com-pince-inox-pour-bechers-et-ballons-18102314145-218618-30.jpg"
+    },
+    {
+      "sku": "223869",
+      "slug": "pince-inox-sterilisation-280mm",
+      "brand": "BOCHEM",
+      "name_fr": "Pince inox pour stérilisation, 280 mm",
+      "description_fr": "Pince pour stérilisation en acier inox 18/10, longueur totale 280 mm, tige de 190 mm.",
+      "variant_name_fr": "280 mm",
+      "price_eur": 16.40,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Longueur de la tige": "190 mm",
+        "Diamètre (mm)": "5",
+        "Longueur (mm)": "280",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.122 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200226200_20250814142101/humeau.com-pince-inox-pour-sterilisation-long-280mm-223869-223869-30.jpg"
+    },
+    {
+      "sku": "219918",
+      "slug": "pince-metal-chrome-tige-12mm-burette-0-25mm",
+      "brand": "SELECTA",
+      "name_fr": "Pince métal chromé pour tige Ø 12 mm, burette Ø 0 à 25 mm",
+      "description_fr": "Pince pour burettes, thermomètres et tubes à essais, en métal chromé, à fermeture automatique par ressort et noix de serrage. Adaptée aux burettes de Ø 0 à 25 mm, tige de support Ø 12 mm et de 70 mm de longueur.",
+      "variant_name_fr": "Ø 0-25 mm",
+      "price_eur": 19.20,
+      "specs_fr": {
+        "Matière": "Métal chromé",
+        "Longueur (mm)": "70",
+        "Poids net": "0.092 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19000892501_20250703160101/humeau.com-pince-metal-chrome-pour-tige-d-12mm-burette-d-0-a-25mm-219918-219918-30.jpg"
+    }
+  ]
+}

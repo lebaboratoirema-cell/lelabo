@@ -1,0 +1,254 @@
+{
+  "category": {
+    "slug": "petit-materiel-d-agitation",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Petit matériel d'agitation" },
+    "description": {
+      "fr": "Barreaux et baguettes d'agitation magnétique en PTFE, ainsi que pagaies d'agitation en polypropylène, pour l'homogénéisation manuelle ou magnétique des préparations de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "258944",
+      "slug": "baguette-extraction-aimantee-ptfe-150mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Baguette d'extraction aimantée en PTFE, 150 mm",
+      "description_fr": "Baguette d'extraction aimantée destinée à récupérer les barreaux d'agitation magnétiques dans toutes sortes de récipients. Équipée d'un aimant permanent puissant (Alnico 5) de 10 mm de diamètre, elle est revêtue de PTFE pour une bonne résistance aux produits chimiques et aux températures.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 16.60,
+      "specs_fr": {
+        "Matière": "PTFE",
+        "Diamètre (mm)": "10",
+        "Longueur (mm)": "150",
+        "Poids net": "0.033 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000027_20241011104103/humeau.com-baguette-d-extraction-aimantee-ptfe-l-150mm-diam-8mm-258944-258944-30.jpg"
+    },
+    {
+      "sku": "258945",
+      "slug": "baguette-extraction-aimantee-ptfe-250mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Baguette d'extraction aimantée en PTFE, 250 mm",
+      "description_fr": "Baguette d'extraction aimantée destinée à récupérer les barreaux d'agitation magnétiques dans toutes sortes de récipients. Équipée d'un aimant permanent puissant (Alnico 5) de 10 mm de diamètre, elle est revêtue de PTFE pour une bonne résistance aux produits chimiques et aux températures.",
+      "variant_name_fr": "250 mm",
+      "price_eur": 20.50,
+      "specs_fr": {
+        "Matière": "PTFE",
+        "Diamètre (mm)": "10",
+        "Longueur (mm)": "250",
+        "Poids net": "0.45 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000028_20250321151101/humeau.com-baguette-d-extraction-aimantee-ptfe-l-250mm-diam-8mm-258945-258945-30.jpg"
+    },
+    {
+      "sku": "259005",
+      "slug": "barreau-aimante-cylindrique-10mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 10 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "10 mm — lot de 10",
+      "price_eur": 18.40,
+      "specs_fr": {
+        "Diamètre (mm)": "6",
+        "Longueur (mm)": "10",
+        "Pack": "10",
+        "Poids net": "0.005 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000088_20250304130105/humeau.com-barreau-aimante-cylindrique-l-10mm-diam-6mm-pack-de-10-259005-259005-30.jpg"
+    },
+    {
+      "sku": "259007",
+      "slug": "barreau-aimante-cylindrique-20mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 20 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "20 mm — lot de 10",
+      "price_eur": 23.60,
+      "specs_fr": {
+        "Diamètre (mm)": "6",
+        "Longueur (mm)": "20",
+        "Pack": "10",
+        "Poids net": "0.002 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000090_20260306165101/humeau.com-barreau-aimante-cylindrique-l-20mm-diam-6mm-pack-de-10-259007-259007-30.jpg"
+    },
+    {
+      "sku": "259008",
+      "slug": "barreau-aimante-cylindrique-25mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 25 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "25 mm — lot de 10",
+      "price_eur": 24.60,
+      "specs_fr": {
+        "Diamètre (mm)": "6",
+        "Longueur (mm)": "25",
+        "Pack": "10",
+        "Poids net": "0.024 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000091_20251024102103/humeau.com-barreau-aimante-cylindrique-l-25mm-diam-6mm-pack-de-10-259008-259008-30.jpg"
+    },
+    {
+      "sku": "259009",
+      "slug": "barreau-aimante-cylindrique-30mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 30 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "30 mm — lot de 10",
+      "price_eur": 27.10,
+      "specs_fr": {
+        "Diamètre (mm)": "7",
+        "Longueur (mm)": "30",
+        "Pack": "10",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259009_20260617163102/humeau.com-barreau-aimante-cylindrique-l-30mm-diam-7mm-pack-de-10-259009-259009-30.jpg"
+    },
+    {
+      "sku": "259010",
+      "slug": "barreau-aimante-cylindrique-35mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 35 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "35 mm — lot de 10",
+      "price_eur": 30.90,
+      "specs_fr": {
+        "Diamètre (mm)": "6",
+        "Longueur (mm)": "35",
+        "Pack": "10",
+        "Poids net": "0.033 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000093_20260306165101/humeau.com-barreau-aimante-cylindrique-l-35mm-diam-6mm-pack-de-10-259010-259010-30.jpg"
+    },
+    {
+      "sku": "259011",
+      "slug": "barreau-aimante-cylindrique-40mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 40 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "40 mm — lot de 10",
+      "price_eur": 38.50,
+      "specs_fr": {
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "40",
+        "Pack": "10",
+        "Poids net": "0.007 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000094_20241018112115/humeau.com-barreau-aimante-cylindrique-l-40mm-diam-8mm-pack-de-10-259011-259011-30.jpg"
+    },
+    {
+      "sku": "259012",
+      "slug": "barreau-aimante-cylindrique-45mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 45 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "45 mm — lot de 10",
+      "price_eur": 46.60,
+      "specs_fr": {
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "45",
+        "Pack": "10",
+        "Poids net": "0.09 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000095_20230817161102/humeau.com-barreau-aimante-cylindrique-l-45mm-diam-8mm-pack-de-10-259012-259012-30.jpg"
+    },
+    {
+      "sku": "259013",
+      "slug": "barreau-aimante-cylindrique-50mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 50 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "50 mm — lot de 10",
+      "price_eur": 55.50,
+      "specs_fr": {
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "50",
+        "Pack": "10",
+        "Poids net": "0.09 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000096_20250321151103/humeau.com-barreau-aimante-cylindrique-l-50mm-diam-8mm-pack-de-10-259013-259013-30.jpg"
+    },
+    {
+      "sku": "259014",
+      "slug": "barreau-aimante-cylindrique-60mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 60 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "60 mm — lot de 10",
+      "price_eur": 74.60,
+      "specs_fr": {
+        "Diamètre (mm)": "9",
+        "Longueur (mm)": "60",
+        "Pack": "10",
+        "Poids net": "0.133 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000097_20260303105101/humeau.com-barreau-aimante-cylindrique-l-60mm-diam-9mm-pack-de-10-259014-259014-30.jpg"
+    },
+    {
+      "sku": "259015",
+      "slug": "barreau-aimante-cylindrique-70mm-pack10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Barreau aimanté cylindrique 70 mm, lot de 10",
+      "description_fr": "Barreau d'agitation magnétique cylindrique à surface lisse, revêtu de PTFE pour une bonne résistance aux produits chimiques et aux températures. Vendu en lot de 10.",
+      "variant_name_fr": "70 mm — lot de 10",
+      "price_eur": 99.80,
+      "specs_fr": {
+        "Diamètre (mm)": "9",
+        "Longueur (mm)": "70",
+        "Pack": "10",
+        "Poids net": "0.159 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000098_20240626094101/humeau.com-barreau-aimante-cylindrique-l-70mm-diam-9mm-pack-de-10-259015-259015-30.jpg"
+    },
+    {
+      "sku": "260586",
+      "slug": "jeu-10-barreaux-aimantes-cylindriques-ptfe",
+      "brand": "LABSOLUTE",
+      "name_fr": "Jeu de 10 barreaux aimantés cylindriques en PTFE",
+      "description_fr": "Assortiment de 10 barreaux d'agitation cylindriques, lisses et revêtus de PTFE, couvrant les tailles les plus courantes pour la plupart des applications. Livré dans une boîte solide avec couvercle transparent à charnière.",
+      "variant_name_fr": "Jeu de 10",
+      "price_eur": 58.00,
+      "specs_fr": {
+        "Dimensions": "1x 15 x 6 mm, 2x 20 x 7 mm, 2x 25 x 7 mm, 1x 30 x 7 mm, 2x 40 x 7 mm, 1x 50 x 7 mm et 1x 60 x 7 mm",
+        "Pack": "Jeu de 10",
+        "Matériaux": "Métal/PTFE",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001669_20240808140103/humeau.com-jeu-de-10-barreaux-aimantes-cylindriques-ptfe-260586-260586-30.jpg"
+    },
+    {
+      "sku": "257564",
+      "slug": "pagaie-agitation-pp-117cm",
+      "brand": "LABOPLAST",
+      "name_fr": "Pagaie d'agitation en polypropylène, 117 cm",
+      "description_fr": "Tige d'agitation en forme de pagaie, en polypropylène incassable et indéformable, idéale pour l'agitation délicate dans des récipients en plastique ou en verre.",
+      "variant_name_fr": "117 cm — pagaie 155x130 mm",
+      "price_eur": 78.80,
+      "specs_fr": {
+        "Dimensions": "(pagaie) 155 x 130 mm",
+        "Matière": "Polypropylène (PP)",
+        "Couleur": "Blanc",
+        "Longueur (mm)": "(totale) 1170",
+        "Poids net": "0.355 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000000_20230817161102/humeau.com-pagaie-d-agitation-en-pp-long-117cm-155x130mm-82100000000-257564-30.jpg"
+    },
+    {
+      "sku": "257565",
+      "slug": "pagaie-agitation-pp-171cm",
+      "brand": "LABOPLAST",
+      "name_fr": "Pagaie d'agitation en polypropylène, 171 cm",
+      "description_fr": "Tige d'agitation en forme de pagaie, en polypropylène incassable et indéformable, idéale pour l'agitation délicate dans des récipients en plastique ou en verre.",
+      "variant_name_fr": "171 cm — pagaie 190x167 mm",
+      "price_eur": 94.50,
+      "specs_fr": {
+        "Dimensions": "190 x 167 mm",
+        "Matière": "Polypropylène (PP)",
+        "Couleur": "Blanc",
+        "Longueur (mm)": "1710",
+        "Poids net": "1.082 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000001_20230817161102/humeau.com-pagaie-d-agitation-en-pp-long-171cm-190x167mm-82100000001-257565-30.jpg"
+    }
+  ]
+}

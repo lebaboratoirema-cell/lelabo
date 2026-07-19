@@ -1,0 +1,254 @@
+{
+  "category": {
+    "slug": "bistouri",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Bistouris, lames et manches"
+    },
+    "description": {
+      "fr": "Bistouris stériles à usage unique, lames de rechange en acier carbone ou inoxydable et manches chirurgicaux réutilisables, pour les travaux de dissection et de préparation en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "235270",
+      "slug": "bistouri-lame-sterile-didactic-n23-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Bistouris à lame stérile Didactic n°23 — lot de 10",
+      "description_fr": "Bistouris à usage unique sous emballage blister, composés d'un manche ergonomique en acrylonitrile, d'une lame en acier inoxydable au tranchant précis, et d'un capuchon protecteur transparent offrant une double protection.",
+      "variant_name_fr": "N°23 — lot de 10",
+      "price_eur": 5.5,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Lame acier inoxydable, manche acrylonitrile",
+        "Stérile": "Oui",
+        "Taille": "23",
+        "Poids net": "0.13 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24700002302_20240926094102/humeau.com-bistouris-a-lames-steriles-didactic-n-23-par-x-10-235270-235270-30.jpg"
+    },
+    {
+      "sku": "235271",
+      "slug": "bistouri-lame-sterile-didactic-n24-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Bistouris à lame stérile Didactic n°24 — lot de 10",
+      "description_fr": "Bistouris à usage unique sous emballage blister, composés d'un manche ergonomique en acrylonitrile, d'une lame en acier inoxydable au tranchant précis, et d'un capuchon protecteur transparent offrant une double protection.",
+      "variant_name_fr": "N°24 — lot de 10",
+      "price_eur": 5.5,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Lame acier inoxydable, manche acrylonitrile",
+        "Stérile": "Oui",
+        "Taille": "24",
+        "Poids net": "0.13 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24700002402_20241125165102/humeau.com-bistouris-a-lames-steriles-didactic-n-24-par-x-10-235271-235271-30.jpg"
+    },
+    {
+      "sku": "254580",
+      "slug": "bistouri-sterile-inox-n15-swann-x10",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Bistouris stériles en acier inoxydable n°15 — lot de 10",
+      "description_fr": "Bistouris standards stériles à lame fixe en acier inoxydable, montés sur manche bleu en MIPS gradué d'un côté. Ergot de fixation maintenant le bistouri sur le plateau d'emballage pour limiter le risque de perforation et faciliter la prise en main.",
+      "variant_name_fr": "N°15 — lot de 10",
+      "price_eur": 8.5,
+      "specs_fr": {
+        "Matière": "Lame inox, manche plastique",
+        "Stérile": "Oui",
+        "Conditionnement": "Lot de 10",
+        "Taille": "N°15",
+        "Poids net": "0.095 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77100501502_20231107090104/humeau.com-bistouris-steriles-en-acier-inoxydable-n-15-swann-pack-x10-254580-254580-30.jpg"
+    },
+    {
+      "sku": "254582",
+      "slug": "bistouri-sterile-inox-n23-swann-x10",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Bistouris stériles en acier inoxydable n°23 — lot de 10",
+      "description_fr": "Bistouris standards stériles à lame fixe en acier inoxydable, montés sur manche bleu en MIPS gradué d'un côté. Ergot de fixation maintenant le bistouri sur le plateau d'emballage pour limiter le risque de perforation et faciliter la prise en main.",
+      "variant_name_fr": "N°23 — lot de 10",
+      "price_eur": 8.5,
+      "specs_fr": {
+        "Matière": "Lame inox, manche plastique",
+        "Conditionnement": "Lot de 10",
+        "Taille": "N°23",
+        "Poids net": "0.104 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77100502302_20231107090102/humeau.com-bistouris-steriles-en-acier-inoxydable-n-23-swann-pack-x10-254582-254582-30.jpg"
+    },
+    {
+      "sku": "254583",
+      "slug": "bistouri-sterile-inox-n24-swann-x10",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Bistouris stériles en acier inoxydable n°24 — lot de 10",
+      "description_fr": "Bistouris standards stériles à lame fixe en acier inoxydable, montés sur manche bleu en MIPS gradué d'un côté. Ergot de fixation maintenant le bistouri sur le plateau d'emballage pour limiter le risque de perforation et faciliter la prise en main.",
+      "variant_name_fr": "N°24 — lot de 10",
+      "price_eur": 8.5,
+      "specs_fr": {
+        "Matière": "Lame inox, manche plastique",
+        "Stérile": "Oui",
+        "Conditionnement": "Lot de 10",
+        "Taille": "N°24",
+        "Poids net": "0.19 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77100502402_20231107090102/humeau.com-bistouris-steriles-en-acier-inoxydable-n-24-swann-pack-x10-254583-254583-30.jpg"
+    },
+    {
+      "sku": "254587",
+      "slug": "lames-non-steriles-carbone-n10-swann-x100",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Lames non stériles en acier au carbone n°10 — lot de 100",
+      "description_fr": "Lames de bistouri non stériles n°10, à embout étroit, en acier au carbone. Vendues par boîte de 100.",
+      "variant_name_fr": "N°10 — lot de 100",
+      "price_eur": 29.5,
+      "specs_fr": {
+        "Matière": "Acier au carbone",
+        "Stérile": "Non",
+        "Conditionnement": "Lot de 100",
+        "Taille": "N°10",
+        "Poids net": "0.105 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77102511002_20231107085102/humeau.com-lames-non-steriles-en-acier-au-carbone-n-10-swann-pack-x100-254587-254587-30.jpg"
+    },
+    {
+      "sku": "254589",
+      "slug": "lames-non-steriles-carbone-n23-swann-x100",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Lames non stériles en acier au carbone n°23 — lot de 100",
+      "description_fr": "Lames de bistouri non stériles n°23, à embout large, en acier au carbone. Vendues par boîte de 100.",
+      "variant_name_fr": "N°23 — lot de 100",
+      "price_eur": 29.5,
+      "specs_fr": {
+        "Matière": "Acier au carbone",
+        "Stérile": "Non",
+        "Conditionnement": "Lot de 100",
+        "Taille": "N°23",
+        "Poids net": "0.13 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/254589_20231107085102/humeau.com-lames-non-steriles-en-acier-au-carbone-n-23-swann-pack-x100-254589-254589-30.jpg"
+    },
+    {
+      "sku": "254575",
+      "slug": "lames-non-steriles-n11p-pack-100",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Lames non stériles n°11P — lot de 100",
+      "description_fr": "Lames de bistouri non stériles n°11P en acier carbone de qualité chirurgicale, à monter sur manche à embout étroit. Géométrie fine et pointue pour une coupe précise, usage unique jetable. Dispositif médical classe IIa conforme au règlement MDR (UE) 2017/745, normes BS 2982 et BS EN ISO 27740, marquage CE 2797 et UKCA 0086. Conditionnées individuellement (sachets de 5) avec inhibiteur de corrosion, durée de conservation 5 ans.",
+      "variant_name_fr": "N°11P — lot de 100",
+      "price_eur": 29.5,
+      "specs_fr": {
+        "Poids net": "0.085 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/254575_20260108155102/humeau.com-lames-non-steriles-n-11p-pack-de-100-254575-254575-30.jpg"
+    },
+    {
+      "sku": "235380",
+      "slug": "lames-steriles-didactic-n22-boite-100",
+      "brand": "HUMEAU",
+      "name_fr": "Lames stériles Didactic n°22 — boîte de 100",
+      "description_fr": "Lames de bistouri à usage unique en acier carbone, garantissant un tranchant de qualité. Emballées individuellement sous aluminium renforcé afin de limiter tout risque de perforation.",
+      "variant_name_fr": "N°22 — boîte de 100",
+      "price_eur": 15.0,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Matière": "Acier au carbone",
+        "Stérile": "Oui",
+        "Taille": "22",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24720002202_20231012152101/humeau.com-lames-steriles-didactic-n-22-boite-de-100-235380-235380-30.jpg"
+    },
+    {
+      "sku": "254591",
+      "slug": "lames-steriles-carbone-n26-swann-x100",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Lames stériles en acier au carbone n°26 — lot de 100",
+      "description_fr": "Lames de bistouri stériles n°26, à embout large, en acier au carbone. Vendues par boîte de 100.",
+      "variant_name_fr": "N°26 — lot de 100",
+      "price_eur": 30.25,
+      "specs_fr": {
+        "Matière": "Acier au carbone",
+        "Stérile": "Oui",
+        "Conditionnement": "Lot de 100",
+        "Taille": "N°26",
+        "Poids net": "0.165 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/254591_20231107084103/humeau.com-lames-steriles-n-26-en-acier-au-carbone-swann-pack-x100-254591-254591-30.jpg"
+    },
+    {
+      "sku": "217602",
+      "slug": "lames-steriles-nahita-n10-boite-100",
+      "brand": "HUMEAU",
+      "name_fr": "Lames stériles Nahita n°10 — boîte de 100",
+      "description_fr": "Lames à usage unique pour bistouris, en acier au carbone extrêmement affûtées, permettant une coupe précise avec un minimum de pression. Boîte de 100 unités stériles, emballées individuellement.",
+      "variant_name_fr": "N°10 — boîte de 100",
+      "price_eur": 14.5,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Matière": "Carbone",
+        "Stérile": "Oui",
+        "Taille": "10",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100577510_20250424154101/humeau.com-lames-steriles-nahita-n-10-boite-de-100-217602-217602-30.jpg"
+    },
+    {
+      "sku": "254577",
+      "slug": "manche-bistouri-n3-long-inox-21cm",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Manche de bistouri n°3 long, en inox — 21 cm",
+      "description_fr": "Manche chirurgical à embout étroit, prévu pour le montage de lames n°6 à 16 et n°40, en acier inoxydable. Résiste à l'autoclavage à 134 °C pendant 30 minutes ainsi qu'à une immersion dans une solution de soude à 20 °C pendant 1 heure.",
+      "variant_name_fr": "N°3 long — 21 cm",
+      "price_eur": 177.19,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Longueur": "21 cm",
+        "Taille": "N°3",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77100030000_20260115033003/humeau.com-manche-de-bistouri-n-3-long-en-inox-long-21cm-254577-254577-30.jpg"
+    },
+    {
+      "sku": "254579",
+      "slug": "manche-bistouri-embout-large-n4-13cm-x10",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Manches de bistouri à embout large n°4, en inox, 13 cm — lot de 10",
+      "description_fr": "Manches chirurgicaux à embout large et gradué, prévus pour le montage de lames n°18 à 36, en acier inoxydable. Résistent à l'autoclavage à 134 °C pendant 30 minutes ainsi qu'à une immersion dans une solution de soude à 20 °C pendant 1 heure.",
+      "variant_name_fr": "N°4 — 13 cm — lot de 10",
+      "price_eur": 113.1,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Longueur": "13 cm",
+        "Conditionnement": "Lot de 10",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77100093402_20231107084101/humeau.com-manche-de-bistouris-a-embout-large-inox-n-4-l-13cm-x10-254579-254579-30.jpg"
+    },
+    {
+      "sku": "254593",
+      "slug": "manche-bistouri-n3-court-inox-12cm",
+      "brand": "SWANN MORTON/SINNER",
+      "name_fr": "Manche de bistouri n°3 court, en inox — 12 cm",
+      "description_fr": "Manche chirurgical en acier inoxydable gradué au verso, utile pour la formation, le marquage du site chirurgical et les enquêtes sur traumatismes. Montage n°3, compatible avec de nombreuses tailles de lames (n°6, 9, 10, 10A, 10R, 11, 11P, 12, 12D, 13, 14, 15, 15A, 15C, 15T, 16, 40 et SG3).",
+      "variant_name_fr": "N°3 court — 12 cm",
+      "price_eur": 14.75,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/7/77110030000_20231107084101/humeau.com-manche-de-bistouris-n-3-court-inox-long-12cm-254593-254593-30.jpg"
+    },
+    {
+      "sku": "203693",
+      "slug": "manche-bistouri-n4-lames-20-24-piece",
+      "brand": "HUMEAU",
+      "name_fr": "Manche de bistouri n°4 métallique, pour lames n°20-24",
+      "description_fr": "Manche de bistouri en métal, sans lame, compatible avec les lames n°20, 21, 22, 23 et 24, vendu à la pièce.",
+      "variant_name_fr": "N°4 — pièce",
+      "price_eur": 2.5,
+      "specs_fr": {
+        "Longueur": "138 mm",
+        "Taille": "4",
+        "Poids net": "0.024 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04900000401_20240430174102/humeau.com-manche-de-bistouris-n-4-pour-lames-n-20-21-22-23-24-piece-203693-203693-30.jpg"
+    }
+  ]
+}

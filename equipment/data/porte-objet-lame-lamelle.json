@@ -1,0 +1,251 @@
+{
+  "category": {
+    "slug": "porte-objet-lame-lamelle",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Porte-objets"
+    },
+    "description": {
+      "fr": "Lames porte-objets en verre pour microscopie, à bords bruts, dépolis ou rodés, pour le montage et l'observation des échantillons."
+    }
+  },
+  "products": [
+    {
+      "sku": "221873",
+      "slug": "lames-porte-objet-76x26mm-bords-bruts-pack-50",
+      "brand": "HUMEAU",
+      "name_fr": "Lames porte-objet 76 x 26 mm, bords bruts — lot de 50",
+      "description_fr": "Lames de microscopie en verre à bords bruts (non retravaillés), format standard 76 x 26 mm, pour un usage économique en routine de laboratoire. Vendues par lot de 50.",
+      "variant_name_fr": "Bords bruts — lot de 50",
+      "price_eur": 3.1,
+      "specs_fr": {
+        "Dimensions": "26 x 76 mm",
+        "Épaisseur": "1 - 1,2 mm",
+        "Type de bord": "Bords bruts",
+        "Conditionnement": "50",
+        "Poids net": "0.28 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19729201311_20230623162103/humeau.com-lames-76x26-bords-brut-pack-de-50-221873-221873-30.jpg"
+    },
+    {
+      "sku": "239623",
+      "slug": "lames-porte-objet-76x26mm-decoupees-90-pack-50",
+      "brand": "DELTALAB",
+      "name_fr": "Lames porte-objet 76 x 26 mm, lavées et dégraissées, bords découpés à 90°, épaisseur 1,1 mm — lot de 50",
+      "description_fr": "Lames de microscopie DELTALAB en verre clair pré-nettoyé, format 26 x 76 mm (± 0,2 mm), épaisseur 1,1 mm (± 0,1 mm), pour les analyses de routine. Bords découpés à 90°, coins non coupés. Chaque boîte de 50 lames est conditionnée sous vide (flow-pack) avec un sachet de gel de silice pour éviter l'humidification ; péremption de 24 mois à partir de la date de fabrication.",
+      "variant_name_fr": "Découpées 90° — lot de 50",
+      "price_eur": 1.65,
+      "specs_fr": {
+        "Dimensions": "26 x 76 mm",
+        "Épaisseur": "1,1 mm",
+        "Type": "Bords découpés 90° / coins non coupés",
+        "Conditionnement": "50",
+        "Poids net": "0.284 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/9/39910000102_20240725122004/humeau.com-lames-76x26-lavees-degraissees-ep-1-1mm-decoupees-90-x50-239623-239623-30.jpg"
+    },
+    {
+      "sku": "239624",
+      "slug": "lames-porte-objet-76x26mm-polies-pack-50",
+      "brand": "DELTALAB",
+      "name_fr": "Lames porte-objet 76 x 26 mm, lavées et dégraissées, bords polis, épaisseur 1,1 mm — lot de 50",
+      "description_fr": "Lames de microscopie DELTALAB en verre clair pré-nettoyé, format 26 x 76 mm (± 0,2 mm), épaisseur 1,1 mm (± 0,1 mm), pour les analyses de routine. Bords découpés à 90°, coins coupés (polis). Chaque boîte de 50 lames est conditionnée sous vide (flow-pack) avec un sachet de gel de silice pour éviter l'humidification ; péremption de 24 mois à partir de la date de fabrication.",
+      "variant_name_fr": "Bords polis — lot de 50",
+      "price_eur": 2.34,
+      "specs_fr": {
+        "Dimensions": "26 x 76 mm",
+        "Épaisseur": "1,1 mm",
+        "Type": "Bords découpés à 90° / coins coupés",
+        "Conditionnement": "50",
+        "Poids net": "0.275 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/9/39910000202_20230913093101/humeau.com-lames-76x26-lavees-degraissees-ep-1-1mm-polies-par-x50-239624-239624-30.jpg"
+    },
+    {
+      "sku": "219543",
+      "slug": "lames-porte-objet-76x26mm-bords-depolis-pack-50",
+      "brand": "HUMEAU",
+      "name_fr": "Lames porte-objet 76 x 26 mm, bords dépolis, coins rodés — lot de 50",
+      "description_fr": "Lames porte-objet en verre, coins rodés, bords à 90° dépolis, épaisseur 1,2 mm, format 76 x 26 mm. Vendues par lot de 50.",
+      "variant_name_fr": "Bords dépolis — lot de 50",
+      "price_eur": 5,
+      "specs_fr": {
+        "Dimensions": "76 x 26 mm",
+        "Épaisseur": "1,2 mm",
+        "Type": "Coins rodés, bords à 90° dépolis",
+        "Conditionnement": "50",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18106311553_20240129102102/humeau.com-lames-76x26mm-bords-depolis-pack-de-50-219543-219543-30.jpg"
+    },
+    {
+      "sku": "221775",
+      "slug": "lames-porte-objet-76x26mm-ghaasel-bords-rodes-pack-50",
+      "brand": "HUMEAU",
+      "name_fr": "Lames porte-objet Ghaasel 76 x 26 mm, bords rodés dépolis, épaisseur 1,0-1,2 mm — lot de 50",
+      "description_fr": "Lames porte-objet en verre, bords rodés sur deux faces dépolies, coins à 90°, traitement hydrophile facilitant l'étalement des échantillons. Format 76 x 26 mm, épaisseur 1,0-1,2 mm. Vendues par lot de 50.",
+      "variant_name_fr": "Bords rodés dépolis — lot de 50",
+      "price_eur": 5.2,
+      "specs_fr": {
+        "Dimensions": "76 x 26 mm",
+        "Épaisseur": "1,1 mm",
+        "Type": "Bords rodés, deux faces dépolies, coins à 90°, traitement hydrophile",
+        "Conditionnement": "50",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19720131802_20240327090102/humeau.com-lames-76x26mm-ghaasel-bords-rodes-depolis-ep10-12mm-pack50-221775-221775-30.jpg"
+    },
+    {
+      "sku": "260626",
+      "slug": "lames-porte-objet-labsolute-bords-bruts-depolies-blanc-76x26mm-pack-50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lames porte-objet en verre sodocalcique, bords bruts, zone dépolie blanche, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope LABSOLUTE en verre sodocalcique conformes aux normes DIN ISO 8037-1 et 8037-2 et à la directive 98/79/CE (DIV), marquage CE. Format d'environ 76 x 26 mm, épaisseur d'environ 1 mm, livrées pré-nettoyées et prêtes à l'emploi, avec une zone dépolie blanche de 20 mm de large à une extrémité pour l'étiquetage. Version à bords bruts, économique, pour les tâches de routine ; coins et bords coupés à 90°.",
+      "variant_name_fr": "Zone dépolie blanche — lot de 50",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Matière": "Verre sodocalcique",
+        "Zone de marquage": "Blanc",
+        "Type": "Bords bruts, avec zone dépolie",
+        "Conditionnement": "50",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.255 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001709_20250319100103/humeau.com-lames-a-bords-bruts-depolies-blanc-76x26mm-pack-de-50-260626-260626-30.jpg"
+    },
+    {
+      "sku": "260623",
+      "slug": "lames-porte-objet-labsolute-bords-bruts-depolies-bleu-76x26mm-pack-50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lames porte-objet en verre sodocalcique, bords bruts, zone dépolie bleue, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope LABSOLUTE en verre sodocalcique conformes aux normes DIN ISO 8037-1 et 8037-2, format d'environ 76 x 26 mm, épaisseur d'environ 1 mm, livrées pré-nettoyées et prêtes à l'emploi, avec une zone dépolie colorée de 20 mm de large à une extrémité pour l'étiquetage. Version à bords bruts, économique, pour les tâches de routine ; coins et bords coupés à 90°.",
+      "variant_name_fr": "Zone dépolie bleue — lot de 50",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Couleur": "Bleu",
+        "Type": "Bords bruts, avec zone dépolie",
+        "Conditionnement": "50",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001706_20230817161102/humeau.com-lames-a-bords-bruts-depolies-bleu-76x26mm-pack-de-50-82710001706-260623-30.jpg"
+    },
+    {
+      "sku": "260627",
+      "slug": "lames-porte-objet-labsolute-bords-bruts-depolies-jaune-76x26mm-pack-50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lames porte-objet en verre sodocalcique, bords bruts, zone dépolie jaune/rose, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope LABSOLUTE en verre sodocalcique conformes aux normes DIN ISO 8037-1 et 8037-2, format d'environ 76 x 26 mm, épaisseur d'environ 1 mm, livrées pré-nettoyées et prêtes à l'emploi, avec une zone dépolie colorée de 20 mm de large à une extrémité pour l'étiquetage. Version à bords bruts, économique, pour les tâches de routine ; coins et bords coupés à 90°.",
+      "variant_name_fr": "Zone dépolie colorée — lot de 50",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Couleur": "Rose",
+        "Type": "Bords bruts, avec zone dépolie",
+        "Conditionnement": "50",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001710_20230817161102/humeau.com-lames-a-bords-bruts-depolies-jaune-76x26mm-pack-de-50-82710001710-260627-30.jpg"
+    },
+    {
+      "sku": "260624",
+      "slug": "lames-porte-objet-labsolute-bords-bruts-depolies-vert-76x26mm-pack-50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lames porte-objet en verre sodocalcique, bords bruts, zone dépolie verte, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope LABSOLUTE en verre sodocalcique conformes aux normes DIN ISO 8037-1 et 8037-2, format d'environ 76 x 26 mm, épaisseur d'environ 1 mm, livrées pré-nettoyées et prêtes à l'emploi, avec une zone dépolie colorée de 20 mm de large à une extrémité pour l'étiquetage. Version à bords bruts, économique, pour les tâches de routine ; coins et bords coupés à 90°.",
+      "variant_name_fr": "Zone dépolie verte — lot de 50",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Couleur": "Vert",
+        "Type": "Bords bruts, avec zone dépolie",
+        "Conditionnement": "50",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001707_20250903145101/humeau.com-lames-a-bords-bruts-depolies-vert-76x26mm-pack-de-50-260624-260624-30.jpg"
+    },
+    {
+      "sku": "260628",
+      "slug": "lames-porte-objet-labsolute-bords-rodes-45-76x26mm-pack-50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lames porte-objet en verre sodocalcique, bords rectifiés à 45°, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope LABSOLUTE en verre sodocalcique conformes aux normes DIN ISO 8037-1 et 8037-2, format d'environ 76 x 26 mm, épaisseur d'environ 1 mm, livrées pré-nettoyées et prêtes à l'emploi, avec une zone dépolie de 20 mm de large à une extrémité pour l'étiquetage. Version à bords rectifiés (coins à 45° ou 90°), qui limite les coupures ou bris de verre lors du traitement automatisé.",
+      "variant_name_fr": "Bords rectifiés 45° — lot de 50",
+      "price_eur": 4.5,
+      "specs_fr": {
+        "Type": "Bords rectifiés, coins à 45°/90°",
+        "Conditionnement": "50",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001711_20260306170103/humeau.com-lames-a-bords-rodes-45-76x26mm-pack-de-50-260628-260628-30.jpg"
+    },
+    {
+      "sku": "219544",
+      "slug": "lames-microscopie-vwr-76x26mm-bords-bruts-depolies-pack-50",
+      "brand": "VWR",
+      "name_fr": "Lames de microscopie VWR 76 x 26 mm, bords bruts, extrémité dépolie colorée — lot de 50",
+      "description_fr": "Lames de microscopie VWR à extrémités dépolies et bords bruts, format 76 x 26 x 1 mm. La zone de marquage résiste aux colorants et solvants courants de laboratoire. Vendues par lot de 50.",
+      "variant_name_fr": "Bords bruts — lot de 50",
+      "price_eur": 8.2,
+      "specs_fr": {
+        "Dimensions": "76 x 26 x 1 mm",
+        "Couleur": "Blanc",
+        "Type": "Bords bruts, extrémité dépolie",
+        "Conditionnement": "50",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18106311554_20250702162101/humeau.com-lames-microscopie-76x26mm-a-bords-bruts-depolies-pack-50-219544-219544-30.jpg"
+    },
+    {
+      "sku": "219553",
+      "slug": "lames-porte-objet-26x76mm-bords-rodes-pack-50",
+      "brand": "HUMEAU",
+      "name_fr": "Lames porte-objet 26 x 76 mm, bords rodés à 90° — lot de 50",
+      "description_fr": "Lames porte-objet pour applications de diagnostic in vitro (DIV), en verre sodo-calcique de classe hydrolytique 3, bords rodés à 90°. Pratiques et prêtes à l'emploi, format 76 x 26 mm. Vendues par lot de 50.",
+      "variant_name_fr": "Bords rodés — lot de 50",
+      "price_eur": 8.8,
+      "specs_fr": {
+        "Dimensions": "76 x 26 mm",
+        "Matière": "Verre sodo-calcique, classe hydrolytique 3",
+        "Type": "Bords rodés à 90°",
+        "Conditionnement": "50",
+        "Poids net": "0.243 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219553_20250626161101/humeau.com-lames-porte-objet-26x76mm-bords-rodes-pack-de-50-219553-219553-30.jpg"
+    },
+    {
+      "sku": "256228",
+      "slug": "lames-super-frost-bord-brut-blanc-76x26mm-boite-50",
+      "brand": "HUMEAU",
+      "name_fr": "Lames Super-Frost, bord brut, blanches, 76 x 26 mm — boîte de 50",
+      "description_fr": "Lames porte-objet Super-Frost en verre blanc hydrophile de haute définition, offrant une transparence élevée pour une visualisation au microscope améliorée. Zone d'identification colorée pour repérer facilement chaque lame. Format 76 x 26 mm, épaisseur 1 mm.",
+      "variant_name_fr": "Blanc — boîte de 50",
+      "price_eur": 7.58,
+      "specs_fr": {
+        "Dimensions": "26 x 76 mm",
+        "Épaisseur": "1 mm",
+        "Couleur": "Blanc",
+        "Conditionnement": "50",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256228_20260115033003/humeau.com-lames-super-frost-bord-brut-blanc-76x26mm-boite-de-50-256228-256228-30.jpg"
+    },
+    {
+      "sku": "219522",
+      "slug": "lames-superfrost-blanches-76x26mm-bords-rodes-pack-50",
+      "brand": "MENZEL",
+      "name_fr": "Lames Thermo Scientific SuperFrost, blanches, bords rodés à 90°, 76 x 26 mm — lot de 50",
+      "description_fr": "Lames de microscope Thermo Scientific SuperFrost MENZEL, à bords rodés à 90°. La languette imprimée SuperFrost résiste à quasiment tous les produits chimiques et réactifs de laboratoire courants ; une large gamme de couleurs (7 teintes standard) permet l'étiquetage et l'archivage clair de plusieurs séries d'échantillons.",
+      "variant_name_fr": "Blanc — lot de 50",
+      "price_eur": 10.8,
+      "specs_fr": {
+        "Dimensions": "76 x 26 mm",
+        "Épaisseur": "1 mm",
+        "Type": "Bords rodés à 90°",
+        "Conditionnement": "50",
+        "Marque commerciale": "MENZEL",
+        "Poids net": "0.025 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18106310705_20220805163101/humeau.com-lames-superfrost-blanches-76x26mm-bords-rodes-pack-50-18106310705-219522-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "category": {
+    "slug": "barometre-pluviometre-psychrometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Baromètres, pluviomètres et psychromètres"
+    },
+    "description": {
+      "fr": "Instruments de météorologie de terrain et de laboratoire — baromètres, pluviomètres et psychromètres — ainsi que leurs pièces de rechange (mèches, fontaines, plaques), pour la mesure de la pression atmosphérique, des précipitations et de l'hygrométrie."
+    }
+  },
+  "products": [
+    {
+      "sku": "600493",
+      "slug": "altimetre-mecanique-barometre-stil",
+      "brand": "STIL",
+      "name_fr": "Altimètre-baromètre mécanique portable",
+      "description_fr": "Instrument mécanique portable combinant altimètre et baromètre, sans pile. Il indique les variations de pression atmosphérique par rapport à un niveau de référence choisi par l'utilisateur, et permet ainsi de suivre les changements d'altitude ou d'anticiper l'évolution du temps. Disque gradué rotatif, cadran orientable et lanière velcro escamotable pour un usage nomade.",
+      "variant_name_fr": "Standard",
+      "price_eur": 61.3,
+      "specs_fr": {
+        "Matière": "Plastique",
+        "Alimentation": "Manuelle (sans pile)",
+        "Altitude mesurable": "0 à +5000 m (lecture tous les 25 m)",
+        "Pression mesurable": "550 à 1000 hPa",
+        "Poids net": "0.092 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600493_20251030112101/humeau.com-altimetre-mecanique-barometre-600493-600493-30.jpg"
+    },
+    {
+      "sku": "600487",
+      "slug": "barometre-maritime-laiton-mouvement-apparent",
+      "brand": "STIL",
+      "name_fr": "Baromètre maritime en laiton, mouvement apparent",
+      "description_fr": "Baromètre anéroïde en laiton poli, de style maritime classique, dont le mécanisme reste visible à travers le cadran. Il mesure la pression atmosphérique afin d'anticiper localement l'évolution du temps : une pression en hausse annonce une amélioration, une pression en baisse annonce une dégradation.",
+      "variant_name_fr": "960-1040 mbar",
+      "price_eur": 65.0,
+      "specs_fr": {
+        "Matière": "Laiton",
+        "Précision": "+/- 5",
+        "Poids net": "0.232 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600487_20251014142103/humeau.com-barometre-a-pression-960-1040-mbar-en-laiton-600487-600487-30.jpg"
+    },
+    {
+      "sku": "600494",
+      "slug": "barometre-thermometre-cadre-hetre",
+      "brand": "STIL",
+      "name_fr": "Baromètre-thermomètre sur cadre en hêtre",
+      "description_fr": "Baromètre anéroïde associé à un thermomètre, montés dans un cadre en hêtre massif, pour un usage en intérieur. Fonctionne sans pile et permet de suivre la pression atmosphérique locale pour anticiper les changements de temps.",
+      "variant_name_fr": "960-1060 hPa",
+      "price_eur": 50.2,
+      "specs_fr": {
+        "Matière": "Bois (hêtre)",
+        "Précision": "+/- 5",
+        "Résolution": "1 hPa",
+        "Étendue de mesure (pression)": "960 à 1060 hPa",
+        "Poids net": "0.178 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600494_20251030112101/humeau.com-barometre-thermometre-boitier-en-hetre-600494-600494-30.jpg"
+    },
+    {
+      "sku": "200677",
+      "slug": "fontaine-rechange-verre-psychrometre",
+      "brand": "HUMEAU",
+      "name_fr": "Fontaine de rechange en verre pour psychromètre",
+      "description_fr": "Pièce de rechange en verre destinée à maintenir humide la mèche entourant l'ampoule d'un des deux thermomètres d'un psychromètre, afin d'obtenir la température humide. Se positionne entre les deux thermomètres et se maintient grâce à un bouchon en caoutchouc.",
+      "variant_name_fr": "Standard",
+      "price_eur": 16.5,
+      "specs_fr": {
+        "Poids net": "0.055 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/1/01704113787_20260121163102/humeau.com-fontaine-de-rechange-pour-psychrometre-200677-200677-30.jpg"
+    },
+    {
+      "sku": "224816",
+      "slug": "meche-rechange-psychrometre-unite",
+      "brand": "HUMEAU",
+      "name_fr": "Mèche de rechange pour psychromètre",
+      "description_fr": "Mèche de rechange pour psychromètre, composée d'une partie chaussant le thermomètre (environ 5 cm de long, 7 mm de diamètre) prolongée d'une partie tressée de 5,5 cm.",
+      "variant_name_fr": "Pièce unitaire",
+      "price_eur": 5.52,
+      "specs_fr": {
+        "Diamètre": "7 mm",
+        "Longueur": "105 mm",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/23100114400_20260227151101/humeau.com-meche-de-rechange-pour-psychrometre-224816-224816-30.jpg"
+    },
+    {
+      "sku": "207227",
+      "slug": "meche-rechange-psychrometre-lot-25",
+      "brand": "HUMEAU",
+      "name_fr": "Mèches de rechange pour psychromètre — lot de 25",
+      "description_fr": "Lot de 25 mèches de rechange pour psychromètre à double thermomètre, d'environ 8 cm de longueur.",
+      "variant_name_fr": "Lot de 25",
+      "price_eur": 20.6,
+      "specs_fr": {
+        "Dimensions": "8 cm",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207227_20251212165101/humeau.com-meche-de-rechange-pour-psychrometre-par-25-207227-207227-30.jpg"
+    },
+    {
+      "sku": "247939",
+      "slug": "plaque-inox-support-psychrometre",
+      "brand": "HUMEAU",
+      "name_fr": "Plaque inox de support pour psychromètre",
+      "description_fr": "Plaque de support en acier inoxydable, pièce de rechange pour le montage d'un psychromètre à deux thermomètres.",
+      "variant_name_fr": "Standard",
+      "price_eur": 17.7,
+      "specs_fr": {
+        "Poids net": "0.34 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/60700052600_20230929145102/humeau.com-plaque-inox-pour-psychrometre-247939-247939-30.jpg"
+    },
+    {
+      "sku": "600259",
+      "slug": "pluviometre-grande-capacite-0-60mm",
+      "brand": "STIL",
+      "name_fr": "Pluviomètre grande capacité, lecture directe 0-60 mm",
+      "description_fr": "Pluviomètre en plastique à lecture directe, d'une capacité de 60 mm d'eau au mètre carré, équipé d'un pied amovible. Il mesure la quantité de précipitations tombées sur une période donnée, un usage courant en météorologie et en agriculture pour surveiller la pluviométrie et ajuster l'irrigation.",
+      "variant_name_fr": "0 à 60 mm",
+      "price_eur": 10.1,
+      "specs_fr": {
+        "Matière": "Plastique",
+        "Précision": "+/- 1 mm",
+        "Résolution": "1 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600259_20250820122003/humeau.com-pluviometre-grande-capacite-0-a-60-mm-600259-600259-30.jpg"
+    },
+    {
+      "sku": "224876",
+      "slug": "psychrometre-plaque-plastique-precision-1c",
+      "brand": "HUMEAU",
+      "name_fr": "Psychromètre à plaque plastique, double thermomètre liquide rouge",
+      "description_fr": "Psychromètre composé de deux thermomètres à liquide rouge fixés sur une plaque plastique inaltérable. La mesure de l'hygrométrie s'effectue par lecture des deux thermomètres et comparaison des valeurs à l'aide d'une abaque.",
+      "variant_name_fr": "-10 à 50 °C — précision 1 °C",
+      "price_eur": 11.35,
+      "specs_fr": {
+        "Dimensions": "300 x 75 x 30 mm",
+        "Échelle": "-10 à 50 °C",
+        "Matériaux": "Plastique",
+        "Précision": "1 °C",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/23100190000_20250213153101/humeau.com-psychrometre-plaque-plastique-thermo-liquide-rouge-a-1c-224876-224876-30.jpg"
+    },
+    {
+      "sku": "207247",
+      "slug": "psychrometre-kit-plaque-inox-0-40c",
+      "brand": "HUMEAU",
+      "name_fr": "Psychromètre complet sur plaque inox avec 2 thermomètres 0/+40 °C",
+      "description_fr": "Kit de psychromètre permettant de calculer l'hygrométrie par différence entre température sèche et température humide. Composé d'une plaque en inox 304L brossé résistant à la corrosion en milieu humide, de deux thermomètres à alcool rouge 0/+40 °C, d'une fontaine en verre, d'un bouchon caoutchouc et d'une mèche.",
+      "variant_name_fr": "Kit complet 0/+40 °C",
+      "price_eur": 160.2,
+      "specs_fr": {
+        "Poids net": "0.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207247_20230823091101/humeau.com-psychrometre-sur-plaque-inox-avec-2-thermometres-0-40-c-207247-207247-30.jpg"
+    }
+  ]
+}

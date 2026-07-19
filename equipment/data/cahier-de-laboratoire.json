@@ -1,0 +1,59 @@
+{
+  "category": {
+    "slug": "cahier-de-laboratoire",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Cahiers de laboratoire" },
+    "description": {
+      "fr": "Cahiers de laboratoire et étiquettes de sécurité pour la documentation, la traçabilité et l'archivage des expériences et des produits chimiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "260611",
+      "slug": "cahier-laboratoire-lignes-couverture-rouge-200p",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cahier de laboratoire à lignes, couverture rouge, 200 pages",
+      "description_fr": "Cahier de laboratoire LABSOLUTE au format 218 x 281 mm, à pages lignées numérotées en série, avec espace dédié au titre, à la signature et à la date. Papier sans acide résistant au vieillissement, couverture étanche et résistante aux produits chimiques, adapté à l'archivage de longue durée.",
+      "variant_name_fr": "Lignes — couverture rouge — 200 pages",
+      "price_eur": 40.80,
+      "specs_fr": {
+        "Couleur": "Doublé rouge",
+        "Format": "218 x 281 mm",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001694_20260504033001/humeau.com-cahier-de-laboratoire-a-lignes-21-8x28-1cm-couv-rouge-200p-260611-260611-30.jpg"
+    },
+    {
+      "sku": "260613",
+      "slug": "cahier-laboratoire-carreaux-couverture-bleue-200p",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cahier de laboratoire quadrillé, couverture bleue, 200 pages",
+      "description_fr": "Cahier de laboratoire LABSOLUTE au format 218 x 281 mm, à pages quadrillées numérotées en série, avec espace dédié au titre, à la signature et à la date. Papier sans acide résistant au vieillissement, couverture étanche et résistante aux produits chimiques, adapté à l'archivage de longue durée.",
+      "variant_name_fr": "Quadrillé — couverture bleue — 200 pages",
+      "price_eur": 40.80,
+      "specs_fr": {
+        "Couleur": "Blanc / grille bleue",
+        "Pack": "200 pages",
+        "Format": "218 x 281 mm",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001696_20260504033001/humeau.com-cahier-de-laboratoire-carreaux-21-8x28-1cm-couv-bleue-200p-260613-260613-30.jpg"
+    },
+    {
+      "sku": "259859",
+      "slug": "etiquettes-securite-ghs-danger-sante-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS — danger pour la santé, boîte de 500",
+      "description_fr": "Étiquettes autocollantes LABSOLUTE reprenant le pictogramme GHS de danger pour la santé, pour l'identification rapide des produits selon le Système général harmonisé de classification et d'étiquetage des produits chimiques. Fabriquées en polyéthylène de 0,1 mm d'épaisseur avec laque de protection, imperméables et résistantes aux solvants, libellées en trois langues.",
+      "variant_name_fr": "26 x 37 mm — boîte de 500",
+      "price_eur": 22.00,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "26 x 37 mm",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.11 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000942_20251027154101/humeau.com-etiquette-de-securite-ghs-8-danger-pour-la-sante-x500-259859-259859-30.jpg"
+    }
+  ]
+}

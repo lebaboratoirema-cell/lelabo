@@ -1,0 +1,35 @@
+{
+  "category": {
+    "slug": "consistometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Consistomètres"
+    },
+    "description": {
+      "fr": "Consistomètre de Bostwick en acier inoxydable pour mesurer la consistance ou la fluidité d'un produit par écoulement contrôlé, utilisé en agroalimentaire, cosmétique et industrie chimique."
+    }
+  },
+  "products": [
+    {
+      "sku": "247404",
+      "slug": "consistometre-bostwick-standard-235cm",
+      "brand": "HUMEAU",
+      "name_fr": "Consistomètre de Bostwick standard, gradué 23,5 cm / 0,5 cm",
+      "description_fr": "Instrument en acier inoxydable qui détermine la consistance d'un produit en mesurant la distance parcourue par un échantillon s'écoulant sous son propre poids. Équipé de deux vis de nivellement, d'un niveau et d'une porte actionnée par ressort à libération instantanée pour un écoulement immédiat de l'échantillon. Auge graduée par divisions de 0,5 cm, jusqu'à 100 mL d'échantillon. Utilisé notamment pour les sauces, soupes et confitures en agroalimentaire, les formulations cosmétiques et certains produits chimiques ou de peinture. Conforme aux normes R-81294D et ASTM F1080-93, qualité contact alimentaire.",
+      "variant_name_fr": "Standard",
+      "price_eur": 899.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Longueur": "24 cm",
+        "Dimensions extérieures (L x P x H)": "355 x 83 x 104 mm",
+        "Graduation": "0,5 cm",
+        "Volume échantillon": "100 mL max",
+        "Matériaux": "Acier inox",
+        "Poids net": "1 kg",
+        "Norme": "Conforme à la norme R-81294D et ASTM F1080-93",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/7/57600543600_20250718110103/humeau.com-consistometre-de-bostwick-standard-gradue-23-5cm-0-5cm-247404-247404-30.jpg"
+    }
+  ]
+}

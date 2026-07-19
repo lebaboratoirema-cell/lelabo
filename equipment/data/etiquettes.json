@@ -1,0 +1,273 @@
+{
+  "category": {
+    "slug": "etiquettes",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Étiquettes et rubans de laboratoire"
+    },
+    "description": {
+      "fr": "Étiquettes adhésives, rubans d'identification et scellés de sécurité pour le marquage, le codage couleur et la traçabilité des échantillons de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "257765",
+      "slug": "etiquette-close-it-blanc-150x150-x250",
+      "brand": "BURKLE",
+      "name_fr": "Étiquettes adhésives Close-it blanches, 150 x 150 mm — rouleau de 250",
+      "description_fr": "Étiquettes adhésives Close-it Bürkle, carrées de 150 mm de côté, vendues en rouleau de 250 pièces. Le fond entièrement blanc permet tout type d'inscription pour marquer ou reboucher un conditionnement après prélèvement.",
+      "variant_name_fr": "150 x 150 mm — rouleau de 250",
+      "price_eur": 113.6,
+      "specs_fr": {
+        "Conditionnement": "250",
+        "Dimensions": "150 x 150 mm",
+        "Couleur": "Blanc",
+        "Marque commerciale": "BURKLE",
+        "Poids brut": "0.992 KG",
+        "Poids net": "0.992 KG",
+        "Contact alimentaire": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000061_20240221100102/humeau.com-etiquette-adhesive-close-it-blanc-d-150x150mm-rouleau-x250-257765-257765-30.jpg"
+    },
+    {
+      "sku": "257763",
+      "slug": "etiquette-close-it-blanc-95x95-x500",
+      "brand": "BURKLE",
+      "name_fr": "Étiquettes adhésives Close-it blanches, 95 x 95 mm — rouleau de 500",
+      "description_fr": "Étiquettes adhésives Close-it Bürkle, carrées de 95 mm de côté, vendues en rouleau de 500 pièces. Fond blanc inscriptible pour marquer ou reboucher un conditionnement après prélèvement.",
+      "variant_name_fr": "95 x 95 mm — rouleau de 500",
+      "price_eur": 81.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "95 x 95 mm",
+        "Couleur": "Blanc",
+        "Marque commerciale": "BURKLE",
+        "Poids brut": "0.776 KG",
+        "Poids net": "0.776 KG",
+        "Contact alimentaire": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000059_20231016114101/humeau.com-etiquette-adhesive-close-it-blanc-d-95x95mm-rouleau-x500-257763-257763-30.jpg"
+    },
+    {
+      "sku": "257767",
+      "slug": "etiquette-close-it-jaune-150x150-x250",
+      "brand": "BURKLE",
+      "name_fr": "Étiquettes adhésives Close-it jaunes, 150 x 150 mm — rouleau de 250",
+      "description_fr": "Étiquettes adhésives Close-it Bürkle, carrées de 150 mm de côté, fond jaune avec zone de marquage blanche pour une identification aisée. Vendues en rouleau de 250 pièces.",
+      "variant_name_fr": "150 x 150 mm — rouleau de 250",
+      "price_eur": 113.6,
+      "specs_fr": {
+        "Conditionnement": "250",
+        "Dimensions": "150 x 150 mm",
+        "Couleur": "Jaune",
+        "Marque commerciale": "BURKLE",
+        "Contact alimentaire": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000063_20230817161102/humeau.com-etiquette-adhesive-close-it-jaune-d-150x150mm-rouleau-x250-82110000063-257767-30.jpg"
+    },
+    {
+      "sku": "259850",
+      "slug": "etiquette-securite-ghs2-inflammable-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS 2 — Danger inflammable — lot de 500",
+      "description_fr": "Étiquettes autocollantes Labsolute signalant le danger inflammable selon le système général harmonisé (GHS), en polyéthylène 0,1 mm avec laque de protection, imperméables et résistantes aux solvants. Mentions en trois langues, disponibles en boîte distributrice de 500 étiquettes.",
+      "variant_name_fr": "GHS 2 — lot de 500",
+      "price_eur": 22.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "L.26 x H.37 mm",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.11 KG",
+        "Poids net": "0.11 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000933_20251027154101/humeau.com-etiquette-de-securite-ghs-2-danger-inflammable-x500-259850-259850-30.jpg"
+    },
+    {
+      "sku": "259852",
+      "slug": "etiquette-securite-ghs3-oxydant-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS 3 — Danger oxydant — lot de 500",
+      "description_fr": "Étiquettes autocollantes Labsolute signalant le danger oxydant selon le système GHS, en polyéthylène 0,1 mm avec laque de protection, imperméables et résistantes aux solvants. Mentions en trois langues, boîte distributrice de 500 étiquettes.",
+      "variant_name_fr": "GHS 3 — lot de 500",
+      "price_eur": 22.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "L.26 x P.37 mm",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000935_20230817161102/humeau.com-etiquette-de-securite-ghs-3-danger-oxydant-x500-82710000935-259852-30.jpg"
+    },
+    {
+      "sku": "259855",
+      "slug": "etiquette-securite-ghs5-corrosion-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS 5 — Danger corrosion — lot de 500",
+      "description_fr": "Étiquettes autocollantes Labsolute signalant le danger de corrosion selon le système GHS, en polyéthylène 0,1 mm avec laque de protection, imperméables et résistantes aux solvants. Mentions en trois langues, boîte distributrice de 500 étiquettes.",
+      "variant_name_fr": "GHS 5 — lot de 500",
+      "price_eur": 22.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "L.26 x H.37 mm",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.1 KG",
+        "Poids net": "0.1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000938_20230817161102/humeau.com-etiquette-de-securite-ghs-5-danger-corrosion-x500-82710000938-259855-30.jpg"
+    },
+    {
+      "sku": "259857",
+      "slug": "etiquette-securite-ghs6-toxique-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS 6 — Danger toxique — lot de 500",
+      "description_fr": "Étiquettes autocollantes Labsolute signalant le danger toxique selon le système GHS, en polyéthylène 0,1 mm avec laque de protection, imperméables et résistantes aux solvants. Mentions en trois langues, boîte distributrice de 500 étiquettes.",
+      "variant_name_fr": "GHS 6 — lot de 500",
+      "price_eur": 22.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "L.26 x P.37 mm",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000940_20230817161102/humeau.com-etiquette-de-securite-ghs-6-danger-toxique-x500-82710000940-259857-30.jpg"
+    },
+    {
+      "sku": "259861",
+      "slug": "etiquette-securite-ghs9-environnement-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Étiquettes de sécurité GHS 9 — Prudence pour l'environnement — lot de 500",
+      "description_fr": "Étiquettes autocollantes Labsolute signalant un danger pour l'environnement selon le système GHS, en polyéthylène 0,1 mm avec laque de protection, imperméables et résistantes aux solvants. Mentions en trois langues, boîte distributrice de 500 étiquettes.",
+      "variant_name_fr": "GHS 9 — lot de 500",
+      "price_eur": 22.0,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "L.26 x H.37 mm",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids brut": "0.1 KG",
+        "Poids net": "0.1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000944_20230817161102/humeau.com-etiquette-de-securite-ghs-9-prudence-pour-environn-x500-82710000944-259861-30.jpg"
+    },
+    {
+      "sku": "257762",
+      "slug": "rouleau-adhesif-close-it-blanc-150mm-x50m",
+      "brand": "BURKLE",
+      "name_fr": "Rouleau adhésif Close-it blanc, largeur 150 mm — 50 m",
+      "description_fr": "Rouleau adhésif Close-it Bürkle, fond blanc inscriptible avec lignes préimprimées permettant une découpe nette selon les besoins. Sert à marquer, réparer ou reboucher un conditionnement après prélèvement.",
+      "variant_name_fr": "150 mm — 50 m",
+      "price_eur": 113.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Blanc",
+        "Longueur (mm)": "50 m",
+        "Largeur (mm)": "150 mm",
+        "Marque commerciale": "BURKLE",
+        "Poids brut": "1.424 KG",
+        "Poids net": "1.424 KG",
+        "Contact alimentaire": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000058_20230817161102/humeau.com-rouleau-adhesif-close-it-blanc-largeur-150mm-x-50m-82110000058-257762-30.jpg"
+    },
+    {
+      "sku": "261004",
+      "slug": "ruban-adhesif-bleu-54m-19mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ruban d'étiquetage bleu, 19,1 mm x 54 m",
+      "description_fr": "Ruban d'étiquetage Labsolute bleu, utilisable pour l'étiquetage des tubes à essai ou le codage couleur des ustensiles de laboratoire. Facile à étiqueter, il ne laisse aucun résidu collant lorsqu'il est retiré.",
+      "variant_name_fr": "Bleu — 19,1 mm x 54 m",
+      "price_eur": 30.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Bleu",
+        "Longueur (mm)": "54000",
+        "Largeur (mm)": "19,1",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002087_20230109102102/humeau.com-ruban-adhesif-bleu-long-54m-largeur-19-05mm-82710002087-261004-30.jpg"
+    },
+    {
+      "sku": "261005",
+      "slug": "ruban-adhesif-bleu-54m-25mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ruban d'étiquetage bleu, 25,4 mm x 54 m",
+      "description_fr": "Ruban d'étiquetage Labsolute bleu, plus large que le modèle 19,1 mm, pour l'étiquetage des tubes à essai ou le codage couleur des ustensiles de laboratoire. Ne laisse aucun résidu collant au retrait.",
+      "variant_name_fr": "Bleu — 25,4 mm x 54 m",
+      "price_eur": 14.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Bleu",
+        "Longueur (mm)": "54000",
+        "Largeur (mm)": "25,4",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002088_20240911104101/humeau.com-ruban-adhesif-bleu-long-54m-largeur-25-4mm-261005-261005-30.jpg"
+    },
+    {
+      "sku": "261028",
+      "slug": "ruban-adhesif-rouge-54m-19mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ruban d'étiquetage rouge, 19,1 mm x 54 m",
+      "description_fr": "Ruban d'étiquetage Labsolute rouge, pour l'étiquetage des tubes à essai ou le codage couleur des ustensiles de laboratoire. Facile à étiqueter, sans résidu collant au retrait.",
+      "variant_name_fr": "Rouge — 19,1 mm x 54 m",
+      "price_eur": 30.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Rouge",
+        "Longueur (mm)": "54000",
+        "Largeur (mm)": "19,1",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002111_20230109102102/humeau.com-ruban-adhesif-rouge-long-54m-largeur-19-05mm-82710002111-261028-30.jpg"
+    },
+    {
+      "sku": "261034",
+      "slug": "ruban-adhesif-vert-54m-19mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Ruban d'étiquetage vert, 19,1 mm x 54 m",
+      "description_fr": "Ruban d'étiquetage Labsolute vert, pour l'étiquetage des tubes à essai ou le codage couleur des ustensiles de laboratoire. Facile à étiqueter, sans résidu collant au retrait.",
+      "variant_name_fr": "Vert — 19,1 mm x 54 m",
+      "price_eur": 30.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Vert",
+        "Longueur (mm)": "54000",
+        "Largeur (mm)": "19,1",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002117_20260311122005/humeau.com-ruban-adhesif-vert-long-54m-largeur-19-05mm-261034-261034-30.jpg"
+    },
+    {
+      "sku": "261038",
+      "slug": "ruban-etiquetage-assortis-12-7m-x12",
+      "brand": "LABSOLUTE",
+      "name_fr": "Rubans d'étiquetage assortis, 25,4 mm — lot de 12 rouleaux",
+      "description_fr": "Assortiment de 12 rouleaux Labsolute de 24,5 mm de largeur et 12,7 m de long, dans 7 couleurs (bleu, vert, orange, rouge, blanc, jaune, rose), pour l'étiquetage des tubes à essai et le codage couleur des ustensiles de laboratoire.",
+      "variant_name_fr": "Assortis — lot de 12",
+      "price_eur": 72.2,
+      "specs_fr": {
+        "Conditionnement": "12 rouleaux",
+        "Couleur": "Bleu, vert, orange, rouge, blanc, jaune et rose",
+        "Longueur (mm)": "12700",
+        "Largeur (mm)": "24,5",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002121_20230817161102/humeau.com-rubans-d-etiquetage-assortis-l-12-7m-larg-25-4mm-x12-82710002121-261038-30.jpg"
+    },
+    {
+      "sku": "257781",
+      "slug": "scelle-rouge-seal-it-x500",
+      "brand": "BURKLE",
+      "name_fr": "Scellés rouges Seal-it pour échantillonnage sécurisé — lot de 500",
+      "description_fr": "Étiquettes de sécurité Seal-it Bürkle pour la protection et la traçabilité des échantillons. Leur forte adhérence empêche le décollement, et l'ouverture du flacon est révélée par le déchirement de l'étiquette aux zones perforées. S'adaptent à toute forme de récipient et portent un numéro d'identification pour la traçabilité.",
+      "variant_name_fr": "Rouge — lot de 500",
+      "price_eur": 178.8,
+      "specs_fr": {
+        "Conditionnement": "1 rouleau de 500 étiquettes",
+        "Longueur (mm)": "178",
+        "Largeur (mm)": "30",
+        "Marque commerciale": "BURKLE",
+        "Poids brut": "0.607 KG",
+        "Poids net": "0.607 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000077_20231024130103/humeau.com-scelle-rouge-seal-it-pour-un-echantillonnage-securise-x500-257781-257781-30.jpg"
+    }
+  ]
+}

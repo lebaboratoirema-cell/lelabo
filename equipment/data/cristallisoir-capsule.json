@@ -1,0 +1,289 @@
+{
+  "category": {
+    "slug": "cristallisoir-capsule",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Cristallisoirs et capsules"
+    },
+    "description": {
+      "fr": "Cristallisoirs, capsules à évaporation et coupelles de pesée en verre, porcelaine ou aluminium, pour le séchage, la concentration et l'évaporation d'échantillons."
+    }
+  },
+  "products": [
+    {
+      "sku": "223244",
+      "slug": "capsule-a-evaporation-duran-fond-plat-60-ml-60ml-duran",
+      "brand": "DURAN",
+      "name_fr": "Capsule à évaporation Duran fond plat, 60 mL",
+      "description_fr": "Capsule d'évaporation en verre borosilicaté Duran, à fond plat et bec verseur, sans zone d'écriture. Contenance de 60 mL, vendue par lot de 10. Adaptée à l'évaporation et à la concentration d'échantillons en laboratoire.",
+      "variant_name_fr": "60 mL — lot de 10",
+      "price_eur": 184.6,
+      "specs_fr": {
+        "Conditionnement": "Par 10 pièces",
+        "Matière": "Verre borosilicaté",
+        "Capacité (ml)": "60",
+        "Diamètre (mm)": "70",
+        "Hauteur (mm)": "35",
+        "Poids net": "0.436 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402130138_20230615115101/humeau.com-capsule-a-evaporation-duran-fond-plat-cap-60ml-par-10-20402130138-223244-30.jpg"
+    },
+    {
+      "sku": "237634",
+      "slug": "capsule-a-evaporation-duran-fond-plat-90-ml-90ml-duran",
+      "brand": "DURAN",
+      "name_fr": "Capsule à évaporation Duran fond plat, 90 mL",
+      "description_fr": "Capsule d'évaporation en verre borosilicaté Duran, à fond plat et bec verseur, sans zone d'écriture. Contenance de 90 mL, vendue par lot de 10. Adaptée à l'évaporation et à la concentration d'échantillons en laboratoire.",
+      "variant_name_fr": "90 mL — lot de 10",
+      "price_eur": 200.8,
+      "specs_fr": {
+        "Conditionnement": "Par 10 pièces",
+        "Matière": "Verre borosilicaté",
+        "Capacité (ml)": "90",
+        "Diamètre (mm)": "80",
+        "Hauteur (mm)": "45"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000177_20230613150102/humeau.com-capsule-a-evaporation-duran-fond-plat-cap-90ml-par-10-30600000177-237634-30.jpg"
+    },
+    {
+      "sku": "259393",
+      "slug": "capsule-a-evaporation-porcelaine-fond-plat-110-ml-ml-110-mlml-porcelaine-plat",
+      "brand": "LABSOLUTE",
+      "name_fr": "Capsule à évaporation porcelaine fond plat, 110 mL mL",
+      "description_fr": "Capsule d'évaporation LABSOLUTE en porcelaine de laboratoire, forme basse à fond plat, vitrée à l'intérieur et conforme à la norme DIN 12903. Contenance de 110 mL mL, résistante jusqu'à 1000 °C et aux acides forts hormis l'acide fluorhydrique. Idéale pour le séchage, la concentration et l'incinération d'échantillons.",
+      "variant_name_fr": "110 mL mL",
+      "price_eur": 65.6,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "110 mL",
+        "Diamètre (mm)": "100 mm",
+        "Hauteur (mm)": "25 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12903",
+        "Poids net": "0.45 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000476_20230817161102/humeau.com-capsule-a-evaporation-porcelaine-fond-plat-110ml-x5-82710000476-259393-30.jpg"
+    },
+    {
+      "sku": "259398",
+      "slug": "capsule-a-evaporation-porcelaine-fond-plat-55-ml-ml-55-mlml-porcelaine-plat",
+      "brand": "LABSOLUTE",
+      "name_fr": "Capsule à évaporation porcelaine fond plat, 55 mL mL",
+      "description_fr": "Capsule d'évaporation LABSOLUTE en porcelaine de laboratoire, forme basse à fond plat, vitrée à l'intérieur et conforme à la norme DIN 12903. Contenance de 55 mL mL, résistante jusqu'à 1000 °C et aux acides forts hormis l'acide fluorhydrique. Idéale pour le séchage, la concentration et l'incinération d'échantillons.",
+      "variant_name_fr": "55 mL mL",
+      "price_eur": 49.1,
+      "specs_fr": {
+        "Conditionnement": "Pack de 5",
+        "Matière": "Porcelaine",
+        "Volume": "55 mL",
+        "Diamètre (mm)": "80 mm",
+        "Hauteur (mm)": "20 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12903"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000481_20230817161102/humeau.com-capsule-a-evaporation-porcelaine-fond-plat-55ml-x5-82710000481-259398-30.jpg"
+    },
+    {
+      "sku": "259388",
+      "slug": "capsule-a-evaporation-porcelaine-fond-rond-30-ml-30ml-porcelaine-rond",
+      "brand": "LABSOLUTE",
+      "name_fr": "Capsule à évaporation porcelaine fond rond, 30 mL",
+      "description_fr": "Capsule d'évaporation LABSOLUTE en porcelaine, forme médium à fond rond, vitrée à l'intérieur et conforme à la norme DIN 12903. Contenance de 30 mL, résistante jusqu'à 1000 °C et aux acides forts hormis l'acide fluorhydrique.",
+      "variant_name_fr": "30 mL",
+      "price_eur": 37.3,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Matière": "Porcelaine",
+        "Capacité (ml)": "30",
+        "Diamètre (mm)": "63 mm",
+        "Hauteur (mm)": "25 mm",
+        "Température maximum": "1000 °C",
+        "Conformité": "DIN 12903"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000471_20230817161102/humeau.com-capsule-a-evaporation-porcelaine-fond-rond-cap-30ml-82710000471-259388-30.jpg"
+    },
+    {
+      "sku": "259403",
+      "slug": "capsule-a-evaporation-en-verre-borosilicate-60-ml-60-ml-verre",
+      "brand": "LABSOLUTE",
+      "name_fr": "Capsule à évaporation en verre borosilicaté, 60 mL",
+      "description_fr": "Capsule à évaporation LABSOLUTE en verre borosilicaté 3.3, à fond plat et bec verseur fonctionnel, conforme à la norme DIN 12336. Résiste à des températures jusqu'à 500 °C, autoclavable, et tient aux solvants/solutions alcalines froides ainsi qu'aux acides forts (hors acide fluorhydrique et acide phosphorique concentré chaud).",
+      "variant_name_fr": "60 mL",
+      "price_eur": 10,
+      "specs_fr": {
+        "Volume": "60 mL",
+        "Diamètre (mm)": "70 mm",
+        "Hauteur (mm)": "35 mm",
+        "Température maximum": "500 °C",
+        "Conformité": "DIN 12336"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000486_20230817161102/humeau.com-capsule-a-evaporation-verre-labsolute-fond-plat-cap-60ml-82710000486-259403-30.jpg"
+    },
+    {
+      "sku": "259633",
+      "slug": "coupelle-de-pesee-en-aluminium-125-ml-125-ml-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée en aluminium, 125 mL",
+      "description_fr": "Coupelle de pesée LABSOLUTE en aluminium à parois lisses, forme stable et fond plat garantissant une bonne assise. Contenance de 125 mL, diamètre d'ouverture 96 mm mm. Agréée contact alimentaire, vendue par lot de 100 pièces.",
+      "variant_name_fr": "125 mL — lot de 100",
+      "price_eur": 39.1,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Matière": "Aluminium",
+        "Volume": "125 mL",
+        "Diamètre d'ouverture (mm)": "96 mm",
+        "Hauteur (mm)": "24 mm",
+        "Type": "Parois latérales lisses",
+        "Diamètre base": "78 mm",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000716_20260416130109/humeau.com-coupelle-aluminium-125ml-diam-96mm-pack-x100-259633-259633-30.jpg"
+    },
+    {
+      "sku": "259635",
+      "slug": "coupelle-de-pesee-en-aluminium-28-ml-28-ml-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée en aluminium, 28 mL",
+      "description_fr": "Coupelle de pesée LABSOLUTE en aluminium à parois lisses, forme stable et fond plat garantissant une bonne assise. Contenance de 28 mL, diamètre d'ouverture 64 mm. Agréée contact alimentaire, vendue par lot de 100 pièces.",
+      "variant_name_fr": "28 mL — lot de 100",
+      "price_eur": 21.2,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Matière": "Aluminium",
+        "Capacité (ml)": "28 mL",
+        "Diamètre int. col": "64",
+        "Hauteur (mm)": "13",
+        "Type": "Parois latérales lisses",
+        "Diamètre intérieur corps": "51",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000718_20230817161102/humeau.com-coupelle-aluminium-28ml-diam-64mm-pack-x100-82710000718-259635-30.jpg"
+    },
+    {
+      "sku": "259677",
+      "slug": "cristallisoir-a-bec-fond-plat-40-ml-40-ml-avec-bec",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cristallisoir à bec fond plat, 40 mL",
+      "description_fr": "Cristallisoir de laboratoire LABSOLUTE en verre borosilicaté 3.3, avec bec verseur, à fond plat. Contenance de 40 mL, résistant à des températures jusqu'à 500 °C et autoclavable. Champ d'étiquetage fonctionnel, bonne tenue aux solutions alcalines froides et aux acides forts (hors acide fluorhydrique et acide phosphorique concentré chaud).",
+      "variant_name_fr": "40 mL",
+      "price_eur": 8.55,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "verre borosilicaté 3.3",
+        "Volume": "40 mL",
+        "Diamètre (mm)": "50 mm",
+        "Hauteur (mm)": "30 mm",
+        "Température maximum": "500 °C",
+        "Forme": "Avec bec",
+        "Conformité": "DIN 12338"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000760_20230817161102/humeau.com-cristallisoir-a-bec-a-fond-plat-cap-40ml-82710000760-259677-30.jpg"
+    },
+    {
+      "sku": "201266",
+      "slug": "cristallisoir-en-aluminium-a-usage-unique-alu-1-200",
+      "brand": "HUMEAU",
+      "name_fr": "Cristallisoir en aluminium à usage unique",
+      "description_fr": "Cristallisoir jetable en aluminium rigide, verni intérieurement, destiné à la préparation d'extraits secs. Vendu en carton de 1 200 pièces.",
+      "variant_name_fr": "Lot de 1 200",
+      "price_eur": 352.9,
+      "specs_fr": {
+        "Conditionnement": "1 200",
+        "Hauteur (mm)": "30",
+        "Poids net": "5.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03502475502_20260709130106/humeau.com-cristallisoir-alu-usage-unique-d-52-54-h-30mm-pack-x1200-201266-201266-30.jpg"
+    },
+    {
+      "sku": "259682",
+      "slug": "cristallisoir-sans-bec-fond-plat-150-150-sans-bec",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cristallisoir sans bec fond plat, 150",
+      "description_fr": "Cristallisoir de laboratoire LABSOLUTE en verre borosilicaté 3.3, sans bec verseur, à fond plat. Contenance de 150, résistant à des températures jusqu'à 500 °C et autoclavable. Champ d'étiquetage fonctionnel, bonne tenue aux solutions alcalines froides et aux acides forts (hors acide fluorhydrique et acide phosphorique concentré chaud).",
+      "variant_name_fr": "150",
+      "price_eur": 9.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "verre borosilicaté 3.3",
+        "Capacité (ml)": "150",
+        "Diamètre (mm)": "80",
+        "Hauteur (mm)": "45",
+        "Température maximum": "500 °C",
+        "Forme": "Sans bec",
+        "Conformité": "DIN 12337"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000765_20230817161102/humeau.com-cristallisoir-sans-bec-a-fond-plat-cap-150ml-82710000765-259682-30.jpg"
+    },
+    {
+      "sku": "259687",
+      "slug": "cristallisoir-sans-bec-fond-plat-500-500-sans-bec",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cristallisoir sans bec fond plat, 500",
+      "description_fr": "Cristallisoir de laboratoire LABSOLUTE en verre borosilicaté 3.3, sans bec verseur, à fond plat. Contenance de 500, résistant à des températures jusqu'à 500 °C et autoclavable. Champ d'étiquetage fonctionnel, bonne tenue aux solutions alcalines froides et aux acides forts (hors acide fluorhydrique et acide phosphorique concentré chaud).",
+      "variant_name_fr": "500",
+      "price_eur": 15.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "verre borosilicaté 3.3",
+        "Capacité (ml)": "500",
+        "Diamètre (mm)": "115",
+        "Hauteur (mm)": "65",
+        "Température maximum": "500 °C",
+        "Conformité": "DIN 12337",
+        "Type": "Sans bec",
+        "Poids net": "2.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000770_20230817161102/humeau.com-cristallisoir-sans-bec-a-fond-plat-cap-500ml-82710000770-259687-30.jpg"
+    },
+    {
+      "sku": "205262",
+      "slug": "cristallisoir-en-verre-pyrex-avec-bec-500-ml-500ml-pyrex-avec-bec",
+      "brand": "PYREX",
+      "name_fr": "Cristallisoir en verre Pyrex avec bec, 500 mL",
+      "description_fr": "Cristallisoir plat en verre borosilicaté Pyrex, avec bec verseur, conforme à la norme DIN 12338. Contenance de 500 mL, utilisable jusqu'à 400 °C avec une excellente résistance chimique et thermique. Vendu par lot de 10.",
+      "variant_name_fr": "500 mL — lot de 10",
+      "price_eur": 353.8,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (ml)": "500",
+        "Diamètre ext. corps": "115",
+        "Hauteur (mm)": "65",
+        "Poids net": "1.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000611_20230817161102/humeau.com-cristallisoir-verre-pyrex-avec-bec-d115mm-500ml-par-10-06700000611-205262-30.jpg"
+    },
+    {
+      "sku": "205257",
+      "slug": "cristallisoir-en-verre-pyrex-avec-bec-30-ml-30ml-pyrex-avec-bec",
+      "brand": "PYREX",
+      "name_fr": "Cristallisoir en verre Pyrex avec bec, 30 mL",
+      "description_fr": "Cristallisoir plat en verre borosilicaté Pyrex, avec bec verseur, conforme à la norme DIN 12338. Contenance de 30 mL, utilisable jusqu'à 400 °C avec une excellente résistance chimique et thermique. Vendu par lot de 10.",
+      "variant_name_fr": "30 mL — lot de 10",
+      "price_eur": 203.5,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (ml)": "30",
+        "Diamètre ext. corps": "52",
+        "Poids net": "0.33 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000606_20230817161102/humeau.com-cristallisoir-verre-pyrex-avec-bec-d52mm-30ml-par-10-06700000606-205257-30.jpg"
+    },
+    {
+      "sku": "205265",
+      "slug": "cristallisoir-en-verre-pyrex-sans-bec-15-ml-15ml-pyrex-sans-bec",
+      "brand": "PYREX",
+      "name_fr": "Cristallisoir en verre Pyrex sans bec, 15 mL",
+      "description_fr": "Cristallisoir plat en verre borosilicaté Pyrex, à parois droites sans bec verseur, conforme à la norme DIN 12338. Contenance de 15 mL, utilisable jusqu'à 400 °C avec une excellente résistance chimique et thermique. Vendu par lot de 20.",
+      "variant_name_fr": "15 mL — lot de 20",
+      "price_eur": 286.8,
+      "specs_fr": {
+        "Conditionnement": "20",
+        "Capacité (ml)": "15",
+        "Diamètre ext. corps": "40",
+        "Hauteur (mm)": "25",
+        "Poids net": "0.44 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000614_20230817161102/humeau.com-cristallisoir-verre-pyrex-sans-bec-d40mm-15ml-par-20-06700000614-205265-30.jpg"
+    }
+  ]
+}

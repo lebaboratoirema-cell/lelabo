@@ -1,0 +1,136 @@
+{
+  "category": {
+    "slug": "papier-pour-imprimante",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Consommables pour imprimantes de laboratoire"
+    },
+    "description": {
+      "fr": "Rubans encreurs, papiers thermiques et étiquettes compatibles avec les imprimantes utilisées sur balances, pH-mètres et dessiccateurs de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "224475",
+      "slug": "cartouche-ruban-ga42-45-encre-noire-x2",
+      "brand": "METTLER TOLEDO",
+      "name_fr": "Cartouches ruban GA42/45 encre noire — lot de 2",
+      "description_fr": "Cartouches ruban GA42/45 (référence P43/45) pour les imprimantes Mettler Toledo Excellence P-50, encre noire, vendues par lot de 2.",
+      "variant_name_fr": "Noir — lot de 2",
+      "price_eur": 42.1,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Marque commerciale": "METTLER TOLEDO",
+        "Poids brut": "0.05 KG",
+        "Poids net": "0.05 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22706597502_20250430155101/humeau.com-cartouche-ruban-ga42-45-encre-noire-pack-de-2-224475-224475-30.jpg"
+    },
+    {
+      "sku": "261743",
+      "slug": "etiquette-datalink-lot-2-rouleaux",
+      "brand": "INTERSCIENCE",
+      "name_fr": "Étiquettes pour imprimante Datalink — lot de 2 rouleaux",
+      "description_fr": "Rouleaux d'étiquettes pour imprimante thermique Datalink Interscience, format 45 x 10 mm, vendus par lot de 2 rouleaux.",
+      "variant_name_fr": "45 x 10 mm — lot de 2 rouleaux",
+      "price_eur": 119.0,
+      "specs_fr": {
+        "Marque commerciale": "INTERSCIENCE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261743_20230626152101/humeau.com-etiquette-pour-datalink-lot-de-2-rouleaux-83441012002-261743-30.jpg"
+    },
+    {
+      "sku": "210336",
+      "slug": "etiquettes-tyvek-indechirables-20x38mm-x1000",
+      "brand": "HUMEAU",
+      "name_fr": "Étiquettes Tyvek indéchirables, 20 x 38 mm — rouleau de 1000",
+      "description_fr": "Étiquettes blanches polyvalentes Tyvek Shamrock, indéchirables, ne se décolorant pas dans le temps, avec adhésion renforcée permanente. Compatibles avec un marquage au stylo à bille, crayon de papier ou feutre.",
+      "variant_name_fr": "20 x 38 mm — rouleau de 1000",
+      "price_eur": 209.2,
+      "specs_fr": {
+        "Conditionnement": "1 rouleau de 1 000",
+        "Dimensions": "20 x 38 mm",
+        "Poids brut": "0.2 KG",
+        "Poids net": "0.2 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611802651_20230731104107/humeau.com-etiquettes-tyvek-indechirables-d-20x38mm-rouleau-de-1000-210336-210336-30.jpg"
+    },
+    {
+      "sku": "244602",
+      "slug": "papier-imprimante-cbm910-pack-10-rlx",
+      "brand": "HUMEAU",
+      "name_fr": "Papier pour imprimante CBM910, 57 x 60 x 1,2 mm — lot de 10 rouleaux",
+      "description_fr": "Papier pour imprimante thermique CBM910RM destiné aux dessiccateurs Precisa, vendu en lot de 10 rouleaux.",
+      "variant_name_fr": "Lot de 10 rouleaux",
+      "price_eur": 21.0,
+      "specs_fr": {
+        "Dimensions": "L 57,5 x h 60 x Ep 1,2 mm",
+        "Poids brut": "1.19 KG",
+        "Poids net": "1.19 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/2/52604672502_20260702111102/humeau.com-papier-pour-imprimante-cbm910-57x60x12mm-pack-de-10-rlx-244602-244602-30.jpg"
+    },
+    {
+      "sku": "200438",
+      "slug": "rouleaux-imprimante-40mm-phmetre-hanna8418-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Rouleaux d'imprimante 40 mm pour pH-mètre Hanna 8418 — lot de 10",
+      "description_fr": "Rouleaux d'impression de 40 mm de largeur, compatibles avec l'imprimante du pH-mètre Hanna 8418, vendus en lot de 10 rouleaux.",
+      "variant_name_fr": "40 mm — lot de 10",
+      "price_eur": 26.0,
+      "specs_fr": {
+        "Poids brut": "0.161 KG",
+        "Poids net": "0.161 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/200438_20240614100103/humeau.com-rouleaux-imprimante-l-40-mm-ph-metre-hanna-8418-10-roul-200438-200438-30.jpg"
+    },
+    {
+      "sku": "241411",
+      "slug": "ruban-encreur-erc-38b-epson",
+      "brand": "HUMEAU",
+      "name_fr": "Ruban encreur noir ERC-38B pour imprimante Epson",
+      "description_fr": "Ruban encreur original Epson ERC-38B, constitué d'une boucle continue de tissu résistant, conçu pour garantir le bon fonctionnement des imprimantes de la gamme Epson.",
+      "variant_name_fr": "Noir",
+      "price_eur": 7.2,
+      "specs_fr": {
+        "Couleur": "Noir",
+        "Poids brut": "0.16 KG",
+        "Poids net": "0.16 KG",
+        "Compatibilité": "M U200, U200D, U220A, U220B, U220D, U220PB, U220PD, U230, U300, U375."
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/241411_20240904140101/humeau.com-ruban-encreur-noir-erc-38b-pour-imprimante-epson-241411-241411-30.jpg"
+    },
+    {
+      "sku": "244589",
+      "slug": "ruban-encreur-idp3110",
+      "brand": "HUMEAU",
+      "name_fr": "Ruban encreur pour imprimante IDP3110",
+      "description_fr": "Ruban encreur pour imprimante CMB910RM de dessiccateur Precisa, vendu en pack de 3 rubans encreur.",
+      "variant_name_fr": "Lot de 3",
+      "price_eur": 57.0,
+      "specs_fr": {
+        "Poids brut": "0.04 KG",
+        "Poids net": "0.04 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/2/52604671522_20260708122007/humeau.com-ruban-encreur-pour-imprimante-idp3110-244589-244589-30.jpg"
+    },
+    {
+      "sku": "219727",
+      "slug": "ruban-imprimante-serie6000-noir-65mm-bbp11-70m",
+      "brand": "HUMEAU",
+      "name_fr": "Ruban imprimante série 6000, noir, largeur 65 mm, BBP11 — 70 m",
+      "description_fr": "Ruban à transfert thermique série 6000 pour imprimante BBP11, sans halogène, largeur 65 mm, longueur 70 mètres, encre noire.",
+      "variant_name_fr": "65 mm x 70 m",
+      "price_eur": 31.2,
+      "specs_fr": {
+        "Couleur": "Noir",
+        "Longueur (mm)": "70 mètres",
+        "Largeur (mm)": "65 mm",
+        "Poids brut": "0.048 KG",
+        "Poids net": "0.048 KG",
+        "Modèle": "Série 6000 pour imprimante BBP11"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18119651500_20220505201050/humeau.com-ruban-imprimante-serie-6000-noir-largeur-65mm-bbp11-70m-18119651500-219727-30.jpg"
+    }
+  ]
+}

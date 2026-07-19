@@ -1,0 +1,282 @@
+{
+  "category": {
+    "slug": "pissette",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Pissettes" },
+    "description": {
+      "fr": "Pissettes en LDPE ou polypropylène, à col étroit ou large, pour la distribution précise et sécurisée de solvants et de liquides de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "205504",
+      "slug": "pissette-anti-goutte-col-large-bleu-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette anti-goutte col large LDPE, bouchon bleu, 500 mL — lot de 5",
+      "description_fr": "Flacon à épaulement carré et col large facilitant le remplissage, équipé du système de valve breveté Driplock qui évite à la pissette de goutter. Munie d'un bouchon en PP avec code couleur et d'un bec permettant une grande précision du jet.",
+      "variant_name_fr": "500 mL — lot de 5",
+      "price_eur": 63.50,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Bleu",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700123554_20231011153101/humeau.com-pissette-anti-goutte-col-large-ldpe-bou-bleu-500ml-azlon-x5-205504-205504-30.jpg"
+    },
+    {
+      "sku": "205401",
+      "slug": "pissette-col-large-cape-250ml-5couleurs-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette col large LDPE, bouchons 5 couleurs, 250 mL — lot de 5",
+      "description_fr": "Pissette à épaulement carré et col large pour un remplissage facile sans éclaboussures. Bouchon et bec de couleur moulés en une seule pièce pour une parfaite étanchéité, avec bec permettant une grande précision lors de l'utilisation.",
+      "variant_name_fr": "250 mL — lot de 5",
+      "price_eur": 40.80,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "250",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700022947_20250806102102/humeau.com-pissette-col-large-ldpe-cape-250ml-5-couleurs-pack-x5-205401-205401-30.jpg"
+    },
+    {
+      "sku": "205626",
+      "slug": "pissette-col-large-eau-distillee-250ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette col large LDPE, modèle eau distillée, 250 mL — lot de 5",
+      "description_fr": "Pissette à col large avec impression indélébile multilingue (anglais, français, allemand, espagnol) reprenant les symboles GHS, le diamant NFPA et les mentions de risque et de sécurité. Bouchon et bec en PP moulés d'une seule pièce, à extrémité fine pour un contrôle précis du jet.",
+      "variant_name_fr": "250 mL — Eau distillée — lot de 5",
+      "price_eur": 56.80,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "250",
+        "Couleur bouchon": "Blanc",
+        "Poids net": "0.25 kg",
+        "Modèle": "Eau distillée"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700660047_20240417143101/humeau.com-pissette-col-large-ldpe-modele-eau-distillee-250ml-pack-5-205626-205626-30.jpg"
+    },
+    {
+      "sku": "260834",
+      "slug": "pissette-ldpe-col-etroit-1l-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col étroit, 1 L — lot de 6",
+      "description_fr": "Pissette en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie de forme précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "1 L — col étroit — lot de 6",
+      "price_eur": 29.10,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Matière": "LDPE",
+        "Volume": "1000 mL",
+        "Diamètre ext. corps": "93,0 mm",
+        "Hauteur (mm)": "280",
+        "Poids net": "0.4 kg",
+        "Diamètre intérieur corps": "28,0 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001917_20260625115102/humeau.com-pissette-en-ldpe-col-etroit-1l-pack-de-6-260834-260834-30.jpg"
+    },
+    {
+      "sku": "260835",
+      "slug": "pissette-ldpe-col-etroit-250ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col étroit, 250 mL — lot de 6",
+      "description_fr": "Pissette en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie de forme précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "250 mL — col étroit — lot de 6",
+      "price_eur": 19.50,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Volume": "250 mL",
+        "Diamètre ext. corps": "61,5 mm",
+        "Hauteur (mm)": "178",
+        "Poids net": "0.25 kg",
+        "Modèle": "LDPE",
+        "Diamètre intérieur corps": "18,0 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001918_20230713150102/humeau.com-pissette-en-ldpe-col-etroit-250ml-pack-de-6-260835-260835-30.jpg"
+    },
+    {
+      "sku": "260836",
+      "slug": "pissette-ldpe-col-etroit-500ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col étroit, 500 mL — lot de 6",
+      "description_fr": "Pissette en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie de forme précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "500 mL — col étroit — lot de 6",
+      "price_eur": 23.60,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Matière": "LDPE",
+        "Volume": "500 mL",
+        "Diamètre ext. corps": "74,5 mm",
+        "Hauteur (mm)": "240",
+        "Poids net": "0.42 kg",
+        "Diamètre intérieur corps": "28,0 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001919_20250324153101/humeau.com-pissette-en-ldpe-col-etroit-500ml-pack-de-6-260836-260836-30.jpg"
+    },
+    {
+      "sku": "260837",
+      "slug": "pissette-ldpe-col-large-1l-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col large, 1 L — lot de 6",
+      "description_fr": "Pissette à col large en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "1 L — col large — lot de 6",
+      "price_eur": 29.90,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Volume": "1000 mL",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Diamètre int. col": "43,0 mm",
+        "Diamètre ext. corps": "91,0 mm",
+        "Hauteur (mm)": "276,0",
+        "Poids net": "0.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001920_20250320155101/humeau.com-pissette-en-ldpe-col-large-1l-pack-de-6-260837-260837-30.jpg"
+    },
+    {
+      "sku": "260838",
+      "slug": "pissette-ldpe-col-large-250ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col large, 250 mL — lot de 6",
+      "description_fr": "Pissette à col large en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "250 mL — col large — lot de 6",
+      "price_eur": 20.20,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Volume": "250 mL",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Diamètre int. col": "28,0 mm",
+        "Diamètre ext. corps": "61,5 mm",
+        "Hauteur (mm)": "215,0",
+        "Poids net": "0.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001921_20250424155101/humeau.com-pissette-en-ldpe-col-large-250ml-pack-de-6-260838-260838-30.jpg"
+    },
+    {
+      "sku": "260839",
+      "slug": "pissette-ldpe-col-large-500ml-x6",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pissette en LDPE, col large, 500 mL — lot de 6",
+      "description_fr": "Pissette à col large en LDPE à fermeture hermétique, idéale pour distribuer des liquides. L'ouverture de sortie précise permet de doser la bonne quantité de liquide et de focaliser le jet.",
+      "variant_name_fr": "500 mL — col large — lot de 6",
+      "price_eur": 24.30,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Volume": "500 mL",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Diamètre int. col": "43,0 mm",
+        "Diamètre ext. corps": "74,0 mm",
+        "Hauteur (mm)": "228,0",
+        "Poids net": "0.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001922_20260423160103/humeau.com-pissette-en-ldpe-col-large-500ml-pack-de-6-260839-260839-30.jpg"
+    },
+    {
+      "sku": "205376",
+      "slug": "pissette-integrale-azlon-acetone-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon « Acétone », col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, marquée « Acétone » avec inscriptions imprimées de manière indélébile en plusieurs langues (français, anglais, allemand, espagnol), reprenant les symboles de dangerosité, le diamant NFPA et les mentions de risque. Bouchon en PP monobloc à code couleur, bec intégré évitant les contaminations lors du remplissage.",
+      "variant_name_fr": "500 mL — Acétone — lot de 5",
+      "price_eur": 61.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Rouge",
+        "Poids net": "0.273 kg",
+        "Modèle": "Acétone"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010004_20231023091102/humeau.com-pissette-integrale-azlon-acetone-col-large-pp-0-5l-x5-205376-205376-30.jpg"
+    },
+    {
+      "sku": "205375",
+      "slug": "pissette-integrale-azlon-eau-distillee-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon « Eau distillée », col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, marquée « Eau distillée » avec inscriptions imprimées de manière indélébile en plusieurs langues. Bouchon en PP monobloc à code couleur, bec intégré évitant les contaminations lors du remplissage.",
+      "variant_name_fr": "500 mL — Eau distillée — lot de 5",
+      "price_eur": 54.40,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Blanc",
+        "Poids net": "0.1 kg",
+        "Modèle": "Eau distillée"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010003_20231025141103/humeau.com-pissette-integrale-azlon-eau-distillee-col-large-pp-0-5l-x5-205375-205375-30.jpg"
+    },
+    {
+      "sku": "205379",
+      "slug": "pissette-integrale-azlon-ethanol-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon « Éthanol », col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, marquée « Éthanol » avec inscriptions imprimées de manière indélébile en plusieurs langues. Bouchon en PP monobloc à code couleur, bec intégré évitant les contaminations lors du remplissage.",
+      "variant_name_fr": "500 mL — Éthanol — lot de 5",
+      "price_eur": 61.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Orange",
+        "Poids net": "0.273 kg",
+        "Modèle": "Ethanol"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010007_20231023091102/humeau.com-pissette-integrale-azlon-ethanol-col-large-pp-0-5l-x5-205379-205379-30.jpg"
+    },
+    {
+      "sku": "205378",
+      "slug": "pissette-integrale-azlon-isopropanol-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon « Isopropanol », col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, marquée « Isopropanol » avec inscriptions imprimées de manière indélébile en plusieurs langues. Bouchon en PP monobloc à code couleur, bec intégré évitant les contaminations lors du remplissage.",
+      "variant_name_fr": "500 mL — Isopropanol — lot de 5",
+      "price_eur": 61.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Bleu",
+        "Poids net": "0.273 kg",
+        "Modèle": "Isopropanol"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010006_20231220153103/humeau.com-pissette-integrale-azlon-iso-propanol-col-large-pp-0-5l-x5-205378-205378-30.jpg"
+    },
+    {
+      "sku": "205377",
+      "slug": "pissette-integrale-azlon-methanol-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon « Méthanol », col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, marquée « Méthanol » avec inscriptions imprimées de manière indélébile en plusieurs langues. Bouchon en PP monobloc à code couleur, bec intégré évitant les contaminations lors du remplissage.",
+      "variant_name_fr": "500 mL — Méthanol — lot de 5",
+      "price_eur": 68.50,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Vert",
+        "Poids net": "0.273 kg",
+        "Modèle": "Méthanol"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010005_20240606142101/humeau.com-pissette-integrale-azlon-methanol-col-large-pp-0-5l-x5-205377-205377-30.jpg"
+    },
+    {
+      "sku": "205373",
+      "slug": "pissette-integrale-azlon-non-marquee-500ml-x5",
+      "brand": "AZLON",
+      "name_fr": "Pissette intégrale Azlon non marquée, col large PP, 500 mL — lot de 5",
+      "description_fr": "Pissette intégrale ronde en polypropylène à col large, non marquée, avec bec intégré évitant les contaminations lors du remplissage. Bouchon en PP monobloc décliné en rouge, jaune, bleu, vert et orange.",
+      "variant_name_fr": "500 mL — non marquée — lot de 5",
+      "price_eur": 52.00,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Capacité (mL)": "500",
+        "Couleur bouchon": "Rouge, jaune, bleu, vert et orange",
+        "Poids net": "0.273 kg",
+        "Modèle": "Non marqué"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700010001_20240126113102/humeau.com-pissette-integrale-azlon-non-marquee-col-large-pp-0-5l-x5-205373-205373-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "category": {
+    "slug": "plateau",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Plateaux de laboratoire" },
+    "description": {
+      "fr": "Plateaux de laboratoire en acier inoxydable et bacs de rétention en polyéthylène, pour la manipulation d'échantillons et le stockage sécurisé de produits chimiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "280324",
+      "slug": "bac-retention-30l-trionyx",
+      "brand": "TRIONYX",
+      "name_fr": "Bac de rétention BR30, 30 L, polyéthylène",
+      "description_fr": "Bac de rétention en polyéthylène haute résistance, conçu pour le stockage sécurisé de récipients contenant des produits inflammables, corrosifs ou toxiques. Il permet de recueillir les fuites et déversements accidentels afin de protéger les surfaces de travail. Rebords surélevés limitant les risques de renversement, excellente résistance chimique et grande facilité de nettoyage.",
+      "variant_name_fr": "30 L",
+      "price_eur": 122.00,
+      "specs_fr": {
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/8/280324_20260701160103/humeau.com-bac-de-retention-30l-280324-280324-30.jpg"
+    },
+    {
+      "sku": "271310",
+      "slug": "plateau-laboratoire-inox-coins-ronds-190x140x50mm",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau de laboratoire en inox, coins ronds, 190 x 140 x 50 mm",
+      "description_fr": "Plateau de laboratoire en acier inoxydable avec coins arrondis, dimensions 190 x 140 x 50 mm.",
+      "variant_name_fr": "190 x 140 x 50 mm",
+      "price_eur": 138.91,
+      "specs_fr": {
+        "Dimensions": "190x140x50mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271310_20250130111103/humeau.com-plateau-de-laboratoire-en-inox-coins-ronds-dim-190x140x50mm-271310-271310-30.jpg"
+    },
+    {
+      "sku": "271311",
+      "slug": "plateau-laboratoire-inox-coins-ronds-260x190x50mm",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau de laboratoire en inox, coins ronds, 260 x 190 x 50 mm",
+      "description_fr": "Plateau de laboratoire en acier inoxydable avec coins arrondis, dimensions 260 x 190 x 50 mm.",
+      "variant_name_fr": "260 x 190 x 50 mm",
+      "price_eur": 160.54,
+      "specs_fr": {
+        "Dimensions": "260x190x50mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271311_20250130111103/humeau.com-plateau-de-laboratoire-en-inox-coins-ronds-dim-260x190x50mm-271311-271311-30.jpg"
+    },
+    {
+      "sku": "271313",
+      "slug": "plateau-laboratoire-inox-coins-ronds-400x270x80mm",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau de laboratoire en inox, coins ronds, 400 x 270 x 80 mm",
+      "description_fr": "Plateau de laboratoire en acier inoxydable avec coins arrondis, dimensions 400 x 270 x 80 mm.",
+      "variant_name_fr": "400 x 270 x 80 mm",
+      "price_eur": 269.45,
+      "specs_fr": {
+        "Dimensions": "400x270x80mm",
+        "Poids net": "2.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271313_20251117132102/humeau.com-plateau-de-laboratoire-en-inox-coins-ronds-dim-400x270x80mm-271313-271313-30.jpg"
+    }
+  ]
+}

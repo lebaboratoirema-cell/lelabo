@@ -1,0 +1,61 @@
+{
+  "category": {
+    "slug": "coton",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Coton et ouate de laboratoire"
+    },
+    "description": {
+      "fr": "Boules de coton, coton hydrophile et ouate en rouleau pour le nettoyage, l'absorption et le bouchage de contenants en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "201595",
+      "slug": "boule-de-coton-x100",
+      "brand": "HACH",
+      "name_fr": "Boules de coton — lot de 100",
+      "description_fr": "Boules de coton conditionnées par sachet de 100, utilisées en laboratoire pour le nettoyage, l'application de produits ou le tamponnage de petites surfaces.",
+      "variant_name_fr": "Lot de 100",
+      "price_eur": 21.9,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Marque commerciale": "HACH",
+        "Poids brut": "0.06 KG",
+        "Poids net": "0.06 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03600257201_20220505195556/humeau.com-boule-de-coton-x100-03600257201-201595-30.jpg"
+    },
+    {
+      "sku": "217943",
+      "slug": "coton-hydrophile-rouleau-500g",
+      "brand": "HUMEAU",
+      "name_fr": "Coton hydrophile en rouleau, 500 g",
+      "description_fr": "Rouleau de coton hydrophile 100 % coton, très absorbant, non stérile, mesurant environ 28 cm de hauteur pour 12 cm de diamètre. Utile pour l'absorption de liquides et la désinfection de surfaces ou d'instruments en laboratoire.",
+      "variant_name_fr": "500 g",
+      "price_eur": 9.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 12 x l 28 mm",
+        "Matière": "Coton",
+        "Poids brut": "0.5 KG",
+        "Poids net": "0.5 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/217943_20260331101101/humeau.com-coton-hydrophyle-roule-500-g-217943-217943-30.jpg"
+    },
+    {
+      "sku": "273669",
+      "slug": "ouate-hydrophobe-blanchie-rouleau-1kg",
+      "brand": "HUMEAU",
+      "name_fr": "Ouate hydrophobe blanchie en rouleau, 1 kg",
+      "description_fr": "Ouate cardée écrue en rouleau de 1 kg, utilisée pour boucher tubes, flacons et containers de laboratoire, pour l'absorption d'exsudats, le nettoyage des instruments et des plaies, ou comme support d'application de produits sur la peau.",
+      "variant_name_fr": "1 kg",
+      "price_eur": 26.3,
+      "specs_fr": {
+        "Poids brut": "1.02 KG",
+        "Poids net": "1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/273669_20260629141101/humeau.com-ouate-hydrophobe-blanchie-rouleau-de-1kg-273669-273669-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "category": {
+    "slug": "flacon-plastique",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Flacons en plastique"
+    },
+    "description": {
+      "fr": "Flacons, bidons, pots et compte-gouttes en plastique (PEHD, PEBD, PP) pour le conditionnement, le dosage et le stockage de liquides et d'échantillons en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "257755",
+      "slug": "bidon-hdpe-transparent-30l-gradue-tubulure-filetee",
+      "brand": "BURKLE",
+      "name_fr": "Bidon en PEHD transparent, 30 L, gradué, avec tubulure filetée",
+      "description_fr": "Bidon en polyéthylène haute densité à large col (88 mm) facilitant le remplissage et le nettoyage. Muni d'une poignée moulée, d'un bouchon à vis et d'une tubulure filetée de 3/4\" pour la vidange (robinet ou capuchon à commander séparément). Compatible avec un usage alimentaire ; graduations en litres autocollantes et robinet de vidange disponibles en option.",
+      "variant_name_fr": "30 L",
+      "price_eur": 141,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "30 litres",
+        "Couleur": "Blanc transparent",
+        "Hauteur (mm)": "485",
+        "Longueur (mm)": "365",
+        "Largeur (mm)": "240",
+        "Poids net": "1.6 kg",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000051_20230817161102/humeau.com-bidon-en-hdpe-transparent-30l-gradue-l-o-tubulure-filetee-82110000051-257755-30.jpg"
+    },
+    {
+      "sku": "257580",
+      "slug": "flacon-compte-gouttes-hdpe-tropf-boy-50ml",
+      "brand": "BURKLE",
+      "name_fr": "Flacon compte-gouttes Tropf-Boy en PEHD, 50 mL, avec bouchon",
+      "description_fr": "Flacon rond en polyéthylène haute densité, doté d'un compte-gouttes et d'un bouchon indépendants, tous deux filetés, pour un dosage précis goutte à goutte. La pointe verseuse est à sectionner avant la première utilisation.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 1.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Capacité (mL)": "50",
+        "Diamètre ext. corps (mm)": "40",
+        "Hauteur (mm)": "77 (sans bouchon)",
+        "Poids net": "0.011 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000016_20230817161102/humeau.com-flacon-compte-gouttes-hdpe-tropf-boy-50ml-avec-bouchon-257580-257580-30.jpg"
+    },
+    {
+      "sku": "257574",
+      "slug": "flacon-compte-gouttes-ldpe-rond-100ml-col-etroit",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon compte-gouttes en PEBD, col étroit, 100 mL",
+      "description_fr": "Flacon compte-gouttes rond en polyéthylène transparent, muni d'un bouchon et d'un capuchon en PE. La pointe verseuse doit être sectionnée avant la première utilisation. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 1.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "100",
+        "Diamètre ext. corps (mm)": "45",
+        "Filetage (mm)": "18",
+        "Hauteur (mm)": "136",
+        "Matière bouchon": "Polyéthylène (PE)",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000010_20230817161102/humeau.com-flacon-compte-gouttes-ldpe-rond-100-ml-col-etroit-257574-257574-30.jpg"
+    },
+    {
+      "sku": "257577",
+      "slug": "flacon-compte-gouttes-ldpe-rond-1000ml-col-etroit",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon compte-gouttes en PEBD, col étroit, 1000 mL",
+      "description_fr": "Flacon compte-gouttes rond en polyéthylène transparent, muni d'un bouchon et d'un capuchon en PE. La pointe verseuse doit être sectionnée avant la première utilisation. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 5.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "1000",
+        "Diamètre ext. corps (mm)": "95",
+        "Filetage (mm)": "28",
+        "Hauteur (mm)": "248",
+        "Matière bouchon": "Polyéthylène (PE)"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000013_20230817161102/humeau.com-flacon-compte-gouttes-ldpe-rond-1000-ml-col-etroit-82100000013-257577-30.jpg"
+    },
+    {
+      "sku": "257672",
+      "slug": "flacon-compte-gouttes-ldpe-rond-10ml-col-etroit",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon compte-gouttes en PEBD, col étroit, 10 mL",
+      "description_fr": "Flacon compte-gouttes rond en polyéthylène transparent, muni d'un bouchon et d'un capuchon en PE. La pointe verseuse doit être sectionnée avant la première utilisation. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "10 mL",
+      "price_eur": 0.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "10",
+        "Diamètre int. col (mm)": "9",
+        "Diamètre ext. corps (mm)": "26",
+        "Filetage (mm)": "14",
+        "Hauteur (mm)": "76",
+        "Matière bouchon": "Polyéthylène (PE)",
+        "Poids net": "0.005 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82103060010_20231107135101/humeau.com-flacon-compte-gouttes-ldpe-rond-10ml-col-etroit-257672-257672-30.jpg"
+    },
+    {
+      "sku": "257573",
+      "slug": "flacon-compte-gouttes-ldpe-rond-20ml-col-etroit",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon compte-gouttes en PEBD, col étroit, 20 mL",
+      "description_fr": "Flacon compte-gouttes rond en polyéthylène transparent, muni d'un bouchon et d'un capuchon en PE. La pointe verseuse doit être sectionnée avant la première utilisation. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "20 mL",
+      "price_eur": 0.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "20",
+        "Diamètre ext. corps (mm)": "32",
+        "Filetage (mm)": "14",
+        "Hauteur (mm)": "88",
+        "Matière bouchon": "Polyéthylène (PE)",
+        "Poids net": "0.006 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000009_20231004105101/humeau.com-flacon-compte-gouttes-ldpe-rond-20ml-col-etroit-257573-257573-30.jpg"
+    },
+    {
+      "sku": "257575",
+      "slug": "flacon-compte-gouttes-ldpe-rond-250ml-col-etroit",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon compte-gouttes en PEBD, col étroit, 250 mL",
+      "description_fr": "Flacon compte-gouttes rond en polyéthylène transparent, muni d'un bouchon et d'un capuchon en PE. La pointe verseuse doit être sectionnée avant la première utilisation. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 2.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "250",
+        "Diamètre ext. corps (mm)": "61",
+        "Filetage (mm)": "25",
+        "Hauteur (mm)": "170",
+        "Matière bouchon": "Polyéthylène (PE)",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000011_20231024130102/humeau.com-flacon-compte-gouttes-ldpe-rond-250-ml-col-etroit-257575-257575-30.jpg"
+    },
+    {
+      "sku": "257572",
+      "slug": "flacon-hdpe-carre-1000ml-eco-bouchon-plein",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon carré en PEHD, 1000 mL, avec bouchon plein D.25mm",
+      "description_fr": "Flacon rectangulaire en polyéthylène haute densité destiné au conditionnement et au stockage de liquides, avec zone de marquage intégrée. Étanche, il peut aussi recevoir un bouchon compte-gouttes en option. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Capacité (mL)": "1000",
+        "Couleur": "Transparent",
+        "Diamètre int. col (mm)": "17,5",
+        "Filetage (mm)": "25",
+        "Hauteur (mm)": "230",
+        "Longueur (mm)": "89",
+        "Largeur (mm)": "66",
+        "Poids net": "0.072 kg",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000008_20230927161104/humeau.com-flacon-hdpe-carre-1000ml-eco-avec-bouchon-plein-d-25mm-82100000008-257572-30.jpg"
+    },
+    {
+      "sku": "257570",
+      "slug": "flacon-hdpe-carre-250ml-eco-bouchon-plein",
+      "brand": "LABOPLAST",
+      "name_fr": "Flacon carré en PEHD, 250 mL, avec bouchon plein D.25mm",
+      "description_fr": "Flacon rectangulaire en polyéthylène haute densité destiné au conditionnement et au stockage de liquides, avec zone de marquage intégrée. Étanche, il peut aussi recevoir un bouchon compte-gouttes en option. Compatible avec un usage alimentaire.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 1.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Capacité (mL)": "250",
+        "Couleur": "Transparent",
+        "Diamètre int. col (mm)": "17,5",
+        "Filetage (mm)": "25",
+        "Hauteur (mm)": "160",
+        "Longueur (mm)": "51",
+        "Largeur (mm)": "43",
+        "Poids net": "0.034 kg",
+        "Contact alimentaire": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000006_20230927161104/humeau.com-flacon-hdpe-carre-250ml-eco-avec-bouchon-plein-d-25mm-82100000006-257570-30.jpg"
+    },
+    {
+      "sku": "257712",
+      "slug": "flacon-vaporisateur-laboplast-ldpe-250ml",
+      "brand": "BURKLE",
+      "name_fr": "Flacon vaporisateur Laboplast en PEBD, 250 mL",
+      "description_fr": "Flacon vaporisateur en polyéthylène basse densité avec pompe manuelle, capacité 250 mL. Buse réglable en continu, diamètre 0,6 mm, délivrant environ 1,2 ml ± 0,1 ml par pression. Les pièces en contact avec le produit sont en PP, PE et inox.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 7.2,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène basse densité (PEBD)",
+        "Capacité (mL)": "250",
+        "Couleur": "Blanc transparent",
+        "Couleur bouchon": "Blanc",
+        "Diamètre int. col (mm)": "18",
+        "Hauteur (mm)": "220",
+        "Matériaux buse/pompe": "Polypropylène (PP), polyéthylène (PE), acier inox",
+        "Poids net": "0.054 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000008_20220505220233/humeau.com-flacon-vaporisateur-laboplast-en-ldpe-capacite-250ml-82110000008-257712-30.jpg"
+    },
+    {
+      "sku": "257715",
+      "slug": "flacon-vaporisateur-laboplast-pp-turn-n-spray-1000ml",
+      "brand": "BURKLE",
+      "name_fr": "Flacon vaporisateur Laboplast Turn'n'Spray en PP, 1000 mL",
+      "description_fr": "Flacon vaporisateur utilisable dans toutes les positions, y compris tête en bas, pratique pour atteindre les zones difficiles d'accès. Pompe manuelle d'un litre, buse réglable en continu de 0,6 mm délivrant environ 1,2 ml ± 0,1 ml par pression. Pièces en contact avec le produit en PP, PE, silicone et inox.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 13.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "1000",
+        "Diamètre int. col (mm)": "17,5",
+        "Hauteur (mm)": "295",
+        "Matériaux buse/pompe": "Polypropylène (PP), polyéthylène (PE), silicone, inox",
+        "Poids net": "1.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000011_20230817161102/humeau.com-flacon-vaporisateur-laboplast-en-pp-turn-n-spray-1000ml-82110000011-257715-30.jpg"
+    },
+    {
+      "sku": "257714",
+      "slug": "flacon-vaporisateur-laboplast-pp-turn-n-spray-500ml",
+      "brand": "BURKLE",
+      "name_fr": "Flacon vaporisateur Laboplast Turn'n'Spray en PP, 500 mL",
+      "description_fr": "Flacon vaporisateur utilisable dans toutes les positions, y compris tête en bas, pratique pour atteindre les zones difficiles d'accès. Pompe manuelle de 500 mL, buse réglable en continu de 0,6 mm délivrant environ 1,2 ml ± 0,1 ml par pression. Pièces en contact avec le produit en PP, PE, silicone et inox.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 13,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "500",
+        "Diamètre int. col (mm)": "18",
+        "Hauteur (mm)": "240",
+        "Matériaux buse/pompe": "Polypropylène (PP), polyéthylène (PE), silicone, inox",
+        "Poids net": "0.091 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000010_20230817161102/humeau.com-flacon-vaporisateur-laboplast-en-pp-turn-n-spray-500ml-82110000010-257714-30.jpg"
+    },
+    {
+      "sku": "260945",
+      "slug": "pot-echantillonnage-pp-blanc-310ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pot d'échantillonnage en PP blanc, avec couvercle à vis, 310 mL — lot de 10",
+      "description_fr": "Pot en polypropylène idéal pour le stockage et le transport d'échantillons pâteux, pulvérulents ou liquides. Très résistant à de nombreux produits chimiques, livré avec couvercle à vis, compatible avec un usage alimentaire et autoclavable.",
+      "variant_name_fr": "310 mL — lot de 10",
+      "price_eur": 30.9,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Polypropylène (PP)",
+        "Volume (mL)": "310",
+        "Diamètre (mm)": "81",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Hauteur (mm)": "81"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002028_20230109102102/humeau.com-pot-en-pp-blanc-bouchon-a-vis-blanc-310ml-x10-82710002028-260945-30.jpg"
+    },
+    {
+      "sku": "260942",
+      "slug": "pot-echantillonnage-pp-blanc-600ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pot d'échantillonnage en PP blanc, avec couvercle à vis, 600 mL — lot de 10",
+      "description_fr": "Pot en polypropylène idéal pour le stockage et le transport d'échantillons pâteux, pulvérulents ou liquides. Très résistant à de nombreux produits chimiques, livré avec couvercle à vis, compatible avec un usage alimentaire et autoclavable.",
+      "variant_name_fr": "600 mL — lot de 10",
+      "price_eur": 50,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Polypropylène (PP)",
+        "Volume (mL)": "600",
+        "Diamètre (mm)": "119",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Hauteur (mm)": "67",
+        "Poids net": "0.57 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002025_20260318132102/humeau.com-pot-en-pp-blanc-bouchon-a-vis-blanc-600ml-x10-260942-260942-30.jpg"
+    },
+    {
+      "sku": "260944",
+      "slug": "pot-echantillonnage-pp-blanc-75ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pot d'échantillonnage en PP blanc, avec couvercle à vis, 75 mL — lot de 10",
+      "description_fr": "Pot en polypropylène idéal pour le stockage et le transport d'échantillons pâteux, pulvérulents ou liquides. Très résistant à de nombreux produits chimiques, livré avec couvercle à vis, compatible avec un usage alimentaire et autoclavable.",
+      "variant_name_fr": "75 mL — lot de 10",
+      "price_eur": 20.4,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Polypropylène (PP)",
+        "Volume (mL)": "75",
+        "Diamètre (mm)": "58",
+        "Couleur": "Blanc",
+        "Couleur bouchon": "Blanc",
+        "Hauteur (mm)": "47"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002027_20230109102102/humeau.com-pot-en-pp-blanc-bouchon-a-vis-blanc-75ml-x10-82710002027-260944-30.jpg"
+    }
+  ]
+}

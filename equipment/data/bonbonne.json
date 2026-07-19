@@ -1,0 +1,262 @@
+{
+  "category": {
+    "slug": "bonbonne",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Bonbonnes, bidons et jerricans"
+    },
+    "description": {
+      "fr": "Bonbonnes en verre et en plastique, bidons faible encombrement et jerricans en HDPE, avec ou sans robinet, pour le stockage et le transport de liquides en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "257660",
+      "slug": "bidon-10l-faible-encombrement-robinet-compact",
+      "brand": "BURKLE",
+      "name_fr": "Bidon 10 L faible encombrement avec robinet Compact",
+      "description_fr": "Bidon plat de 10 L, large de seulement 12,5 cm, conçu pour limiter l'encombrement lors du stockage ou du transvasement de liquides. En PP transparent avec graduations au litre en relief et tubulure filetée 3/4'', livré avec son robinet d'écoulement Compact.",
+      "variant_name_fr": "10 L avec robinet Compact",
+      "price_eur": 71.8,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/257660_20250428122034/humeau.com-bidon-10l-faible-encombrement-avec-robinet-compact-257660-257660-30.jpg"
+    },
+    {
+      "sku": "257658",
+      "slug": "bidon-10l-faible-encombrement-robinet-stopcock",
+      "brand": "BURKLE",
+      "name_fr": "Bidon 10 L faible encombrement avec robinet StopCock",
+      "description_fr": "Bidon plat de 10 L, large de seulement 12,5 cm, conçu pour limiter l'encombrement lors du stockage ou du transvasement de liquides. En PP transparent avec graduations au litre en relief et tubulure filetée 3/4'', livré avec un robinet StopCock à bec orientable anti-goutte.",
+      "variant_name_fr": "10 L avec robinet StopCock",
+      "price_eur": 85.0,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/257658_20250428122034/humeau.com-bidon-10l-faible-enconbrement-avec-robinet-stopcock-82100000094-257658-30.jpg"
+    },
+    {
+      "sku": "257659",
+      "slug": "bidon-5l-faible-encombrement-robinet-compact",
+      "brand": "BURKLE",
+      "name_fr": "Bidon 5 L faible encombrement avec robinet Compact",
+      "description_fr": "Bidon plat de 5 L conçu pour limiter l'encombrement lors du stockage ou du transvasement de liquides, livré avec son robinet d'écoulement Compact.",
+      "variant_name_fr": "5 L avec robinet Compact",
+      "price_eur": 62.2,
+      "specs_fr": {
+        "Poids net": "1.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/257659_20260331155101/humeau.com-bidon-5l-faible-encombrement-avec-robinet-compact-257659-257659-30.jpg"
+    },
+    {
+      "sku": "257657",
+      "slug": "bidon-5l-faible-encombrement-robinet-stopcock",
+      "brand": "BURKLE",
+      "name_fr": "Bidon 5 L faible encombrement avec robinet StopCock",
+      "description_fr": "Bidon plat de 5 L conçu pour limiter l'encombrement lors du stockage ou du transvasement de liquides, livré avec un robinet StopCock.",
+      "variant_name_fr": "5 L avec robinet StopCock",
+      "price_eur": 75.2,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/257657_20230613090104/humeau.com-bidon-5l-faible-enconbrement-avec-robinet-stopcock-82100000093-257657-30.jpg"
+    },
+    {
+      "sku": "257794",
+      "slug": "bidon-hdpe-bouchon-rouge-10l",
+      "brand": "BURKLE",
+      "name_fr": "Bidon en HDPE avec bouchon rouge, 10 litres",
+      "description_fr": "Bidon en polyéthylène haute densité transparent de 10 L, avec bouchon agréé UN 3H1/X1.9/250 pour le transport de produits dangereux. Compatible avec un bouchon-robinet vendu séparément.",
+      "variant_name_fr": "10 L",
+      "price_eur": 11.0,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "10 litres",
+        "Diamètre intérieur du col": "40,5 mm",
+        "Filetage": "DIN 50",
+        "Hauteur": "310 mm",
+        "Longueur": "230 mm",
+        "Largeur": "190 mm",
+        "Poids net": "0.436 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82114270010_20240130143102/humeau.com-bidon-hdpe-avec-bouchon-rouge-capacite-10-litres-257794-257794-30.jpg"
+    },
+    {
+      "sku": "205151",
+      "slug": "bonbonne-carree-azlon-pp-5l-poignee-robinet",
+      "brand": "AZLON",
+      "name_fr": "Bonbonne carrée en PP avec poignée et robinet, 5 L",
+      "description_fr": "Bonbonne de forme basse en polypropylène autoclavable à 121 °C, avec bouchon, poignée moulée et robinet anti-fuite intégré, assurant un rangement stable pour le stockage et le transport. Graduation moulée directement sur le corps transparent pour visualiser rapidement le niveau de remplissage.",
+      "variant_name_fr": "5 L avec robinet",
+      "price_eur": 97.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polypropylène (PP)",
+        "Capacité": "5000 mL",
+        "Filetage": "45 mm",
+        "Hauteur": "270 mm",
+        "Largeur": "220 mm",
+        "Poids net": "0.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000500_20230817161102/humeau.com-bonbonne-carree-alzon-en-pp-5l-avec-poignee-et-robinet-205151-205151-30.jpg"
+    },
+    {
+      "sku": "259144",
+      "slug": "bonbonne-ldpe-bouchon-pp-poignees-10l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bonbonne en LDPE avec bouchon PP et poignées, 10 L",
+      "description_fr": "Bonbonne sans robinet en LDPE de couleur naturelle, idéale pour mélanger, transporter et stocker des liquides. Couvercle bleu en PP, extrêmement étanche, munie de poignées des deux côtés pour faciliter la manipulation.",
+      "variant_name_fr": "10 L",
+      "price_eur": 52.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité": "10000 mL",
+        "Diamètre": "249 mm",
+        "Diamètre d'ouverture": "65 mm",
+        "Hauteur": "390 mm",
+        "Poids net": "1.94 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000227_20230817161102/humeau.com-bonbonne-en-ldpe-bouchon-en-pp-poignees-cap-10l-82710000227-259144-30.jpg"
+    },
+    {
+      "sku": "259145",
+      "slug": "bonbonne-ldpe-bouchon-pp-poignees-20l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bonbonne en LDPE avec bouchon PP et poignées, 20 L",
+      "description_fr": "Bonbonne sans robinet en LDPE de couleur naturelle, idéale pour mélanger, transporter et stocker des liquides. Couvercle bleu en PP, extrêmement étanche, munie de poignées des deux côtés pour faciliter la manipulation.",
+      "variant_name_fr": "20 L",
+      "price_eur": 87.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité": "20000 mL",
+        "Diamètre": "285 mm",
+        "Diamètre d'ouverture": "65 mm",
+        "Hauteur": "535 mm",
+        "Poids net": "1.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259145_20260702095102/humeau.com-bonbonne-en-ldpe-bouchon-en-pp-poignees-cap-20l-259145-259145-30.jpg"
+    },
+    {
+      "sku": "259146",
+      "slug": "bonbonne-ldpe-bouchon-pp-poignees-50l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Bonbonne en LDPE avec bouchon PP et poignées, 50 L",
+      "description_fr": "Bonbonne sans robinet en LDPE de couleur naturelle, idéale pour mélanger, transporter et stocker des liquides. Couvercle bleu en PP, extrêmement étanche, munie de poignées des deux côtés pour faciliter la manipulation.",
+      "variant_name_fr": "50 L",
+      "price_eur": 131.0,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité": "50000 mL",
+        "Diamètre": "376 mm",
+        "Diamètre d'ouverture": "65 mm",
+        "Hauteur": "682 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259146_20230817161102/humeau.com-bonbonne-en-ldpe-bouchon-en-pp-poignees-cap-50l-82710000229-259146-30.jpg"
+    },
+    {
+      "sku": "205210",
+      "slug": "bonbonne-verre-pyrex-20l-rodage-60-46-bouchon",
+      "brand": "PYREX",
+      "name_fr": "Bonbonne en verre Pyrex, 20 L, rodage 60/46, avec bouchon",
+      "description_fr": "Bonbonne en verre Pyrex de 20 L à col rodé, avec rodage latéral pour robinet à commander séparément. Livrée avec un bouchon en verre, conforme à la norme ISO 4796.",
+      "variant_name_fr": "20 L — rodage 60/46",
+      "price_eur": 1024.3,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "20 litres",
+        "Diamètre intérieur du col": "60 mm",
+        "Diamètre extérieur du corps": "288 mm",
+        "Hauteur": "508 mm",
+        "Matière du bouchon": "Verre",
+        "Rodage mâle et femelle": "60/46",
+        "Poids net": "7.815 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000559_20220505195556/humeau.com-bonbonne-en-verre-pyrex-20l-rodage-60-46-bouchon-06700000559-205210-30.jpg"
+    },
+    {
+      "sku": "205209",
+      "slug": "bonbonne-verre-pyrex-5l-rodage-45-40-bouchon",
+      "brand": "PYREX",
+      "name_fr": "Bonbonne en verre Pyrex, 5 L, rodage 45/40, avec bouchon",
+      "description_fr": "Bonbonne en verre Pyrex de 5 L à col rodé, avec rodage latéral pour robinet à commander séparément. Livrée avec un bouchon en verre, conforme à la norme ISO 4796.",
+      "variant_name_fr": "5 L — rodage 45/40",
+      "price_eur": 503.7,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "5 litres",
+        "Diamètre intérieur du col": "45 mm",
+        "Diamètre extérieur du corps": "181 mm",
+        "Hauteur": "333 mm",
+        "Matière du bouchon": "Verre",
+        "Rodage mâle et femelle": "45/40",
+        "Poids net": "2.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000558_20220505195556/humeau.com-bonbonne-en-verre-pyrex-5l-rodage-45-40-bouchon-06700000558-205209-30.jpg"
+    },
+    {
+      "sku": "257587",
+      "slug": "jerrican-rond-hdpe-10l-tubulure-poignee",
+      "brand": "BURKLE",
+      "name_fr": "Jerrican rond en HDPE, 10 L, avec tubulure filetée et poignée",
+      "description_fr": "Bidon rond en PEHD avec bouchon et poignée, adapté au contact alimentaire. Le bouchon d'origine peut être remplacé par une bouche de purge permettant l'écoulement du liquide par un robinet sans créer de vide dans la bouteille (robinet à commander séparément).",
+      "variant_name_fr": "10 L",
+      "price_eur": 76.0,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "10 litres",
+        "Diamètre extérieur du corps": "206 mm",
+        "Diamètre d'ouverture": "50 mm",
+        "Hauteur": "427 mm",
+        "Poids net": "0.62 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000023_20230929150104/humeau.com-jerrican-rond-en-hdpe-10l-avec-tubulure-filetee-et-poignee-82100000023-257587-30.jpg"
+    },
+    {
+      "sku": "257588",
+      "slug": "jerrican-rond-hdpe-25l-tubulure-poignee",
+      "brand": "BURKLE",
+      "name_fr": "Jerrican rond en HDPE, 25 L, avec tubulure filetée et poignée",
+      "description_fr": "Bidon rond en PEHD avec bouchon et poignée, adapté au contact alimentaire. Le bouchon d'origine peut être remplacé par une bouche de purge permettant l'écoulement du liquide par un robinet sans créer de vide dans la bouteille (robinet à commander séparément).",
+      "variant_name_fr": "25 L",
+      "price_eur": 140.2,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "25 litres",
+        "Diamètre extérieur du corps": "278 mm",
+        "Diamètre d'ouverture": "50 mm",
+        "Hauteur": "580 mm",
+        "Poids net": "1.382 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000024_20230929150104/humeau.com-jerrican-rond-en-hdpe-25l-avec-tubulure-filetee-et-poignee-82100000024-257588-30.jpg"
+    },
+    {
+      "sku": "257586",
+      "slug": "jerrican-rond-hdpe-5l-tubulure-poignee",
+      "brand": "BURKLE",
+      "name_fr": "Jerrican rond en HDPE, 5 L, avec tubulure filetée et poignée",
+      "description_fr": "Bidon rond en PEHD avec bouchon et poignée, adapté au contact alimentaire. Le bouchon d'origine peut être remplacé par une bouche de purge permettant l'écoulement du liquide par un robinet sans créer de vide dans la bouteille (robinet à commander séparément).",
+      "variant_name_fr": "5 L",
+      "price_eur": 60.8,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "5 litres",
+        "Diamètre extérieur du corps": "167 mm",
+        "Diamètre d'ouverture": "50 mm",
+        "Hauteur": "330 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000022_20230929150104/humeau.com-jerrican-rond-en-hdpe-5l-avec-tubulure-filetee-et-poignee-82100000022-257586-30.jpg"
+    },
+    {
+      "sku": "257589",
+      "slug": "jerrican-rond-hdpe-60l-tubulure-poignee",
+      "brand": "BURKLE",
+      "name_fr": "Jerrican rond en HDPE, 60 L, avec tubulure filetée et poignée",
+      "description_fr": "Bidon rond en PEHD avec bouchon et poignée, adapté au contact alimentaire. Le bouchon d'origine peut être remplacé par une bouche de purge permettant l'écoulement du liquide par un robinet sans créer de vide dans la bouteille (robinet à commander séparément).",
+      "variant_name_fr": "60 L",
+      "price_eur": 243.1,
+      "specs_fr": {
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Volume": "60 litres",
+        "Diamètre extérieur du corps": "346 mm",
+        "Diamètre d'ouverture": "50 mm",
+        "Hauteur": "830 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000025_20230929150104/humeau.com-jerrican-rond-en-hdpe-60l-avec-tubulure-filetee-et-poignee-82100000025-257589-30.jpg"
+    }
+  ]
+}

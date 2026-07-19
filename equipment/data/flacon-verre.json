@@ -1,0 +1,312 @@
+{
+  "category": {
+    "slug": "flacon-verre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Flacons en verre"
+    },
+    "description": {
+      "fr": "Flacons de laboratoire en verre Duran ou Pyrex, clairs ou bruns, avec filetages GL et accessoires de fermeture, pour le stockage, le transport et la manipulation de substances chimiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "223501",
+      "slug": "flacon-verre-duran-brun-gl45-bouchon-bague-1l-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre brun Duran, GL45, avec bouchon et bague de déversement, 1 L — lot de 10",
+      "description_fr": "Flacon de laboratoire en verre brun Duran, filetage GL45, forme ronde, muni d'un bouchon à visser et d'une bague de déversement en PP bleu. La teinte brune bloque le rayonnement lumineux entre 300 et 500 nm, protégeant les milieux photosensibles pour une conservation de longue durée. Autoclavable.",
+      "variant_name_fr": "1 L — lot de 10",
+      "price_eur": 1094.8,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre",
+        "Capacité (mL)": "1000",
+        "Diamètre (mm)": "101",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Brun",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "230",
+        "Matière bouchon": "Polypropylène"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20412180654_20250228140103/humeau.com-flacon-brun-1l-verre-duran-gl-45-avec-bouchon-bague-p-10-223501-223501-30.jpg"
+    },
+    {
+      "sku": "237543",
+      "slug": "flacon-verre-duran-brun-gls80-bouchon-bague-250ml-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre brun Duran, GLS 80, avec bouchon et bague anti-goutte, 250 mL — lot de 10",
+      "description_fr": "Flacon de laboratoire en verre brun Duran, filetage GLS 80, forme ronde, complet avec capuchon à vis en PP et bague de déversement (disponible aussi sans capuchon ni bague). Large zone d'écriture, échelle graduée, autoclavable ; couvre un large éventail d'usages, du stockage longue durée à la manipulation de substances sensibles.",
+      "variant_name_fr": "250 mL — lot de 10",
+      "price_eur": 988.9,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre",
+        "Capacité (mL)": "250",
+        "Diamètre (mm)": "95",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Brun",
+        "Filetage": "GLS 80",
+        "Hauteur (mm)": "110",
+        "Matière bouchon": "Polypropylène"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000086_20241105092101/humeau.com-flacon-brun-250ml-verre-duran-gls-80-avec-bouchon-bague-p-10-237543-237543-30.jpg"
+    },
+    {
+      "sku": "223307",
+      "slug": "flacon-verre-duran-clair-carre-gl32-bouchon-100ml-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire carré en verre Duran clair, GL 32, avec bouchon, 100 mL — lot de 10",
+      "description_fr": "Flacon de laboratoire carré en verre Duran, filetage GL 32, avec bouchon à visser et bague anti-goutte en polypropylène bleu. Sa forme carrée offre un gain de place d'environ 13 % par rapport à un flacon rond équivalent. Graduation et zone d'inscription, bonne résistance chimique, stérilisable jusqu'à 140 °C, résistant aux chocs thermiques et à la congélation jusqu'à -40 °C, bonne préhension.",
+      "variant_name_fr": "100 mL — lot de 10",
+      "price_eur": 159,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre borosilicaté",
+        "Capacité (mL)": "100",
+        "Diamètre (mm)": "50",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 32",
+        "Hauteur (mm)": "109",
+        "Matière bouchon": "Polypropylène",
+        "Poids net": "1.403 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402182040_20250228140103/humeau.com-flacon-clair-100ml-verre-duran-carree-gl-32-avec-bouchon-x10-223307-223307-30.jpg"
+    },
+    {
+      "sku": "223282",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-100ml",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 100 mL",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée ; verre de type I, neutre selon USP/EP, adapté aux applications pharmaceutiques et agroalimentaires. Bonne résistance chimique, autoclavable, résistant aux chocs thermiques.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 9.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "100",
+        "Diamètre (mm)": "56",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "100",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180140_20251203122006/humeau.com-flacon-clair-100ml-verre-duran-gl-45-sans-bouchon-223282-223282-30.jpg"
+    },
+    {
+      "sku": "223298",
+      "slug": "flacon-verre-duran-clair-gl45-bouchon-bague-1l-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, avec bouchon et bague de déversement, 1 L — lot de 10",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, complet avec bouchon à visser en PP bleu (joint à lèvre intégré) et bague de déversement en PP. Large zone d'écriture, échelle graduée ; verre de type I, neutre selon USP/EP. Autoclavable et résistant aux chocs thermiques, adapté au stockage longue durée comme aux usages pharmaceutiques exigeants.",
+      "variant_name_fr": "1 L — lot de 10",
+      "price_eur": 290.2,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre",
+        "Capacité (mL)": "1000",
+        "Diamètre (mm)": "101",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "230",
+        "Matière bouchon": "Polypropylène",
+        "Poids net": "6.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180260_20251203122006/humeau.com-flacon-clair-1l-verre-duran-gl-45-avec-bouchon-bague-p-10-223298-223298-30.jpg"
+    },
+    {
+      "sku": "223288",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-1l",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 1 L",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Bonne résistance chimique et aux chocs thermiques, autoclavable.",
+      "variant_name_fr": "1 L",
+      "price_eur": 23.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "1000",
+        "Diamètre (mm)": "101",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "225",
+        "Poids net": "0.553 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180160_20251203122006/humeau.com-flacon-clair-1l-verre-duran-gl-45-sans-bouchon-223288-223288-30.jpg"
+    },
+    {
+      "sku": "223296",
+      "slug": "flacon-verre-duran-clair-gl45-bouchon-bague-250ml-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, avec bouchon et bague de déversement, 250 mL — lot de 10",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, complet avec bouchon à visser en PP bleu (joint à lèvre intégré) et bague de déversement en PP. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Autoclavable, résistant aux chocs thermiques.",
+      "variant_name_fr": "250 mL — lot de 10",
+      "price_eur": 164.4,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre",
+        "Capacité (mL)": "250",
+        "Diamètre (mm)": "70",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "143",
+        "Matière bouchon": "Polypropylène",
+        "Poids net": "2.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180247_20251203122006/humeau.com-flacon-clair-250ml-verre-duran-gl-45-avec-bouchon-bague-p-10-223296-223296-30.jpg"
+    },
+    {
+      "sku": "223285",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-250ml",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 250 mL",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Bonne résistance chimique et aux chocs thermiques, autoclavable.",
+      "variant_name_fr": "250 mL",
+      "price_eur": 11.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "250",
+        "Diamètre (mm)": "70",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "138",
+        "Poids net": "0.225 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180147_20251203122006/humeau.com-flacon-clair-250ml-verre-duran-gl-45-sans-bouchon-223285-223285-30.jpg"
+    },
+    {
+      "sku": "223291",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-2l",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 2 L",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Bonne résistance chimique et aux chocs thermiques, autoclavable.",
+      "variant_name_fr": "2 L",
+      "price_eur": 62.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "2000",
+        "Diamètre (mm)": "136",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "260",
+        "Poids net": "0.98 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180165_20251203122006/humeau.com-flacon-clair-2l-verre-duran-gl-45-sans-bouchon-223291-223291-30.jpg"
+    },
+    {
+      "sku": "223297",
+      "slug": "flacon-verre-duran-clair-gl45-bouchon-bague-500ml-x10",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, avec bouchon et bague de déversement, 500 mL — lot de 10",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, complet avec bouchon à visser en PP bleu (joint à lèvre intégré) et bague de déversement en PP. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Autoclavable, résistant aux chocs thermiques.",
+      "variant_name_fr": "500 mL — lot de 10",
+      "price_eur": 204.6,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre",
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "86",
+        "Couleur bouchon": "Bleu",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "181",
+        "Matière bouchon": "Polypropylène",
+        "Poids net": "4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180254_20251203122006/humeau.com-flacon-clair-500ml-verre-duran-gl-45-avec-bouchon-bague-p-10-223297-223297-30.jpg"
+    },
+    {
+      "sku": "223286",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-500ml",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 500 mL",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Bonne résistance chimique et aux chocs thermiques, autoclavable.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 15.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "86",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "176",
+        "Poids net": "0.36 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180154_20251203122006/humeau.com-flacon-clair-500ml-verre-duran-gl-45-sans-bouchon-223286-223286-30.jpg"
+    },
+    {
+      "sku": "223292",
+      "slug": "flacon-verre-duran-clair-gl45-sans-bouchon-5l",
+      "brand": "DURAN",
+      "name_fr": "Flacon de laboratoire en verre Duran clair, GL45, sans bouchon, 5 L",
+      "description_fr": "Flacon de laboratoire en verre Duran clair, forme ronde, filetage GL45, livré sans bouchon ni bague de déversement. Large zone d'écriture, échelle graduée, verre de type I neutre selon USP/EP. Bonne résistance chimique et aux chocs thermiques, autoclavable.",
+      "variant_name_fr": "5 L",
+      "price_eur": 301.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "5000",
+        "Diamètre (mm)": "182",
+        "Couleur de la matière": "Clair",
+        "Filetage": "GL 45",
+        "Hauteur (mm)": "330",
+        "Poids net": "1.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402180174_20251203122006/humeau.com-flacon-clair-5l-verre-duran-gl-45-sans-bouchon-223292-223292-30.jpg"
+    },
+    {
+      "sku": "237691",
+      "slug": "flacon-woulff-duran-3-cols-2l-cn29-32",
+      "brand": "DURAN",
+      "name_fr": "Flacon de Woulff en verre Duran, 3 cols, CN 29/32, 2 L",
+      "description_fr": "Flacon de Woulff en verre Duran à trois cols à rodage standard CN 29/32, capacité 2 L. Ses parois épaisses lui confèrent une forte résistance au vide.",
+      "variant_name_fr": "2 L",
+      "price_eur": 352.2,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "2000",
+        "Diamètre (mm)": "135",
+        "Rodage": "CN 29/32",
+        "Poids net": "1.65 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000234_20240301162102/humeau.com-flacon-de-woulff-duran-3-cols-2000ml-cn29-32-237691-237691-30.jpg"
+    },
+    {
+      "sku": "204740",
+      "slug": "flacon-verre-pyrex-bouchon-col-rode-100ml-x10",
+      "brand": "PYREX",
+      "name_fr": "Flacon en verre Pyrex, bouchon à col rodé, CN 14/15, 100 mL — lot de 10",
+      "description_fr": "Flacon en verre borosilicaté Pyrex à col rodé, conforme à la norme ISO 4796-2, fourni avec bouchon plein en verre.",
+      "variant_name_fr": "100 mL — lot de 10",
+      "price_eur": 556.5,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (mL)": "100",
+        "Diamètre ext. corps (mm)": "54",
+        "Hauteur (mm)": "106",
+        "Rodage": "CN 14/15",
+        "Poids net": "1.39 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000089_20250430113102/humeau.com-flacon-en-verre-pyrex-bouchon-col-rode-100ml-cn14-15-x10-204740-204740-30.jpg"
+    },
+    {
+      "sku": "260538",
+      "slug": "flacon-verre-clair-labsolute-gl45-bouchon-bague-250ml-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Flacon de laboratoire en verre clair LABSOLUTE, GL45, avec bouchon et bague, 250 mL — lot de 10",
+      "description_fr": "Flacon de laboratoire transparent en verre borosilicaté 3.3 de qualité, conforme à la norme EN ISO 4796-1, filetage GL45. Doté d'un code de traçabilité, d'une échelle de volume durable, d'une bague de déversement bleue et d'un bouchon à vis en PP à joint à lèvre intégré. Résistant à une large gamme de produits chimiques et autoclavable à 121 °C.",
+      "variant_name_fr": "250 mL — lot de 10",
+      "price_eur": 68.8,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (mL)": "250",
+        "Diamètre (mm)": "70",
+        "Couleur": "Clair",
+        "Hauteur (mm)": "138",
+        "Filetage": "GL 45",
+        "Poids net": "2.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001621_20241018114102/humeau.com-flacon-verre-clair-gl45-bouch-bague-pp-bleu-250ml-x10-260538-260538-30.jpg"
+    }
+  ]
+}

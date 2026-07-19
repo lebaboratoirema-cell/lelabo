@@ -1,0 +1,39 @@
+{
+  "category": {
+    "slug": "flacon-mesureur-a-renversement",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Mesureurs et renverseurs de laboratoire"
+    },
+    "description": {
+      "fr": "Appareils de dosage à renversement et ébulliomètres utilisés en butyrométrie et en analyse alcoométrique pour délivrer des volumes fixes de réactifs ou déterminer le titre alcoolique."
+    }
+  },
+  "products": [
+    {
+      "sku": "271711",
+      "slug": "ebulliometre-electrique-avec-sonde-temperature",
+      "brand": null,
+      "name_fr": "Ébulliomètre électrique avec sonde de température",
+      "description_fr": "Ébulliomètre à chauffage électrique régulé électroniquement et réfrigération en continu, permettant de déterminer rapidement et avec précision le titre alcoométrique des vins secs. Résultat obtenu en environ 6 minutes.",
+      "price_eur": 2587,
+      "specs_fr": {
+        "Poids net": "6.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271711_20260225115101/humeau.com-ebulliometre-electrique-avec-ds-temp-271711-271711-30.jpg"
+    },
+    {
+      "sku": "206236",
+      "slug": "mesureur-a-renversement-1ml-alcool-amylique-complet",
+      "brand": null,
+      "name_fr": "Mesureur à renversement complet, 1 mL, pour alcool amylique",
+      "description_fr": "Renverseur Superior de marque Funke Gerber, calibré pour délivrer 1 mL d'alcool amylique par demi-tour, avec réservoir d'une capacité de 250 mL. Utilisé en butyrométrie pour le dosage de la matière grasse.",
+      "variant_name_fr": "1 mL",
+      "price_eur": 59,
+      "specs_fr": {
+        "Capacité flacon réservoir (mL)": "250"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/206236_20240502161103/humeau.com-mesureur-a-renversement-1ml-d-alcool-amylique-complet-206236-206236-30.jpg"
+    }
+  ]
+}

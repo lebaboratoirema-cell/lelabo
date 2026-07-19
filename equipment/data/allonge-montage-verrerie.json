@@ -1,0 +1,100 @@
+{
+  "category": {
+    "slug": "allonge-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Allonges pour montage de verrerie" },
+    "description": {
+      "fr": "Allonges et adaptateurs en verre borosilicaté à rodage normalisé, pour le montage de distillation et de filtration en verrerie de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "205475",
+      "slug": "allonge-distiller-courte-pyrex-cn19-26-65mm",
+      "brand": "PYREX",
+      "name_fr": "Allonge à distiller courte en verre Pyrex, rodage CN19/26, 65 mm",
+      "description_fr": "Allonge à distiller coudée en verre borosilicaté Pyrex, à un seul rodage femelle 19/26 et tige courte, formant un angle de 100°.",
+      "variant_name_fr": "CN19/26 — 65 mm",
+      "price_eur": 56.70,
+      "specs_fr": {
+        "Marque commerciale": "PYREX",
+        "Rodage femelle": "19/26"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700100200_20220505195556/humeau.com-allonge-a-distiller-courte-en-pyrex-cn19-26-long-65mm-06700100200-205475-30.jpg"
+    },
+    {
+      "sku": "205755",
+      "slug": "allonge-distiller-courte-pyrex-cn29-32-65mm-lot-5",
+      "brand": "SCILABWARE",
+      "name_fr": "Allonge à distiller courte en verre Pyrex, rodage CN29/32, 65 mm — lot de 5",
+      "description_fr": "Allonge à distiller coudée en verre Pyrex, à un seul rodage femelle 29/32 et tige courte, formant un angle de 100°. Vendue par lot de 5.",
+      "variant_name_fr": "CN29/32 — 65 mm — lot de 5",
+      "price_eur": 370.30,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque commerciale": "SCILABWARE",
+        "Poids net": "0.05 kg",
+        "Rodage femelle": "29/32"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06710100400_20220505195556/humeau.com-allonge-a-distiller-courte-en-pyrex-cn29-32-long-65mm-p-5-06710100400-205755-30.jpg"
+    },
+    {
+      "sku": "205479",
+      "slug": "allonge-distiller-pyrex-cn19-26-200mm",
+      "brand": "PYREX",
+      "name_fr": "Allonge à distiller en verre Pyrex, rodage 19/26, 200 mm",
+      "description_fr": "Adaptateur à tige courte en verre borosilicaté, de 200 mm de long, à cône 19/26, destiné à l'alimentation du distillat depuis les condensateurs vers les récipients récepteurs.",
+      "variant_name_fr": "19/26 — 200 mm",
+      "price_eur": 78.30,
+      "specs_fr": {
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.054 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/205479_20250428122011/humeau.com-allonge-a-distiller-en-verre-pyrex-cn29-26-long-200mm-205479-205479-30.jpg"
+    },
+    {
+      "sku": "205118",
+      "slug": "allonge-droite-recette-rodage-19-26-180mm",
+      "brand": "PYREX",
+      "name_fr": "Allonge droite de recette en verre Pyrex, rodage femelle 19/26, 180 mm",
+      "description_fr": "Allonge droite en verre borosilicaté, à un seul rodage femelle 19/26, longueur de 180 mm.",
+      "variant_name_fr": "19/26 — 180 mm",
+      "price_eur": 50.90,
+      "specs_fr": {
+        "Longueur": "180 mm",
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.042 kg",
+        "Rodage femelle": "19/26"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000467_20220505195556/humeau.com-allonge-droite-de-recette-rodage-femelle-19-26-pyrex-06700000467-205118-30.jpg"
+    },
+    {
+      "sku": "237806",
+      "slug": "allonge-creuset-filtrant-41mm-lot-10",
+      "brand": "DURAN",
+      "name_fr": "Allonge/adaptateur pour creuset filtrant, Ø 41 mm — lot de 10",
+      "description_fr": "Adaptateur en verre borosilicaté DURAN permettant le montage de creusets filtrants Gooch sur un flacon filtrant Büchner. Impression blanche cuite très résistante. Vendu par lot de 10.",
+      "variant_name_fr": "Ø 41 mm — lot de 10",
+      "price_eur": 486.50,
+      "specs_fr": {
+        "Diamètre": "41 mm",
+        "Hauteur": "125 mm",
+        "Pack": "10",
+        "Marque commerciale": "DURAN",
+        "Poids net": "0.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30602461302_20240229112101/humeau.com-allonge-pour-creuset-filtrant-d-41x10mm-pack-de-10-237806-237806-30.jpg"
+    },
+    {
+      "sku": "205670",
+      "slug": "tube-arrivee-air-vapeur-coude-cn19-26",
+      "name_fr": "Tube d'arrivée d'air/vapeur coudé, rodage CN19/26",
+      "description_fr": "Tube coudé d'arrivée d'air ou de flux en verre borosilicaté, à cône 19/26 et angle du bras de 90°, à utiliser avec une tubulure à alésage de 9 mm. Comprend un connecteur fileté en plastique amovible. Longueur totale de 150 mm.",
+      "price_eur": 57.60,
+      "specs_fr": {
+        "Poids net": "0.054 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/205670_20250428122011/humeau.com-tube-d-arrivee-d-air-vapeur-coude-rodage-cn19-26-205670-205670-30.jpg"
+    }
+  ]
+}

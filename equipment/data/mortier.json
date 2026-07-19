@@ -1,0 +1,253 @@
+{
+  "category": {
+    "slug": "mortier",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Mortiers et pilons" },
+    "description": {
+      "fr": "Mortiers en porcelaine et leurs pilons associés, destinés au broyage et à la préparation manuelle d'échantillons en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "260730",
+      "slug": "mortier-porcelaine-bec-160ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 160 mL",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "160 mL",
+      "price_eur": 24.00,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "160 mL",
+        "Diamètre (mm)": "90",
+        "Hauteur (mm)": "56",
+        "Poids net": "0.57 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001813_20260630130103/humeau.com-mortier-a-bec-en-porcelaine-160ml-diam-90mm-haut-56mm-260730-260730-30.jpg"
+    },
+    {
+      "sku": "260729",
+      "slug": "mortier-porcelaine-bec-1l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 1 L",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "1 L",
+      "price_eur": 144.80,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "1000 mL",
+        "Diamètre (mm)": "180",
+        "Hauteur (mm)": "104"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001812_20230717141102/humeau.com-mortier-a-bec-en-porcelaine-1l-diam-180mm-haut-104mm-260729-260729-30.jpg"
+    },
+    {
+      "sku": "260731",
+      "slug": "mortier-porcelaine-bec-2-25l",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 2,25 L",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "2,25 L",
+      "price_eur": 297.80,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "2250 mL",
+        "Diamètre (mm)": "224",
+        "Hauteur (mm)": "127",
+        "Poids net": "5.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001814_20260402161200/humeau.com-mortier-a-bec-en-porcelaine-2-25l-diam-224mm-haut-127mm-260731-260731-30.jpg"
+    },
+    {
+      "sku": "260732",
+      "slug": "mortier-porcelaine-bec-400ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 400 mL",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "400 mL",
+      "price_eur": 42.40,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "400 mL",
+        "Diamètre (mm)": "125",
+        "Hauteur (mm)": "71",
+        "Poids net": "1.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001815_20220505220233/humeau.com-mortier-a-bec-en-porcelaine-400ml-diam-125mm-haut-71mm-82710001815-260732-30.jpg"
+    },
+    {
+      "sku": "260733",
+      "slug": "mortier-porcelaine-bec-650ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 650 mL",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "650 mL",
+      "price_eur": 60.70,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "650 mL",
+        "Diamètre (mm)": "150",
+        "Hauteur (mm)": "90"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001816_20220505220233/humeau.com-mortier-a-bec-en-porcelaine-650ml-diam-150mm-haut-90mm-82710001816-260733-30.jpg"
+    },
+    {
+      "sku": "260734",
+      "slug": "mortier-porcelaine-bec-70ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Mortier à bec en porcelaine, 70 mL",
+      "description_fr": "Mortier à bec fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906. La surface intérieure et le fond, non émaillés, offrent une texture rugueuse favorisant un broyage efficace. Le pilon est à commander séparément.",
+      "variant_name_fr": "70 mL",
+      "price_eur": 16.00,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Volume": "70 mL",
+        "Diamètre (mm)": "63",
+        "Hauteur (mm)": "41"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001817_20220505220233/humeau.com-mortier-a-bec-en-porcelaine-70ml-diam-63mm-haut-41mm-82710001817-260734-30.jpg"
+    },
+    {
+      "sku": "221793",
+      "slug": "mortier-biscuit-pilon-nahita-300ml",
+      "brand": "NAHITA",
+      "name_fr": "Mortier biscuit avec pilon Nahita, 300 mL",
+      "description_fr": "Mortier en porcelaine émaillée fourni avec son pilon, d'une capacité de 300 mL. Destiné au broyage et à la préparation d'échantillons en laboratoire.",
+      "variant_name_fr": "300 mL avec pilon",
+      "price_eur": 9.80,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur de la tige": "125 mm",
+        "Capacité (mL)": "300",
+        "Diamètre (mm)": "130",
+        "Couleur": "Blanc",
+        "Hauteur (mm)": "62",
+        "Poids net": "0.63 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19722119200_20241106164101/humeau.com-mortier-biscuit-avec-pilon-300ml-nahita-221793-221793-30.jpg"
+    },
+    {
+      "sku": "233547",
+      "slug": "mortier-porcelaine-aldrich-275ml",
+      "brand": "ALDRICH",
+      "name_fr": "Mortier en porcelaine avec lèvre, 275 mL",
+      "description_fr": "Mortier avec lèvre, à l'extérieur émaillé à l'exception du fond, d'une capacité de 275 mL. Le pilon est à commander séparément.",
+      "variant_name_fr": "275 mL",
+      "price_eur": 80.30,
+      "specs_fr": {
+        "Dimensions": "105 mm x 75 mm",
+        "Capacité (mL)": "300 mL",
+        "Matériaux": "Porcelaine",
+        "Poids net": "0.9 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/233547_20240213150128/humeau.com-mortier-en-porcelaine-capacite-275ml-d-70mm-h-115mm-24324748000-233547-30.jpg"
+    },
+    {
+      "sku": "260765",
+      "slug": "pilon-porcelaine-115mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 115 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "115 mm — Ø 24 mm",
+      "price_eur": 10.70,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "115",
+        "Diamètre base": "24 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001848_20230109102102/humeau.com-pilon-en-porcelaine-diam-24mm-long-115mm-82710001848-260765-30.jpg"
+    },
+    {
+      "sku": "260766",
+      "slug": "pilon-porcelaine-135mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 135 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "135 mm — Ø 30 mm",
+      "price_eur": 13.30,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "135",
+        "Diamètre base": "30 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001849_20231117112102/humeau.com-pilon-en-porcelaine-diam-30mm-long-135mm-260766-260766-30.jpg"
+    },
+    {
+      "sku": "260767",
+      "slug": "pilon-porcelaine-150mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 150 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "150 mm — Ø 36 mm",
+      "price_eur": 18.80,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "150",
+        "Poids net": "0.151 kg",
+        "Diamètre base": "36 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001850_20231117112101/humeau.com-pilon-en-porcelaine-diam-36mm-long-150mm-260767-260767-30.jpg"
+    },
+    {
+      "sku": "260768",
+      "slug": "pilon-porcelaine-175mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 175 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "175 mm — Ø 42 mm",
+      "price_eur": 26.90,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "175",
+        "Diamètre base": "42 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001851_20230109102102/humeau.com-pilon-en-porcelaine-diam-42mm-long-175mm-82710001851-260768-30.jpg"
+    },
+    {
+      "sku": "260769",
+      "slug": "pilon-porcelaine-210mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 210 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "210 mm — Ø 55 mm",
+      "price_eur": 34.70,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "210",
+        "Diamètre base": "55 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001852_20230109102102/humeau.com-pilon-en-porcelaine-diam-55mm-long-210mm-82710001852-260769-30.jpg"
+    },
+    {
+      "sku": "260770",
+      "slug": "pilon-porcelaine-250mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 250 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "250 mm — Ø 74 mm",
+      "price_eur": 108.90,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "250",
+        "Diamètre base": "74 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001853_20230109102102/humeau.com-pilon-en-porcelaine-diam-74mm-long-250mm-82710001853-260770-30.jpg"
+    },
+    {
+      "sku": "260771",
+      "slug": "pilon-porcelaine-280mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Pilon en porcelaine, 280 mm",
+      "description_fr": "Pilon fabriqué en porcelaine de haute qualité, conforme à la norme DIN 12906, avec tête non émaillée, manche émaillé et surface de frappe rugueuse pour un broyage efficace.",
+      "variant_name_fr": "280 mm — Ø 85 mm",
+      "price_eur": 158.20,
+      "specs_fr": {
+        "Matière": "Porcelaine",
+        "Longueur (mm)": "280",
+        "Poids net": "1.5 kg",
+        "Diamètre base": "85 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001854_20230109102102/humeau.com-pilon-en-porcelaine-diam-85mm-long-280mm-82710001854-260771-30.jpg"
+    }
+  ]
+}

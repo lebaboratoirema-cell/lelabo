@@ -1,0 +1,104 @@
+{
+  "category": {
+    "slug": "flacon-pycnometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Pycnomètres"
+    },
+    "description": {
+      "fr": "Pycnomètres calibrés en verre, inox ou aluminium pour la détermination précise de la densité de liquides et de solides en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "258415",
+      "slug": "pycnometre-inox-100ml-iso2811-astmd1475",
+      "brand": null,
+      "name_fr": "Pycnomètre en inox calibré, 100 mL (ISO 2811, ASTM D1475)",
+      "description_fr": "Pycnomètre en acier inoxydable calibré, utilisé pour déterminer et comparer la densité d'un liquide ou d'un solide. Composé d'un récipient cylindrique de 100 mL et d'un couvercle hermétique percé d'un trou légèrement surélevé, permettant d'évacuer l'excès de produit et de garantir l'absence d'air dans le récipient pour une mesure fiable de la masse volumique.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 524,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Volume (mL)": "100",
+        "Poids net": "0.22 kg",
+        "Normes": "ISO 2811, ASTM D1475"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/258415_20241008110102/humeau.com-pycnometre-100ml-inox-calibre-iso-2811-astm-d1475-258415-258415-30.jpg"
+    },
+    {
+      "sku": "210480",
+      "slug": "pycnometre-verre-borosilicate-hubbard-30ml",
+      "brand": null,
+      "name_fr": "Pycnomètre de Hubbard en verre borosilicaté, 30 mL",
+      "description_fr": "Pycnomètre de type Hubbard en verre borosilicaté, permettant de déterminer et de comparer les valeurs de densité de liquides ou de solides en laboratoire.",
+      "variant_name_fr": "30 mL",
+      "price_eur": 197,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté",
+        "Volume (mL)": "30",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611900657_20230731104107/humeau.com-pycnometre-30ml-verre-borosilicate-hubbard-210480-210480-30.jpg"
+    },
+    {
+      "sku": "258409",
+      "slug": "pycnometre-inox-50ml-iso2811-astmd1475",
+      "brand": null,
+      "name_fr": "Pycnomètre en inox calibré, 50 mL (ISO 2811, ASTM D1475)",
+      "description_fr": "Pycnomètre en acier inoxydable calibré, conforme aux normes ISO 2811, DIN 53217 et ASTM D1475, pour la mesure comparative de la densité de liquides et de solides.",
+      "variant_name_fr": "50 mL",
+      "price_eur": 526,
+      "specs_fr": {
+        "Capacité (mL)": "50",
+        "Matière": "Acier inoxydable",
+        "Normes": "ISO 2811, DIN 53217, ASTM D1475"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/258409_20241212144101/humeau.com-pycnometre-50ml-inox-calibre-iso-2811-astm-d1475-258409-258409-30.jpg"
+    },
+    {
+      "sku": "275287",
+      "slug": "pycnometre-aluminium-100ml",
+      "brand": null,
+      "name_fr": "Pycnomètre en aluminium, 100 mL",
+      "description_fr": "Pycnomètre en aluminium conforme aux normes ISO 2811, DIN 53217 et ASTM D1475, utilisé pour déterminer et comparer la densité d'un liquide ou d'un solide.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 370.15,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Normes": "ISO 2811, DIN 53217, ASTM D1475"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/275287_20250630150101/humeau.com-pycnometre-en-aluminium-100ml-275287-275287-30.jpg"
+    },
+    {
+      "sku": "219425",
+      "slug": "pycnometre-verre-duran-gay-lussac-5ml",
+      "brand": "BRAND",
+      "name_fr": "Pycnomètre en verre Duran type Gay-Lussac, calibré, 5 mL",
+      "description_fr": "Pycnomètre Blaubrand DURAN de type Gay-Lussac, conforme à la norme DIN ISO 3507, livré avec certificat individuel pour une température de référence de 20 °C. Bouchon RIN 10/19 avec capillaire, rodé et poli avec un soin extrême ; le volume, en cm³, est indiqué avec une précision de trois décimales. Calibré « In » : chaque pycnomètre est apparié à son propre bouchon, non interchangeable, et porte un numéro de lot unique pour la fiole et le bouchon.",
+      "variant_name_fr": "5 mL",
+      "price_eur": 55.5,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "5",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18106140701_20250606161101/humeau.com-pycnometre-en-verre-duran-de-gay-lussac-capacite-5ml-219425-219425-30.jpg"
+    },
+    {
+      "sku": "234840",
+      "slug": "pycnometre-gay-lussac-calibre-25ml",
+      "brand": "BRAND",
+      "name_fr": "Pycnomètre Gay-Lussac calibré, 25 mL",
+      "description_fr": "Pycnomètre Blaubrand DURAN de type Gay-Lussac, conforme à la norme DIN ISO 3507, livré avec certificat individuel pour une température de référence de 20 °C. Bouchon RIN 10/19 avec capillaire, rodé et poli avec un soin extrême ; le volume, en cm³, est indiqué avec une précision de trois décimales. Calibré « In » : chaque pycnomètre est apparié à son propre bouchon, non interchangeable, et porte un numéro de lot unique pour la fiole et le bouchon.",
+      "variant_name_fr": "25 mL",
+      "price_eur": 69.3,
+      "specs_fr": {
+        "Capacité (mL)": "25",
+        "Matière": "Verre borosilicaté 3.3",
+        "Poids net": "0.51 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/234840_20260205101101/humeau.com-pycnometre-gay-lussac-calibre-25ml-234840-234840-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "category": {
+    "slug": "noix-de-serrage",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Noix de serrage" },
+    "description": {
+      "fr": "Noix de serrage simples, doubles et universelles, en aluminium, fonte malléable ou inox, pour fixer pinces, réfrigérants et supports sur les tiges d'un statif de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "223928",
+      "slug": "noix-serrage-aluminium-27mm-90-180",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage en aluminium, 27 mm, angle 90°/180°",
+      "description_fr": "Noix de serrage en aluminium équipée d'une vis à tête à clé de violon M8/M10, orientable à 90° et 180° pour ajuster librement l'angle entre deux tiges de statif. Diamètre de serrage de 27 mm et filetage de 10 mm.",
+      "variant_name_fr": "27 mm",
+      "price_eur": 42.19,
+      "specs_fr": {
+        "Matière": "Aluminium",
+        "Diamètre (mm)": "27",
+        "Filetage (mm)": "10",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200535200_20250409122001/humeau.com-noix-de-serrage-27mm-90-180-223928-223928-30.jpg"
+    },
+    {
+      "sku": "223926",
+      "slug": "noix-serrage-aluminium-16-5mm-ecartement-90mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage en aluminium, 16,5 mm, écartement 90°",
+      "description_fr": "Noix de serrage en aluminium à vis à tête à clé de violon M8/M10, avec un angle de serrage de 90°. Diamètre de serrage de 16,5 mm et filetage de 8 mm, pour assembler des tiges de statif standard.",
+      "variant_name_fr": "16,5 mm",
+      "price_eur": 16.06,
+      "specs_fr": {
+        "Matière": "Aluminium",
+        "Diamètre (mm)": "16.5",
+        "Filetage (mm)": "8",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200533300_20240221093101/humeau.com-noix-de-serrage-alu-16-5mm-ecartement-90mm-223926-223926-30.jpg"
+    },
+    {
+      "sku": "223930",
+      "slug": "noix-serrage-double-fonte-malleable-16-5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage double en fonte malléable, 16,5 mm",
+      "description_fr": "Noix de serrage double en fonte malléable, équipée d'une vis à tête à clé de violon M8/M10, réglable selon un angle de 90° et 180°. Diamètre de serrage de 16,5 mm et filetage de 8 mm, pour l'assemblage de tiges de statif perpendiculaires ou alignées.",
+      "variant_name_fr": "16,5 mm",
+      "price_eur": 20.10,
+      "specs_fr": {
+        "Matière": "Fonte malléable",
+        "Diamètre (mm)": "16.5",
+        "Filetage (mm)": "8",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200536100_20250313114101/humeau.com-noix-de-serrage-double-en-fonte-malleable-d-16-5mm-223930-223930-30.jpg"
+    },
+    {
+      "sku": "222040",
+      "slug": "noix-serrage-double-moyenne-peinte-16mm",
+      "brand": "NAHITA",
+      "name_fr": "Noix de serrage double moyenne, métallique peinte, 16 mm",
+      "description_fr": "Noix de serrage double métallique peinte, conçue pour recevoir des tiges de statif jusqu'à 16 mm de diamètre. Longueur de 70 mm.",
+      "variant_name_fr": "16 mm",
+      "price_eur": 5.50,
+      "specs_fr": {
+        "Matière": "Métal",
+        "Marque": "Nahita"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19763201316_20240402145101/humeau.com-noix-de-serrage-double-moyenne-peinte-16mm-222040-222040-30.jpg"
+    },
+    {
+      "sku": "223927",
+      "slug": "noix-serrage-aluminium-16-5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage en aluminium, diamètre 16,5 mm",
+      "description_fr": "Noix de serrage en aluminium avec vis à tête à clé de violon M8/M10, orientable à 90° et 180°. Diamètre de serrage de 16,5 mm et filetage de 8 mm.",
+      "variant_name_fr": "16,5 mm",
+      "price_eur": 18.60,
+      "specs_fr": {
+        "Matière": "Aluminium",
+        "Diamètre (mm)": "16.5",
+        "Filetage (mm)": "8",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200535000_20250728122004/humeau.com-noix-de-serrage-en-aluminium-d-16-5mm-223927-223927-30.jpg"
+    },
+    {
+      "sku": "223944",
+      "slug": "noix-serrage-aluminium-double-5-22mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage double en aluminium, diamètre 5-22 mm, angle 90°",
+      "description_fr": "Noix de serrage double en aluminium, à angle de serrage de 90°, acceptant un diamètre intérieur variable de 5 à 22 mm pour s'adapter à différentes tailles de tiges.",
+      "variant_name_fr": "5-22 mm",
+      "price_eur": 73.75,
+      "specs_fr": {
+        "Matière": "Aluminium",
+        "Diamètre intérieur (mm)": "5 - 22",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200567000_20231211122003/humeau.com-noix-de-serrage-en-aluminium-d-5-22mm-223944-223944-30.jpg"
+    },
+    {
+      "sku": "224044",
+      "slug": "noix-serrage-fixe-double-inox-16x16mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage fixe double en inox, 16 x 16 mm, angle 90°",
+      "description_fr": "Noix de serrage fixe double en acier inoxydable, avec vis à six pans creux et angle de serrage fixe à 90°. Dimensions de 16 x 16 mm, adaptée à un montage rigide de tiges perpendiculaires.",
+      "variant_name_fr": "16 x 16 mm",
+      "price_eur": 33.26,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Dimensions": "16 x 16 mm",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22208600165_20250722142102/humeau.com-noix-de-serrage-fixe-double-en-inox-d-16x16mm-angle-90-224044-224044-30.jpg"
+    },
+    {
+      "sku": "224043",
+      "slug": "noix-serrage-laboral-six-pans-creux-12-13x16mm",
+      "brand": "BOCHEM",
+      "name_fr": "Noix de serrage Laboral à six pans creux, 12-13 x 16 mm",
+      "description_fr": "Noix de serrage en inox à vis à six pans creux, avec angle de serrage de 90°. Diamètre de 12-13 x 16 mm, pour l'assemblage de tiges de statif.",
+      "variant_name_fr": "12-13 x 16 mm",
+      "price_eur": 30.00,
+      "specs_fr": {
+        "Matière": "Inox",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22208600154_20240306122003/humeau.com-noix-de-serrage-laboral-a-six-pans-creux-12-13-x-16mm-224043-224043-30.jpg"
+    },
+    {
+      "sku": "218664",
+      "slug": "noix-serrage-orientable-alliage-zingue-vis-laiton-16mm",
+      "brand": "USBECK",
+      "name_fr": "Noix de serrage orientable, alliage zingué, vis laiton, 16 mm",
+      "description_fr": "Noix de serrage double orientable pour supports de montage, en zinc moulé sous pression avec revêtement poudré et vis en laiton nickelé. Conception robuste et durable, permettant un montage et un démontage rapides. Adaptée aux tiges de 16,0 mm de diamètre.",
+      "variant_name_fr": "16 mm",
+      "price_eur": 18.70,
+      "specs_fr": {
+        "Matière": "Alliage zingué, vis laiton",
+        "Marque": "Usbeck"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218664_20260323170102/humeau.com-noix-de-serrage-orientable-en-alliage-zingue-et-vis-laiton-18102417222-218664-30.jpg"
+    },
+    {
+      "sku": "246903",
+      "slug": "noix-serrage-ouverture-25-36mm-r270-agitateur-ika",
+      "brand": "IKA",
+      "name_fr": "Pince avec noix de serrage R270 pour agitateur IKA, ouverture 25-36 mm",
+      "description_fr": "Pince avec noix de serrage R270 en fonte d'aluminium, dédiée à la fixation d'un agitateur IKA sur un statif. Plage de serrage de 25 à 36 mm sur le statif et de 5 à 21 mm sur le bras.",
+      "variant_name_fr": "25-36 mm",
+      "price_eur": 168.00,
+      "specs_fr": {
+        "Matière": "Fonte aluminium",
+        "Ouverture": "Statif : 25 à 36 mm — Bras : 5 à 21 mm",
+        "Marque": "IKA",
+        "Poids net": "0.49 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/246903_20250428122011/humeau.com-noix-de-serrage-ouv-25-36mm-r270-pour-agitateur-ika-55626578000-246903-30.jpg"
+    },
+    {
+      "sku": "218656",
+      "slug": "noix-serrage-tige-16x16-alliage-aluminium-lot10",
+      "brand": "VWR",
+      "name_fr": "Noix de serrage pour tige 16 x 16 mm, alliage d'aluminium — lot de 10",
+      "description_fr": "Noix de serrage Labomeca en alliage d'aluminium Laboral, de conception légère et robuste. Ouverture permettant une fixation instantanée à la position voulue sur une tige, serrage à l'aide d'une clé hexagonale. Pour tiges de 16 x 16 mm, vendue en lot de 10.",
+      "variant_name_fr": "16 x 16 mm — lot de 10",
+      "price_eur": 151.00,
+      "specs_fr": {
+        "Matière": "Alliage d'aluminium Laboral",
+        "Conditionnement": "10",
+        "Marque": "VWR"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218656_20230127114101/humeau.com-noix-de-serrage-pour-tige-16x16-alliage-aluminium-p-10-18102410131-218656-30.jpg"
+    },
+    {
+      "sku": "218657",
+      "slug": "noix-serrage-universelle-1-5-13mm-lot5",
+      "brand": "VWR",
+      "name_fr": "Noix de serrage universelle, serrage 1,5-13 mm — lot de 5",
+      "description_fr": "Noix de serrage universelle Labomeca en alliage d'aluminium Laboral, légère et robuste, à vis de serrage en T. Plage de serrage de 1,5 à 13 mm, vendue en lot de 5.",
+      "variant_name_fr": "1,5-13 mm — lot de 5",
+      "price_eur": 55.30,
+      "specs_fr": {
+        "Matière": "Alliage d'aluminium Laboral",
+        "Largeur de serrage (mm)": "1,5 - 13",
+        "Conditionnement": "5",
+        "Marque": "VWR",
+        "Poids net": "0.028 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218657_20250718162103/humeau.com-noix-de-serrage-universelle-serrage-1-5-13mm-pack-de-5-218657-218657-30.jpg"
+    },
+    {
+      "sku": "221944",
+      "slug": "noix-double-medi-metal-chrome-5-20mm",
+      "brand": "SELECTA",
+      "name_fr": "Noix double Médi, métal chromé, diamètre 5-20 mm",
+      "description_fr": "Noix de serrage double en métal chromé, conçue pour des tiges de diamètre 5 à 20 mm.",
+      "variant_name_fr": "5-20 mm",
+      "price_eur": 23.70,
+      "specs_fr": {
+        "Matière": "Métal chromé",
+        "Marque": "Selecta"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19741001461_20251017111101/humeau.com-noix-double-medi-pour-diametre-5-a-20mm-metal-chrome-221944-221944-30.jpg"
+    },
+    {
+      "sku": "218654",
+      "slug": "noix-universelle-inox-labomeca-8-27mm-lot2",
+      "brand": "VWR",
+      "name_fr": "Noix universelle inox Labomeca, serrage 8-27 mm — lot de 2",
+      "description_fr": "Noix de serrage universelle Labomeca en acier inoxydable, légère et robuste, à vis de serrage en T. Plage de serrage de 8 à 27 mm, vendue en lot de 2.",
+      "variant_name_fr": "8-27 mm — lot de 2",
+      "price_eur": 354.00,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Largeur de serrage (mm)": "8 - 27",
+        "Conditionnement": "2",
+        "Marque": "VWR",
+        "Poids net": "0.591 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218654_20230127114101/humeau.com-noix-universelle-inox-labomeca-serrage-8-a-27mm-pack-x2-18102410110-218654-30.jpg"
+    },
+    {
+      "sku": "217693",
+      "slug": "noix-universelle-labomeca-16mm-lot5",
+      "brand": "VWR",
+      "name_fr": "Noix universelle Labomeca, serrage 16 mm — lot de 5",
+      "description_fr": "Noix de serrage double universelle Labomeca en alliage d'aluminium Laboral, permettant un serrage de 2 à 16 mm. Vendue en lot de 5.",
+      "variant_name_fr": "16 mm — lot de 5",
+      "price_eur": 105.00,
+      "specs_fr": {
+        "Matière": "Alliage d'aluminium Laboral",
+        "Ouverture": "2 à 16 mm",
+        "Conditionnement": "5",
+        "Marque": "VWR",
+        "Poids net": "0.681 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/18100825473_20250212095103/humeau.com-noix-universelle-labomeca-serrage-16mm-pack-de-5-217693-217693-30.jpg"
+    }
+  ]
+}

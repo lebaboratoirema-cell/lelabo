@@ -1,0 +1,290 @@
+{
+  "category": {
+    "slug": "vase-sabot-nacelle-pesee",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Coupelles, sabots et nacelles de pesée"
+    },
+    "description": {
+      "fr": "Coupelles, nacelles et sabots de pesée en polystyrène, aluminium, porcelaine ou verre borosilicaté, pour le transfert précis d'échantillons solides ou liquides sur une balance de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "259637",
+      "slug": "coupelle-pesee-ps-blanc-10ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée carrée en PS blanc, 10 mL — lot de 500",
+      "description_fr": "Coupelle de pesée carrée en polystyrène antistatique, fond plat pour un support sûr et coins arrondis facilitant le transfert de l'échantillon. Capacité de 10 mL, dimensions 46 x 46 x 8 mm, coloris blanc, vendue en lot de 500.",
+      "variant_name_fr": "10 mL, blanc — lot de 500",
+      "price_eur": 38.4,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "46 x 8 x 46 mm",
+        "Matière": "Polystyrène",
+        "Volume": "10 mL",
+        "Couleur": "Blanc",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000720_20250717163101/humeau.com-coupelle-de-pesee-en-ps-blanc-10ml-46x46x8mm-x500-259637-259637-30.jpg"
+    },
+    {
+      "sku": "259640",
+      "slug": "coupelle-pesee-ps-noir-10ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée carrée en PS noir, 10 mL — lot de 500",
+      "description_fr": "Coupelle de pesée carrée en polystyrène antistatique, fond plat pour un support sûr et coins arrondis facilitant le transfert de l'échantillon. Capacité de 10 mL, dimensions 46 x 46 x 8 mm, coloris noir, vendue en lot de 500.",
+      "variant_name_fr": "10 mL, noir — lot de 500",
+      "price_eur": 42.4,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Dimensions": "46 x 46 x 8 mm",
+        "Matière": "Polystyrène",
+        "Volume": "10 mL",
+        "Couleur": "Noir",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000723_20230817161102/humeau.com-coupelle-de-pesee-en-ps-noir-10ml-46x46x8mm-x500-82710000723-259640-30.jpg"
+    },
+    {
+      "sku": "259639",
+      "slug": "coupelle-pesee-ps-noir-330ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée carrée en PS noir, 330 mL — lot de 500",
+      "description_fr": "Coupelle de pesée carrée en polystyrène, surface lisse pour un transfert facile de l'échantillon avec une perte minimale. Matériau antistatique, biologiquement inerte, résistant aux acides, bases et alcools faibles dilués, utilisable de -10 à 70 °C, agréé contact alimentaire et compatible dessiccateur. Capacité 330 mL, dimensions 140 x 140 x 22 mm, coloris noir, lot de 500.",
+      "variant_name_fr": "330 mL, noir — lot de 500",
+      "price_eur": 102,
+      "specs_fr": {
+        "Dimensions": "140 x 22 x 140 mm",
+        "Capacité (ml)": "330",
+        "Couleur": "Noir",
+        "Pack": "500",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000722_20221222142101/humeau.com-coupelle-de-pesee-en-ps-noir-330ml-140x140x22mm-x500-82710000722-259639-30.jpg"
+    },
+    {
+      "sku": "259642",
+      "slug": "coupelle-pesee-ronde-alu-poignee-d43mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée ronde en aluminium avec poignée, Ø 43 mm — lot de 100",
+      "description_fr": "Coupelle de pesée ronde en aluminium, stable dans sa forme mais très légère, avec un fond lisse et plat garantissant une bonne tenue. Munie d'une poignée pratique, résistante à la température jusqu'à 210 °C. Diamètre 43 mm, vendue en lot de 100.",
+      "variant_name_fr": "Ø 43 mm — lot de 100",
+      "price_eur": 15.7,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Dimensions": "43 x 12 mm",
+        "Matière": "Aluminium",
+        "Température maximum": "210 °C",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259642_20260223153102/humeau.com-coupelle-de-pesee-ronde-en-alu-avec-poignee-d-43mm-x100-82710000725-259642-30.jpg"
+    },
+    {
+      "sku": "259643",
+      "slug": "coupelle-pesee-ronde-alu-poignee-d57mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée ronde en aluminium avec poignée, Ø 57 mm — lot de 100",
+      "description_fr": "Coupelle de pesée ronde en aluminium, stable dans sa forme mais très légère, avec un fond lisse et plat garantissant une bonne tenue. Munie d'une poignée pratique, résistante à la température jusqu'à 210 °C. Diamètre 57 mm, vendue en lot de 100.",
+      "variant_name_fr": "Ø 57 mm — lot de 100",
+      "price_eur": 17.5,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Dimensions": "57 x 14 mm",
+        "Matière": "Aluminium",
+        "Température maximum": "210 °C",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.14 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259643_20260223153102/humeau.com-coupelle-de-pesee-ronde-en-alu-avec-poignee-d-57mm-x100-82710000726-259643-30.jpg"
+    },
+    {
+      "sku": "259644",
+      "slug": "coupelle-pesee-ronde-alu-poignee-d70mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Coupelle de pesée ronde en aluminium avec poignée, Ø 70 mm — lot de 100",
+      "description_fr": "Coupelle de pesée ronde en aluminium, stable dans sa forme mais très légère, avec un fond lisse et plat garantissant une bonne tenue. Munie d'une poignée pratique, résistante à la température jusqu'à 210 °C. Diamètre 70 mm, vendue en lot de 100.",
+      "variant_name_fr": "Ø 70 mm — lot de 100",
+      "price_eur": 20.8,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Dimensions": "43 x 12 mm",
+        "Matière": "Aluminium",
+        "Température maximum": "210 °C",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.28 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/259644_20260223153102/humeau.com-coupelle-de-pesee-ronde-en-alu-avec-poignee-d-70mm-x100-259644-259644-30.jpg"
+    },
+    {
+      "sku": "260735",
+      "slug": "nacelle-combustion-oeillet-porcelaine-105mm-x50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle à combustion à œillet en porcelaine, 105 mm — lot de 50",
+      "description_fr": "Nacelle (bateau) à combustion non émaillée en porcelaine, résistante à des températures allant jusqu'à 1 350 °C. Son œillet permet de la retirer facilement du four après le processus de combustion. Longueur 105 mm, largeur 14 mm, hauteur 9 mm, vendue en lot de 50.",
+      "variant_name_fr": "105 mm — lot de 50",
+      "price_eur": 80.4,
+      "specs_fr": {
+        "Conditionnement": "50",
+        "Matière": "Porcelaine",
+        "Hauteur (mm)": "9",
+        "Longueur (mm)": "105",
+        "Largeur (mm)": "14",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001818_20230109102102/humeau.com-nacelle-a-combustion-a-oeillet-porcelaine-105x14x9mm-x50-82710001818-260735-30.jpg"
+    },
+    {
+      "sku": "260737",
+      "slug": "nacelle-combustion-oeillet-porcelaine-75mm-x50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle à combustion à œillet en porcelaine, 75 mm — lot de 50",
+      "description_fr": "Nacelle (bateau) à combustion non émaillée en porcelaine, résistante à des températures allant jusqu'à 1 350 °C. Son œillet permet de la retirer facilement du four après le processus de combustion. Longueur 75 mm, largeur 13 mm, hauteur 8 mm, vendue en lot de 50.",
+      "variant_name_fr": "75 mm — lot de 50",
+      "price_eur": 69.5,
+      "specs_fr": {
+        "Conditionnement": "50",
+        "Matière": "Porcelaine",
+        "Hauteur (mm)": "8",
+        "Longueur (mm)": "75",
+        "Largeur (mm)": "13",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001820_20230109102102/humeau.com-nacelle-a-combustion-a-oeillet-porcelaine-75x13x8mm-x50-82710001820-260737-30.jpg"
+    },
+    {
+      "sku": "260739",
+      "slug": "nacelle-combustion-oeillet-porcelaine-90mm-x50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle à combustion à œillet en porcelaine, 90 mm — lot de 50",
+      "description_fr": "Nacelle (bateau) à combustion non émaillée en porcelaine, résistante à des températures allant jusqu'à 1 350 °C. Son œillet permet de la retirer facilement du four après le processus de combustion. Longueur 90 mm, largeur 13 mm, hauteur 8 mm, vendue en lot de 50.",
+      "variant_name_fr": "90 mm — lot de 50",
+      "price_eur": 70.7,
+      "specs_fr": {
+        "Conditionnement": "50",
+        "Matière": "Porcelaine",
+        "Hauteur (mm)": "8",
+        "Longueur (mm)": "90",
+        "Largeur (mm)": "13",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001822_20230109102102/humeau.com-nacelle-a-combustion-a-oeillet-porcelaine-80x13x8mm-x50-82710001822-260739-30.jpg"
+    },
+    {
+      "sku": "260745",
+      "slug": "nacelle-pesee-antistatique-ps-blanc-5ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle de pesée antistatique en PS blanc, forme diamant, 5 mL — lot de 500",
+      "description_fr": "Coupelle de pesée antistatique en polystyrène, forme diamant flexible idéale pour transférer avec précision même de petites quantités d'échantillon. Capacité 5 mL, dimensions 55 x 35 x 6 mm, coloris blanc, vendue en lot de 500.",
+      "variant_name_fr": "5 mL, blanc — lot de 500",
+      "price_eur": 30.8,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Matière": "Polystyrène (PS)",
+        "Volume": "5 ml",
+        "Couleur": "Blanc",
+        "Hauteur (mm)": "6",
+        "Largeur (mm)": "55",
+        "Profondeur (mm)": "35",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001828_20230817161102/humeau.com-nacelle-de-pesee-antistatique-ps-blanc-5ml-x500-82710001828-260745-30.jpg"
+    },
+    {
+      "sku": "260740",
+      "slug": "nacelle-pesee-antistatique-ps-noir-100ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle de pesée antistatique en PS noir, forme diamant, 100 mL — lot de 500",
+      "description_fr": "Coupelle de pesée antistatique en polystyrène, forme diamant flexible idéale pour transférer avec précision même de petites quantités d'échantillon. Capacité 100 mL, dimensions 119 x 90 x 19 mm, coloris noir, vendue en lot de 500.",
+      "variant_name_fr": "100 mL, noir — lot de 500",
+      "price_eur": 99.1,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Matière": "Polystyrène (PS)",
+        "Volume": "100 ml",
+        "Couleur": "Noir",
+        "Hauteur (mm)": "19",
+        "Largeur (mm)": "119",
+        "Profondeur (mm)": "90",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001823_20230817161102/humeau.com-nacelle-de-pesee-antistatique-ps-noir-100ml-x500-82710001823-260740-30.jpg"
+    },
+    {
+      "sku": "260742",
+      "slug": "nacelle-pesee-antistatique-ps-noir-30ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle de pesée antistatique en PS noir, forme diamant, 30 mL — lot de 500",
+      "description_fr": "Coupelle de pesée antistatique en polystyrène, forme diamant flexible idéale pour transférer avec précision même de petites quantités d'échantillon. Capacité 30 mL, dimensions 78 x 56 x 14 mm, coloris noir, vendue en lot de 500.",
+      "variant_name_fr": "30 mL, noir — lot de 500",
+      "price_eur": 44.8,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Matière": "Polystyrène (PS)",
+        "Volume": "30 ml",
+        "Couleur": "Noir",
+        "Hauteur (mm)": "14",
+        "Largeur (mm)": "78",
+        "Profondeur (mm)": "56",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001825_20250821132101/humeau.com-nacelle-de-pesee-antistatique-ps-noir-30ml-x500-260742-260742-30.jpg"
+    },
+    {
+      "sku": "260744",
+      "slug": "nacelle-pesee-antistatique-ps-noir-5ml-x500",
+      "brand": "LABSOLUTE",
+      "name_fr": "Nacelle de pesée antistatique en PS noir, forme diamant, 5 mL — lot de 500",
+      "description_fr": "Coupelle de pesée antistatique en polystyrène, forme diamant flexible idéale pour transférer avec précision même de petites quantités d'échantillon. Capacité 5 mL, dimensions 55 x 35 x 6 mm, coloris noir, vendue en lot de 500.",
+      "variant_name_fr": "5 mL, noir — lot de 500",
+      "price_eur": 33.8,
+      "specs_fr": {
+        "Conditionnement": "500",
+        "Matière": "Polystyrène (PS)",
+        "Volume": "5 ml",
+        "Couleur": "Noir",
+        "Hauteur (mm)": "6",
+        "Largeur (mm)": "55",
+        "Profondeur (mm)": "35",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001827_20230817161102/humeau.com-nacelle-de-pesee-antistatique-ps-noir-5ml-x500-82710001827-260744-30.jpg"
+    },
+    {
+      "sku": "203831",
+      "slug": "sabot-pesee-verre-pyrex-10ml-x10",
+      "brand": "PYREX",
+      "name_fr": "Sabot de pesée en verre Pyrex, 10 mL — lot de 10",
+      "description_fr": "Sabot de pesée en verre Pyrex d'une capacité de 10 mL. Sa base plane assure une bonne stabilité sur le plateau de balance, tandis que son extrémité en forme de tube facilite l'introduction de poudre dans les contenants à col étroit. Vendu en lot de 10.",
+      "variant_name_fr": "10 mL — lot de 10",
+      "price_eur": 542.1,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (ml)": "10",
+        "Longueur (mm)": "100",
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.37 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04900414403_20220505195556/humeau.com-sabot-de-pesee-verre-pyrex-10ml-par-10-04900414403-203831-30.jpg"
+    },
+    {
+      "sku": "205268",
+      "slug": "sabot-pesee-verre-pyrex-6ml-x10",
+      "brand": "PYREX",
+      "name_fr": "Sabot de pesée en verre Pyrex, 6 mL — lot de 10",
+      "description_fr": "Sabot de pesée en verre Pyrex d'une capacité de 6 mL. Sa base plane assure une bonne stabilité sur le plateau de balance, tandis que son extrémité en forme de tube facilite l'introduction de poudre dans les contenants à col étroit. Vendu en lot de 10.",
+      "variant_name_fr": "6 mL — lot de 10",
+      "price_eur": 431.1,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Capacité (ml)": "6",
+        "Longueur (mm)": "85",
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.27 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000617_20220505195556/humeau.com-sabot-de-pesee-verre-pyrex-6ml-par-10-06700000617-205268-30.jpg"
+    }
+  ]
+}

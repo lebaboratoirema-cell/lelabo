@@ -1,0 +1,242 @@
+{
+  "category": {
+    "slug": "support-statif-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Supports et statifs pour montage de verrerie" },
+    "description": {
+      "fr": "Statifs, socles, tiges, anneaux et supports en acier inox, fonte ou aluminium, pour l'assemblage stable de montages de verrerie en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "223937",
+      "slug": "anneau-ferme-inox-120mm-220mm",
+      "brand": "BOCHEM",
+      "name_fr": "Anneau fermé en inox, diamètre 120 mm, longueur 220 mm",
+      "description_fr": "Anneau fermé en acier inoxydable 18/10, sans noix de fixation, destiné à supporter des éléments de verrerie sur une tige de statif. Diamètre de 120 mm et longueur de 220 mm.",
+      "variant_name_fr": "120 mm — 220 mm",
+      "price_eur": 28.67,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Diamètre (mm)": "120",
+        "Longueur tige (mm)": "220",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200550300_20251028094101/humeau.com-anneau-ferme-en-inox-d-120mm-long-220mm-223937-223937-30.jpg"
+    },
+    {
+      "sku": "223935",
+      "slug": "anneau-ferme-inox-50mm-160mm",
+      "brand": "BOCHEM",
+      "name_fr": "Anneau fermé en inox, diamètre 50 mm, longueur 160 mm",
+      "description_fr": "Anneau fermé en acier inoxydable 18/10, sans noix de fixation, destiné à supporter des éléments de verrerie sur une tige de statif. Diamètre de 50 mm et longueur de 160 mm.",
+      "variant_name_fr": "50 mm — 160 mm",
+      "price_eur": 19.82,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Diamètre (mm)": "50",
+        "Longueur tige (mm)": "160",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200550000_20251028094101/humeau.com-anneau-ferme-en-inox-d-50mm-long-160mm-223935-223935-30.jpg"
+    },
+    {
+      "sku": "270820",
+      "slug": "kit-couplage-rapide-kcr-support-si-robinet-filete",
+      "brand": "MAXY",
+      "name_fr": "Kit de couplage rapide KCR entre support type SI et robinet fileté",
+      "description_fr": "Kit de couplage rapide permettant de raccorder une fixation murale type SI à un robinet d'eau courante fileté sans immobiliser l'accès à ce dernier. Système à libération rapide par pression sur un bouton nickelé, compatible avec les filetages 15/21 et 20/27, se connectant à un tuyau de 6 mm de diamètre via un couplage bi-conique. Fonctionne sans électricité. Contenu : un embout pour robinet fileté 15/21, un raccord pour robinet fileté 20/27, un raccord bi-conique pour tuyau de 6 mm et deux joints.",
+      "variant_name_fr": "Standard",
+      "price_eur": 115.00,
+      "specs_fr": {
+        "Marque": "Maxy"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/270820_20260202163103/humeau.com-kit-de-couplage-rapide-kcr-entre-support-type-si-et-robinet-filete-270820-270820-30.jpg"
+    },
+    {
+      "sku": "223841",
+      "slug": "manchon-assemblage-reducteur-inox-26-9-15mm",
+      "brand": "BOCHEM",
+      "name_fr": "Manchon d'assemblage réducteur en inox, diamètre 26,9-15 mm",
+      "description_fr": "Manchon d'assemblage servant de collier de réduction en acier inoxydable 18/10, permettant de raccorder deux barres de statif de diamètres différents (26,9 et 15 mm).",
+      "variant_name_fr": "26,9-15 mm",
+      "price_eur": 207.31,
+      "specs_fr": {
+        "Matière": "Acier 18/10",
+        "Nombre de barres": "2",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200055100_20231211140103/humeau.com-manchon-d-assemblage-reducteur-en-inox-diam-26-9-15mm-223841-223841-30.jpg"
+    },
+    {
+      "sku": "223961",
+      "slug": "plateau-inox-rebords-240x160x45mm",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau inox avec rebords, 240 x 160 x 45 mm",
+      "description_fr": "Plateau en acier inoxydable 18/10 avec rebords, destiné à un usage général en laboratoire pour poser ou contenir de la verrerie sur un plan de travail ou un statif. Dimensions de 240 x 160 x 45 mm.",
+      "variant_name_fr": "240 x 160 x 45 mm",
+      "price_eur": 36.52,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Hauteur (mm)": "45",
+        "Largeur (mm)": "160",
+        "Marque": "Bochem",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200845500_20220505202054/humeau.com-plateau-inox-avec-rebords-d-240x160x45mm-22200845500-223961-30.jpg"
+    },
+    {
+      "sku": "223965",
+      "slug": "plateau-inox-rebords-440x340x20mm",
+      "brand": "BOCHEM",
+      "name_fr": "Plateau inox rectangulaire avec rebords, 440 x 340 x 20 mm",
+      "description_fr": "Plateau rectangulaire en acier inoxydable 18/10 avec rebords, destiné à un usage général en laboratoire. Dimensions de 440 x 340 x 20 mm.",
+      "variant_name_fr": "440 x 340 x 20 mm",
+      "price_eur": 166.30,
+      "specs_fr": {
+        "Matière": "Acier inox 18/10",
+        "Hauteur (mm)": "20",
+        "Longueur (mm)": "440",
+        "Largeur (mm)": "340",
+        "Marque": "Bochem",
+        "Poids net": "1.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200848600_20241114122001/humeau.com-plateau-inox-avec-rebords-d-440-x-340-x-20mm-223965-223965-30.jpg"
+    },
+    {
+      "sku": "218651",
+      "slug": "statif-fonte-tige-excentree-140x225-tige-8x500mm",
+      "brand": "VWR",
+      "name_fr": "Statif en fonte à tige excentrée, base 140 x 225 mm, tige 8 x 500 mm",
+      "description_fr": "Statif de laboratoire en fonte nodulaire martelée avec tige de support en acier laqué, montée de façon excentrée pour un socle stable et antidérapant. Construction robuste et résistante à la corrosion. Base de 140 x 225 mm et tige de 8 x 500 mm.",
+      "variant_name_fr": "140x225 — tige 8x500 mm",
+      "price_eur": 194.00,
+      "specs_fr": {
+        "Longueur (mm)": "225",
+        "Largeur (mm)": "140",
+        "Marque": "VWR",
+        "Poids net": "2.35 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218651_20230123161101/humeau.com-statif-en-fonte-tige-excentree-140x225-tige-8x500mm-18102410093-218651-30.jpg"
+    },
+    {
+      "sku": "218650",
+      "slug": "statif-labomeca-tige-acier-16x1000mm",
+      "brand": "VWR",
+      "name_fr": "Statif Labomeca avec tige en acier, 16 x 1000 mm",
+      "description_fr": "Statif trépied de laboratoire en fonte à finition émail effet martelé, avec tige de support en acier revêtu de laiton nickelé et orifice fileté. Tige de 1000 mm de longueur pour 16 mm de diamètre, offrant un support robuste et sûr.",
+      "variant_name_fr": "16 x 1000 mm",
+      "price_eur": 326.00,
+      "specs_fr": {
+        "Longueur branche (mm)": "175",
+        "Marque": "VWR"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218650_20230123161102/humeau.com-statif-labomeca-avec-tige-en-acier-d-16x1000mm-l-175mm-18102410092-218650-30.jpg"
+    },
+    {
+      "sku": "221779",
+      "slug": "statif-plateau-plaque-acier-100x175mm-nahita",
+      "brand": "NAHITA",
+      "name_fr": "Statif à plateau, plaque acier, 100 x 175 mm, tige 500 x 10 mm",
+      "description_fr": "Statif à plateau Nahita avec base en plaque d'acier et tige en acier chromé. Pieds en caoutchouc pour une bonne stabilité. Base de 100 x 175 mm, tige de 500 x 10 mm.",
+      "variant_name_fr": "100x175 mm — tige 500x10 mm",
+      "price_eur": 15.10,
+      "specs_fr": {
+        "Matière": "Acier",
+        "Dimensions": "100 x 175 mm",
+        "Tige": "500 x 10 mm",
+        "Marque": "Nahita",
+        "Poids net": "0.78 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19720610000_20240327090102/humeau.com-statif-plateau-plaque-acier-100x175mm-500x10mm-nahita-221779-221779-30.jpg"
+    },
+    {
+      "sku": "221930",
+      "slug": "statif-rectangulaire-bleu-200x125mm-tige-600mm",
+      "brand": "HUMEAU",
+      "name_fr": "Statif rectangulaire bleu, 200 x 125 mm, tige 600 mm, diamètre 12 mm",
+      "description_fr": "Statif à plateau complet, avec base en fonte d'acier peinte au four et tige en acier chromé. Plateau de 200 x 125 mm et tige de 600 mm de longueur pour 12 mm de diamètre.",
+      "variant_name_fr": "200x125 mm — tige 600 mm",
+      "price_eur": 18.90,
+      "specs_fr": {
+        "Dimension plateau": "200 x 125 mm",
+        "Diamètre tige (mm)": "12",
+        "Longueur tige (mm)": "600",
+        "Poids net": "1.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19739026100_20231018162101/humeau.com-statif-rectangulaire-bleu-200x125mm-tige-600mm-d-12mm-221930-221930-30.jpg"
+    },
+    {
+      "sku": "222037",
+      "slug": "statif-rectangulaire-bleu-300x175mm-tige-600mm",
+      "brand": "NAHITA",
+      "name_fr": "Statif rectangulaire bleu Nahita, 300 x 175 mm, tige 600 mm, diamètre 12 mm",
+      "description_fr": "Statif rectangulaire bleu de la marque Nahita, avec plateau de 300 x 180 mm environ et tige de 600 mm pour 12 mm de diamètre.",
+      "variant_name_fr": "300x175 mm — tige 600 mm",
+      "price_eur": 28.80,
+      "specs_fr": {
+        "Dimensions": "300 x 180 mm",
+        "Marque": "Nahita"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19761390251_20240307101103/humeau.com-statif-rectangulaire-bleu-300x175mm-tige-600mm-d-12mm-222037-222037-30.jpg"
+    },
+    {
+      "sku": "221968",
+      "slug": "support-double-forme-h-mini",
+      "brand": "SELECTA",
+      "name_fr": "Support double forme H, mini",
+      "description_fr": "Petit support en forme de H (double T), équipé d'une noix de fixation acceptant des tiges de 8 à 12 mm de diamètre.",
+      "variant_name_fr": "Mini",
+      "price_eur": 177.10,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Selecta",
+        "Poids net": "1.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19746001103_20220505201050/humeau.com-support-double-forme-h-mini-19746001103-221968-30.jpg"
+    },
+    {
+      "sku": "223952",
+      "slug": "support-tige-m10-acier-inox-210x130mm",
+      "brand": "BOCHEM",
+      "name_fr": "Support pour tige M10 en acier inox, 210 x 130 mm",
+      "description_fr": "Support de tige en acier inoxydable, doté de pieds larges et lourds pour une stabilité accrue, avec pieds ajustables et protection antidérapante en caoutchouc. Filetage M10, dimensions de 210 x 130 mm.",
+      "variant_name_fr": "210 x 130 mm",
+      "price_eur": 174.26,
+      "specs_fr": {
+        "Dimensions": "210 x 130 mm",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200821002_20220505202054/humeau.com-support-pour-tige-m10-en-acier-inox-210-x-130-mm-22200821002-223952-30.jpg"
+    },
+    {
+      "sku": "223836",
+      "slug": "te-fonte-1-entree-90-26-9mm",
+      "brand": "BOCHEM",
+      "name_fr": "Té en fonte à 1 entrée, 90°, diamètre 26,9 mm",
+      "description_fr": "Connecteur en fonte malléable en forme de té, à une entrée et un angle de 90°, pour l'assemblage de tiges ou tubes de statif de 26,9 mm de diamètre.",
+      "variant_name_fr": "90° — 26,9 mm",
+      "price_eur": 41.92,
+      "specs_fr": {
+        "Matière": "Fonte malléable",
+        "Nombre de barres": "2",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200001000_20231211140102/humeau.com-te-en-fonte-a-1-entree-90-diam-26-9mm-223836-223836-30.jpg"
+    },
+    {
+      "sku": "223923",
+      "slug": "tige-socle-aluminium-500x12mm-sans-filetage",
+      "brand": "BOCHEM",
+      "name_fr": "Tige pour socle en aluminium, 500 x 12 mm, sans filetage",
+      "description_fr": "Tige de trépied en aluminium sans filetage, destinée à être montée sur un socle de support. Longueur de 500 mm pour un diamètre de 12 mm.",
+      "variant_name_fr": "500 x 12 mm",
+      "price_eur": 12.95,
+      "specs_fr": {
+        "Matière": "Aluminium",
+        "Marque": "Bochem"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/223923_20250922094101/humeau.com-tige-pour-socle-en-aluminium-500x12mm-sans-filetage-223923-223923-30.jpg"
+    }
+  ]
+}

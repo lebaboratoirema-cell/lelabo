@@ -1,0 +1,214 @@
+{
+  "category": {
+    "slug": "piles",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Piles"
+    },
+    "description": {
+      "fr": "Piles alcalines, lithium et rechargeables, ainsi que leurs chargeurs, pour l'alimentation des balances, appareils de mesure et instruments de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "248262",
+      "slug": "pile-aa-lithium-3-6v-2-6ah",
+      "brand": "HUMEAU",
+      "name_fr": "Pile AA lithium 3,6 V (2,6 Ah)",
+      "description_fr": "Pile primaire non rechargeable au format AA, à base de lithium-chlorure de thionyle (Li-SOCl2), de tension nominale 3,6 V. Sa chimie lui confère une forte densité d'énergie et une bonne stabilité de tension, adaptée à l'alimentation d'appareils de mesure ou de sauvegarde en laboratoire. Classée matière dangereuse (code UN 3090, classe 9) pour le transport.",
+      "variant_name_fr": "AA — 3,6 V / 2,6 Ah",
+      "price_eur": 18.9,
+      "specs_fr": {
+        "Type": "Lithium-chlorure de thionyle (Li-SOCl2), non rechargeable",
+        "Tension nominale": "3,6 V",
+        "Capacité": "2,6 Ah",
+        "Poids net": "0.025 kg",
+        "Code UN": "3090",
+        "Classe de danger": "9 (piles au lithium métal), groupe II"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/1/61820194380_20240306111101/humeau.com-pile-aa-lithium-3-6v-2-6ah-248262-248262-30.jpg"
+    },
+    {
+      "sku": "248256",
+      "slug": "pile-alcaline-energizer-lr06-pack-10",
+      "brand": "ENERGIZER",
+      "name_fr": "Pile alcaline Energizer LR06 (AA) — lot de 10",
+      "description_fr": "Lot de 10 piles alcalines Energizer au format LR06 (AA), destinées à l'alimentation générale des appareils électroniques et instruments de laboratoire à faible consommation.",
+      "variant_name_fr": "LR06 (AA) — lot de 10",
+      "price_eur": 15.8,
+      "specs_fr": {
+        "Format": "LR06 (AA)",
+        "Marque commerciale": "ENERGIZER",
+        "Poids net": "0.24 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/248256_20260129165101/humeau.com-pile-alacaline-energizer-lr06-pack-de-10-248256-248256-30.jpg"
+    },
+    {
+      "sku": "237192",
+      "slug": "pile-alcaline-9v-max-plus",
+      "brand": "HUMEAU",
+      "name_fr": "Pile alcaline 9 V Max Plus",
+      "description_fr": "Pile alcaline au format 9 V, sans mercure ni cadmium, pour l'alimentation d'appareils portatifs et de contrôle en laboratoire.",
+      "variant_name_fr": "9 V — unité",
+      "price_eur": 12.4,
+      "specs_fr": {
+        "Format": "9 V",
+        "Composition": "0% mercure, 0% cadmium",
+        "Poids net": "0.052 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30047280600_20250922143101/humeau.com-pile-alcaline-max-plus-9v-fsb1-237192-237192-30.jpg"
+    },
+    {
+      "sku": "256218",
+      "slug": "pile-bouton-391-sr55",
+      "brand": "HUMEAU",
+      "name_fr": "Pile bouton 391 / SR55",
+      "description_fr": "Pile bouton de type 391 (équivalent SR55), destinée à l'alimentation de petits appareils électroniques de laboratoire (balances de précision, calculatrices, montres de mesure).",
+      "variant_name_fr": "391 / SR55 — unité",
+      "price_eur": 6,
+      "specs_fr": {
+        "Référence": "391 / SR55"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80209532900_20220505215241/humeau.com-pile-bouton-391-80209532900-256218-30.jpg"
+    },
+    {
+      "sku": "248271",
+      "slug": "pile-bouton-cr2032-3v-pack-5",
+      "brand": "HUMEAU",
+      "name_fr": "Pile bouton CR2032 3 V, Ø 20 mm — lot de 5",
+      "description_fr": "Piles bouton lithium CR2032 non rechargeables, chimie lithium-dioxyde de manganèse, offrant une longue durée de stockage et un fonctionnement stable de -30 à +60 °C. Tension nominale de 3 V et capacité de 210 mAh, adaptées à la sauvegarde de mémoires, balances et petits instruments de laboratoire. Format standard Ø 20 mm, épaisseur 3,2 mm, livrées par lot de 5.",
+      "variant_name_fr": "CR2032 — lot de 5",
+      "price_eur": 11.35,
+      "specs_fr": {
+        "Format": "CR2032 (Ø 20 mm, épaisseur 3,2 mm)",
+        "Tension nominale": "3 V",
+        "Capacité": "210 mAh",
+        "Plage de température": "-30 °C à +60 °C",
+        "Conditionnement": "Lot de 5",
+        "Poids net": "0.025 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/1/61886606720_20260108155103/humeau.com-pile-bouton-cr2032-3v-20mm-pack-x5-248271-248271-30.jpg"
+    },
+    {
+      "sku": "271587",
+      "slug": "pile-bouton-cr2430-3v-24-5mm",
+      "brand": "HUMEAU",
+      "name_fr": "Pile bouton CR2430 lithium 3 V, Ø 24,5 mm",
+      "description_fr": "Pile bouton lithium CR2430 (dioxyde de manganèse), tension nominale 3 V, format Ø 24,5 mm. Classée matière dangereuse au transport (code UN 3090, classe 9).",
+      "variant_name_fr": "CR2430 — unité",
+      "price_eur": 6.4,
+      "specs_fr": {
+        "Format": "CR2430, Ø 24,5 mm",
+        "Tension nominale": "3 V",
+        "Code UN": "3090",
+        "Classe de danger": "9 (piles au lithium métal), groupe II"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271587_20250425163102/humeau.com-pile-bouton-cr2430-lithium-dioxyde-de-manganese-24-5mm-3v-271587-271587-30.jpg"
+    },
+    {
+      "sku": "271531",
+      "slug": "pile-bouton-cr2450-3v-pack-5",
+      "brand": "RS PRO",
+      "name_fr": "Pile bouton CR2450 lithium 3 V, Ø 24,5 mm — lot de 5",
+      "description_fr": "Piles bouton lithium CR2450 de 3 V, format standard Ø 24,5 mm, destinées à l'alimentation fiable d'appareils de laboratoire à faible consommation (balances, capteurs, dispositifs de mesure, sauvegarde mémoire). La technologie lithium assure une tension stable et une bonne tenue en utilisation intermittente. Livrées par lot de 5.",
+      "variant_name_fr": "CR2450 — lot de 5",
+      "price_eur": 24.1,
+      "specs_fr": {
+        "Format": "CR2450, Ø 24,5 mm",
+        "Tension nominale": "3 V",
+        "Marque commerciale": "RS PRO",
+        "Conditionnement": "Lot de 5",
+        "Code UN": "3090",
+        "Classe de danger": "9 (piles au lithium métal), groupe II"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271531_20260105160101/humeau.com-pile-bouton-cr2450-rs-pro-lithium-3v-diam-24-5mm-pack-x5-271531-271531-30.jpg"
+    },
+    {
+      "sku": "210945",
+      "slug": "pile-bouton-lithium-serie-6-pack-5",
+      "brand": "HUMEAU",
+      "name_fr": "Pile bouton lithium série 6, Ø 20 mm, épaisseur 3,2 mm — lot de 5",
+      "description_fr": "Lot de 5 piles bouton au lithium, appréciées pour leur longue durée de vie, leur faible autodécharge et leur bonne densité d'énergie, notamment sur des appels de courant par impulsion.",
+      "variant_name_fr": "Série 6 — lot de 5",
+      "price_eur": 9.98,
+      "specs_fr": {
+        "Format": "Ø 20 mm, épaisseur 3,2 mm",
+        "Conditionnement": "Lot de 5",
+        "Poids net": "0.025 kg",
+        "Code UN": "3090",
+        "Classe de danger": "9 (piles au lithium métal), groupe II"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/210945_20260115033003/humeau.com-pile-bouton-lithium-serie-6-diam-20-epaisseur-32-pack-de-5-12000000600-210945-30.jpg"
+    },
+    {
+      "sku": "248258",
+      "slug": "pile-bouton-lr44-1-5v-pack-5",
+      "brand": "HUMEAU",
+      "name_fr": "Pile bouton LR44 1,5 V — lot de 5",
+      "description_fr": "Lot de 5 piles bouton alcalines LR44 de 1,5 V, pour l'alimentation de petits appareils de mesure et instruments de laboratoire.",
+      "variant_name_fr": "LR44 — lot de 5",
+      "price_eur": 6,
+      "specs_fr": {
+        "Format": "LR44",
+        "Tension nominale": "1,5 V",
+        "Conditionnement": "Lot de 5",
+        "Poids net": "0.014 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/248258_20250915100102/humeau.com-pile-bouton-lr44-1-5v-pack-5-248258-248258-30.jpg"
+    },
+    {
+      "sku": "248210",
+      "slug": "pile-lithium-format-a-3-6v",
+      "brand": "HUMEAU",
+      "name_fr": "Pile lithium format A, 3,6 V",
+      "description_fr": "Pile lithium primaire 3,6 V (lithium-chlorure de thionyle) au format A, conçue pour les équipements nécessitant une énergie stable sur le long terme : forte densité énergétique, autodécharge très faible (moins de 1 %/an à 20 °C) et plage de fonctionnement étendue de -60 °C à +85 °C. Boîtier en acier inoxydable à scellement hermétique verre-métal, résistant à la corrosion. Conforme aux normes IEC 60086-4 et IEC 60079-11 (sécurité intrinsèque classe T3), non classée dangereuse pour le transport. Capacité nominale de 3,6 Ah, adaptée à la télémétrie, aux systèmes de sécurité et à l'électronique professionnelle. Fabriquée en France.",
+      "variant_name_fr": "Format A — 3,6 V / 3,6 Ah",
+      "price_eur": 30.9,
+      "specs_fr": {
+        "Format": "A (LS17500)",
+        "Type": "Lithium-chlorure de thionyle (Li-SOCl2)",
+        "Tension nominale": "3,6 V",
+        "Capacité nominale": "3,6 Ah (12,96 Wh)",
+        "Plage de température": "-60 °C à +85 °C",
+        "Normes": "IEC 60086-4, IEC 60079-11",
+        "Origine": "Fabriquée en France",
+        "Code UN": "Non classée dangereuse pour le transport"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/1/61804199536_20260108155103/humeau.com-pile-lithium-a-3-6v-248210-248210-30.jpg"
+    },
+    {
+      "sku": "248250",
+      "slug": "pile-rechargeable-nimh-aaa-800mah-pack-4",
+      "brand": "HUMEAU",
+      "name_fr": "Pile rechargeable NiMH AAA 800 mAh — lot de 4",
+      "description_fr": "Lot de 4 piles rechargeables NiMH au format AAA, capacité 800 mAh, pour un usage répété dans les appareils de laboratoire à consommation modérée.",
+      "variant_name_fr": "AAA / 800 mAh — lot de 4",
+      "price_eur": 14.4,
+      "specs_fr": {
+        "Format": "AAA",
+        "Type": "NiMH rechargeable",
+        "Capacité": "800 mAh",
+        "Conditionnement": "Lot de 4",
+        "Poids net": "0.056 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/248250_20250428122011/humeau.com-pile-rechargeable-maxe-nimh-aaa-800mah-pack-de-4-248250-248250-30.jpg"
+    },
+    {
+      "sku": "220005",
+      "slug": "piles-rechange-avec-joints-pour-spy-pack-10",
+      "brand": "HUMEAU",
+      "name_fr": "Piles de rechange avec joints pour appareil SPY — lot de 10",
+      "description_fr": "Lot de 10 piles de rechange spécialement dimensionnées pour les appareils de type SPY, livrées avec leurs joints d'étanchéité intégrés afin de garantir l'étanchéité du boîtier après remplacement. Adapté à la maintenance préventive et au remplacement rapide en environnement de laboratoire.",
+      "variant_name_fr": "Lot de 10, avec joints",
+      "price_eur": 57.3,
+      "specs_fr": {
+        "Compatibilité": "Appareils SPY",
+        "Conditionnement": "Lot de 10, avec joints d'étanchéité",
+        "Poids net": "0.2 kg",
+        "Code UN": "3090",
+        "Classe de danger": "9 (piles au lithium métal), groupe II"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/220005_20260629160103/humeau.com-piles-de-rechange-avec-joints-pour-spy-pack-de-10-220005-220005-30.jpg"
+    }
+  ]
+}

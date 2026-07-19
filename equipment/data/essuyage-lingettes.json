@@ -1,0 +1,238 @@
+{
+  "category": {
+    "slug": "essuyage-lingettes",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Essuyage et lingettes"
+    },
+    "description": {
+      "fr": "Papiers d'essuyage, lingettes et distributeurs pour le nettoyage de la verrerie, des surfaces et du matériel optique de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "273409",
+      "slug": "distributeur-sur-pied-pour-bobine-d-essuyage-273409",
+      "brand": "MEDIPROTEC",
+      "name_fr": "Distributeur sur pied pour bobine d'essuyage",
+      "description_fr": "Distributeur sur pied MEDIPROTEC pour bobine de papier d'essuyage, conçu pour les environnements de laboratoire ou industriels. Fabriqué en acier électrozingué avec finition polyester, bonne résistance mécanique et à la corrosion. Installation autonome sans fixation murale, compatible avec des bobines de 1000 à 1500 formats. Livré avec visserie de fixation.",
+      "variant_name_fr": "Standard",
+      "price_eur": 82.2,
+      "specs_fr": {
+        "Poids net": "1.95 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/273409_20260128172101/humeau.com-distributeur-sur-pied-pour-bobine-d-essuyage-480-x-450-x-810mm-273409-273409-30.jpg"
+    },
+    {
+      "sku": "259847",
+      "slug": "essuie-mains-3-plis-plie-259847",
+      "brand": "LABSOLUTE",
+      "name_fr": "Essuie-mains 3 plis, plié",
+      "description_fr": "Essuie-mains LABSOLUTE 3 plis, blanc brillant, super absorbant et plié, compatible avec le système de distribution LABSOLUTE. Grande capacité d'absorption pour une utilisation économique. Conditionnement : 20 paquets de 100 feuilles.",
+      "variant_name_fr": "20 paquets de 100 feuilles",
+      "price_eur": 107.4,
+      "specs_fr": {
+        "Conditionnement": "20 paquets de 100 feuilles",
+        "Longueur (mm)": "420 mm",
+        "Largeur (mm)": "220 mm",
+        "Poids net": "10.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000930_20220505220233/humeau.com-essuie-mains-3-plis-d-22x42cm-pack-x2000-82710000930-259847-30.jpg"
+    },
+    {
+      "sku": "233031",
+      "slug": "essuyeur-kimwipes-11-25-cm-x-21-25-cm-kimwipes-280",
+      "brand": "KIMBERLY CLARK",
+      "name_fr": "Essuyeur Kimwipes, 11.25 cm x 21.25 cm",
+      "description_fr": "Boîte d'essuyeurs Kimwipes KIMBERLY CLARK, format 11.25 cm x 21.25 cm, conditionnement de 280 feuilles. Utilisé pour l'essuyage général en laboratoire.",
+      "variant_name_fr": "280 feuilles",
+      "price_eur": 21.8,
+      "specs_fr": {
+        "Conditionnement": "280",
+        "Taille": "11.25 cm x 21.25 cm",
+        "Poids net": "0.167 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/233031_20260603154101/humeau.com-essuyeur-kimwipes-ex-l-d-11-25x21-25cm-pack-de-280-233031-233031-30.jpg"
+    },
+    {
+      "sku": "261384",
+      "slug": "lingettes-de-laboratoire-2-plis-200-x-210-mm-mm-lingettes-200-x-210-mm",
+      "brand": "KIMBERLY CLARK",
+      "name_fr": "Lingettes de laboratoire 2 plis, 200 x 210 mm mm",
+      "description_fr": "Chiffons d'essuyage KIMBERLY CLARK à 2 épaisseurs, en tissu spécial pour les applications de laboratoire. Très absorbants et doux, adaptés au nettoyage de pipettes et lames porte-objets, résistants aux produits chimiques, neutres chimiquement, 100 % cellulose vierge et antistatiques. Dimensions 200 x 210 mm mm. Boîte de 200 chiffons.",
+      "variant_name_fr": "Boîte de 200 chiffons",
+      "price_eur": 6.95,
+      "specs_fr": {
+        "Dimensions": "200 x 210 mm",
+        "Pack": "Boîte de 200 chiffons"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/261384_20260626122002/humeau.com-lingettes-de-laboratoire-2-plis-d-200x210mm-boite-x200-261384-261384-30.jpg"
+    },
+    {
+      "sku": "260632",
+      "slug": "lingettes-de-laboratoire-2-plis-220x210-mm-lingettes-220x210",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lingettes de laboratoire 2 plis, 220X210 mm",
+      "description_fr": "Chiffons d'essuyage KIMBERLY CLARK à 2 épaisseurs, en tissu spécial pour les applications de laboratoire. Très absorbants et doux, adaptés au nettoyage de pipettes et lames porte-objets, résistants aux produits chimiques, neutres chimiquement, 100 % cellulose vierge et antistatiques. Dimensions 220X210 mm. 30 boites de 150.",
+      "variant_name_fr": "30 boites de 150",
+      "price_eur": 80,
+      "specs_fr": {
+        "Dimensions": "220X210",
+        "Pack": "30 boites de 150",
+        "Poids net": "6.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001715_20250401153104/humeau.com-lingettes-de-laboratoire-2-plis-en-papier-30-boites-x150-260632-260632-30.jpg"
+    },
+    {
+      "sku": "250061",
+      "slug": "papier-d-essuyage-optique-9-5-x-13-5-cm-optique-manille-9-5-x-13-5-cm",
+      "brand": "HUMEAU",
+      "name_fr": "Papier d'essuyage optique, 9.5 x 13.5 cm",
+      "description_fr": "Papier d'essuyage optique pour lentilles optiques, composé à 100 % de fibres de Manille, non abrasif et non pelucheux. Utilisé pour le nettoyage des lentilles (objectifs, microscopes, jumelles), des lunettes et des fibres optiques. Dimensions 9.5 x 13.5 cm, conditionnement 25 livrets.",
+      "variant_name_fr": "25 livrets",
+      "price_eur": 3.4,
+      "specs_fr": {
+        "Conditionnement": "25 livrets",
+        "Dimensions": "9.5 x 13.5 cm",
+        "Matière": "Fibre de manille",
+        "Grade": "OP12",
+        "Grammage": "12 g/m2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/6/66400091302_20251031122003/humeau.com-papier-d-essuyage-optique-95x135mm-pack-de-25-250061-250061-30.jpg"
+    },
+    {
+      "sku": "243750",
+      "slug": "papier-d-essuyage-pure-ouate-21-5-x-25-cm-pure-ouate-21-5-x-25-cm",
+      "brand": "HUMEAU",
+      "name_fr": "Papier d'essuyage pure ouate, 21,5 x 25 cm",
+      "description_fr": "Papier d'essuyage HUMEAU 100 % pure cellulose (19 g/m²), qualité optique et alimentaire, blanc, gaufré, sans liant. Présenté en pack de rouleaux de feuilles pré-découpées, dimensions 21,5 x 25 cm. Adapté à l'essuyage divers en laboratoire.",
+      "variant_name_fr": "21,5 x 25 cm",
+      "price_eur": 143.1,
+      "specs_fr": {
+        "Dimensions": "21,5 x 25 cm",
+        "Poids net": "1.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/0/50100253502_20251031122003/humeau.com-papier-d-essuyage-pure-ouate-21-5x25cm-500-feuilles-pack-6-243750-243750-30.jpg"
+    },
+    {
+      "sku": "260760",
+      "slug": "papier-de-nettoyage-optique-80-x-100-mm-mm-nettoyage-optique-80-x-100-mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier de nettoyage optique, 80 x 100 mm mm",
+      "description_fr": "Papier de soie fin LABSOLUTE pour le nettoyage des lentilles et surfaces optiques. Dimensions 80 x 100 mm mm, conditionnement par 50.",
+      "variant_name_fr": "50",
+      "price_eur": 8.65,
+      "specs_fr": {
+        "Conditionnement": "50",
+        "Dimensions": "80 x 100 mm",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001843_20250320155101/humeau.com-papier-de-nettoyage-optique-80x100mm-par-50-260760-260760-30.jpg"
+    },
+    {
+      "sku": "260761",
+      "slug": "papier-de-pesee-95-x-110-mm-pesee-95-110",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier de pesée, 95 x 110 mm",
+      "description_fr": "Papier de pesée LABSOLUTE à surface lisse garantissant une bonne récupération des échantillons. Grammage 45g/m², dimensions 95 x 110 mm. Conditionnement par 250 feuilles.",
+      "variant_name_fr": "250 feuilles",
+      "price_eur": 22.8,
+      "specs_fr": {
+        "Conditionnement": "250",
+        "Grammage": "45g/m²",
+        "Longueur (mm)": "110",
+        "Largeur (mm)": "95"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001844_20230109102102/humeau.com-papier-de-pesee-45g-m2-ep-0-06mm-95x110mm-x250-82710001844-260761-30.jpg"
+    },
+    {
+      "sku": "260762",
+      "slug": "papier-de-protection-de-surfaces-double-couche-460-x-570-mm-protection-surface-460-570",
+      "brand": "LABSOLUTE",
+      "name_fr": "Papier de protection de surfaces double couche, 460 x 570 mm",
+      "description_fr": "Protecteur de surface LABSOLUTE à double couche, destiné à protéger les plans de travail contre les produits chimiques et substances corrosives ou toxiques. Couche supérieure 100 % cellulose très absorbante, couche inférieure en polyéthylène résistante à la déchirure et empêchant l'infiltration des liquides. Grammage 125g/m², dimensions 460 x 570 mm.",
+      "variant_name_fr": "460 x 570 mm",
+      "price_eur": 103,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Matière": "Cellulose/Polyéthylène (PE)",
+        "Epaisseur": "0,24",
+        "Grammage": "125g/m²",
+        "Longueur (mm)": "570",
+        "Largeur (mm)": "460",
+        "Poids net": "3.385 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001845_20230109102102/humeau.com-papier-de-protection-de-surfaces-125g-m2-46x57cm-x100-82710001845-260762-30.jpg"
+    },
+    {
+      "sku": "215751",
+      "slug": "papier-essuyage-optique-n-105-pack-25-carnet-de-25-feuilles-215751",
+      "brand": "WHATMAN",
+      "name_fr": "papier essuyage optique n' 105 PACK 25 carnet DE 25 feuilles",
+      "description_fr": "Papier d'essuyage optique WHATMAN. Papier de haute qualité pour le nettoyage des surfaces otiques et lentilles en verre, en plastique ou en quartz.Sans agent chimique, silicone ou additifs particuliers.Très résistant, ne laisse aucune trace, absorbe l'humidité de surface et les graisses.Livré en pack de 25 carnets de 25 feuilles.",
+      "variant_name_fr": "Standard",
+      "price_eur": 532,
+      "specs_fr": {
+        "Conditionnement": "25 feuilles",
+        "Dimensions": "L 150 x l 100 mm",
+        "Pack": "25 carnets",
+        "Poids net": "0.489 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17204366001_20250923122003/humeau.com-papier-essuyage-optique-n-105-pack-25-carnet-de-25-feuilles-215751-215751-30.jpg"
+    },
+    {
+      "sku": "243856",
+      "slug": "papier-joseph-150-x-150-mm-mm-joseph-150-x-150-mm",
+      "brand": "ATL",
+      "name_fr": "Papier Joseph, 150 x 150 mm mm",
+      "description_fr": "Papier Joseph ATL en cellulose de coton, non pelucheux et très absorbant, idéal pour l'essuyage de la verrerie de laboratoire (tubes à essai, ampoules, ballons). Dimensions 150 x 150 mm mm, conditionnement Pack de 200 feuilles.",
+      "variant_name_fr": "Pack de 200 feuilles",
+      "price_eur": 5.4,
+      "specs_fr": {
+        "Conditionnement": "Pack de 200 feuilles",
+        "Dimensions": "150 x 150 mm",
+        "Poids net": "0.16 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/0/50115015002_20251229083101/humeau.com-papier-joseph-15x15cm-200-feuilles-243856-243856-30.jpg"
+    },
+    {
+      "sku": "204566",
+      "slug": "papier-joseph-l-36-x-l-50-mm-mm-joseph-l-36-x-l-50-mm",
+      "brand": "ATL",
+      "name_fr": "Papier Joseph, l 36 x L 50 mm mm",
+      "description_fr": "Papier Joseph ATL en cellulose de coton, non pelucheux et très absorbant, idéal pour l'essuyage de la verrerie de laboratoire (tubes à essai, ampoules, ballons). Dimensions l 36 x L 50 mm mm, conditionnement 500.",
+      "variant_name_fr": "500",
+      "price_eur": 36.8,
+      "specs_fr": {
+        "Dimensions": "l 36 x L 50 mm",
+        "Pack": "500",
+        "Poids net": "2.48 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/5/0/50115015002_20251031122003/humeau.com-papier-joseph-35x50cm-500-feuilles-204566-204566-30.jpg"
+    },
+    {
+      "sku": "279173",
+      "slug": "rouleau-d-essuie-mains-double-couche-279173",
+      "brand": "LABSOLUTE",
+      "name_fr": "Rouleau d'essuie-mains double couche",
+      "description_fr": "Rouleau d'essuie-mains LABSOLUTE double couche (2 x 20 g/m²), en 100 % pure cellulose, doux au toucher et résistant à la déchirure même mouillé. Bonne capacité d'absorption pour l'élimination rapide des liquides et salissures. Conditionné sous film protecteur.",
+      "variant_name_fr": "4 rouleaux de 64 feuilles",
+      "price_eur": 10.2,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279173_20251107095101/humeau.com-rouleau-d-essuie-mains-double-couche-4-rouleaux-de-64-feuilles-279173-279173-30.jpg"
+    },
+    {
+      "sku": "255132",
+      "slug": "support-inox-pour-boite-de-lingettes-255132",
+      "brand": "HUMEAU",
+      "name_fr": "Support inox pour boîte de lingettes",
+      "description_fr": "Support en acier inoxydable conçu pour recevoir une boîte de 200 lingettes de 200 x 200 mm, facilitant l'accès et la distribution sur le poste de travail.",
+      "variant_name_fr": "200x200 mm",
+      "price_eur": 53,
+      "specs_fr": {
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/8/78300600000_20240812162104/humeau.com-support-inox-pour-boite-de-200-lingettes-de-200-x-200-mm-255132-255132-30.jpg"
+    }
+  ]
+}

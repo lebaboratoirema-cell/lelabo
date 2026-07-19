@@ -1,0 +1,115 @@
+{
+  "category": {
+    "slug": "extracteur-soxhlet",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Extracteurs Soxhlet" },
+    "description": {
+      "fr": "Extracteurs Soxhlet en verre borosilicaté et pièces de rodage associées (élargisseurs, réducteurs, tubes supérieurs) pour l'extraction par siphonnage répété de composants solubles à partir d'un solide."
+    }
+  },
+  "products": [
+    {
+      "sku": "274154",
+      "slug": "elargisseur-verre-rodage-29-32-24-29",
+      "brand": "HUMEAU",
+      "name_fr": "Élargisseur en verre, rodage femelle 29/32 — rodage mâle 24/29",
+      "description_fr": "Pièce de raccordement en verre permettant d'adapter un rodage mâle 24/29 sur un rodage femelle 29/32. Utile pour assembler des éléments de montage Soxhlet ou de distillation de tailles de rodage différentes.",
+      "variant_name_fr": "29/32 — 24/29",
+      "price_eur": 35.40,
+      "specs_fr": {
+        "Rodage femelle": "29/32",
+        "Rodage mâle": "24/29"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/274154_20260121163102/humeau.com-elargisseur-en-verre-rodage-femelle-29-32-rodage-male-24-29-274154-274154-30.jpg"
+    },
+    {
+      "sku": "220871",
+      "slug": "extracteur-soxhlet-glassco-500ml-40-46-29-32",
+      "brand": "GLASSCO",
+      "name_fr": "Extracteur Soxhlet complet, type Dimroth, 500 mL, CN 40/46 — 29/32",
+      "description_fr": "Extracteur Soxhlet complet de type Dimroth en verre borosilicaté 3.3, d'une capacité d'extraction de 500 mL et associé à un ballon réservoir de 1 000 mL. Rodages 40/46 (femelle) et 29/32 (mâle) pour l'extraction par siphonnage répété de composés solubles à partir d'un échantillon solide.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 290.70,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Capacité (mL)": "500",
+        "Capacité flacon réservoir (mL)": "1000",
+        "Rodage femelle": "40/46",
+        "Rodage mâle": "29/32"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19707102021_20220505201050/humeau.com-extracteur-soxhlet-complet-glassco-500ml-cn40-46-29-32-19707102021-220871-30.jpg"
+    },
+    {
+      "sku": "205729",
+      "slug": "extracteur-soxhlet-pyrex-100ml-24-29-40-38",
+      "brand": "PYREX",
+      "name_fr": "Extracteur Soxhlet Pyrex, 100 mL, CN 24/29 — 40/38",
+      "description_fr": "Extracteur Soxhlet Quickfit conforme à la norme BS 2071, destiné à extraire des composants solubles ou des impuretés d'un solide par trempage et siphonnage répété avec un solvant. Rodage mâle 24/29 et rodage femelle 40/38, avec un volume de siphonnage de 100 mL et une taille de cartouche filtrante recommandée de 33 x 100 mm. Tube de siphon concentrique conçu pour un fonctionnement fiable.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 242.80,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "100",
+        "Marque": "Pyrex"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06707442200_20240612140101/humeau.com-extracteur-soxhlet-pyrex-100ml-cn24-29-40-38-205729-205729-30.jpg"
+    },
+    {
+      "sku": "205728",
+      "slug": "extracteur-soxhlet-pyrex-60ml-34-35-24-29",
+      "brand": "PYREX",
+      "name_fr": "Extracteur Soxhlet Pyrex, 60 mL, CN 34/35 — 24/29",
+      "description_fr": "Extracteur Soxhlet Quickfit conforme à la norme BS 2071, destiné à extraire des composants solubles ou des impuretés d'un solide par trempage et siphonnage répété avec un solvant. Rodage mâle 24/29 et rodage femelle 34/35, hauteur de 205 mm, volume de siphonnage de 60 mL et taille de cartouche filtrante recommandée de 28 x 80 mm.",
+      "variant_name_fr": "60 mL",
+      "price_eur": 243.80,
+      "specs_fr": {
+        "Hauteur (mm)": "205",
+        "Rodage mâle et femelle CN": "24/29 et 34/35",
+        "Marque": "Pyrex"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06707442100_20220505195556/humeau.com-extracteur-soxhlet-pyrex-60ml-cn34-35-24-29-06707442100-205728-30.jpg"
+    },
+    {
+      "sku": "200809",
+      "slug": "reducteur-verre-rodage-24-29-50-42",
+      "brand": "HUMEAU",
+      "name_fr": "Réducteur en verre, rodage femelle 24/29 — rodage mâle 50/42",
+      "description_fr": "Pièce de raccordement en verre permettant d'adapter un rodage mâle 50/42 sur un rodage femelle 24/29, pour relier des éléments de montage de tailles de rodage différentes.",
+      "variant_name_fr": "24/29 — 50/42",
+      "price_eur": 63.90,
+      "specs_fr": {
+        "Rodage femelle": "24/29",
+        "Rodage mâle": "50/42"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/200809_20260108163104/humeau.com-reducteur-en-verre-rodage-femelle-24-29-rodage-male-50-42-200809-200809-30.jpg"
+    },
+    {
+      "sku": "200808",
+      "slug": "reducteur-verre-rodage-29-32-50-42",
+      "brand": "HUMEAU",
+      "name_fr": "Réducteur en verre, rodage femelle 29/32 — mâle 50/42",
+      "description_fr": "Pièce de raccordement en verre permettant d'adapter un rodage mâle 50/42 sur un rodage femelle 29/32, pour relier des éléments de montage de tailles de rodage différentes.",
+      "variant_name_fr": "29/32 — 50/42",
+      "price_eur": 73.20,
+      "specs_fr": {
+        "Rodage femelle": "29/32",
+        "Rodage mâle": "50/42"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/200808_20260121163102/humeau.com-reducteur-en-verre-rodage-femelle-29-32-male-50-42-200808-200808-30.jpg"
+    },
+    {
+      "sku": "234878",
+      "slug": "tube-superieur-extracteur-soxhlet-150ml-29-32-45-40",
+      "brand": "LENZ",
+      "name_fr": "Tube supérieur pour extracteur Soxhlet, 150 mL, CN 29/32 — 45/40",
+      "description_fr": "Tube supérieur de rechange pour extracteur Soxhlet, d'une capacité de 150 mL, avec rodages 29/32 et 45/40. Pièce détachée destinée au remplacement du corps d'extraction sur un montage Soxhlet existant.",
+      "variant_name_fr": "150 mL",
+      "price_eur": 112.60,
+      "specs_fr": {
+        "Marque": "Lenz",
+        "Ancienne référence": "244.053951.43"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24405395143_20260324160102/humeau.com-tube-superieur-pour-extracteur-soxhlet-150ml-cn29-32-45-40-234878-234878-30.jpg"
+    }
+  ]
+}

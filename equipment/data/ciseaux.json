@@ -1,0 +1,257 @@
+{
+  "category": {
+    "slug": "ciseaux",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Ciseaux de laboratoire" },
+    "description": {
+      "fr": "Ciseaux de laboratoire en acier inoxydable, à lames droites ou arrondies, pour la coupe de tissus, papiers et matériaux divers en environnement de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "217518",
+      "slug": "ciseaux-labo-lames-droites-oeillets-plastifies-200mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire à lames droites, œillets plastifiés, 200 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable à œillets plastifiés, munis d'une lame pointue et d'une lame ronde. Longueur totale de 200 mm avec tige de 100 mm.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 18.18,
+      "specs_fr": {
+        "Longueur de la tige": "100 mm",
+        "Longueur": "200 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.51 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100187022_20231208163102/humeau.com-ciseaux-de-labo-lames-droites-oeillets-plastifies-l-200mm-217518-217518-30.jpg"
+    },
+    {
+      "sku": "224045",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-100mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 100 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 100 mm, tige de 30 mm.",
+      "variant_name_fr": "100 mm",
+      "price_eur": 12.00,
+      "specs_fr": {
+        "Longueur de la tige": "30 mm",
+        "Longueur": "100 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.1 kg",
+        "Modèle": "4000"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000000_20231102144103/humeau.com-ciseaux-de-laboratoire-en-inox-l-100mm-bouts-rond-pointu-224045-224045-30.jpg"
+    },
+    {
+      "sku": "224046",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-115mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 115 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 115 mm, tige de 45 mm.",
+      "variant_name_fr": "115 mm",
+      "price_eur": 12.43,
+      "specs_fr": {
+        "Longueur de la tige": "45 mm",
+        "Longueur": "115 mm",
+        "Marque commerciale": "BOCHEM",
+        "Modèle": "4001"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000001_20240516111102/humeau.com-ciseaux-de-laboratoire-en-inox-l-115mm-bouts-rond-pointu-224046-224046-30.jpg"
+    },
+    {
+      "sku": "224047",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-130mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 130 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 130 mm, tige de 50 mm.",
+      "variant_name_fr": "130 mm",
+      "price_eur": 13.20,
+      "specs_fr": {
+        "Longueur de la tige": "50 mm",
+        "Longueur": "130 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.036 kg",
+        "Modèle": "4002"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000002_20231211134101/humeau.com-ciseaux-de-laboratoire-en-inox-l-130mm-bouts-rond-pointu-224047-224047-30.jpg"
+    },
+    {
+      "sku": "223912",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-145mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 145 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 145 mm, tige de 60 mm.",
+      "variant_name_fr": "145 mm",
+      "price_eur": 14.26,
+      "specs_fr": {
+        "Longueur de la tige": "60 mm",
+        "Longueur": "145 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.048 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200400300_20231211115101/humeau.com-ciseaux-de-laboratoire-en-inox-l-145mm-bouts-rond-pointu-223912-223912-30.jpg"
+    },
+    {
+      "sku": "223913",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-150mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 150 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 150 mm, tige de 60 mm.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 15.69,
+      "specs_fr": {
+        "Longueur de la tige": "60 mm",
+        "Longueur": "150 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200400400_20250623104102/humeau.com-ciseaux-de-laboratoire-en-inox-l-150mm-bouts-rond-pointu-223913-223913-30.jpg"
+    },
+    {
+      "sku": "223914",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-165mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 165 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 165 mm, tige de 70 mm.",
+      "variant_name_fr": "165 mm",
+      "price_eur": 16.72,
+      "specs_fr": {
+        "Longueur de la tige": "70 mm",
+        "Longueur": "165 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200400500_20231211115101/humeau.com-ciseaux-de-laboratoire-en-inox-l-165mm-bouts-rond-pointu-223914-223914-30.jpg"
+    },
+    {
+      "sku": "224048",
+      "slug": "ciseaux-labo-inox-bouts-rond-pointu-180mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, bouts rond-pointu, 180 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable comportant une lame pointue et une lame ronde. Longueur totale de 180 mm, tige de 80 mm.",
+      "variant_name_fr": "180 mm",
+      "price_eur": 18.18,
+      "specs_fr": {
+        "Longueur de la tige": "80 mm",
+        "Longueur": "180 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.1 kg",
+        "Modèle": "4006"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000003_20231211100102/humeau.com-ciseaux-de-laboratoire-en-inox-l-180mm-bouts-rond-pointu-224048-224048-30.jpg"
+    },
+    {
+      "sku": "221987",
+      "slug": "ciseaux-droits-inox-bouts-arrondis-140mm-lot-10",
+      "brand": "NAHITA",
+      "name_fr": "Ciseaux droits en inox à bouts arrondis type Metzenbaum, 140 mm — lot de 10",
+      "description_fr": "Ciseaux de laboratoire droits en acier inoxydable de type Metzenbaum, conçus pour couper des tissus délicats grâce à leurs deux lames rondes. Vendus par lot de 10.",
+      "variant_name_fr": "140 mm — lot de 10",
+      "price_eur": 24.40,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Acier inoxydable",
+        "Longueur": "140 mm",
+        "Marque commerciale": "NAHITA"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19750101300_20240516155105/humeau.com-ciseaux-droits-en-inox-bouts-arrondis-l-140mm-pack-de-10-221987-221987-30.jpg"
+    },
+    {
+      "sku": "223918",
+      "slug": "ciseaux-droits-fins-inox-140mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux droits fins en inox, bouts pointus, 140 mm",
+      "description_fr": "Ciseaux de laboratoire droits et fins, à bouts pointus, en acier inoxydable BOCHEM. Longueur totale de 140 mm.",
+      "variant_name_fr": "140 mm",
+      "price_eur": 8.56,
+      "specs_fr": {
+        "Longueur": "140 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200410400_20250725122001/humeau.com-ciseaux-droits-fins-en-inox-longueur-140mm-223918-223918-30.jpg"
+    },
+    {
+      "sku": "221986",
+      "slug": "ciseaux-droits-fins-inox-140mm-lot-10",
+      "brand": "NAHITA",
+      "name_fr": "Ciseaux droits fins en inox, bouts pointus, 140 mm — lot de 10",
+      "description_fr": "Ciseaux de laboratoire droits et fins en acier inoxydable, munis de deux lames pointues. Conditionnés par lot de 10.",
+      "variant_name_fr": "140 mm — lot de 10",
+      "price_eur": 35.70,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Longueur": "140 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "NAHITA"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19750100800_20240930094103/humeau.com-ciseaux-droits-fins-en-inox-longueur-140mm-pack-de-10-221986-221986-30.jpg"
+    },
+    {
+      "sku": "255323",
+      "slug": "ciseaux-inox-droit-bouts-arrondis-140mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux droits en inox à bouts arrondis type Metzenbaum, 140 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable de type Metzenbaum, conçus pour la coupe de tissus délicats grâce à leurs deux lames rondes.",
+      "variant_name_fr": "140 mm",
+      "price_eur": 8.56,
+      "specs_fr": {
+        "Longueur": "140 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80200505000_20231221130102/humeau.com-ciseaux-en-inox-droit-bouts-arrondis-l-140mm-255323-255323-30.jpg"
+    },
+    {
+      "sku": "223919",
+      "slug": "ciseaux-papier-inox-bouts-pointus-200mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux à papier en inox, bouts pointus, 200 mm",
+      "description_fr": "Ciseaux à papier à bouts pointus en acier inoxydable BOCHEM, d'une longueur totale de 200 mm.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 19.48,
+      "specs_fr": {
+        "Longueur": "200 mm",
+        "Marque commerciale": "BOCHEM",
+        "Poids brut": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200416100_20260105122002/humeau.com-ciseaux-inox-bouts-pointus-longueur-totale-200mm-223919-223919-30.jpg"
+    },
+    {
+      "sku": "223915",
+      "slug": "ciseaux-inox-oeillets-plastifies-pointu-rond-150mm",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux de laboratoire en inox, œillets plastifiés, bouts pointu/rond, 150 mm",
+      "description_fr": "Ciseaux de laboratoire en acier inoxydable à œillets plastifiés, comportant une lame pointue et une lame ronde. Longueur totale de 150 mm, tige de 70 mm.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 12.77,
+      "specs_fr": {
+        "Longueur de la tige": "70 mm",
+        "Longueur": "150 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200402100_20231213155102/humeau.com-ciseaux-inox-yeux-plastifies-pointu-rond-longueur-150mm-223915-223915-30.jpg"
+    },
+    {
+      "sku": "223916",
+      "slug": "ciseaux-microscopie-droits-pointu-pointu",
+      "brand": "BOCHEM",
+      "name_fr": "Ciseaux pour microscopie, droits, bouts pointu/pointu",
+      "description_fr": "Ciseaux de laboratoire droits destinés à la microscopie, en acier inoxydable, à bouts pointus. Longueur totale de 100 mm, tige de 25 mm.",
+      "price_eur": 7.82,
+      "specs_fr": {
+        "Longueur de la tige": "25 mm",
+        "Longueur": "100 mm",
+        "Matériaux": "Acier inoxydable",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200407000_20220505202054/humeau.com-ciseaux-pour-microscopie-droits-pointu-pointu-22200407000-223916-30.jpg"
+    }
+  ]
+}

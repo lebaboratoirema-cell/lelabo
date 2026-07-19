@@ -1,0 +1,259 @@
+{
+  "category": {
+    "slug": "verre-de-montre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Verres de montre"
+    },
+    "description": {
+      "fr": "Verres de montre et coupelles d'évaporation en verre borosilicaté, PTFE ou polypropylène, utilisés pour l'évaporation, la pesée de solides et comme couvercles de béchers en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "101034",
+      "slug": "verre-experience-epais-gradue-250ml-x6",
+      "brand": "ENDO",
+      "name_fr": "Verre à expérience épais gradué dans la masse, 250 mL — lot de 6",
+      "description_fr": "Coupelle de mesure en verre borosilicaté à paroi épaisse, avec graduations permanentes fondues dans la masse. Capacité de 250 mL, hauteur 145 mm, vendue en lot de 6.",
+      "variant_name_fr": "250 mL — lot de 6",
+      "price_eur": 362.6,
+      "specs_fr": {
+        "Capacité (ml)": "250 ml",
+        "Hauteur (mm)": "145 mm",
+        "Matériaux": "Verre borosilicaté",
+        "Marque commerciale": "ENDO",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/101034_20250428122011/humeau.com-verre-a-experience-epais-gradue-dans-la-masse-250ml-pack-x6-101034-101034-30.jpg"
+    },
+    {
+      "sku": "101032",
+      "slug": "verre-experience-epais-gradue-500ml",
+      "brand": "ENDO",
+      "name_fr": "Verre à expérience épais gradué dans la masse, 500 mL",
+      "description_fr": "Coupelle de mesure en verre à paroi épaisse, avec graduation permanente dans la masse, pour la mesure approximative et le transfert de liquide. Base large et stable, munie d'un bec verseur. Capacité de 500 mL, hauteur 190 mm.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 38.1,
+      "specs_fr": {
+        "Capacité (ml)": "500 mL",
+        "Hauteur (mm)": "190 mm",
+        "Marque commerciale": "ENDO",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/101032_20250428122011/humeau.com-verre-a-experience-epais-gradue-dans-la-masse-500ml-101032-101032-30.jpg"
+    },
+    {
+      "sku": "237890",
+      "slug": "verre-montre-diam125mm-bord-refondu-x10",
+      "brand": "DURAN",
+      "name_fr": "Verre de montre Ø 125 mm, bord refondu — lot de 10",
+      "description_fr": "Verre de montre en verre sodo-calcique Duran, diamètre 125 mm, bord rebrûlé conforme à la norme DIN 12341, autoclavable à 121 °C. Vendu en lot de 10.",
+      "variant_name_fr": "Ø 125 mm — lot de 10",
+      "price_eur": 86.7,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Diamètre (mm)": "125",
+        "Marque commerciale": "DURAN",
+        "Poids net": "0.53 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30623321529_20250922160103/humeau.com-verre-de-montre-diam-125mm-bord-refondu-pack-x10-237890-237890-30.jpg"
+    },
+    {
+      "sku": "223250",
+      "slug": "verre-montre-duran-d100mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Verre de montre Duran Ø 100 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Duran 3.3, diamètre 100 mm, bord rebrûlé conforme à la norme DIN 12341, autoclavable à 121 °C. Vendu en lot de 10.",
+      "variant_name_fr": "Ø 100 mm — lot de 10",
+      "price_eur": 250.6,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre borosilicaté 3.3",
+        "Diamètre (mm)": "100",
+        "Marque commerciale": "DURAN",
+        "Poids net": "0.347 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402131460_20220505202054/humeau.com-verre-de-montre-duran-d-100mm-pack-de-10-20402131460-223250-30.jpg"
+    },
+    {
+      "sku": "237770",
+      "slug": "verre-montre-duran-d150mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Verre de montre Duran Ø 150 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Duran 3.3, diamètre 150 mm, bord rebrûlé conforme à la norme DIN 12341, autoclavable à 121 °C. Vendu en lot de 10.",
+      "variant_name_fr": "Ø 150 mm — lot de 10",
+      "price_eur": 348.9,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre borosilicaté 3.3",
+        "Diamètre (mm)": "150",
+        "Marque commerciale": "DURAN",
+        "Poids net": "1.19 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30602132157_20220505203737/humeau.com-verre-de-montre-duran-d-150mm-pack-de-10-30602132157-237770-30.jpg"
+    },
+    {
+      "sku": "223251",
+      "slug": "verre-montre-duran-d50mm-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Verre de montre Duran Ø 50 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Duran 3.3, diamètre 50 mm, bord rebrûlé conforme à la norme DIN 12341, autoclavable à 121 °C. Vendu en lot de 10.",
+      "variant_name_fr": "Ø 50 mm — lot de 10",
+      "price_eur": 138.68,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre borosilicaté 3.3",
+        "Diamètre (mm)": "50",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402132132_20260115033003/humeau.com-verre-de-montre-duran-d-50mm-pack-de-10-20402132132-223251-30.jpg"
+    },
+    {
+      "sku": "101052",
+      "slug": "verre-montre-pp-diam60mm-base-moulee",
+      "brand": "KARTELL",
+      "name_fr": "Verre de montre en PP Ø 60 mm, base moulée, autoclavable",
+      "description_fr": "Verre de montre en polypropylène avec socle moulé, résistant à la stérilisation à la vapeur (121 °C) et autoclavable. Diamètre 60 mm.",
+      "variant_name_fr": "Ø 60 mm",
+      "price_eur": 3.5,
+      "specs_fr": {
+        "Diamètre (mm)": "60 mm",
+        "Pack": "1",
+        "Marque commerciale": "KARTELL",
+        "Poids net": "0.006 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/101052_20241121133101/humeau.com-verre-de-montre-en-pp-diam-60mm-base-moulee-autoclavable-101052-101052-30.jpg"
+    },
+    {
+      "sku": "218431",
+      "slug": "verre-montre-ptfe-d100mm",
+      "brand": "VWR",
+      "name_fr": "Verre de montre en PTFE Ø 100 mm — à l'unité",
+      "description_fr": "Verre de montre en PTFE offrant une excellente résistance chimique et une tenue en température de -200 à +280 °C. Sa surface exceptionnellement lisse limite les risques de contamination. Adapté à la couverture de béchers en PTFE lors d'opérations de décomposition ou d'évaporation, et utilisable comme coupelle d'évaporation. Diamètre 100 mm, livré à l'unité.",
+      "variant_name_fr": "Ø 100 mm",
+      "price_eur": 27.2,
+      "specs_fr": {
+        "Matière": "PTFE",
+        "Diamètre (mm)": "100 mm",
+        "Pack": "1",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218431_20260206170102/humeau.com-verre-de-montre-en-ptfe-d-100-mm-l-unite-18102160161-218431-30.jpg"
+    },
+    {
+      "sku": "218430",
+      "slug": "verre-montre-ptfe-d80mm",
+      "brand": "VWR",
+      "name_fr": "Verre de montre en PTFE Ø 80 mm — à l'unité",
+      "description_fr": "Verre de montre en PTFE offrant une très bonne résistance chimique et une thermorésistance de -200 à +280 °C, avec une surface très lisse limitant les risques de contamination. Diamètre 80 mm, livré à l'unité.",
+      "variant_name_fr": "Ø 80 mm",
+      "price_eur": 19.6,
+      "specs_fr": {
+        "Matière": "PTFE",
+        "Diamètre (mm)": "80 mm",
+        "Pack": "1",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218430_20230105094102/humeau.com-verre-de-montre-en-ptfe-d-80mm-l-unite-18102160160-218430-30.jpg"
+    },
+    {
+      "sku": "101050",
+      "slug": "verre-montre-boro-diam60mm-x10",
+      "brand": "VWR",
+      "name_fr": "Verre de montre en verre borosilicaté Ø 60 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté 3.3, très bonne résistance chimique et thermique, expansion thermique minimale limitant la casse sous variation de température. Autoclavable et stérilisable. Forme concave utilisable pour évaporer des liquides, retenir des solides lors de la pesée ou comme couvercle de récipient. Diamètre 60 mm, lot de 10.",
+      "variant_name_fr": "Ø 60 mm — lot de 10",
+      "price_eur": 55.7,
+      "specs_fr": {
+        "Diamètre (mm)": "60 mm",
+        "Pack": "x10",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.174 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/101050_20241121133101/humeau.com-verre-de-montre-en-verre-boro-diametre-60mm-pack-x10-101050-101050-30.jpg"
+    },
+    {
+      "sku": "205785",
+      "slug": "verre-montre-pyrex-d100mm-x10",
+      "brand": "PYREX",
+      "name_fr": "Verre de montre Pyrex Ø 100 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Pyrex résistant à la chaleur, aux bords rebrûlés pour réduire l'ébréchure et la casse. Utilisé pour l'évaporation d'échantillons ou comme couvercle sur des béchers chauffés — éviter les variations brusques de température. Diamètre 100 mm, lot de 10.",
+      "variant_name_fr": "Ø 100 mm — lot de 10",
+      "price_eur": 223.1,
+      "specs_fr": {
+        "Diamètre (mm)": "100",
+        "Pack": "10",
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.37 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06720106002_20230817161102/humeau.com-verre-de-montre-pyrex-d-100mm-pack-de-10-06720106002-205785-30.jpg"
+    },
+    {
+      "sku": "205852",
+      "slug": "verre-montre-pyrex-d150mm-x10",
+      "brand": "PYREX",
+      "name_fr": "Verre de montre Pyrex Ø 150 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Pyrex résistant à la chaleur, aux bords rebrûlés pour réduire l'ébréchure et la casse. Utilisé pour l'évaporation d'échantillons ou comme couvercle sur des béchers chauffés — éviter les variations brusques de température. Diamètre 150 mm, lot de 10.",
+      "variant_name_fr": "Ø 150 mm — lot de 10",
+      "price_eur": 391.4,
+      "specs_fr": {
+        "Diamètre (mm)": "150",
+        "Pack": "10",
+        "Marque commerciale": "PYREX",
+        "Poids net": "1.11 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06730106002_20230817161102/humeau.com-verre-de-montre-pyrex-d-150mm-pack-de-10-06730106002-205852-30.jpg"
+    },
+    {
+      "sku": "205482",
+      "slug": "verre-montre-pyrex-d80mm-x10",
+      "brand": "PYREX",
+      "name_fr": "Verre de montre Pyrex Ø 80 mm — lot de 10",
+      "description_fr": "Verre de montre en verre borosilicaté Pyrex conforme à la norme DIN 12341, idéal pour les travaux d'évaporation et comme couvercle sur des béchers chauffants. Bords polis au feu pour réduire l'écaillage et la casse — éviter les changements brusques de température. Diamètre 80 mm, lot de 10.",
+      "variant_name_fr": "Ø 80 mm — lot de 10",
+      "price_eur": 195.8,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Diamètre (mm)": "80",
+        "Marque commerciale": "PYREX",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700106002_20250402151101/humeau.com-verre-de-montre-pyrex-d-80mm-pack-de-10-205482-205482-30.jpg"
+    },
+    {
+      "sku": "272137",
+      "slug": "verre-montre-pyrex-d200mm-x10",
+      "brand": "PYREX",
+      "name_fr": "Verre de montre Pyrex Ø 200 mm — lot de 10",
+      "description_fr": "Coupelle en verre de montre Pyrex conforme à la norme DIN 12341, fabriquée en verre borosilicaté 3.3, résistante à la chaleur. Bords polis au feu pour réduire l'écaillage et la casse. Diamètre 200 mm, lot de 10.",
+      "variant_name_fr": "Ø 200 mm — lot de 10",
+      "price_eur": 479.4,
+      "specs_fr": {
+        "Diamètre (mm)": "200 mm",
+        "Pack": "10",
+        "Marque commerciale": "PYREX"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/272137_20230622130101/humeau.com-verre-de-montre-pyrex-diametre-180m-diametre-200mm-pack-x10-272137-272137-30.jpg"
+    },
+    {
+      "sku": "237889",
+      "slug": "verre-montre-sodocalcique-d90mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Verre de montre en verre sodo-calcique Ø 90 mm — lot de 10",
+      "description_fr": "Verre de montre en verre sodo-calcique Duran, diamètre 90 mm, bord rebrûlé conforme à la norme DIN 12341, autoclavable à 121 °C. Vendu en lot de 10.",
+      "variant_name_fr": "Ø 90 mm — lot de 10",
+      "price_eur": 52.4,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre sodo-calcique",
+        "Diamètre (mm)": "90",
+        "Marque commerciale": "DURAN",
+        "Poids net": "0.513 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30623321490_20250320151105/humeau.com-verre-de-montre-verre-sodocal-cique-d-90mm-pack-de-10-237889-237889-30.jpg"
+    }
+  ]
+}

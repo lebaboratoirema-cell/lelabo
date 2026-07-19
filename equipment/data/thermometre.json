@@ -1,0 +1,292 @@
+{
+  "category": {
+    "slug": "thermometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Thermomètres"
+    },
+    "description": {
+      "fr": "Thermomètres de laboratoire en verre, pastilles et bandelettes thermosensibles, ainsi que papiers indicateurs, pour le contrôle de température et de pH en laboratoire et en agroalimentaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "212835",
+      "slug": "papier-indicateur-acetate-plomb-merck-4-80m",
+      "brand": "MERCK",
+      "name_fr": "Papier indicateur acétate de plomb (II) Merck, rouleau 4,80 m",
+      "description_fr": "Papier indicateur imprégné d'acétate de plomb (II), utilisé pour la détection du sulfure et du sulfure d'hydrogène, en rouleau de 4,80 m.",
+      "variant_name_fr": "Rouleau 4,80 m",
+      "price_eur": 107,
+      "specs_fr": {
+        "Conditionnement": "1 rouleau de 4.80 m",
+        "Marque commerciale": "MERCK",
+        "Poids net": "0.096 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/4/14500951102_20220505200331/humeau.com-papier-indicateur-acetate-de-plomb-ii-merck-9511-4-80m-14500951102-212835-30.jpg"
+    },
+    {
+      "sku": "212861",
+      "slug": "papier-indicateur-ph-5-2-7-2-special-viandes-x100",
+      "brand": "MERCK",
+      "name_fr": "Papier indicateur pH 5,2-7,2 spécial viandes — pack de 100",
+      "description_fr": "Bandelettes indicatrices de pH MQuant conçues pour la mesure directe du pH dans la viande, sur une plage de 5,2 à 7,2 par pas de 0,4. La bandelette peut rester dans le milieu de mesure sans le contaminer ; la lecture se fait par comparaison visuelle avec l'échelle de couleur. Vendues en pack de 100 en boîte Safetyedge.",
+      "variant_name_fr": "pH 5,2-7,2 — pack de 100",
+      "price_eur": 33.7,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Divisions": "0,4",
+        "Plage / Gamme pH": "5,2 - 7,2",
+        "Marque commerciale": "MERCK",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/4/14500963202_20220505200331/humeau.com-papier-indicateur-ph-5-2-7-2-special-viandes-pack-100-14500963202-212861-30.jpg"
+    },
+    {
+      "sku": "214160",
+      "slug": "thermo-pastilles-121c-x50",
+      "brand": "TESTO",
+      "name_fr": "Thermo-pastilles autocollantes 121 °C — pack de 50",
+      "description_fr": "Pastilles thermosensibles autocollantes Testoterm pour contrôler qu'une température maximale de 121 °C n'a pas été dépassée. Elles changent de couleur en 2 à 3 secondes en cas de dépassement, avec une précision de ±1,5 °C. Vendues en cahier de 50 pastilles, à conserver de préférence au réfrigérateur (stockage jusqu'à 2 ans).",
+      "variant_name_fr": "121 °C — pack de 50",
+      "price_eur": 30,
+      "specs_fr": {
+        "Température de stockage": "max. +25 °C",
+        "Diamètre (mm)": "14",
+        "Stockage": "Réfrigérateur recommandé, transport max. +25 °C, jusqu'à 2 ans",
+        "Précision": "±1,5 °C",
+        "Marque commerciale": "TESTO",
+        "Poids net": "0.01 kg",
+        "Etendue de mesure Température": "+121 °C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15900191307_20260401113103/humeau.com-thermo-pastilles-121-c-pack-x50-214160-214160-30.jpg"
+    },
+    {
+      "sku": "204354",
+      "slug": "thermometre-mercure-maxima-10-150c-l220mm",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre à mercure maxima, -10/+150 °C, longueur 220 mm",
+      "description_fr": "Thermomètre de laboratoire type chimie, échelle -10 à +150 °C en 1 °C gravée sur plaque opale et protégée sous gaine de verre avec anneau de suspension. Modèle à obturateur type médical (thermomètre maxima) rempli au mercure, capillaire bleu. Utilisé pour le contrôle de température en autoclave.",
+      "variant_name_fr": "-10/+150 °C — L220 mm",
+      "price_eur": 111.1,
+      "specs_fr": {
+        "Dimensions": "220 mm",
+        "Echelle": "-10 à 150 °C",
+        "Longueur (mm)": "230",
+        "Dimension plongeant": "Ø 5/7 mm",
+        "Liquide": "Mercure",
+        "Gainé": "Oui",
+        "Anneau": "Oui",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/5/05700180063_20241106164101/humeau.com-thermometre-10-150-c-l220mm-a-mercure-maxima-sans-index-204354-204354-30.jpg"
+    },
+    {
+      "sku": "255375",
+      "slug": "thermometre-alcool-biotemp-10-250c-l405mm",
+      "brand": "ALLA",
+      "name_fr": "Thermomètre à alcool Biotemp écologique, -10/+250 °C, longueur 405 mm",
+      "description_fr": "Thermomètre écologique Biotemp en verre sodocalcique émaillé jaune, échelle -10 à +250 °C fondue dans le verre (indélébile, résistante aux agents chimiques hors acide fluorhydrique et soude chaude concentrée). Remplissage au liquide bleu organique, immersion de 76 mm, anneau/crochet plastique breveté, livré avec certificat de précision et de traçabilité dans un emballage individuel recyclable.",
+      "variant_name_fr": "-10/+250 °C — L405 mm",
+      "price_eur": 17.5,
+      "specs_fr": {
+        "Unité de mesure": "°C",
+        "Divisions": "1",
+        "Longueur (mm)": "405",
+        "Tolérance": "± 2",
+        "Amplitude": "-10 +250",
+        "Marque commerciale": "ALLA",
+        "Poids net": "0.05 kg",
+        "Modèle": "5122P250-qp"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/0/80202251900_20240402153103/humeau.com-thermometre-a-alcool-biotemp-10-250-c-en-1-c-l-405mm-255375-255375-30.jpg"
+    },
+    {
+      "sku": "214152",
+      "slug": "thermometre-ruban-testo-71-110c-x10",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre à ruban Testo, +71/+110 °C — cahier de 10",
+      "description_fr": "Bandelettes thermosensibles autocollantes Testoterm réagissant par changement de couleur irréversible lorsqu'une température de la plage +71 à +110 °C est dépassée (paliers à 71, 77, 82, 88, 93, 99, 104 et 110 °C). Utiles pour la surveillance de longue durée lors du transport, du stockage ou en laboratoire. Précision de ±1,5 °C, temps de réponse de 2 à 3 secondes, vendues en cahier de 10 bandelettes détachables.",
+      "variant_name_fr": "+71/+110 °C — cahier de 10",
+      "price_eur": 33,
+      "specs_fr": {
+        "Conditionnement": "cahier de 10",
+        "Dimensions": "50 x 18 mm",
+        "Température de stockage": "max. +25 °C",
+        "Stockage": "Réfrigérateur recommandé, transport max. +25 °C, jusqu'à 4 mois",
+        "Température d'utilisation": "+71 à +110 °C",
+        "Précision": "±1,5 °C",
+        "Temps de réponse": "2 à 3 secondes",
+        "Applications": "Bandelette autocollante pour surveillance de dépassement de température",
+        "Poids net": "0.008 kg",
+        "Etendue de mesure Température": "+71 à +110 °C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15900191202_20241028104104/humeau.com-thermometre-a-ruban-testo-pour-mesures-de-71-110c-par-10-214152-214152-30.jpg"
+    },
+    {
+      "sku": "200107",
+      "slug": "thermometre-vin-thermovin-0-30c-etui-x10",
+      "brand": "ALLA",
+      "name_fr": "Thermomètre à vin Thermovin, 0/+30 °C, en étui — lot de 10",
+      "description_fr": "Thermomètre Thermovin conçu pour la dégustation du vin, échelle de 0 à +30 °C, remplissage au liquide rouge, tête en forme de tonneau. Livré dans un étui mousse, en lot de 10 unités.",
+      "variant_name_fr": "0/+30 °C — lot de 10",
+      "price_eur": 84,
+      "specs_fr": {
+        "Pack": "Par 10",
+        "Amplitude": "0 +30°C",
+        "Marque commerciale": "ALLA",
+        "Modèle": "21900-05-et"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00502190000_20250122122001/humeau.com-thermometre-a-vin-0-30c-en-0-1-c-en-etui-pack-de-10-200107-200107-30.jpg"
+    },
+    {
+      "sku": "200081",
+      "slug": "thermometre-astm-alcool-20-102c-en-0-2c",
+      "brand": "ALLA",
+      "name_fr": "Thermomètre ASTM à alcool, -20/+102 °C, en 0,2 °C",
+      "description_fr": "Thermomètre normalisé ALLA USA ASTM E2251 en °C, à liquide bleu, longueur 440 mm, divisions de 0,2 °C, pour la mesure de température selon les protocoles normalisés ASTM.",
+      "variant_name_fr": "-20/+102 °C",
+      "price_eur": 252.8,
+      "specs_fr": {
+        "Divisions": "0,2 °",
+        "Longueur (mm)": "440",
+        "Amplitude": "-20 à + 102",
+        "Marque commerciale": "ALLA"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00500585012_20251121162101/humeau.com-thermometre-astm-12-c-a-alcool-20-102-c-en-0-2-c-200081-200081-30.jpg"
+    },
+    {
+      "sku": "219449",
+      "slug": "thermometre-flacon-friotemp-refrigerateur",
+      "brand": "VWR",
+      "name_fr": "Thermomètre en flacon Friotemp pour réfrigérateur, -2/+10 °C",
+      "description_fr": "Thermomètre de vérification pour réfrigérateur Frio-Temp, plage -2 à +10 °C, à insérer dans la bouteille remplie fournie qui imite l'échantillon — une lecture précise de la température est ainsi obtenue sans contaminer l'échantillon réel. Divisions de 0,1 °C, précision de ±0,2 °C, revêtement PFA contenant en toute sécurité le verre et le liquide en cas de bris.",
+      "variant_name_fr": "-2/+10 °C",
+      "price_eur": 147,
+      "specs_fr": {
+        "Divisions": "0.1°C",
+        "Longueur (mm)": "180",
+        "Pack": "1",
+        "Plage / Gamme de mesure": "-2/10°C",
+        "Précision": "±0.2°C",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.63 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219449_20250226164101/humeau.com-thermometre-en-flacon-friotemp-pour-refrigerateur-2-10-c-219449-219449-30.jpg"
+    },
+    {
+      "sku": "200074",
+      "slug": "thermometre-verre-sans-mercure-20-110-l305mm-certificat",
+      "brand": "ALLA",
+      "name_fr": "Thermomètre en verre sans mercure, -20/+110 °C, longueur 305 mm, avec certificat",
+      "description_fr": "Thermomètre en verre sans mercure équivalent ISO 1770, échelle -20 à +110 °C en 1 °C, liquide bleu, précision ±0,5. Ligne d'immersion imprimée et bague triangulaire moulée évitant que l'instrument ne roule sur la paillasse. Livré avec certificat d'étalonnage.",
+      "variant_name_fr": "-20/+110 °C — L305 mm + certificat",
+      "price_eur": 428.1,
+      "specs_fr": {
+        "Diamètre (mm)": "6.25 mm",
+        "Divisions": "1,0 °C",
+        "Longueur (mm)": "305 mm",
+        "Pack": "1",
+        "Plage / Gamme de mesure": "−20...+110 °C",
+        "Précision": "± 0.5",
+        "Marque commerciale": "ALLA",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/200074_20260122081102/humeau.com-thermometre-en-verre-20-110-en-1-c-long-305mm-certificat-200074-200074-30.jpg"
+    },
+    {
+      "sku": "224811",
+      "slug": "thermometre-fin-grave-tige-alcool-10-110c",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre fin gravé sur tige, à l'alcool, -10/+110 °C",
+      "description_fr": "Thermomètre de laboratoire à l'alcool rouge, échelle -10 à +110 °C en 1 °C, longueur 240 mm. Capillaire avec bande émail blanche, diamètre Ø 5/7 mm, muni d'un anneau, graduations indélébiles gravées sur la tige. Destiné à un usage général de laboratoire.",
+      "variant_name_fr": "-10/+110 °C",
+      "price_eur": 6.3,
+      "specs_fr": {
+        "Dimensions": "240 mm",
+        "Echelle": "-10 à 110 °C",
+        "Dimension plongeant": "Ø 5/7 x 240 mm",
+        "Liquide": "Alcool rouge",
+        "Gainé": "Non",
+        "Anneau": "Oui",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/23100110061_20240617093102/humeau.com-thermometre-fin-grave-sur-tige-alcool-10-110-c-224811-224811-30.jpg"
+    },
+    {
+      "sku": "224848",
+      "slug": "thermometre-fromager-angle-10-120-gaine-trapezoidale",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre fromager d'angle, -10/+120 °C, gaine trapézoïdale",
+      "description_fr": "Thermomètre fromager à l'alcool rouge, échelle 0 à 120 °C en 1 °C gravée sur tube capillaire prismatique. Le capillaire est monté dans une gaine trapézoïdale en polypropylène blanc de 300 x 17 x 21/28 mm, munie d'un orifice d'accrochage. Conçu pour un usage en fromagerie.",
+      "variant_name_fr": "-10/+120 °C",
+      "price_eur": 10.22,
+      "specs_fr": {
+        "Dimensions": "300 mm",
+        "Echelle": "0 à 120 °C",
+        "Liquide": "Alcool rouge",
+        "Gainé": "Oui",
+        "Anneau": "Oui",
+        "Poids net": "0.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/23100166060_20240314152103/humeau.com-thermometre-fromager-d-angle-10-120-gaine-trapezoidale-224848-224848-30.jpg"
+    },
+    {
+      "sku": "224845",
+      "slug": "thermometre-industriel-alcool-gaine-0-60c",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre industriel à alcool avec gaine, 0/+60 °C",
+      "description_fr": "Thermomètre industriel en verre à l'alcool rouge, échelle 0 à +60 °C en 1 °C, livré avec gaine et fermeture ronde sans anneau. Échelle imprimée sur plaque aluminium barytée blanche, graduations noires, longueur totale de 280 mm.",
+      "variant_name_fr": "0/+60 °C",
+      "price_eur": 8.47,
+      "specs_fr": {
+        "Dimensions": "280 mm",
+        "Echelle": "0 à 60 °C",
+        "Dimension plongeant": "Ø 8 x 80 mm",
+        "Liquide": "Alcool rouge",
+        "Gainé": "Oui",
+        "Anneau": "Non",
+        "Poids net": "0.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/23100150040_20240731095101/humeau.com-thermometre-industriel-alcool-avec-gaine-0-60-c-en-1-c-224845-224845-30.jpg"
+    },
+    {
+      "sku": "224849",
+      "slug": "thermometre-mural-plaque-plastique-30-60c-l40cm",
+      "brand": "HUMEAU",
+      "name_fr": "Thermomètre mural sur plaque plastique, -30/+60 °C, longueur 40 cm",
+      "description_fr": "Thermomètre mural à l'alcool rouge avec indicateurs de minima et maxima sur plaque plastique, échelle -30 à +60 °C en 1 °C, longueur 40 cm. Conçu pour le suivi de température en réfrigérateur et congélateur.",
+      "variant_name_fr": "-30/+60 °C — L40 cm",
+      "price_eur": 3.1,
+      "specs_fr": {
+        "Dimensions": "400 mm",
+        "Echelle": "-30 à 60 °C",
+        "Liquide": "Alcool rouge",
+        "Gainé": "Oui",
+        "Anneau": "Oui",
+        "Poids net": "0.09 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/224849_20250428122011/humeau.com-thermometre-mural-plaque-plas-tique-30-60-en-1-c-l-40cm-224849-224849-30.jpg"
+    },
+    {
+      "sku": "200152",
+      "slug": "thermometre-verre-gaine-10-120c-l350mm-x5",
+      "brand": "ALLA",
+      "name_fr": "Thermomètre en verre gainé, -10/+120 °C, longueur 350 mm — lot de 5",
+      "description_fr": "Thermomètre en verre à échelle interne, échelle -10 à +120 °C en 1 °C, muni d'une gaine de protection en polypropylène alimentaire blanche et stérilisable. Adapté aux usages charcuterie, lait et vin. Vendu en lot de 5.",
+      "variant_name_fr": "-10/+120 °C — lot de 5",
+      "price_eur": 72.7,
+      "specs_fr": {
+        "Unité de mesure": "°C",
+        "Divisions": "1",
+        "Longueur (mm)": "340",
+        "Amplitude": "-10 +120 °C",
+        "Applications": "charcuterie / lait / vin",
+        "Marque commerciale": "ALLA",
+        "Poids net": "0.335 kg",
+        "Modèle": "8010B120-vr"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/0/00508010120_20240808161101/humeau.com-thermometre-verre-avec-gaine-10-120-c-1-c-l-350mm-x5-200152-200152-30.jpg"
+    }
+  ]
+}

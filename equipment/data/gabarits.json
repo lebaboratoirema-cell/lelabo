@@ -1,0 +1,43 @@
+{
+  "category": {
+    "slug": "gabarits",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Gabarits"
+    },
+    "description": {
+      "fr": "Gabarits stériles à usage unique pour le prélèvement d'échantillons de surface, notamment en contrôle qualité et abattoirs."
+    }
+  },
+  "products": [
+    {
+      "sku": "253861",
+      "slug": "gabarit-plastique-sterile-10x10-cm-sous-sachet-de-5-x5-x260",
+      "brand": "HUMEAU",
+      "name_fr": "Gabarit plastique stérile 10x10 cm, sous sachet de 5",
+      "description_fr": "Gabarit stérile en PVC film blanc de 0,5 mm d'épaisseur, garanti contact alimentaire, assurant une surface constante de 100 cm² lors du prélèvement — utilisé notamment pour les contrôles de carcasses en abattoir. Stérilisé par ionisation gamma (dose ciblée de 15 kilograys), avec étiquette témoin et certificat de stérilisation joints, validité de 2 ans. Conditionnement : carton de 260 gabarits, soit 52 sachets de 5 gabarits.",
+      "variant_name_fr": "Sachets de 5 — carton de 260",
+      "price_eur": 382.7,
+      "specs_fr": {
+        "Conditionnement": "carton de 260 gabarits, soit 52 sachets de 5 gabarits",
+        "Dimensions": "carton: L 26 x l 21 x H 17 cm",
+        "Poids net": "2.48 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/253861_20250410152101/humeau.com-gabarit-plastique-sterile-d-10x10cm-s-s-5-pack-de-260-253861-253861-30.jpg"
+    },
+    {
+      "sku": "253862",
+      "slug": "gabarit-plastique-sterile-10x10-cm-sous-sachet-individuel-unitaire-x50",
+      "brand": "HUMEAU",
+      "name_fr": "Gabarit plastique stérile 10x10 cm, sous sachet individuel",
+      "description_fr": "Gabarit stérile en PVC film blanc de 0,5 mm d'épaisseur, garanti contact alimentaire, assurant une surface constante de 100 cm² lors du prélèvement — utilisé notamment pour les contrôles de carcasses en abattoir. Stérilisé par ionisation gamma (dose ciblée de 15 kilograys), avec étiquette témoin et certificat de stérilisation joints, validité de 2 ans. Conditionnement : carton de 50 pièces.",
+      "variant_name_fr": "Sachets individuels — carton de 50",
+      "price_eur": 111.2,
+      "specs_fr": {
+        "Conditionnement": "carton de 50 pièces",
+        "Poids net": "0.863 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/253862_20240820143101/humeau.com-gabarit-plastique-sterile-d-10x10cm-s-s-u-pack-de-50-253862-253862-30.jpg"
+    }
+  ]
+}

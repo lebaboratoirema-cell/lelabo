@@ -1,7 +1,7 @@
 # Project State
 
 **Status:** Active development — schema designed, migration ready to run
-**Last updated:** 2026-07-17
+**Last updated:** 2026-07-18
 
 ## Stack (locked)
 - **Framework:** Next.js 16.2.9 (App Router, TypeScript, Tailwind v4)
@@ -81,7 +81,7 @@
   - `src/app/[locale]/[family]/[subcategory]/page.tsx` × 3 — now also handles product slugs directly under parent
   - `src/components/ProductDetailPage.tsx` — server component: gallery, info, trust badges, tabs, related grid
   - `src/components/QuoteModal.tsx` — client island: modal overlay + quote form
-  - `src/app/actions/quote.ts` — `submitQuote` server action (MVP: console log)
+  - `src/app/actions/quote.ts` — `submitQuote` server action, wired to Airtable + Resend (2026-07-18, see below)
   - `src/lib/supabase/queries.ts` — added `getProductBySlug`, `getRelatedProducts`, re-exports `ProductWithVariants`
   - CSS: modal + product detail styles appended to `globals.css`
   - Cards in ProductGrid now link to product pages via `basePath` prop
@@ -161,6 +161,38 @@
 - `app/scripts/import-category.mjs` generalized to accept `price_eur` (rate 10.8, adjust before go-live) alongside existing `price_gbp` (rate 12.5).
 - **10 more humeau subcategories live (2026-07-18, batch 2)** — ampoule-a-decanter, ballon, entonnoirs, eprouvette, fiole, humeau-pipette (DB slug `pipettes-verre-graduees`), humeau-tube (DB slug `tubes-essai-centrifugation`), burette, bouchon, cuve-spectrophotometre. 150 products, all imported cleanly, no skips. FR copy written by 10 parallel subagents from raw scrape data (facts rewritten, not translated/copied from source). `humeau-pipette`/`humeau-tube` filenames avoid slug collisions with existing scientificlabs-sourced `pipettes.json`.
 - Next: 57 more humeau subcategories available if user wants to continue this source (becs, bille, bistouri, boite, bonbonne, butyrometre, chariot, cones, consistometre, creusets, cristallisoir-capsule, cuvette-bac-plateau, densimetre-areometre, dessiccateur, egouttoirs, essuyage-lingettes, flacon (+2 subs), fourniture-usage-general (+5 subs), gabarits, glaciere-accumulateur-de-froid, goupillon, jarre-anaerobie, lame-lamelle-microscopie (+1 sub), louche, manometre, montage-verrerie (+3 subs), mortier, panier, petit-materiel-d-agitation, pied-a-coulisse, pince, pissette, plateau, poids-de-calibration, portoir, seau, seringue, sonde-de-prelevement, spatule-cuillere, thermometre, vase-sabot-nacelle-pesee, verre-de-montre — see equipment/scrape_humeau_catalog.py docstring for usage).
+
+## Logo + devis form wired (2026-07-18)
+- **Site logo replaced** — `app/public/images/logo.jpeg` + `logo-real.jpeg` now the new hexagon-flask icon mark, cropped from user-supplied `LELABO_4K_3840x2880.webp` (Header.tsx and SiteFooter.tsx both reference the same file, no code changes needed).
+- **Devis (quote) form now actually delivers requests** — was `console.log` only, requests were lost. `submitQuote` (`app/src/app/actions/quote.ts`) now:
+  - Saves each request to Airtable, base `appwsIecObh127x8H` ("Untitled Base" workspace, account `lebaboratoire.ma@gmail.com`), table "Devis" (`tbll4YgGEmxJ45Tl4`) — fields: Nom, Email, Telephone, Produit, Variante, Message, Statut, Date.
+  - Sends an email notification via Resend to `lebaboratoire.ma@gmail.com`, sender `onboarding@resend.dev` (Resend's shared test domain — works now, but verify a real domain in Resend before high volume/production).
+  - Added pinned `resend@6.17.2` dependency.
+  - Keys live in `app/.env.local` only (`RESEND_API_KEY`, `AIRTABLE_API_KEY`, `AIRTABLE_BASE_ID`, `AIRTABLE_DEVIS_TABLE`, `DEVIS_NOTIFY_EMAIL`); `app/.env.example` updated with placeholders.
+  - Both integrations tested end-to-end live (test record written then deleted, test email sent) — confirmed working 2026-07-18.
+  - Note: an earlier Airtable base ("Leads", `appGCNnKpczLu3kV0`) turned out to belong to a *different* Airtable account than `lebaboratoire.ma@gmail.com` — abandoned, do not reuse.
+
+## Humeau.com full-catalog push — IN PROGRESS (2026-07-19)
+User asked to make all scraped humeau products live (chose "remaining 57/80 subcategories" scope over reactivating deactivated items or fixing sigma-aldrich image blockers).
+
+- **Scraped**: all 80 remaining humeau subcategories under petit-materiel-verrerie-plastique (11 were already live from 2026-07-18 pilot). Discovered 4 of the "68 subcategories" mentioned in the earlier note are actually parent/index pages with nested sub-subcategories (flacon: 8 subs, fourniture-usage-general: 14 subs, lame-lamelle-microscopie: 4 subs, montage-verrerie: 15 subs) — flattened these into their own leaf categories, all still under DB parent `verrerie`.
+- Raw scrape: 972 products written to `research/competitor-scrape-humeau/20260719-003453/products.json` (+ .csv). Images are 970/972 self-hosted on humeau.com (no sigma-aldrich-style blocker this time — good). Only 37 products have price=0 (on-application) across the whole set.
+- **FR copy writing**: dispatched 8 parallel subagents (10 subcategories each) to write `equipment/data/<slug>.json` from the raw scrape (rewritten French copy, not copied verbatim — copyright). **6 of 8 batches hit a Claude session-limit error mid-run** (resets 1am Africa/Casablanca) and only partially completed. Dispatched 3 replacement agents for the ~33 missing subcategories (retry batches A/B/C) — **status when this note was written: retry agents still running / not yet confirmed complete.**
+- **Full db_slug -> source_subcategory_slug mapping** (needed if any file is still missing or needs re-running) lives only in this conversation's tool calls, not written to disk anywhere — if resuming from scratch, re-derive by listing `equipment/data/*.json` against the 80-item list below and re-scraping/re-mapping only what's missing:
+  - Flat leaves (39): barometre-pluviometre-psychrometre, becs, bille, bistouri, boite, bonbonne, butyrometre, chariot, cones, consistometre, creusets, cristallisoir-capsule, cuvette-bac-plateau, densimetre-areometre, dessiccateur, egouttoirs, essuyage-lingettes, gabarits, glaciere-accumulateur-de-froid, goupillon, jarre-anaerobie, louche, manometre, mortier, panier, petit-materiel-d-agitation, pied-a-coulisse, pince, pissette, plateau, poids-de-calibration, portoir, seau, seringue, sonde-de-prelevement, spatule-cuillere, thermometre, vase-sabot-nacelle-pesee, verre-de-montre
+  - flacon/* -> flacon-aluminium, flacon-de-culture, flacon-laveur, flacon-mesureur-a-renversement, flacon-plastique, flacon-pulverisateur, flacon-pycnometre, flacon-verre
+  - fourniture-usage-general/* -> cahier-de-laboratoire, chronometre, ciseaux, coton, coupe-tube, couteau, crayon-de-laboratoire, etiquettes, loupe, minuterie, papier-d-emballage, papier-pour-imprimante, parafilm, piles
+  - lame-lamelle-microscopie/* -> accessoires-lame-lamelle, cellule-numeration-lame-lamelle, couvre-objet-lame-lamelle, porte-objet-lame-lamelle
+  - montage-verrerie/* -> allonge-montage-verrerie, anneau-de-lestage, collier-de-serrage, elevateur-de-laboratoire, extracteur-soxhlet, montage-verrerie-refrigerant, noix-de-serrage, raccord-plastique-montage-verrerie, raccord-verre-montage-verrerie, raccord-montage-verrerie (source slug is exactly `montage-verrerie/raccord`, must be exact-matched not substring-matched), robinet-montage-verrerie, support-statif-montage-verrerie, trompe-a-eau-montage-verrerie, tube-montage-verrerie, tuyau-montage-verrerie
+
+### DONE (2026-07-19) — full push completed
+1. Found 16/80 FR-copy files missing (checked against the mapping list) — re-scraped their raw data (source data was actually still intact in `research/competitor-scrape-humeau/20260719-003453/`, no need for the 2 extra scrape runs done first) and dispatched 3 parallel subagents to write the missing `equipment/data/<slug>.json` files. All 80 confirmed present/non-empty (2 use filenames `humeau-pipette.json`/`humeau-tube.json` per the earlier collision-avoidance note).
+2. Ran fetch-images + import sequentially for all 80 new slugs (`/tmp/run_humeau_pipeline.sh`, ~35 min). 620 products imported this run.
+3. **Final live counts confirmed via Supabase**: **1722 total products, 1699 active, 177 categories** (was 165 categories / ~455 products before this push).
+4. **16 products failed to import** — `products_slug_key` collisions (their generated slug already matches an existing product from an unrelated earlier category, e.g. generic names like "capsule à évaporation" or "pince" overlapping with prior scientificlabs.co.uk imports). SKUs: 200113, 205377, 207364, 215219, 218439, 219522, 219644, 219687, 219691, 220686, 221779, 257564, 259100, 259633, 260615, 261005 — spread one-per-category across cristallisoir-capsule, cuvette-bac-plateau, densimetre-areometre, goupillon, petit-materiel-d-agitation, pince, seau, flacon-aluminium/flacon-de-culture, crayon-de-laboratoire, etiquettes, cellule-numeration-lame-lamelle, couvre-objet-lame-lamelle, porte-objet-lame-lamelle, support-statif-montage-verrerie, tuyau-montage-verrerie, accessoires-lame-lamelle.
+   - **Not yet fixed.** `app/scripts/import-category.mjs`'s `getOrCreateCategory`/product-insert flow doesn't disambiguate slugs on collision (no `-2` suffix fallback). Follow-up: either give the 16 products a unique slug manually and re-run import, or add collision-retry logic to the import script.
+5. One data-quality flag from copywriting: SKU 241029 ("VACUOMETRE A POINÇON EN ACIER") was scraped under the `montage-verrerie/tuyau-pour-montage-verrerie` (tubing) subcategory on humeau.com but is actually a vacuum gauge — likely mis-tagged at the source. Currently imported under `tuyau-montage-verrerie`; consider moving to a more fitting category later.
+6. Spot-check of new product pages (images/specs/pricing) not yet done this session — recommended before considering this batch fully go-live-ready.
 
 ## Servilab.fr scrape attempt (2026-07-18) — blocked, dropped
 - User asked to scrape https://www.servilab.fr/catalogue/consommables

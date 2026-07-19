@@ -1,0 +1,75 @@
+{
+  "category": {
+    "slug": "raccord-verre-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Raccords en verre pour montage de verrerie" },
+    "description": {
+      "fr": "Raccords de réduction en verre borosilicaté permettant de connecter des rodages coniques normalisés de tailles différentes sur un montage de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "222151",
+      "slug": "raccord-reduction-glassco-24-29-29-32-lot10",
+      "brand": "GLASSCO",
+      "name_fr": "Raccord de réduction Glassco, rodage F24/29 — M29/32 — lot de 10",
+      "description_fr": "Raccord de réduction en verre borosilicaté GLASSCO, conforme aux normes ASTM E438 et DIN 12257, permettant de relier un rodage femelle 24/29 à un rodage mâle 29/32. Vendu en lot de 10.",
+      "variant_name_fr": "24/29 — 29/32 — lot de 10",
+      "price_eur": 95.90,
+      "specs_fr": {
+        "Rodage femelle": "24/29",
+        "Rodage mâle": "29/32",
+        "Marque": "Glassco"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19771320210_20220505202054/humeau.com-raccord-de-reduction-glassco-rodage-f-24-29-m-29-32-x10-19771320210-222151-30.jpg"
+    },
+    {
+      "sku": "203696",
+      "slug": "raccord-reduction-serie-longue-24-29-29-32-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord de réduction série longue, F24/29 — M29/32 — lot de 2",
+      "description_fr": "Raccord de réduction en verre Pyrex, utile pour connecter des rodages coniques normalisés de tailles différentes, avec un rodage femelle de petite taille en partie haute et un rodage mâle de taille supérieure en partie basse. Format 24/29 — 29/32, vendu en lot de 2.",
+      "variant_name_fr": "24/29 — 29/32 — lot de 2",
+      "price_eur": 103.80,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "Pyrex",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/4/04900003400_20220505195556/humeau.com-raccord-de-reduction-serie-longue-f24-29-m29-32-pack-2-04900003400-203696-30.jpg"
+    },
+    {
+      "sku": "205353",
+      "slug": "raccord-reduction-serie-longue-24-29-34-35-lot2",
+      "brand": "PYREX",
+      "name_fr": "Raccord de réduction série longue, F24/29 — M34/35 — lot de 2",
+      "description_fr": "Raccord de réduction en verre Pyrex, permettant de connecter un rodage femelle 24/29 à un rodage mâle 34/35, pour relier des éléments de montage de tailles de rodage différentes. Vendu en lot de 2.",
+      "variant_name_fr": "24/29 — 34/35 — lot de 2",
+      "price_eur": 136.90,
+      "specs_fr": {
+        "Conditionnement": "2",
+        "Rodage femelle": "24/29",
+        "Rodage mâle": "34/35",
+        "Marque": "Pyrex",
+        "Poids net": "0.114 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700003500_20220505195556/humeau.com-raccord-de-reduction-serie-longue-f24-29-m34-35-pack-x2-06700003500-205353-30.jpg"
+    },
+    {
+      "sku": "205356",
+      "slug": "raccord-reduction-serie-longue-24-29-45-40-lot5",
+      "brand": "PYREX",
+      "name_fr": "Raccord de réduction série longue, F24/29 — M45/40 — lot de 5",
+      "description_fr": "Raccord de réduction en verre Pyrex, permettant de connecter un rodage femelle 24/29 à un rodage mâle 45/40, pour relier des éléments de montage de tailles de rodage différentes. Vendu en lot de 5.",
+      "variant_name_fr": "24/29 — 45/40 — lot de 5",
+      "price_eur": 429.30,
+      "specs_fr": {
+        "Rodage femelle": "24/29",
+        "Rodage mâle": "45/40",
+        "Marque": "Pyrex",
+        "Poids net": "0.064 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700003700_20220505195556/humeau.com-raccord-de-reduction-serie-longue-f24-29-m45-40-pack-x5-06700003700-205356-30.jpg"
+    }
+  ]
+}

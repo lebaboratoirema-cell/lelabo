@@ -1,0 +1,296 @@
+{
+  "category": {
+    "slug": "portoir",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Portoirs" },
+    "description": {
+      "fr": "Portoirs en nylon ou polypropylène pour tubes à centrifuger, microtubes, tubes PCR et cryotubes, autoclavables et adaptés à l'utilisation en bain-marie."
+    }
+  },
+  "products": [
+    {
+      "sku": "260907",
+      "slug": "portoir-3x3-tubes-50ml-nylon-bleu",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 3x3 pour tubes de 50 mL, nylon bleu, 109 x 109 x 84 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 50 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "3x3 — bleu",
+      "price_eur": 14.56,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Couleur": "Bleu",
+        "Hauteur (mm)": "84",
+        "Largeur (mm)": "109",
+        "Profondeur (mm)": "109",
+        "Poids net": "0.1 kg",
+        "Nombre de trous": "3 x 3",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001990_20260504033001/humeau.com-portoir-pour-3x3-tubes-de-50ml-en-nylon-bleu-109x109x84mm-260907-260907-30.jpg"
+    },
+    {
+      "sku": "260912",
+      "slug": "portoir-3x8-tubes-50ml-nylon-bleu",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 3x8 pour tubes de 50 mL, nylon bleu, 283 x 83 x 83 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 50 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "3x8 — bleu",
+      "price_eur": 16.88,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Couleur": "Bleu",
+        "Hauteur (mm)": "83",
+        "Largeur (mm)": "283",
+        "Profondeur (mm)": "108",
+        "Poids net": "0.2 kg",
+        "Nombre de trous": "3 x 8",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/260912_20260504033001/humeau.com-portoir-pour-3x8-tubes-de-50ml-en-nylon-bleu-283x83x83mm-260912-260912-30.jpg"
+    },
+    {
+      "sku": "260916",
+      "slug": "portoir-3x8-tubes-50ml-nylon-jaune",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 3x8 pour tubes de 50 mL, nylon jaune, 280 x 83 x 83 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 50 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "3x8 — jaune",
+      "price_eur": 16.88,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Couleur": "Jaune",
+        "Hauteur (mm)": "83",
+        "Largeur (mm)": "283",
+        "Profondeur (mm)": "108",
+        "Poids net": "3.8 kg",
+        "Nombre de trous": "3 x 8",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/260916_20260504033001/humeau.com-portoir-pour-3x8-tubes-de-50ml-en-nylon-jaune-280x83x83mm-260916-260916-30.jpg"
+    },
+    {
+      "sku": "260914",
+      "slug": "portoir-3x8-tubes-50ml-nylon-rouge",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 3x8 pour tubes de 50 mL, nylon rouge, 283 x 83 x 83 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 50 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "3x8 — rouge",
+      "price_eur": 16.88,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Couleur": "Rouge",
+        "Hauteur (mm)": "83",
+        "Largeur (mm)": "283",
+        "Profondeur (mm)": "108",
+        "Nombre de trous": "3 x 8",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/260914_20260504033001/humeau.com-portoir-pour-3x8-tubes-de-50ml-en-nylon-rouge-283x83x83mm-82710001997-260914-30.jpg"
+    },
+    {
+      "sku": "260917",
+      "slug": "portoir-6x12-tubes-15ml-nylon-bleu",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 6x12 pour tubes de 15 mL, nylon bleu, 248 x 127 x 70 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 15 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "6x12 — bleu",
+      "price_eur": 16.88,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L.248 x P.127 x H.70 mm",
+        "Couleur": "Bleu",
+        "Nombre de trous": "6 x 12 tubes de 15 mL"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002000_20260504033001/humeau.com-portoir-pour-6x12-tubes-de-15-ml-en-nylon-bleu-248x127x70mm-260917-260917-30.jpg"
+    },
+    {
+      "sku": "260919",
+      "slug": "portoir-6x12-tubes-15ml-nylon-rouge",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 6x12 pour tubes de 15 mL, nylon rouge, 248 x 127 x 70 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 15 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "6x12 — rouge",
+      "price_eur": 16.88,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Rouge",
+        "Hauteur (mm)": "70",
+        "Largeur (mm)": "248",
+        "Profondeur (mm)": "127",
+        "Nombre de trous": "6 x 12",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/260919_20260504033001/humeau.com-portoir-pour-6x12-tubes-de-15-ml-en-nylon-rouge-248x127x70mm-82710002002-260919-30.jpg"
+    },
+    {
+      "sku": "260902",
+      "slug": "portoir-6x6-tubes-15ml-nylon-bleu",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir 6x6 pour tubes de 15 mL, nylon bleu, 126 x 126 x 56 mm",
+      "description_fr": "Portoir pour tubes à centrifuger de 15 mL, fabriqué en nylon renforcé moulé d'une seule pièce, avec zone d'étiquetage plate. Convient pour une utilisation en bain-marie et est autoclavable.",
+      "variant_name_fr": "6x6 — bleu",
+      "price_eur": 14.56,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Couleur": "Bleu",
+        "Hauteur (mm)": "58",
+        "Largeur (mm)": "126",
+        "Profondeur (mm)": "126",
+        "Nombre de trous": "6 x 6",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001985_20260504033001/humeau.com-portoir-pour-6x6-tubes-de-15ml-en-nylon-bleu-126x126x56mm-260902-260902-30.jpg"
+    },
+    {
+      "sku": "260922",
+      "slug": "portoir-80-microtubes-1-5-2ml-pp-colore-x5",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir pour 80 microtubes de 1,5/2 mL, PP coloré — lot de 5",
+      "description_fr": "Portoir en polypropylène, stable et autoclavable, accueillant jusqu'à 80 tubes de 1,5 mL et 2,0 mL (puits Ø 11 mm), avec marquage individuel des positions. Disponible en différentes couleurs. Dimensions 225 x 28 x 67 mm.",
+      "variant_name_fr": "80 puits — coloré — lot de 5",
+      "price_eur": 30.56,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Dimensions": "L.225 x P.67 x H.28 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu, jaune, vert, orange, rose",
+        "Nombre de postes": "80",
+        "Poids net": "0.84 kg",
+        "Compatibilité": "80 x 1,5/2,0 mL",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002005_20260504033001/humeau.com-portoir-pour-80-microtubes-de-1-5-2ml-en-pp-colore-x5-260922-260922-30.jpg"
+    },
+    {
+      "sku": "260927",
+      "slug": "portoir-80-microtubes-1-5-2ml-pp-jaune",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir pour 80 microtubes de 1,5/2 mL, PP jaune",
+      "description_fr": "Portoir en polypropylène, stable et autoclavable, accueillant jusqu'à 80 tubes de 1,5 mL et 2,0 mL (puits Ø 11 mm), avec marquage individuel des positions. Dimensions 225 x 28 x 67 mm.",
+      "variant_name_fr": "80 puits — jaune",
+      "price_eur": 7.68,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L.225 x P.67 x H.28 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Jaune",
+        "Nombre de postes": "80 x 1,5/2,0 mL",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002010_20260504033001/humeau.com-portoir-pour-80-microtubes-de-1-5-2ml-en-pp-jaune-260927-260927-30.jpg"
+    },
+    {
+      "sku": "260924",
+      "slug": "portoir-80-microtubes-1-5-2ml-pp-vert",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir pour 80 microtubes de 1,5/2 mL, PP vert",
+      "description_fr": "Portoir en polypropylène, stable et autoclavable, accueillant jusqu'à 80 tubes de 1,5 mL et 2,0 mL (puits Ø 11 mm), avec marquage individuel des positions. Dimensions 225 x 28 x 67 mm.",
+      "variant_name_fr": "80 puits — vert",
+      "price_eur": 7.68,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L.225 x P.67 x H.28 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Vert",
+        "Nombre de postes": "80 x 1,5/2,0 mL",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002007_20260504033001/humeau.com-portoir-pour-80-microtubes-de-1-5-2ml-en-pp-vert-82710002007-260924-30.jpg"
+    },
+    {
+      "sku": "260928",
+      "slug": "portoir-96-microtubes-0-2ml-pp-colore-x5",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir pour 96 microtubes de 0,2 mL, PP coloré — lot de 5",
+      "description_fr": "Portoir autoclavable en polypropylène convenant à la fois pour 96 tubes de 0,2 mL (puits Ø 5,2 mm) et pour des bandes de tubes PCR. Positions individuelles marquées par chiffres et lettres, couvercle à charnière amovible. Dimensions 130 x 33 x 98 mm, disponible en différentes couleurs.",
+      "variant_name_fr": "96 puits — coloré — lot de 5",
+      "price_eur": 46.16,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Dimensions": "130 x 33 x 98 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu, jaune, vert, orange, rose",
+        "Nombre de postes": "96 x 0,2 mL",
+        "Poids net": "0.39 kg",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002011_20260504033001/humeau.com-portoir-pour-96-microtubes-de-0-2ml-en-pp-5-colore-x5-260928-260928-30.jpg"
+    },
+    {
+      "sku": "260929",
+      "slug": "portoir-96-microtubes-0-2ml-pp-bleu",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir pour 96 microtubes de 0,2 mL, PP bleu",
+      "description_fr": "Portoir autoclavable en polypropylène convenant à la fois pour 96 tubes de 0,2 mL (puits Ø 5,2 mm) et pour des bandes de tubes PCR. Positions individuelles marquées par chiffres et lettres, couvercle à charnière amovible. Dimensions 130 x 33 x 98 mm.",
+      "variant_name_fr": "96 puits — bleu",
+      "price_eur": 11.52,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "130 x 33 x 98 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu",
+        "Nombre de postes": "96 x 0,2 mL",
+        "Poids net": "0.075 kg",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002012_20260504033001/humeau.com-portoir-pour-96-microtubes-de-0-2ml-en-pp-bleu-260929-260929-30.jpg"
+    },
+    {
+      "sku": "260932",
+      "slug": "portoir-universel-tubes-0-5-1-5-2-15-50ml-pp-colore-x5",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir universel pour tubes de 0,5/1,5/2/15/50 mL, PP coloré — lot de 5",
+      "description_fr": "Portoir universel en polypropylène autoclavable offrant de la place pour quatre tailles de tubes différentes : 4 tubes coniques de 50 mL, 12 tubes coniques de 15 mL, 32 tubes de 1,5/2,0 mL et 32 tubes de 0,5 mL. Munis de liens latéraux permettant d'assembler plusieurs portoirs. Dimensions 174 x 95 x 52 mm, disponible en différentes couleurs.",
+      "variant_name_fr": "Universel — coloré — lot de 5",
+      "price_eur": 41.12,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Dimensions": "L.174 x P.52 x H.95 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Bleu, jaune, vert, orange, rose",
+        "Poids net": "0.75 kg",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002015_20260504033001/humeau.com-portoir-pour-tubes-de-0-5-1-5-2-15-50ml-en-pp-colore-x5-260932-260932-30.jpg"
+    },
+    {
+      "sku": "260934",
+      "slug": "portoir-universel-tubes-0-5-1-5-2-15-50ml-pp-vert",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir universel pour tubes de 0,5/1,5/2/15/50 mL, PP vert",
+      "description_fr": "Portoir universel en polypropylène autoclavable offrant de la place pour quatre tailles de tubes différentes : 4 tubes coniques de 50 mL, 12 tubes coniques de 15 mL, 32 tubes de 1,5/2,0 mL et 32 tubes de 0,5 mL. Munis de liens latéraux permettant d'assembler plusieurs portoirs. Dimensions 174 x 95 x 52 mm.",
+      "variant_name_fr": "Universel — vert",
+      "price_eur": 8.80,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L.174 x P.52 x H.95 mm",
+        "Matière": "Polypropylène",
+        "Couleur": "Vert",
+        "Nombre de postes": "4 x 50 ml - 12 x 15 ml - 32 x 1,5/2,0 ml - 32 x 0,5 ml",
+        "Poids net": "0.152 kg",
+        "Autoclavable": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002017_20260504033001/humeau.com-portoir-pour-tubes-de-0-5-1-5-2-15-50ml-en-pp-vert-82710002017-260934-30.jpg"
+    },
+    {
+      "sku": "260939",
+      "slug": "portoir-40-cryotubes-rouge",
+      "brand": "LABSOLUTE",
+      "name_fr": "Portoir rouge pour 40 cryotubes, 215 x 100 x 25 mm",
+      "description_fr": "Portoir pour cryotubes permettant d'ouvrir et de fermer les tubes d'une seule main, limitant ainsi les risques de contamination. Doté de pieds en caoutchouc pour un maintien sûr. Dimensions 215 x 25 x 100 mm, disponible en trois couleurs.",
+      "variant_name_fr": "40 cryotubes — rouge",
+      "price_eur": 12.96,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "215x25x100 mm",
+        "Couleur": "Rouge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002022_20260504033001/humeau.com-portoir-rouge-pour-40-cryotubes-215x100x25mm-260939-260939-30.jpg"
+    }
+  ]
+}

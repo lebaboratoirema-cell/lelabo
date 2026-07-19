@@ -1,0 +1,241 @@
+{
+  "category": {
+    "slug": "panier",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Paniers et corbeilles" },
+    "description": {
+      "fr": "Paniers et corbeilles en fil inox ou en plastique pour le transport, le rangement et le traitement de tubes à essai, flacons et accessoires de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "247201",
+      "slug": "clayette-perforee-inox-igs750",
+      "brand": "THERMO",
+      "name_fr": "Clayette perforée en acier inox pour incubateur IGS750",
+      "description_fr": "Clayette en acier inoxydable perforé compatible avec les incubateurs Heratherm Advanced Protocol Security IMH750-S et General Protocol de 750 L, d'une profondeur de 49,8 cm.",
+      "variant_name_fr": "Pour IGS750",
+      "price_eur": 273.00,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/247201_20250428122011/humeau.com-clayette-perforee-en-acier-inox-pour-igs750-247201-247201-30.jpg"
+    },
+    {
+      "sku": "258084",
+      "slug": "corbeille-pipette-17l-burkle",
+      "brand": "BURKLE",
+      "name_fr": "Corbeille à pipettes 17 L Bürkle",
+      "description_fr": "Panier destiné au rinçage des pipettes, conçu pour s'insérer dans un récipient de nettoyage, d'une capacité de 17 L.",
+      "variant_name_fr": "17 L",
+      "price_eur": 67.10,
+      "specs_fr": {
+        "Volume": "17 L",
+        "Diamètre ext. corps": "145 mm",
+        "Hauteur (mm)": "280"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82196500653_20220505220233/humeau.com-corbeille-a-pipette-17l-burkle-82196500653-258084-30.jpg"
+    },
+    {
+      "sku": "214018",
+      "slug": "panier-carre-fil-inox-160mm",
+      "brand": "ATL",
+      "name_fr": "Panier carré en fil inox, 160 x 160 x 160 mm",
+      "description_fr": "Panier carré en fil inox muni d'une anse, destiné au transport et à la manipulation de tubes à essai.",
+      "variant_name_fr": "160 x 160 x 160 mm",
+      "price_eur": 126.70,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "L 161 x l 160 x h 160 mm",
+        "Poids net": "0.375 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15703122004_20240409150101/humeau.com-panier-carre-fil-inox-de-160x160x160mm-214018-214018-30.jpg"
+    },
+    {
+      "sku": "255543",
+      "slug": "panier-transport-pehd-378x240x114mm",
+      "brand": "NALGENE",
+      "name_fr": "Panier de transport en PEHD avec poignée, 378 x 240 x 114 mm",
+      "description_fr": "Panier de transport universel rigide en polyéthylène haute densité, muni d'une poignée robuste et de séparations centrales moulées. Dimensions hors tout (poignée incluse) de 378 x 241 x 114 mm, avec compartiment intérieur de 340 x 85 x 111 mm.",
+      "variant_name_fr": "378 x 240 x 114 mm",
+      "price_eur": 53.60,
+      "specs_fr": {
+        "Pack": "1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255543_20250307162101/humeau.com-panier-de-transport-en-pehd-avec-poignee-d-378x240x114mm-255543-255543-30.jpg"
+    },
+    {
+      "sku": "257753",
+      "slug": "panier-transport-pehd-8-flacons-95mm",
+      "brand": "BURKLE",
+      "name_fr": "Panier de transport en PEHD pour 8 flacons Ø 95 mm",
+      "description_fr": "Panier de transport en PEHD plein, formant deux bacs, destiné à recevoir jusqu'à 8 flacons ou bouteilles de diamètre 95 mm. Il permet de collecter d'éventuelles fuites de liquides pendant le transport.",
+      "variant_name_fr": "Pour 8 flacons Ø 95 mm",
+      "price_eur": 39.90,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polyéthylène haute densité (PEHD)",
+        "Couleur": "Gris",
+        "Dimensions extérieures H x L x P (mm)": "210 x 420 x 300",
+        "Poids net": "0.54 kg",
+        "Contact alimentaire": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000049_20231121173101/humeau.com-panier-de-transport-en-pehd-pour-8-flacons-d-95mm-257753-257753-30.jpg"
+    },
+    {
+      "sku": "255541",
+      "slug": "panier-transport-pp-378x241x114mm",
+      "brand": "NALGENE",
+      "name_fr": "Panier de transport en PP avec poignée, 378 x 241 x 114 mm",
+      "description_fr": "Panier de transport universel autoclavable, avec séparation centrale moulée, utile pour le transport d'une multitude d'articles de laboratoire. Dimensions hors tout de 378 x 241 x 114 mm, compartiment intérieur de 340 x 85 x 111 mm.",
+      "variant_name_fr": "378 x 241 x 114 mm",
+      "price_eur": 39.60,
+      "specs_fr": {
+        "Pack": "1",
+        "Poids net": "0.41 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255541_20231006163101/humeau.com-panier-de-transport-en-pp-avec-poignee-d-378x241x114mm-255541-255541-30.jpg"
+    },
+    {
+      "sku": "279992",
+      "slug": "panier-flacon-1000ml-powderproof",
+      "brand": "BURKLE",
+      "name_fr": "Panier pour flacon 1000 mL, système PowderProof",
+      "description_fr": "Accessoire du système PowderProof permettant de fixer directement un flacon d'échantillon de 1000 mL sur la lance d'échantillonnage. Sa construction robuste garantit une manipulation sûre et un montage facile sur l'unité d'entraînement, pour l'échantillonnage mobile de poudres et de granulés.",
+      "variant_name_fr": "1000 mL",
+      "price_eur": 188.70,
+      "specs_fr": {
+        "Hauteur (mm)": "310",
+        "Pack": "1",
+        "Poids net": "0.21 kg",
+        "Diamètre intérieur (mm)": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279992_20260107150101/humeau.com-panier-pour-flacon-1000ml-powderproof-279992-279992-30.jpg"
+    },
+    {
+      "sku": "279997",
+      "slug": "panier-flacon-500ml-vampire",
+      "brand": "BURKLE",
+      "name_fr": "Panier pour flacon 500 mL, préleveur Vampir",
+      "description_fr": "Accessoire pour le préleveur d'échantillons Vampir, destiné à recevoir des bouteilles d'échantillon de 500 mL (Ø 84 mm).",
+      "variant_name_fr": "500 mL",
+      "price_eur": 94.60,
+      "specs_fr": {
+        "Hauteur (mm)": "260",
+        "Pack": "1",
+        "Poids net": "0.134 kg",
+        "Diamètre intérieur (mm)": "84"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279997_20260107150101/humeau.com-panier-pour-flacon-500ml-vampire-279997-279997-30.jpg"
+    },
+    {
+      "sku": "224009",
+      "slug": "panier-rond-fil-inox-anse-210x180mm",
+      "brand": "BOCHEM",
+      "name_fr": "Panier rond en fil inox avec anse, 210 x 180 mm",
+      "description_fr": "Panier rond en fil d'acier inox 18/10 muni d'une anse, destiné aux tubes à essai. Mailles de 8 x 8 x 1 mm.",
+      "variant_name_fr": "210 x 180 mm",
+      "price_eur": 163.72,
+      "specs_fr": {
+        "Diamètre (mm)": "210",
+        "Hauteur (mm)": "180",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201005400_20260105110101/humeau.com-panier-rond-fil-inox-avec-anse-d-210x180mm-224009-224009-30.jpg"
+    },
+    {
+      "sku": "224010",
+      "slug": "panier-rond-fil-inox-300x200mm",
+      "brand": "BOCHEM",
+      "name_fr": "Panier rond en fil inox, 300 x 200 mm",
+      "description_fr": "Panier rond en fil d'acier inox 18/10 muni d'une anse, destiné aux tubes à essai. Mailles de 8 x 8 x 1 mm.",
+      "variant_name_fr": "300 x 200 mm",
+      "price_eur": 250.88,
+      "specs_fr": {
+        "Diamètre (mm)": "300",
+        "Hauteur (mm)": "200",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "0.75 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201005700_20240208140103/humeau.com-panier-rond-fil-inox-d-300x200mm-224010-224010-30.jpg"
+    },
+    {
+      "sku": "214010",
+      "slug": "panier-rond-fil-inox-tube-essai-160mm",
+      "brand": "ATL",
+      "name_fr": "Panier rond en fil inox pour tubes à essai, Ø 160 mm",
+      "description_fr": "Panier rond en fil inox muni d'une anse, destiné à la manipulation de tubes à essai.",
+      "variant_name_fr": "Ø 160 mm",
+      "price_eur": 65.40,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 160 x h 160 mm",
+        "Poids net": "0.331 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15703121216_20240408163102/humeau.com-panier-rond-fil-inox-pour-tube-a-essai-d-160mm-214010-214010-30.jpg"
+    },
+    {
+      "sku": "214011",
+      "slug": "panier-rond-fil-inox-tube-essai-180mm",
+      "brand": "ATL",
+      "name_fr": "Panier rond en fil inox pour tubes à essai, Ø 180 mm",
+      "description_fr": "Panier rond en fil inox muni d'une anse, destiné à la manipulation de tubes à essai.",
+      "variant_name_fr": "Ø 180 mm",
+      "price_eur": 79.50,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 180 x h 180 mm",
+        "Matière": "Inox",
+        "Poids net": "0.395 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15703121218_20240110163102/humeau.com-panier-rond-fil-inox-pour-tube-a-essai-d-180mm-214011-214011-30.jpg"
+    },
+    {
+      "sku": "214012",
+      "slug": "panier-rond-fil-inox-tube-essai-200mm",
+      "brand": "ATL",
+      "name_fr": "Panier rond en fil inox pour tubes à essai, Ø 200 mm",
+      "description_fr": "Panier rond en fil inox muni d'une anse, destiné à la manipulation de tubes à essai.",
+      "variant_name_fr": "Ø 200 mm",
+      "price_eur": 109.40,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 200 x h 200 mm",
+        "Matière": "Inox",
+        "Poids net": "0.57 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15703121220_20250206142101/humeau.com-panier-rond-fil-inox-pour-tube-a-essai-d-200mm-214012-214012-30.jpg"
+    },
+    {
+      "sku": "214013",
+      "slug": "panier-rond-fil-inox-tube-essai-250mm",
+      "brand": "ATL",
+      "name_fr": "Panier rond en fil inox pour tubes à essai, Ø 250 mm",
+      "description_fr": "Panier rond en fil inox muni d'une anse, destiné à la manipulation de tubes à essai.",
+      "variant_name_fr": "Ø 250 mm",
+      "price_eur": 169.90,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 250 x h 250 mm",
+        "Matière": "Inox",
+        "Poids net": "0.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15703121225_20260421115101/humeau.com-panier-rond-fil-inox-pour-tube-a-essai-d-250mm-214013-214013-30.jpg"
+    },
+    {
+      "sku": "218288",
+      "slug": "portoir-nalgene-orange-6x12",
+      "brand": "NALGENE",
+      "name_fr": "Portoir Nalgene orange 6x12 pour tubes à essai",
+      "description_fr": "Portoir pour tubes à essai en acétal, monobloc, sans arêtes vives ni coins. Ne flotte pas et peut être utilisé en bain-marie. Repérage alphanumérique des tubes, écriture possible sur les faces extérieures, autoclavable.",
+      "variant_name_fr": "6x12 — 200x102x57 mm",
+      "price_eur": 21.70,
+      "specs_fr": {
+        "Dimensions": "102 x 200 x 57 mm",
+        "Couleur": "Orange",
+        "Pack": "1",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218288_20251006150101/humeau.com-portoir-nalgene-orange-6x12-200x102x57-218288-218288-30.jpg"
+    }
+  ]
+}

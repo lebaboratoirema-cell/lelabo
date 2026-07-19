@@ -1,0 +1,260 @@
+{
+  "category": {
+    "slug": "boite",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Boîtes de rangement et de stérilisation"
+    },
+    "description": {
+      "fr": "Boîtes de Petri en verre, boîtes de stérilisation en aluminium, boîtes de rangement pour lames de microscopie, boîtes de stockage en polypropylène et cryoboîtes, pour le conditionnement et la conservation en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "213907",
+      "slug": "boite-instruments-aluminium-bleu-180x90x30",
+      "brand": "AGENCINOX",
+      "name_fr": "Boîte à instruments en aluminium bleu, 180 x 90 x 30 mm",
+      "description_fr": "Boîte de stérilisation rectangulaire en aluminium anodisé bleu. Sa surface lisse facilite le nettoyage et offre une bonne résistance chimique.",
+      "variant_name_fr": "180 x 90 x 30 mm — bleu",
+      "price_eur": 20.6,
+      "specs_fr": {
+        "Dimensions": "L.180 x P.90 x H.30 mm",
+        "Matière": "Aluminium anodisé",
+        "Couleur": "Bleu"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15600000008_20230817161102/humeau.com-boite-a-instruments-aluminium-bleu-rectangulaire-180x90x30mm-15600000008-213907-30.jpg"
+    },
+    {
+      "sku": "213902",
+      "slug": "boite-instruments-aluminium-215x100x50",
+      "brand": "AGENCINOX",
+      "name_fr": "Boîte à instruments en aluminium, 215 x 100 x 50 mm",
+      "description_fr": "Boîte de stérilisation rectangulaire en aluminium anodisé. Sa surface lisse facilite le nettoyage et offre une bonne résistance chimique.",
+      "variant_name_fr": "215 x 100 x 50 mm",
+      "price_eur": 23.9,
+      "specs_fr": {
+        "Dimensions": "L.210 x P.100 x H.50 mm",
+        "Matière": "Aluminium anodisé",
+        "Poids net": "0.22 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15600000003_20240320122003/humeau.com-boite-a-instruments-aluminium-rectangulaire-215x100x50mm-213902-213902-30.jpg"
+    },
+    {
+      "sku": "237673",
+      "slug": "boite-petri-verre-duroplan-150mm-x10",
+      "brand": "DURAN",
+      "name_fr": "Boîtes de Petri en verre Duroplan, Ø 150 mm — lot de 10",
+      "description_fr": "Boîtes de Petri en verre borosilicaté 3.3 de marque Duroplan, aux surfaces intérieures et extérieures parfaitement planes et sans bulles, assurant une distribution homogène du milieu de culture. Utilisées en biologie, en médecine et pour la mise en culture de micro-organismes.",
+      "variant_name_fr": "Ø 150 mm, H. 30 mm — lot de 10",
+      "price_eur": 479.5,
+      "specs_fr": {
+        "Conditionnement": "Par 10 pièces",
+        "Diamètre": "150 mm",
+        "Hauteur": "30 mm",
+        "Autoclavable": "121 °C"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000216_20230817161102/humeau.com-boite-de-petri-en-verre-duroplan-d-150mm-h-30mm-x10-30600000216-237673-30.jpg"
+    },
+    {
+      "sku": "204715",
+      "slug": "boite-petri-verre-pyrex-80mm-pack-10",
+      "brand": "PYREX",
+      "name_fr": "Boîtes de Petri en verre Pyrex, Ø 80 mm — lot de 10",
+      "description_fr": "Boîtes de Petri en verre Pyrex avec couvercle, à épaisseur de paroi uniforme.",
+      "variant_name_fr": "Ø 80 mm — lot de 10",
+      "price_eur": 287.0,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Verre borosilicaté",
+        "Diamètre": "74 mm",
+        "Hauteur": "20 mm",
+        "Poids net": "0.76 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000064_20250923112102/humeau.com-boite-de-petri-en-verre-pyrex-d-80mm-h-20mm-pack-10-204715-204715-30.jpg"
+    },
+    {
+      "sku": "259092",
+      "slug": "boite-petri-verre-sodocalcique-90x15",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de Petri en verre sodo-calcique, 90 x 15 mm",
+      "description_fr": "Boîte de Petri en verre sodo-calcique livrée en deux parties, autoclavable à 121 °C. Le diamètre intérieur et la hauteur se réfèrent à la partie inférieure, le diamètre extérieur à la partie supérieure.",
+      "variant_name_fr": "90 x 15 mm",
+      "price_eur": 2.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Diamètre extérieur (corps)": "90 mm",
+        "Hauteur": "15 mm",
+        "Diamètre intérieur": "84 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000175_20250226140101/humeau.com-boite-de-petri-en-verre-sodo-calcique-90x15mm-259092-259092-30.jpg"
+    },
+    {
+      "sku": "207343",
+      "slug": "boite-rangement-carton-cadre-bois-25-lames",
+      "brand": "KARL HECHT",
+      "name_fr": "Boîte de rangement en carton, cadre bois, pour 25 lames",
+      "description_fr": "Boîte de rangement pour la conservation des lames de microscopie, à couverture noire. Le couvercle et la partie inférieure sont reliés par de petites charnières métalliques. Cadres en matière plastique antistatique et résistante au xylène, à rainures numérotées, avec répertoire à l'intérieur du couvercle. Existe également en capacité 50 et 100 lames.",
+      "variant_name_fr": "Pour 25 lames",
+      "price_eur": 19.1,
+      "specs_fr": {
+        "Matière": "Bois / Carton",
+        "Modèle": "Pour 25 porte-objets"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207343_20260616101101/humeau.com-boite-de-rangement-en-carton-cadre-bois-pour-25-lames-207343-207343-30.jpg"
+    },
+    {
+      "sku": "207338",
+      "slug": "boite-rangement-carton-2-lames-couvercle",
+      "brand": "KARL HECHT",
+      "name_fr": "Boîte de rangement en carton pour 2 lames, avec couvercle",
+      "description_fr": "Boîte de rangement en carton pour lames de microscopie (76 x 26 mm). Existe en version avec couvercle pour 1, 2, 3, 5, 10 et 20 lames, et sans couvercle pour 20 lames.",
+      "variant_name_fr": "Pour 2 lames — avec couvercle",
+      "price_eur": 2.8,
+      "specs_fr": {
+        "Matière": "Carton",
+        "Modèle": "Pour 2 porte-objets",
+        "Couvercle": "Avec"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207338_20260616100101/humeau.com-boite-de-rangement-en-carton-pour-2-lames-avec-couvercle-207338-207338-30.jpg"
+    },
+    {
+      "sku": "259116",
+      "slug": "boite-pp-rose-81-microtubes-1-5-2ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en PP rose pour 81 microtubes 1,5-2 mL",
+      "description_fr": "Boîte de stockage en polypropylène résistante aux produits chimiques, autoclavable et utilisable de -80 °C à 100 °C. Empilable pour un rangement peu encombrant, elle possède des positions codées alphanumériquement permettant d'identifier chaque flacon d'échantillon. Compatible avec les vials DN8, DN9, DN10, DN11 et les vials shell de 1,5, 1,8 ou 2,0 mL.",
+      "variant_name_fr": "Rose — 81 positions",
+      "price_eur": 21.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Rose",
+        "Dimensions extérieures (H x L x P)": "45 x 130 x 130 mm",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000199_20230817161102/humeau.com-boite-en-pp-rose-pour-81-microtubes-1-5-1-8-2ml-couv-82710000199-259116-30.jpg"
+    },
+    {
+      "sku": "259119",
+      "slug": "boite-pp-transparente-81-microtubes-1-5-2ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en PP transparente pour 81 microtubes 1,5-2 mL",
+      "description_fr": "Boîte de stockage en polypropylène résistante aux produits chimiques, autoclavable et utilisable de -80 °C à 100 °C. Empilable pour un rangement peu encombrant, elle possède des positions codées alphanumériquement permettant d'identifier chaque flacon d'échantillon. Compatible avec les vials DN8, DN9, DN10, DN11 et les vials shell de 1,5, 1,8 ou 2,0 mL.",
+      "variant_name_fr": "Transparente — 81 positions",
+      "price_eur": 21.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Couleur": "Transparent",
+        "Dimensions extérieures (H x L x P)": "45 x 130 x 130 mm",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000202_20230817161102/humeau.com-boite-en-pp-transp-pour-81-microtubes-1-5-1-8-2ml-couv-82710000202-259119-30.jpg"
+    },
+    {
+      "sku": "259124",
+      "slug": "boite-pp-violet-16-vials-epa-20ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en PP violet pour 16 vials EPA de 20 mL",
+      "description_fr": "Boîte de rangement en polypropylène résistante aux produits chimiques, autoclavable et utilisable de -80 °C à 100 °C, empilable pour gagner de la place et transporter facilement des flacons d'échantillons. Les positions codées alphanumériquement garantissent l'identification unique de chaque flacon.",
+      "variant_name_fr": "Violet — 16 vials EPA 20 mL",
+      "price_eur": 37.6,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000207_20230817161102/humeau.com-boite-en-pp-violet-pour-16-vials-epa-de-20ml-couv-82710000207-259124-30.jpg"
+    },
+    {
+      "sku": "204722",
+      "slug": "boite-hermetique-hdpe-3-5l",
+      "brand": "AZLON",
+      "name_fr": "Boîte hermétique en HDPE, 3,5 L",
+      "description_fr": "Boîte à échantillons hermétique en polyéthylène haute densité, robuste, légère et incassable en usage normal, avec couvercle coiffant hermétique. Adaptée au stockage général et réfrigéré jusqu'à -50 °C, conforme aux normes européennes de contact alimentaire.",
+      "variant_name_fr": "3,5 L",
+      "price_eur": 39.0,
+      "specs_fr": {
+        "Conditionnement": "Unitaire",
+        "Matière": "HDPE",
+        "Capacité": "3500 mL",
+        "Dimensions extérieures (H x L x P)": "90 x 210 x 210 mm",
+        "Poids net": "0.318 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000071_20260115033003/humeau.com-boite-hermetique-en-hdpe-3-5l-l-210xl-210xh-90mm-06700000071-204722-30.jpg"
+    },
+    {
+      "sku": "259690",
+      "slug": "cryoboite-carton-blanc-133x133x100-x10",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cryoboîtes en carton blanc avec couvercle, 133 x 133 x 100 mm — lot de 10",
+      "description_fr": "Cryoboîtes en carton résistant au froid, adaptées aux températures cryogéniques jusqu'à -80 °C, avec couvercle inclus et finition hydrofuge. Livrées sans grille d'insertion.",
+      "variant_name_fr": "133 x 133 x 100 mm — lot de 10",
+      "price_eur": 60.7,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Matière": "Carton",
+        "Hauteur": "75 mm",
+        "Largeur": "133 mm",
+        "Profondeur": "133 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000773_20230817161102/humeau.com-cryoboite-en-carton-blanc-couv-133x133x100mm-x10-82710000773-259690-30.jpg"
+    },
+    {
+      "sku": "259707",
+      "slug": "cryoboite-carton-plastifie-jaune-136x136x50",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cryoboîte en carton plastifié jaune, 136 x 136 x 50 mm",
+      "description_fr": "Cryoboîte en carton résistant au froid, avec revêtement plastique étanche pour une résistance renforcée, adaptée aux températures cryogéniques jusqu'à -80 °C. Couvercle inclus, livrée sans grille d'insertion.",
+      "variant_name_fr": "Jaune — 136 x 136 x 50 mm",
+      "price_eur": 4.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Carton revêtement plastique",
+        "Couleur": "Jaune",
+        "Hauteur": "50 mm",
+        "Largeur": "136 mm",
+        "Profondeur": "136 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000790_20230817161102/humeau.com-cryoboite-en-carton-plastifie-jaune-136x136x50mm-82710000790-259707-30.jpg"
+    },
+    {
+      "sku": "259718",
+      "slug": "cryoboite-pc-bleu-25-tubes-1-2-2ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cryoboîte en polycarbonate bleu pour 25 tubes 1,2-2 mL",
+      "description_fr": "Cryoboîte empilable en polycarbonate de haute qualité, utilisable de -196 °C à 121 °C et autoclavable à 121 °C pendant 20 minutes. Couvercle transparent quadrillé et numéroté, coins à 45° facilitant la fermeture.",
+      "variant_name_fr": "Bleu — 25 positions",
+      "price_eur": 11.3,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate",
+        "Couleur": "Bleu",
+        "Hauteur": "52 mm",
+        "Température maximum": "121 °C",
+        "Volume échantillon": "1,2/2,0 mL",
+        "Largeur": "76 mm",
+        "Profondeur": "76 mm",
+        "Nombre de trous": "25"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000801_20230817161102/humeau.com-cryoboite-en-pc-bleu-pour-25-tubes-1-2-2ml-fil-int-ext-82710000801-259718-30.jpg"
+    },
+    {
+      "sku": "259729",
+      "slug": "cryoboite-pc-vert-100-tubes-1-2-2ml",
+      "brand": "LABSOLUTE",
+      "name_fr": "Cryoboîte en polycarbonate vert pour 100 tubes 1,2-2 mL",
+      "description_fr": "Cryoboîte empilable en polycarbonate de haute qualité, utilisable de -196 °C à 121 °C et autoclavable à 121 °C pendant 20 minutes. Couvercle transparent quadrillé et numéroté, coins à 45° facilitant la fermeture. Version 100 positions réservée aux tubes à filetage intérieur.",
+      "variant_name_fr": "Vert — 100 positions",
+      "price_eur": 18.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Polycarbonate",
+        "Couleur": "Vert",
+        "Hauteur": "52 mm",
+        "Température maximum": "121 °C",
+        "Volume échantillon": "1,2/2,0 mL",
+        "Largeur": "132 mm",
+        "Profondeur": "132 mm",
+        "Poids net": "0.16 kg",
+        "Nombre de trous": "100"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000812_20230817161102/humeau.com-cryoboite-en-pc-vert-pour-100-tubes-1-2-2ml-fil-interne-82710000812-259729-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "category": {
+    "slug": "chariot",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Chariots de laboratoire"
+    },
+    "description": {
+      "fr": "Chariots et guéridons de laboratoire en acier inoxydable ou en polymère, avec 2 ou 3 plateaux, montés sur roulettes, ainsi que des supports élévateurs mécaniques, pour le transport et la mise à niveau de matériel en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "218069",
+      "slug": "chariot-2-etageres-bleu-832x546x1041",
+      "brand": "HUMEAU",
+      "name_fr": "Chariot 2 étagères bleu, 832 x 546 x 1041 mm",
+      "description_fr": "Chariot de transport tous usages en polymère, à étagères moulées par injection en PE haute densité et montants chromés, avec possibilité d'ajouter une étagère intermédiaire réglable par incréments de 25 mm. Quatre roulettes pivotantes en thermoplastique (Ø 102 mm) ne marquant pas le sol. Chaque étagère supporte jusqu'à 68 kg, l'ensemble jusqu'à 181 kg. Poignée ergonomique, assemblage sans outils, protection antimicrobienne Microban.",
+      "variant_name_fr": "2 étagères — bleu",
+      "price_eur": 774.3,
+      "specs_fr": {
+        "Dimensions extérieures (L x P x H)": "832 x 546 x 1041 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101399811_20250429101101/humeau.com-chariot-2-etageres-bleu-832x546x1041mm-218069-218069-30.jpg"
+    },
+    {
+      "sku": "218070",
+      "slug": "chariot-3-etageres-bleu-832x546x1041",
+      "brand": "HUMEAU",
+      "name_fr": "Chariot 3 étagères bleu, 832 x 546 x 1041 mm",
+      "description_fr": "Chariot de transport tous usages en polymère, à étagères moulées par injection en PE haute densité et montants chromés. Quatre roulettes pivotantes en thermoplastique (Ø 102 mm) ne marquant pas le sol. Chaque étagère supporte jusqu'à 68 kg, l'ensemble jusqu'à 181 kg. Poignée ergonomique, assemblage sans outils, protection antimicrobienne Microban.",
+      "variant_name_fr": "3 étagères — bleu",
+      "price_eur": 951.4,
+      "specs_fr": {
+        "Dimensions extérieures (L x P x H)": "832 x 546 x 1041 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101399812_20260616104103/humeau.com-chariot-3-etageres-bleu-832x546x1041mm-218070-218070-30.jpg"
+    },
+    {
+      "sku": "224018",
+      "slug": "chariot-laboratoire-inox-2-plateaux-900x600x940",
+      "brand": "BOCHEM",
+      "name_fr": "Chariot de laboratoire inox, 2 plateaux, 900 x 600 x 940 mm",
+      "description_fr": "Chariot de laboratoire démontable en acier inoxydable 18/10, avec 2 plateaux de 800 x 500 mm distants de 275 mm, capacité de charge 25 kg par plateau, monté sur 2 roues pivotantes et blocables.",
+      "variant_name_fr": "2 plateaux",
+      "price_eur": 478.72,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Hauteur": "940 mm",
+        "Longueur": "900 mm",
+        "Largeur": "600 mm",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "12.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201143000_20231129172103/humeau.com-chariot-de-laboratoire-inox-2-plateaux-900x600x940mm-224018-224018-30.jpg"
+    },
+    {
+      "sku": "224019",
+      "slug": "chariot-laboratoire-inox-3-plateaux-900x600x940",
+      "brand": "BOCHEM",
+      "name_fr": "Chariot de laboratoire inox, 3 plateaux, 900 x 600 x 940 mm",
+      "description_fr": "Chariot de laboratoire démontable en acier inoxydable 18/10, avec 3 plateaux de 800 x 500 mm, capacité de charge 25 kg par plateau, monté sur 2 roues pivotantes et blocables.",
+      "variant_name_fr": "3 plateaux",
+      "price_eur": 510.55,
+      "specs_fr": {
+        "Dimensions extérieures (L x P x H)": "900 x 600 x 940 mm",
+        "Dimension plateau": "800 x 500 mm",
+        "Matériaux": "Acier inox 18/10",
+        "Poids net": "17.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22201143100_20231129172103/humeau.com-chariot-de-laboratoire-inox-3-plateaux-900x600x940mm-224019-224019-30.jpg"
+    },
+    {
+      "sku": "218050",
+      "slug": "chariot-laboratoire-pliable-roulettes",
+      "brand": "HUMEAU",
+      "name_fr": "Chariot de laboratoire pliable à roulettes",
+      "description_fr": "Chariot de laboratoire robuste et polyvalent, pliable par simple appui sur un bouton, avec bac de 46 L et frein de stationnement.",
+      "variant_name_fr": "Pliable — bac 46 L",
+      "price_eur": 239.4,
+      "specs_fr": {
+        "Capacité maximum": "60 kg",
+        "Dimensions extérieures (L x P x H)": "900 x 580 x 1020 mm déplié / 710 x 550 x 190 mm replié",
+        "Poids net": "9.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18101391107_20250401153101/humeau.com-chariot-de-laboratoire-pliable-a-roulettes-218050-218050-30.jpg"
+    },
+    {
+      "sku": "213948",
+      "slug": "chariot-inox-600x400-2-plateaux-roulettes",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 600 x 400 mm, 2 plateaux et roulettes",
+      "description_fr": "Chariot médical polyvalent en inox 18/10, destiné aux soins, à la distribution ou au transport de dossiers. Charge admissible de 50 kg répartie sur les plateaux, entretien facile et finition soignée.",
+      "variant_name_fr": "2 plateaux avec roulettes",
+      "price_eur": 434.7,
+      "specs_fr": {
+        "Dimensions": "600 x 400 x 980 mm",
+        "Support": "4 roues Ø 100 mm",
+        "Nombre d'étagères": "2 plateaux",
+        "Livré monté": "Oui",
+        "Matériaux": "Inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15600421100_20230817161102/humeau.com-chariot-inox-600x400mm-avec-2-plateaux-et-roulettes-15600421100-213948-30.jpg"
+    },
+    {
+      "sku": "213947",
+      "slug": "chariot-inox-600x400-2-plateaux-h800",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 600 x 400 mm, 2 plateaux, hauteur totale 800 mm",
+      "description_fr": "Chariot de service et de transport en acier inoxydable 18/10 poli brillant, aux dimensions compactes, conçu pour l'hygiène et la robustesse en laboratoire ou en environnement médical. Deux plateaux solides pour le transport sécurisé de matériel ou d'échantillons, quatre roues pivotantes dont deux avec freins pour une bonne maniabilité et une stabilité à l'arrêt.",
+      "variant_name_fr": "2 plateaux — H. 800 mm",
+      "price_eur": 634.3,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213947_20250814163102/humeau.com-chariot-inox-600x400mm-avec-2-plateaux-haut-totale-800mm-213947-213947-30.jpg"
+    },
+    {
+      "sku": "213941",
+      "slug": "chariot-inox-600x430-2-plateaux-sans-galerie",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 600 x 430 mm, 2 plateaux, sans galerie",
+      "description_fr": "Guéridon entièrement en acier inoxydable 18/10, finition poli brillant, avec deux poignées de poussée assurant une grande stabilité. Piètement en tube de 25 mm de diamètre, charge admissible 50 kg répartie sur les plateaux.",
+      "variant_name_fr": "2 plateaux — sans galerie",
+      "price_eur": 227.6,
+      "specs_fr": {
+        "Dimensions": "600 x 430 x 820 mm",
+        "Support": "4 roues Ø 75 mm",
+        "Nombre d'étagères": "2 plateaux",
+        "Livré monté": "Non",
+        "Matériaux": "Inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213941_20241209111101/humeau.com-chariot-inox-60x430mm-avec-2-plateaux-sans-galerie-213941-213941-30.jpg"
+    },
+    {
+      "sku": "217416",
+      "slug": "chariot-inox-690x445-3-plateaux-h845-roulettes",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 690 x 445 mm, 3 plateaux, H. 845 mm, avec roulettes",
+      "description_fr": "Chariot médical polyvalent en inox 18/10, destiné aux soins, à la distribution ou au transport de dossiers. Charge admissible de 50 kg répartie sur les plateaux, entretien facile et finition soignée.",
+      "variant_name_fr": "3 plateaux avec roulettes",
+      "price_eur": 537.7,
+      "specs_fr": {
+        "Dimensions": "600 x 400 x 980 mm",
+        "Support": "4 roues Ø 100 mm",
+        "Matériaux": "Inox 18/10",
+        "Nombre d'étagères": "3 plateaux",
+        "Livré monté": "Oui",
+        "Poids net": "22 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100004021_20251017122001/humeau.com-chariot-inox-690x445mm-avec-3-plateaux-h845mm-et-roulettes-217416-217416-30.jpg"
+    },
+    {
+      "sku": "213943",
+      "slug": "chariot-inox-750x500-3-plateaux-roulettes",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 750 x 500 mm, 3 plateaux et roulettes",
+      "description_fr": "Guéridon entièrement en acier inoxydable 18/10, finition poli brillant, avec deux poignées de poussée assurant une grande stabilité. Piètement en tube de 25 mm de diamètre, charge admissible 50 kg répartie sur les plateaux.",
+      "variant_name_fr": "3 plateaux avec roulettes",
+      "price_eur": 393.0,
+      "specs_fr": {
+        "Dimensions": "750 x 500 x 820 mm",
+        "Support": "4 roues Ø 75 mm",
+        "Nombre d'étagères": "3 plateaux",
+        "Livré monté": "Non",
+        "Matériaux": "Inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15600074600_20230817161102/humeau.com-chariot-inox-750x500cm-avec-3-plateaux-et-roulettes-15600074600-213943-30.jpg"
+    },
+    {
+      "sku": "213944",
+      "slug": "chariot-inox-800x580-3-plateaux-monte",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 800 x 580 mm, 3 plateaux, monté",
+      "description_fr": "Chariot entièrement en acier inoxydable 18/10, soudé sous argon pour une grande stabilité, avec deux poignées de poussée en tube inox Ø 25 mm et galeries sur trois côtés de chaque plateau. Charge admissible 50 kg répartie sur les plateaux.",
+      "variant_name_fr": "3 plateaux — monté",
+      "price_eur": 759.0,
+      "specs_fr": {
+        "Dimensions": "800 x 580 x 855 mm",
+        "Support": "4 roues Ø 100 mm",
+        "Nombre d'étagères": "3 plateaux",
+        "Livré monté": "Non",
+        "Matériaux": "Inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213944_20260703103102/humeau.com-chariot-inox-800x580mm-monte-avec-3-plateaux-213944-213944-30.jpg"
+    },
+    {
+      "sku": "224017",
+      "slug": "chariot-inox-900x600x940-2-plateaux-roulettes",
+      "brand": "BOCHEM",
+      "name_fr": "Chariot inox 900 x 600 x 940 mm, 2 plateaux et roulettes",
+      "description_fr": "Chariot de laboratoire en acier inox 18/10, plateaux de 800 x 500 mm, charge admissible 40 kg par plateau, monté sur 2 roulettes mobiles avec freins.",
+      "variant_name_fr": "2 plateaux avec roulettes",
+      "price_eur": 1033.45,
+      "specs_fr": {
+        "Support": "2 roulettes mobiles avec freins",
+        "Hauteur": "940 mm",
+        "Longueur": "900 mm",
+        "Nombre d'étagères": "2 plateaux",
+        "Largeur": "600 mm",
+        "Matériaux": "Acier inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/224017_20250428122011/humeau.com-chariot-inox-900x600x940mm-avec-2-plateaux-et-roulettes-22201141000-224017-30.jpg"
+    },
+    {
+      "sku": "258732",
+      "slug": "chariot-inox-900x600x940-2-plateaux",
+      "brand": "HUMEAU",
+      "name_fr": "Chariot inox 900 x 600 x 940 mm, 2 plateaux",
+      "description_fr": "Chariot de laboratoire en acier inoxydable 18/10 micro-poli, à étagères soudées et rebord profilé arrondi évitant la chute d'objets. Chaque étagère est munie d'un amortisseur sonore, poignées formées par les tubes ronds aux extrémités avant, butoirs en polyamide aux quatre coins. Charge admissible 80 kg répartie sur les plateaux.",
+      "variant_name_fr": "2 plateaux",
+      "price_eur": 393.8,
+      "specs_fr": {
+        "Dimensions": "900 x 600 x 950 mm",
+        "Support": "4 roues Ø 125 mm avec 2 freins",
+        "Nombre d'étagères": "2 plateaux",
+        "Matériaux": "Inox 18/10",
+        "Poids net": "16.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82709148101_20241125143102/humeau.com-chariot-inox-d-900x600x940mm-avec-2-plateaux-258732-258732-30.jpg"
+    },
+    {
+      "sku": "213942",
+      "slug": "chariot-inox-750x500-2-plateaux-non-monte",
+      "brand": "AGENCINOX",
+      "name_fr": "Chariot inox 750 x 500 mm, 2 plateaux, non monté",
+      "description_fr": "Guéridon entièrement en acier inoxydable 18/10, finition poli brillant, avec deux poignées de poussée assurant une grande stabilité. Piètement en tube de 25 mm de diamètre, charge admissible 50 kg répartie sur les plateaux.",
+      "variant_name_fr": "2 plateaux — non monté",
+      "price_eur": 291.0,
+      "specs_fr": {
+        "Dimensions": "600 x 430 x 820 mm",
+        "Support": "4 roues Ø 75 mm",
+        "Nombre d'étagères": "2 plateaux",
+        "Livré monté": "Non",
+        "Matériaux": "Inox 18/10"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213942_20260703103101/humeau.com-chariot-inox-l-750x500mm-non-monte-avec-2-plateaux-inox-213942-213942-30.jpg"
+    },
+    {
+      "sku": "224015",
+      "slug": "support-elevateur-mecanique-inox-160x130",
+      "brand": "BOCHEM",
+      "name_fr": "Support élévateur mécanique en inox, 160 x 130 mm, H. 60-275 mm",
+      "description_fr": "Support élévateur en acier inoxydable à mécanisme à ciseaux amélioré et bouton ergonomique arrondi, fabriqué selon la norme DIN 12897. La capacité de charge est distinguée entre charge dynamique et charge statique de la plateforme, toutes deux conformes à cette norme.",
+      "variant_name_fr": "H. 60-275 mm",
+      "price_eur": 273.88,
+      "specs_fr": {
+        "Filetage": "M8 x 1,25",
+        "Hauteur": "60 à 275 mm",
+        "Longueur": "160 mm",
+        "Largeur": "130 mm",
+        "Poids net": "1.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/224015_20250428122011/humeau.com-support-elevateur-mecanique-en-inox-160x130-hauteur-60-275mm-224015-224015-30.jpg"
+    }
+  ]
+}

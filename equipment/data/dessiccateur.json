@@ -1,0 +1,281 @@
+{
+  "category": {
+    "slug": "dessiccateur",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Dessiccateurs"
+    },
+    "description": {
+      "fr": "Dessiccateurs en verre, polycarbonate ou acrylique, couvercles et accessoires associés, pour le stockage à l'abri de l'humidité des échantillons et produits sensibles."
+    }
+  },
+  "products": [
+    {
+      "sku": "255526",
+      "slug": "chambre-de-dessiccation-nalgene-en-acrylique-3-etageres-3-etageres",
+      "brand": "NALGENE",
+      "name_fr": "Chambre de dessiccation Nalgene en acrylique, 3 étagères",
+      "description_fr": "Armoire de dessiccation Nalgene en acrylique transparent, destinée au stockage étanche de composés biologiques et chimiques anhydres ou hygroscopiques. Joints de porte en néoprène, deux verrous en acier inoxydable et charnière pleine longueur. Plateau à rebord amovible pour dessicant solide, étagères amovibles, réglables et ventilées. Dimensions 305 x 305 x 305 mm, 3 étagères sur 5 niveaux.",
+      "variant_name_fr": "3 étagères",
+      "price_eur": 1085,
+      "specs_fr": {
+        "Dimensions": "305 x 305 x 305",
+        "Nombre d'étagères": "3",
+        "Autoclavable": "Non",
+        "Poids net": "10.368 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255526_20240527151101/humeau.com-chambre-de-dessiccation-nalgene-en-acrylique-3-etageres-5-niveaux-255526-255526-30.jpg"
+    },
+    {
+      "sku": "223369",
+      "slug": "couvercle-a-tubulure-wertheim-pour-dessiccateur-270-mm-wertheim-270",
+      "brand": "DURAN",
+      "name_fr": "Couvercle à tubulure Wertheim pour dessiccateur, Ø 270 mm",
+      "description_fr": "Couvercle en verre borosilicaté DURAN pour dessiccateur rond, équipé d'un robinet à rodage normal RIN 24/29 type Novus. Compatible avec les parties inférieures de tous les types de dessiccateurs. Diamètre externe 270 mm.",
+      "variant_name_fr": "Ø 270 mm",
+      "price_eur": 198,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Diamètre externe bouchon": "270",
+        "Hauteur (mm)": "94",
+        "Diamètre intérieur bouchon": "224",
+        "Poids net": "1.405 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402472020_20250708105101/humeau.com-couvercle-a-tubulure-wertheim-pour-dessiccateur-d-200mm-223369-223369-30.jpg"
+    },
+    {
+      "sku": "218945",
+      "slug": "dessiccateur-en-polycarbonate-nalgene-280-mm-polycarbonate-280-mm",
+      "brand": "NALGENE",
+      "name_fr": "Dessiccateur en polycarbonate Nalgene, Ø 280 mm",
+      "description_fr": "Dessiccateur Nalgene en polycarbonate transparent, léger et incassable, utilisable sous vide ou à l'air libre. Compatible avec des tuyaux à vide de 6,4 à 19 mm de diamètre intérieur et avec toute plaque standard de 230 mm. Bras latéraux sur le couvercle et la base, joint torique assurant une fermeture étanche sans graissage, robinet amovible. Ne pas passer à l'autoclave ni exposer à des solvants organiques.",
+      "variant_name_fr": "Ø 280 mm",
+      "price_eur": 236,
+      "specs_fr": {
+        "Diamètre ext. corps": "280 mm",
+        "Hauteur (mm)": "330 mm",
+        "Diamètre intérieur corps": "250 mm",
+        "Poids net": "1.45 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18104673120_20240729153104/humeau.com-dessiccateur-en-polycarbonate-nalgene-d-280mm-218945-218945-30.jpg"
+    },
+    {
+      "sku": "205530",
+      "slug": "dessiccateur-en-verre-complet-a-bouton-200-mm-205530",
+      "brand": "PYREX",
+      "name_fr": "Dessiccateur en verre complet à bouton, Ø 200 mm",
+      "description_fr": "Dessiccateur en verre Pyrex complet avec couvercle à bouton, prévu pour plaque de 200 mm.",
+      "variant_name_fr": "Ø 200 mm",
+      "price_eur": 366.9,
+      "specs_fr": {
+        "Poids net": "4.57 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700159102_20250821102102/humeau.com-dessiccateur-verre-complet-a-bouton-d-200mm-205530-205530-30.jpg"
+    },
+    {
+      "sku": "237697",
+      "slug": "dessiccateur-en-verre-duran-a-bouton-153-mm-duran-bouton-153",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à bouton, Ø 153 mm",
+      "description_fr": "Dessiccateur DURAN en verre à rodage plan, sans raccord, avec couvercle à bouton et sans plaque de porcelaine. Diamètre nominal Ø 153 mm pour une contenance de 700 mL. Couvercle interchangeable conformément à la norme DIN 12491.",
+      "variant_name_fr": "Ø 153 mm — 700 mL",
+      "price_eur": 271.3,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (ml)": "700",
+        "Diamètre ext. corps": "153",
+        "Hauteur (mm)": "187",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "119"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000240_20230613152101/humeau.com-dessiccateur-verre-duran-a-bouton-d-100mm-sans-joint-30600000240-237697-30.jpg"
+    },
+    {
+      "sku": "237698",
+      "slug": "dessiccateur-en-verre-duran-a-bouton-215-mm-duran-bouton-215",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à bouton, Ø 215 mm",
+      "description_fr": "Dessiccateur DURAN en verre à rodage plan, sans raccord, avec couvercle à bouton et sans plaque de porcelaine. Diamètre nominal Ø 215 mm pour une contenance de 2 400 mL. Couvercle interchangeable conformément à la norme DIN 12491.",
+      "variant_name_fr": "Ø 215 mm — 2 400 mL",
+      "price_eur": 317.2,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (ml)": "2 400",
+        "Diamètre ext. corps": "215",
+        "Hauteur (mm)": "252",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "172",
+        "Poids net": "2.82 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000241_20231213165101/humeau.com-dessiccateur-verre-duran-a-bouton-d-150mm-sans-joint-237698-237698-30.jpg"
+    },
+    {
+      "sku": "223374",
+      "slug": "dessiccateur-en-verre-duran-a-bouton-270-mm-duran-bouton-270",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à bouton, Ø 270 mm",
+      "description_fr": "Dessiccateur DURAN en verre à rodage plan, sans raccord, avec couvercle à bouton et sans plaque de porcelaine. Diamètre nominal Ø 270 mm pour une contenance de 5 800 mL. Couvercle interchangeable conformément à la norme DIN 12491.",
+      "variant_name_fr": "Ø 270 mm — 5 800 mL",
+      "price_eur": 380.7,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (ml)": "5 800",
+        "Diamètre ext. corps": "270",
+        "Hauteur (mm)": "309",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "224",
+        "Poids net": "4.975 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402478161_20231016153102/humeau.com-dessiccateur-verre-duran-a-bouton-d-200mm-sans-joint-223374-223374-30.jpg"
+    },
+    {
+      "sku": "223375",
+      "slug": "dessiccateur-en-verre-duran-a-bouton-320-mm-duran-bouton-320",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à bouton, Ø 320 mm",
+      "description_fr": "Dessiccateur DURAN en verre à rodage plan, sans raccord, avec couvercle à bouton et sans plaque de porcelaine. Diamètre nominal Ø 320 mm pour une contenance de 10 500 mL. Couvercle interchangeable conformément à la norme DIN 12491.",
+      "variant_name_fr": "Ø 320 mm — 10 500 mL",
+      "price_eur": 606.1,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (ml)": "10 500",
+        "Diamètre ext. corps": "320",
+        "Hauteur (mm)": "357",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "274",
+        "Poids net": "7.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402478166_20231004093101/humeau.com-dessiccateur-verre-duran-a-bouton-d-250mm-sans-joint-223375-223375-30.jpg"
+    },
+    {
+      "sku": "223373",
+      "slug": "dessiccateur-en-verre-duran-a-bouton-380-mm-duran-bouton-380",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à bouton, Ø 380 mm",
+      "description_fr": "Dessiccateur DURAN en verre à rodage plan, sans raccord, avec couvercle à bouton et sans plaque de porcelaine. Diamètre nominal Ø 380 mm pour une contenance de 18 500 mL. Couvercle interchangeable conformément à la norme DIN 12491.",
+      "variant_name_fr": "Ø 380 mm — 18 500 mL",
+      "price_eur": 894.8,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (ml)": "18 500",
+        "Diamètre ext. corps": "380",
+        "Hauteur (mm)": "433",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "332",
+        "Poids net": "12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402478149_20240823130101/humeau.com-dessiccateur-verre-duran-a-bouton-d-300mm-sans-joint-223373-223373-30.jpg"
+    },
+    {
+      "sku": "237699",
+      "slug": "dessiccateur-en-verre-duran-a-robinet-215-mm-duran-robinet-215",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à robinet, Ø 215 mm",
+      "description_fr": "Dessiccateur à vide DURAN avec tubulure Novus (rodage RIN 24/29) intégrée au couvercle, robinet et rodage plan, livré avec disque de porcelaine. Diamètre nominal Ø 215 mm, contenance de 2 400 mL. Un vide peut être raccordé au-dessus du robinet.",
+      "variant_name_fr": "Ø 215 mm — 2 400 mL",
+      "price_eur": 501,
+      "specs_fr": {
+        "Matière": "Verre, porcelaine",
+        "Capacité (ml)": "2 400",
+        "Diamètre ext. corps": "215",
+        "Hauteur (mm)": "239",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "172",
+        "Poids net": "2.72 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000242_20240516122003/humeau.com-dessiccateur-verre-duran-a-robinet-a-rodage-24-29-d-150mm-237699-237699-30.jpg"
+    },
+    {
+      "sku": "237700",
+      "slug": "dessiccateur-en-verre-duran-a-robinet-270-mm-duran-robinet-270",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à robinet, Ø 270 mm",
+      "description_fr": "Dessiccateur à vide DURAN avec tubulure Novus (rodage RIN 24/29) intégrée au couvercle, robinet et rodage plan, livré avec disque de porcelaine. Diamètre nominal Ø 270 mm, contenance de 5 800 mL. Un vide peut être raccordé au-dessus du robinet.",
+      "variant_name_fr": "Ø 270 mm — 5 800 mL",
+      "price_eur": 665.1,
+      "specs_fr": {
+        "Matière": "Verre, porcelaine",
+        "Capacité (ml)": "5 800",
+        "Diamètre ext. corps": "270",
+        "Hauteur (mm)": "296",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "224",
+        "Poids net": "5.481 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000243_20240502165101/humeau.com-dessiccateur-verre-duran-a-robinet-a-rodage-24-29-d-200mm-237700-237700-30.jpg"
+    },
+    {
+      "sku": "237902",
+      "slug": "dessiccateur-en-verre-duran-a-robinet-270-mm-duran-robinet-270-2",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à robinet, Ø 270 mm",
+      "description_fr": "Dessiccateur à vide DURAN avec tubulure Novus (rodage RIN 24/29) intégrée au couvercle, robinet et rodage plan, livré avec disque de porcelaine. Diamètre nominal Ø 270 mm, contenance de 10 500 mL. Un vide peut être raccordé au-dessus du robinet.",
+      "variant_name_fr": "Ø 270 mm — 10 500 mL",
+      "price_eur": 971.3,
+      "specs_fr": {
+        "Matière": "Verre, porcelaine",
+        "Capacité (ml)": "10 500",
+        "Diamètre ext. corps": "270",
+        "Hauteur (mm)": "344",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "274",
+        "Poids net": "4.9 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30647826654_20250429135102/humeau.com-dessiccateur-verre-duran-a-robinet-a-rodage-24-29-d-250mm-237902-237902-30.jpg"
+    },
+    {
+      "sku": "223378",
+      "slug": "dessiccateur-en-verre-duran-a-robinet-380-mm-duran-robinet-380",
+      "brand": "DURAN",
+      "name_fr": "Dessiccateur en verre Duran à robinet, Ø 380 mm",
+      "description_fr": "Dessiccateur à vide DURAN avec tubulure Novus (rodage RIN 24/29) intégrée au couvercle, robinet et rodage plan, livré avec disque de porcelaine. Diamètre nominal Ø 380 mm, contenance de 18 500 mL. Un vide peut être raccordé au-dessus du robinet.",
+      "variant_name_fr": "Ø 380 mm — 18 500 mL",
+      "price_eur": 1376,
+      "specs_fr": {
+        "Matière": "Verre, porcelaine",
+        "Capacité (ml)": "18 500",
+        "Diamètre ext. corps": "380",
+        "Hauteur (mm)": "420",
+        "Norme": "DIN 12491",
+        "Diamètre intérieur corps": "332",
+        "Poids net": "13.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402478270_20240409155101/humeau.com-dessiccateur-verre-duran-a-robinet-a-rodage-24-29-d-300mm-223378-223378-30.jpg"
+    },
+    {
+      "sku": "218998",
+      "slug": "plaque-en-polypropylene-perforee-pour-dessiccateur-238-mm-238-mm",
+      "brand": "KARTELL",
+      "name_fr": "Plaque en polypropylène perforée pour dessiccateur, Ø 238 mm",
+      "description_fr": "Plaque perforée KARTELL en polypropylène, destinée à un usage à température ambiante uniquement, pour équiper un dessiccateur. Diamètre Ø 238 mm.",
+      "variant_name_fr": "Ø 238 mm",
+      "price_eur": 21.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 238 mm",
+        "Matière": "Polypropylène",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18105054603_20241007090102/humeau.com-plaque-polypropylene-perforee-d-238mm-pour-dessiccateur-218998-218998-30.jpg"
+    },
+    {
+      "sku": "206271",
+      "slug": "secheur-de-reference-rd-8-206271",
+      "brand": "FUNKE GERBER",
+      "name_fr": "Sécheur de référence RD-8",
+      "description_fr": "Sécheur de référence RD-8 FUNKE GERBER, développé avec l'autorité néerlandaise de contrôle du lait (COKZ) pour la détermination de la teneur en humidité du lait en poudre selon la norme ISO 5537 / FIL 26. Jusqu'à 8 échantillons peuvent être testés simultanément avec une régulation précise de la température (système PID, 4 capteurs PT100) et de la pression (débit d'air maintenu à 33 mL/min dans 8 capillaires de séchage).",
+      "variant_name_fr": "RD-8",
+      "price_eur": 5218,
+      "specs_fr": {
+        "Pack": "1 unité",
+        "Dimensions extérieures L x P x H": "185 × 450 × 240",
+        "Puissance générale": "0,52 kW",
+        "Stabilité thermique": "± 0,3",
+        "Plage / Gamme de température": "0 à 110°C",
+        "Nombre d'analyse(s)": "8 compartiments",
+        "Poids net": "10.6 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/8/08100570000_20240502162101/humeau.com-secheur-de-reference-rd-8-206271-206271-30.jpg"
+    }
+  ]
+}

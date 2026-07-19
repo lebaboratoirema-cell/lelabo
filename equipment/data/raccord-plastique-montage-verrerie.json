@@ -1,0 +1,253 @@
+{
+  "category": {
+    "slug": "raccord-plastique-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Raccords plastiques pour montage de verrerie" },
+    "description": {
+      "fr": "Raccords, connecteurs de tubulure et clapets en polypropylène, PE ou PTFE pour l'assemblage et le raccordement de tuyaux souples sur un montage de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "257583",
+      "slug": "clapet-anti-retour-embout-pp-6-8mm",
+      "brand": "LABOPLAST",
+      "name_fr": "Clapet anti-retour à embout en PP, diamètre 6,0-8,0 mm",
+      "description_fr": "Connecteur clapet anti-retour en polypropylène, avec bille de vanne, flèche de direction en relief et embouts coniques. Pour tuyaux de 6 à 8 mm de diamètre, supportant une pression maximale de 4 bar et une plage de température de fonctionnement de 0 à +40 °C.",
+      "variant_name_fr": "6,0-8,0 mm",
+      "price_eur": 3.50,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Température de fonctionnement": "+0° à +40°C",
+        "Pression": "4 bar max.",
+        "Marque": "Laboplast"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000019_20240207154102/humeau.com-clapet-anti-retour-embout-pp-d-6-0-8-0mm-257583-257583-30.jpg"
+    },
+    {
+      "sku": "257585",
+      "slug": "clapet-anti-retour-embout-pp-10-14mm",
+      "brand": "LABOPLAST",
+      "name_fr": "Clapet anti-retour à embout en PP, diamètre 10,0-14,0 mm",
+      "description_fr": "Connecteur clapet anti-retour en polypropylène, avec bille de vanne, flèche de direction en relief et embouts coniques. Pour tuyaux de 10 à 14 mm de diamètre, supportant une pression maximale de 4 bar et une plage de température de fonctionnement de 0 à +40 °C.",
+      "variant_name_fr": "10,0-14,0 mm",
+      "price_eur": 4.40,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Température de fonctionnement": "+0° à +40°C",
+        "Pression": "4 bar max.",
+        "Marque": "Laboplast"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000021_20220505215241/humeau.com-clapet-anti-retour-embout-pp-d-6-0-8-0mm-pack-de-100-82100000021-257585-30.jpg"
+    },
+    {
+      "sku": "257584",
+      "slug": "clapet-anti-retour-embout-pp-8-10mm",
+      "brand": "LABOPLAST",
+      "name_fr": "Clapet anti-retour à embout en PP, diamètre 8,0-10,0 mm",
+      "description_fr": "Connecteur clapet anti-retour en polypropylène, avec bille de vanne, flèche de direction en relief et embouts coniques. Pour tuyaux de 8 à 10 mm de diamètre, supportant une pression maximale de 4 bar et une plage de température de fonctionnement de 0 à +40 °C.",
+      "variant_name_fr": "8,0-10,0 mm",
+      "price_eur": 3.50,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Température de fonctionnement": "+0° à +40°C",
+        "Pression": "4 bar max.",
+        "Marque": "Laboplast"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000020_20231107135101/humeau.com-clapet-anti-retour-embout-pp-d-8-0-10-0mm-257584-257584-30.jpg"
+    },
+    {
+      "sku": "210522",
+      "slug": "connecteur-tubulure-droit-conique-8-16mm-lot10",
+      "brand": "KARTELL",
+      "name_fr": "Connecteur de tubulure droit conique, 8/12 à 14/16 mm — lot de 10",
+      "description_fr": "Connecteur de tubulure droit conique en polypropylène, destiné à raccorder des tuyaux flexibles de 8/12 à 14/16 mm de diamètre. Autoclavable, vendu en lot de 10.",
+      "variant_name_fr": "8/12-14/16 mm — lot de 10",
+      "price_eur": 55.90,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Diamètre (mm)": "8/12 à 14/16",
+        "Conditionnement": "10",
+        "Forme": "Droit",
+        "Marque": "Kartell"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611934289_20230731104107/humeau.com-connecteur-de-tubulure-droit-conique-d-8-12-a-14-16mm-p-10-210522-210522-30.jpg"
+    },
+    {
+      "sku": "232555",
+      "slug": "kit-assortiment-raccord-tuyau",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Kit d'assortiment de raccords de tuyau",
+      "description_fr": "Coffret livré dans une boîte transparente à couvercle à charnière, regroupant un large assortiment de raccords pour tuyaux : connecteurs droits (5 tailles), étagés (6 tailles), en T (6 tailles), en Y (6 tailles), raccords rapides (3 tailles) et bouchons en PE (12 tailles), en deux exemplaires par référence.",
+      "variant_name_fr": "Kit complet",
+      "price_eur": 277.00,
+      "specs_fr": {
+        "Conditionnement": "1 kit",
+        "Marque": "Sigma-Aldrich",
+        "Poids net": "0.53 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24310505802_20240213150128/humeau.com-kit-assortiment-de-raccord-de-tuyau-24310505802-232555-30.jpg"
+    },
+    {
+      "sku": "257582",
+      "slug": "mallette-68-raccords-pp-droit-t-y-x-l",
+      "brand": "LABOPLAST",
+      "name_fr": "Mallette de 68 raccords en PP assortis — droit, T, Y, X, L",
+      "description_fr": "Mallette regroupant 68 raccords en polypropylène autoclavables à 121 °C, en deux exemplaires par référence : raccords droits, en T, en Y et en croix pour diamètres de 3-5 mm à 13-15 mm, raccords angulaires dans les mêmes diamètres, un raccord universel à embout conique pour 4-17 mm, ainsi que des raccords réducteurs (4-8/8-12 mm, 4-8/12-16 mm, 8-12/12-16 mm). Aptes au contact alimentaire, à l'exception des raccords réducteurs.",
+      "variant_name_fr": "68 pièces",
+      "price_eur": 97.00,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Conditionnement": "68 pièces",
+        "Autoclavable": "121°C",
+        "Marque": "Laboplast"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000018_20220505215241/humeau.com-mallette-de-68-raccords-en-pp-differents-droit-t-y-x-l-82100000018-257582-30.jpg"
+    },
+    {
+      "sku": "218622",
+      "slug": "pince-rodage-conique-ptfe-29-32",
+      "brand": "VWR",
+      "name_fr": "Pince à rodage conique en PTFE, RN 29/32",
+      "description_fr": "Pince de maintien pour rodages normalisés en PTFE, offrant une très bonne résistance chimique et une thermorésistance de -200 à +280 °C. Format RN 29/32.",
+      "variant_name_fr": "29/32",
+      "price_eur": 16.40,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "VWR",
+        "Poids net": "0.015 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102320056_20230123162103/humeau.com-pince-a-rodage-conique-en-ptfe-rn-29-32-18102320056-218622-30.jpg"
+    },
+    {
+      "sku": "258076",
+      "slug": "raccord-tuyau-t-pp-9-11mm-lot10",
+      "brand": "BURKLE",
+      "name_fr": "Raccord de tuyau en T, PP cylindrique, 9-11 mm — lot de 10",
+      "description_fr": "Embout cylindrique en T pour le raccordement de tuyaux de 9 à 11 mm de diamètre, en polypropylène résistant jusqu'à +135 °C, autoclavable à 121 °C et apte au contact alimentaire. Vendu en lot de 10.",
+      "variant_name_fr": "9-11 mm — lot de 10",
+      "price_eur": 11.60,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Couleur": "Translucide",
+        "Conditionnement": "10",
+        "Contact alimentaire": "Oui",
+        "Marque": "Burkle"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82187050010_20220505220233/humeau.com-raccord-de-tuyau-en-t-en-pp-diam-9-11mm-cylindrique-x10-82187050010-258076-30.jpg"
+    },
+    {
+      "sku": "222114",
+      "slug": "raccord-droit-pp-8-10mm-lot10",
+      "brand": "KARTELL",
+      "name_fr": "Raccord droit en PP, diamètre 8-9-10 mm — lot de 10",
+      "description_fr": "Raccord droit en polypropylène testé selon la norme REACH, destiné à la connexion de tuyaux de 8, 9 ou 10 mm de diamètre. Vendu en lot de 10.",
+      "variant_name_fr": "8-9-10 mm — lot de 10",
+      "price_eur": 43.60,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Conditionnement": "10",
+        "Diamètre trou base (mm)": "4.5",
+        "Marque": "Kartell"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19765070512_20230731104107/humeau.com-raccord-droit-en-pp-d-8-9-10mm-pack-de-10-222114-222114-30.jpg"
+    },
+    {
+      "sku": "220866",
+      "slug": "raccord-pe-2-parties-4-6mm-lot10",
+      "brand": "KARTELL",
+      "name_fr": "Raccord en PE 2 parties, diamètre 4-6 mm — lot de 10",
+      "description_fr": "Jonction en deux parties en polyéthylène, pouvant être couplée différemment pour connecter des tubes de diamètres variés, de 4 à 6 mm. Vendu en lot de 10.",
+      "variant_name_fr": "4-6 mm — lot de 10",
+      "price_eur": 14.65,
+      "specs_fr": {
+        "Matière": "Polypropylène",
+        "Conditionnement": "10",
+        "Diamètre trou base (mm)": "1.6",
+        "Marque": "Kartell"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19707043402_20240821150102/humeau.com-raccord-en-pe-2-parties-d-4-6mm-pack-de-10-220866-220866-30.jpg"
+    },
+    {
+      "sku": "257581",
+      "slug": "raccord-pp-universel-4-17mm-lot10",
+      "brand": "LABOPLAST",
+      "name_fr": "Raccord en PP universel, diamètre 4,0-17,0 mm — lot de 10",
+      "description_fr": "Embout conique droit à usage universel pour le raccordement de tuyaux de 4 à 17 mm de diamètre, en polypropylène résistant jusqu'à +135 °C, autoclavable à 121 °C et apte au contact alimentaire. Vendu en lot de 10.",
+      "variant_name_fr": "4,0-17,0 mm — lot de 10",
+      "price_eur": 26.80,
+      "specs_fr": {
+        "Matière": "Polypropylène (PP)",
+        "Couleur": "Translucide",
+        "Conditionnement": "10",
+        "Contact alimentaire": "Oui",
+        "Marque": "Laboplast"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82100000017_20220505215241/humeau.com-raccord-en-pp-universel-d-4-0-17-0mm-pack-de-10-82100000017-257581-30.jpg"
+    },
+    {
+      "sku": "232544",
+      "slug": "raccord-rapide-tuyau-1-8-1-4-in-lot12",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Raccord rapide pour tuyau, 1/8 - 1/4 pouce — lot de 12",
+      "description_fr": "Raccord rapide en polyéthylène composé de deux connecteurs cannelés reliés par un cône central mâle-femelle, interchangeables pour ajuster le diamètre. Montage sans outil, adapté aux tubes flexibles nécessitant une déconnexion fréquente. Vendu en lot de 12.",
+      "variant_name_fr": "1/8 - 1/4 in — lot de 12",
+      "price_eur": 77.60,
+      "specs_fr": {
+        "Matière": "Polyéthylène",
+        "Conditionnement": "12",
+        "Marque": "Sigma-Aldrich",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24310448502_20240213150128/humeau.com-raccord-rapide-pour-tuyau-1-8-1-4-in-pack-x12-24310448502-232544-30.jpg"
+    },
+    {
+      "sku": "205660",
+      "slug": "rodet-alzon-souple-ptfe-55-44-lot10",
+      "brand": "SCILABWARE",
+      "name_fr": "Rodet Alzon souple jetable en PTFE, CN 55/44 — lot de 10",
+      "description_fr": "Rodet souple jetable en PTFE pur, permettant une séparation facile des rodages tout en assurant un joint étanche au gaz sans risque de contamination par la graisse. Excellente résistance chimique, plage de température de -100 à +250 °C, adapté aux travaux sous vide primaire. Format CN 55/44, vendu en lot de 10.",
+      "variant_name_fr": "55/44 — lot de 10",
+      "price_eur": 114.30,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "55/44",
+        "Conditionnement": "10",
+        "Marque": "Scilabware",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700766802_20230817161102/humeau.com-rodet-alzon-souple-jetable-en-ptfe-cn-55-44-pack-de-10-06700766802-205660-30.jpg"
+    },
+    {
+      "sku": "218214",
+      "slug": "rodet-ptfe-19-26-ep0-05mm-lot10",
+      "brand": "VWR",
+      "name_fr": "Rodet en PTFE, RN 19/26, épaisseur 0,05 mm — lot de 10",
+      "description_fr": "Manchette pour rodage standard en PTFE de 0,05 mm d'épaisseur, offrant une très bonne résistance chimique et une étanchéité aux gaz, liquides et vide jusqu'à 0,1 mbar. Thermorésistance de -200 à +280 °C. Format RN 19/26, vendu en lot de 10.",
+      "variant_name_fr": "19/26 — lot de 10",
+      "price_eur": 32.20,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "19/26",
+        "Conditionnement": "10",
+        "Marque": "VWR",
+        "Poids net": "0.004 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218214_20230127112102/humeau.com-rodet-en-ptfe-rn19-26-ep0-05mm-pack-de-10-18102010028-218214-30.jpg"
+    },
+    {
+      "sku": "272028",
+      "slug": "systeme-assemblage-gl32-raccordement-flexible",
+      "brand": "DURAN",
+      "name_fr": "Système d'assemblage GL32 pour raccordement flexible",
+      "description_fr": "Couplage à vis en PBT au filetage GL32, permettant de raccorder un tuyau flexible sur un filetage verre de type Duran. Autoclavable.",
+      "variant_name_fr": "GL32",
+      "price_eur": 69.90,
+      "specs_fr": {
+        "Matière": "PBT",
+        "Diamètre du filetage": "GL 32",
+        "Autoclavable": "Oui",
+        "Marque": "Duran"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/272028_20250428122034/humeau.com-systeme-d-assemblage-gl32-pour-raccordement-flexible-272028-272028-30.jpg"
+    }
+  ]
+}

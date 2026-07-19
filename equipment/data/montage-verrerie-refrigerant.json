@@ -1,0 +1,264 @@
+{
+  "category": {
+    "slug": "montage-verrerie-refrigerant",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Réfrigérants pour montage de verrerie" },
+    "description": {
+      "fr": "Réfrigérants de laboratoire en verre borosilicaté (Liebig, Allihn, Dimroth, Graham) et colonne Vigreux, pour la condensation de vapeurs lors d'opérations de distillation, de reflux ou d'extraction."
+    }
+  },
+  "products": [
+    {
+      "sku": "204901",
+      "slug": "colonne-vigreux-pyrex-24-29-600mm-x5",
+      "brand": "PYREX",
+      "name_fr": "Colonne Vigreux Pyrex, CN 24/29, 600 mm — lot de 5",
+      "description_fr": "Colonne de fractionnement Quickfit type Vigreux, en verre Pyrex, avec indentations horizontales et angulaires favorisant le fractionnement des vapeurs lors d'une distillation. Longueur de 600 mm et rodage 24/29, vendue par lot de 5.",
+      "variant_name_fr": "600 mm — lot de 5",
+      "price_eur": 2497.80,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Longueur (mm)": "600",
+        "Marque": "Pyrex",
+        "Poids net": "1.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000250_20220505195556/humeau.com-colonne-vigreux-pyrex-cn24-29-l600mm-x5-06700000250-204901-30.jpg"
+    },
+    {
+      "sku": "204886",
+      "slug": "refrigerant-allihn-pyrex-24-29-250mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Allihn à boules, Pyrex, CN 24/29, 250 mm",
+      "description_fr": "Réfrigérant à boules selon Allihn en verre Pyrex, recommandé pour les applications de reflux. La succession de boules augmente la surface de refroidissement par rapport à un tube droit. Équipé d'olives à vis amovibles en plastique pour un raccordement simple et sûr des tuyaux souples. Rodage 24/29, longueur effective de 250 mm (405 mm au total).",
+      "variant_name_fr": "250 mm — CN 24/29",
+      "price_eur": 252.40,
+      "specs_fr": {
+        "Longueur (mm)": "Effective : 250 — Totale : 405",
+        "Marque": "Pyrex",
+        "Rodage mâle": "24/29",
+        "Poids net": "0.22 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000235_20230817161102/humeau.com-refrigerant-allihn-1rod-pyrex-cn24-29-l250mm-06700000235-204886-30.jpg"
+    },
+    {
+      "sku": "204888",
+      "slug": "refrigerant-allihn-pyrex-34-35-250mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Allihn à boules, Pyrex, CN 34/35, 250 mm",
+      "description_fr": "Réfrigérant à boules selon Allihn en verre Pyrex, recommandé pour les applications de reflux, avec une surface de refroidissement accrue grâce à sa forme en boules successives. Olives à vis amovibles en plastique pour un raccordement simple et sûr des tuyaux souples. Rodage 34/35, longueur effective de 250 mm (335 mm au total).",
+      "variant_name_fr": "250 mm — CN 34/35",
+      "price_eur": 275.40,
+      "specs_fr": {
+        "Longueur (mm)": "Effective : 250 — Totale : 335",
+        "Marque": "Pyrex",
+        "Rodage mâle": "34/35",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000237_20230817161102/humeau.com-refrigerant-allihn-1rod-pyrex-cn34-35-l250mm-06700000237-204888-30.jpg"
+    },
+    {
+      "sku": "204889",
+      "slug": "refrigerant-allihn-pyrex-40-38-250mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Allihn à boules, Pyrex, CN 40/38, 250 mm",
+      "description_fr": "Réfrigérant à boules selon Allihn en verre Pyrex, recommandé pour les applications de reflux, avec une surface de refroidissement accrue grâce à sa forme en boules successives. Olives à vis amovibles en plastique pour un raccordement simple et sûr des tuyaux souples. Rodage 40/38, longueur effective de 250 mm (365 mm au total).",
+      "variant_name_fr": "250 mm — CN 40/38",
+      "price_eur": 161.48,
+      "specs_fr": {
+        "Longueur (mm)": "Effective : 250 — Totale : 365",
+        "Marque": "Pyrex",
+        "Rodage mâle": "40/38",
+        "Poids net": "0.255 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000238_20260115033003/humeau.com-refrigerant-allihn-1rod-pyrex-cn40-38-l250mm-06700000238-204889-30.jpg"
+    },
+    {
+      "sku": "260975",
+      "slug": "refrigerant-dimroth-14-23-olives-pp-160mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Dimroth, olives PP, CN 14/23, 160 mm",
+      "description_fr": "Réfrigérant à serpentin selon Dimroth en verre borosilicaté 3.3, conforme à la norme DIN 12591. Le raccordement à l'eau se fait par filetage GL14 combiné à des olives en polypropylène. Bonne résistance chimique et aux températures élevées, adapté à la distillation, à la synthèse chimique et à d'autres applications de laboratoire. Longueur 160 mm, rodage 14/23.",
+      "variant_name_fr": "160 mm — olives PP",
+      "price_eur": 71.40,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Longueur (mm)": "160",
+        "Marque": "Labsolute",
+        "Rodage femelle": "CN 14/23",
+        "Rodage mâle": "CN 14/23"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002058_20230817161102/humeau.com-refrigerant-dimroth-cn14-23-olives-pp-l-160mm-82710002058-260975-30.jpg"
+    },
+    {
+      "sku": "260977",
+      "slug": "refrigerant-dimroth-14-23-olives-verre-250mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Dimroth, olives verre, CN 14/23, 250 mm",
+      "description_fr": "Réfrigérant à serpentin selon Dimroth en verre borosilicaté 3.3, conforme à la norme DIN 12591, avec raccordement à l'eau par simples olives en verre. Bonne résistance chimique et aux températures élevées, adapté à la distillation, à la synthèse chimique et à d'autres usages de laboratoire. Longueur 250 mm, rodage 14/23.",
+      "variant_name_fr": "250 mm — olives verre",
+      "price_eur": 74.10,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Longueur (mm)": "250",
+        "Marque": "Labsolute",
+        "Rodage femelle": "CN 14/23",
+        "Rodage mâle": "CN 14/23"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002060_20230817161102/humeau.com-refrigerant-dimroth-cn14-23-olives-verre-l-250mm-82710002060-260977-30.jpg"
+    },
+    {
+      "sku": "260980",
+      "slug": "refrigerant-dimroth-29-32-olives-verre-250mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Dimroth, olives verre, CN 29/32, 250 mm",
+      "description_fr": "Réfrigérant à serpentin selon Dimroth en verre borosilicaté 3.3, conforme à la norme DIN 12591, avec raccordement à l'eau par simples olives en verre. Bonne résistance chimique et aux températures élevées, adapté à la distillation, à la synthèse chimique et à d'autres usages de laboratoire. Longueur 250 mm, rodage 29/32.",
+      "variant_name_fr": "250 mm — olives verre",
+      "price_eur": 72.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Longueur (mm)": "250",
+        "Marque": "Labsolute",
+        "Rodage femelle": "CN 29/32",
+        "Rodage mâle": "CN 29/32"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002063_20230817161102/humeau.com-refrigerant-dimroth-cn29-32-olives-verre-l-250mm-82710002063-260980-30.jpg"
+    },
+    {
+      "sku": "260982",
+      "slug": "refrigerant-dimroth-29-32-olives-verre-400mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Dimroth, olives verre, CN 29/32, 400 mm",
+      "description_fr": "Réfrigérant à serpentin selon Dimroth en verre borosilicaté 3.3, conforme à la norme DIN 12591, avec raccordement à l'eau par simples olives en verre. Bonne résistance chimique et aux températures élevées, adapté à la distillation, à la synthèse chimique et à d'autres usages de laboratoire. Longueur 400 mm, rodage 29/32.",
+      "variant_name_fr": "400 mm — olives verre",
+      "price_eur": 84.80,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Longueur (mm)": "400",
+        "Marque": "Labsolute",
+        "Rodage femelle": "CN 29/32",
+        "Rodage mâle": "CN 29/32"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002065_20230817161102/humeau.com-refrigerant-dimroth-cn29-32-olives-verre-l-400mm-82710002065-260982-30.jpg"
+    },
+    {
+      "sku": "237687",
+      "slug": "refrigerant-dimroth-duran-24-29-250mm",
+      "brand": "DURAN",
+      "name_fr": "Réfrigérant Dimroth à serpentin, verre Duran, CN 24/29, 250 mm",
+      "description_fr": "Réfrigérant à serpentin selon Dimroth en verre Duran, avec deux joints à rodage standard et deux olives dévissables en matière plastique. Sa géométrie en serpentin offre une surface de refroidissement importante. Rodage 24/29, longueur de 250 mm, filetage de 14 mm.",
+      "variant_name_fr": "250 mm",
+      "price_eur": 195.50,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Filetage (mm)": "14",
+        "Longueur (mm)": "250",
+        "Marque": "Duran",
+        "Rodage femelle": "24/29",
+        "Rodage mâle": "24/29",
+        "Poids net": "0.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/0/30600000230_20230613152101/humeau.com-refrigerant-dimroth-duran-cn24-29-l250mm-30600000230-237687-30.jpg"
+    },
+    {
+      "sku": "204899",
+      "slug": "refrigerant-graham-pyrex-19-26-320mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Graham à serpentin, Pyrex, CN 19/26, 320 mm",
+      "description_fr": "Réfrigérant de Graham à serpentin en verre Pyrex, adapté au reflux de vapeurs comme à la distillation. Sa grande surface de refroidissement en fait un réfrigérant à haute efficacité. Livré avec connecteurs à vis en plastique amovibles pour le raccordement simple et sûr de tuyaux de 9 mm. Longueur 320 mm, rodage 19/26.",
+      "variant_name_fr": "320 mm",
+      "price_eur": 421.80,
+      "specs_fr": {
+        "Longueur (mm)": "320",
+        "Marque": "Pyrex",
+        "Rodage femelle": "19/26",
+        "Rodage mâle": "19/26",
+        "Poids net": "0.716 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000248_20220505195556/humeau.com-refrigerant-graham-pyrex-cn19-26-l320mm-06700000248-204899-30.jpg"
+    },
+    {
+      "sku": "260985",
+      "slug": "refrigerant-liebig-2-rodages-olives-pp-29-32-400mm",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Liebig à double rodage, olives PP, CN 29/32, 400 mm",
+      "description_fr": "Réfrigérant selon Liebig en verre borosilicaté 3.3, conforme à la norme DIN 12576, doté de deux rodages et d'un raccordement à l'eau par filetage GL14 combiné à des olives en polypropylène. Bonne résistance chimique et aux températures élevées, utilisable en distillation, synthèse chimique et autres applications de laboratoire. Longueur 400 mm, rodage 29/32.",
+      "variant_name_fr": "400 mm — olives PP",
+      "price_eur": 46.70,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Longueur (mm)": "400",
+        "Marque": "Labsolute",
+        "Rodage femelle": "CN 29/32",
+        "Rodage mâle": "CN 29/32"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002068_20230817161102/humeau.com-refrigerant-liebig-2-rodages-olives-pp-cn29-32-l-400mm-82710002068-260985-30.jpg"
+    },
+    {
+      "sku": "204893",
+      "slug": "refrigerant-liebig-pyrex-14-23-155mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Liebig double rodage, Pyrex, CN 14/23, 155 mm",
+      "description_fr": "Réfrigérant de Liebig à double enveloppe en verre Pyrex, conforme à la norme DIN 12576. Très utilisé pour les distillations et les condensations à reflux. Fourni avec connecteur à vis en plastique pour une utilisation simple et sûre. Longueur 155 mm, rodage 14/23.",
+      "variant_name_fr": "155 mm",
+      "price_eur": 97.80,
+      "specs_fr": {
+        "Longueur (mm)": "155",
+        "Marque": "Pyrex",
+        "Rodage femelle": "14/23",
+        "Rodage mâle": "14/23",
+        "Poids net": "0.092 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000242_20220505195556/humeau.com-refrigerant-liebig-2rod-pyrex-cn14-23-l155mm-06700000242-204893-30.jpg"
+    },
+    {
+      "sku": "205502",
+      "slug": "refrigerant-liebig-pyrex-19-26-250mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Liebig double rodage, Pyrex, CN 19/26, 250 mm",
+      "description_fr": "Réfrigérant de Liebig à double enveloppe en verre Pyrex, conforme à la norme DIN 12576. Très utilisé pour les distillations et les condensations à reflux. Fourni avec connecteur à vis en plastique pour une utilisation simple et sûre. Longueur 250 mm, rodage 19/26.",
+      "variant_name_fr": "250 mm",
+      "price_eur": 95.10,
+      "specs_fr": {
+        "Longueur (mm)": "250",
+        "Marque": "Pyrex",
+        "Rodage femelle": "19/26",
+        "Rodage mâle": "19/26",
+        "Poids net": "0.156 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700122500_20230817154101/humeau.com-refrigerant-liebig-2rod-pyrex-cn19-26-l250mm-06700122500-205502-30.jpg"
+    },
+    {
+      "sku": "204896",
+      "slug": "refrigerant-liebig-pyrex-19-26-398mm",
+      "brand": "PYREX",
+      "name_fr": "Réfrigérant Liebig double rodage, Pyrex, CN 19/26, 398 mm",
+      "description_fr": "Réfrigérant de Liebig à double enveloppe en verre Pyrex, conforme à la norme DIN 12576. Très utilisé pour les distillations et les condensations à reflux. Fourni avec connecteur à vis en plastique pour une utilisation simple et sûre. Longueur 398 mm, rodage 19/26.",
+      "variant_name_fr": "398 mm",
+      "price_eur": 118.60,
+      "specs_fr": {
+        "Longueur (mm)": "398",
+        "Marque": "Pyrex",
+        "Rodage femelle": "19/26",
+        "Rodage mâle": "19/26",
+        "Poids net": "0.206 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000245_20230817154101/humeau.com-refrigerant-liebig-2rod-pyrex-cn19-26-l398mm-06700000245-204896-30.jpg"
+    },
+    {
+      "sku": "260987",
+      "slug": "refrigerant-dimroth-34-35-extracteur-soxhlet",
+      "brand": "LABSOLUTE",
+      "name_fr": "Réfrigérant Dimroth pour extracteur Soxhlet, CN 34/35",
+      "description_fr": "Réfrigérant selon Dimroth spécialement conçu pour équiper un extracteur Soxhlet, en verre borosilicaté 3.3. Raccordement à l'eau par filetage GL14 combiné à des olives en polypropylène. Bonne résistance chimique et aux températures élevées. Volume de 70 mL, rodage mâle 34/35.",
+      "variant_name_fr": "CN 34/35",
+      "price_eur": 88.90,
+      "specs_fr": {
+        "Matière": "Verre borosilicaté 3.3",
+        "Volume": "70 mL",
+        "Marque": "Labsolute",
+        "Rodage mâle": "CN 34/35"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710002070_20230817161102/humeau.com-refrigerant-soxhlet-cn34-35-pour-extracteur-dimroth-82710002070-260987-30.jpg"
+    }
+  ]
+}

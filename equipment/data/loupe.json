@@ -1,0 +1,121 @@
+{
+  "category": {
+    "slug": "loupe",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Loupes de laboratoire"
+    },
+    "description": {
+      "fr": "Loupes à main, loupes éclairantes et lampes-loupes pour l'observation, le contrôle qualité et l'inspection d'échantillons en laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "211038",
+      "slug": "lampe-loupe-circline-22w-x2-25",
+      "brand": "HUMEAU",
+      "name_fr": "Lampe-loupe articulée avec circline 22 W, grossissement x2,25",
+      "description_fr": "Lampe-loupe de bureau articulée équipée d'un tube circline néon 22 W et d'une lentille biconvexe de 125 mm offrant un grossissement de 2,25x (5 dioptries). Tête articulée sur pantographe 2 bras et fixation par pince étau, adaptable sur la plupart des postes de travail.",
+      "variant_name_fr": "x2,25",
+      "price_eur": 89.2,
+      "specs_fr": {
+        "Poids brut": "3.1 KG",
+        "Poids net": "3.1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000281000_20240426110101/humeau.com-lampe-loupe-avec-circline-22w-grossissement-x-2-25-211038-211038-30.jpg"
+    },
+    {
+      "sku": "247968",
+      "slug": "lecteur-buty-atl-lb25x-loupe",
+      "brand": "HUMEAU",
+      "name_fr": "Lecteur de butyromètre ATL LB25X avec loupe",
+      "description_fr": "Appareil de lecture de butyromètres équipé d'un éclairage et de loupes (fenêtre 25 x 30 mm, loupes 50x50 et 50x75 mm) facilitant la lecture des résultats. Fixation murale ou pose sur table.",
+      "variant_name_fr": "Standard",
+      "price_eur": 595.2,
+      "specs_fr": {
+        "Alimentation": "230V AC",
+        "Dimensions extérieures H x L x P (mm)": "215X110X85",
+        "Poids brut": "1.3 KG",
+        "Poids net": "1.4 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/247968_20260615173101/humeau.com-lecteur-de-buty-atl-lb-25-x-avec-loupe-247968-247968-30.jpg"
+    },
+    {
+      "sku": "209435",
+      "slug": "loupe-manche-plastique-noir-15x",
+      "brand": "HUMEAU",
+      "name_fr": "Loupe à manche plastique noir, grossissement x15",
+      "description_fr": "Loupe à manche Schweitzer, grossissement x15, avec manche en plastique noir pour une prise en main confortable lors d'observations de précision.",
+      "variant_name_fr": "x15",
+      "price_eur": 39.8,
+      "specs_fr": {
+        "Diamètre (mm)": "23",
+        "Poids brut": "0.05 KG",
+        "Poids net": "0.05 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610195172_20260615173101/humeau.com-loupe-a-manche-plastique-noir-15x-209435-209435-30.jpg"
+    },
+    {
+      "sku": "277236",
+      "slug": "loupe-d50mm-manche-abs-5x",
+      "brand": "HUMEAU",
+      "name_fr": "Loupe Ø 50 mm, manche ABS, grossissement x5",
+      "description_fr": "Loupe à main avec lentille de 50 mm de diamètre et manche en ABS, grossissement x5, pratique pour l'observation rapide d'échantillons ou de documents.",
+      "variant_name_fr": "x5 — Ø 50 mm",
+      "price_eur": 10.6,
+      "specs_fr": {
+        "Poids brut": "0.12 KG",
+        "Poids net": "0.12 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/277236_20260615173101/humeau.com-loupe-d-50mm-manche-abs-5x-277236-277236-30.jpg"
+    },
+    {
+      "sku": "211058",
+      "slug": "loupe-d75mm-manche-abs-3x",
+      "brand": "HUMEAU",
+      "name_fr": "Loupe Ø 75 mm, manche ABS, grossissement x3",
+      "description_fr": "Loupe à main en verre minéral, avec lentille de 75 mm de diamètre et manche en ABS, offrant un grossissement de x3 pour l'observation de surfaces ou d'échantillons.",
+      "variant_name_fr": "x3 — Ø 75 mm",
+      "price_eur": 18.0,
+      "specs_fr": {
+        "Dimensions": "Ø 75 mm",
+        "Grossissement": "x 3",
+        "Manche": "ABS",
+        "Poids brut": "0.1 KG",
+        "Poids net": "0.1 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000604800_20260622090101/humeau.com-loupe-d-75mm-manche-abs-3x-211058-211058-30.jpg"
+    },
+    {
+      "sku": "278243",
+      "slug": "loupe-eclairante-bras-articule-2-25x-81leds",
+      "brand": "HUMEAU",
+      "name_fr": "Loupe éclairante sur bras articulé, x2,25 — 81 LED",
+      "description_fr": "Loupe éclairante sur bras articulé de 80 cm, lentille biconvexe de 127 mm offrant un grossissement de 2,25x (5 dioptries), équipée de 81 LED haute qualité (flux lumineux de 1000 lm) pour un éclairage homogène. Fixation par étau, adaptée au contrôle qualité, à l'inspection ou à l'analyse d'échantillons en laboratoire.",
+      "variant_name_fr": "x2,25 — 81 LED",
+      "price_eur": 82.8,
+      "specs_fr": {
+        "Poids brut": "2.7 KG",
+        "Poids net": "2.2 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/278243_20250820114104/humeau.com-loupe-eclairante-avec-bras-articule-2-25x-81-leds-hq-278243-278243-30.jpg"
+    },
+    {
+      "sku": "211059",
+      "slug": "loupe-pliante-precision-20x-led-uv",
+      "brand": "MOINEAU",
+      "name_fr": "Loupe pliante de précision x20, métal, LED + UV",
+      "description_fr": "Loupe pliante de poche Moineau en métal avec verre minéral, optique aplanétique et achromatique garantissant une vision sans distorsion ni aberration de couleur. Grossissement x20 avec éclairage LED et UV, utile pour la détection de fuites ou l'analyse par fluorescence.",
+      "variant_name_fr": "x20 — LED + UV",
+      "price_eur": 19.1,
+      "specs_fr": {
+        "Pack": "1",
+        "Marque commerciale": "MOINEAU",
+        "Poids brut": "0.02 KG",
+        "Poids net": "0.02 KG",
+        "Modèle": "20X - Metal - Led + UV"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000705520_20260615173101/humeau.com-loupe-pliante-de-precision-20x-metal-led-uv-211059-211059-30.jpg"
+    }
+  ]
+}

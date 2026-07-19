@@ -1,0 +1,214 @@
+{
+  "category": {
+    "slug": "chronometre",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Chronomètres et minuteurs de laboratoire" },
+    "description": {
+      "fr": "Chronomètres, minuteurs et compte à rebours électroniques ou mécaniques pour le chronométrage précis des expériences et procédures de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "210234",
+      "slug": "chronometre-24h-ultra-leger-3-boutons",
+      "name_fr": "Chronomètre 24 heures ultra-léger à 3 boutons",
+      "description_fr": "Chronomètre Traceable FISHERBRAND à trois boutons, avec une résolution d'une seconde. Affiche l'heure au format 12 heures (AM/PM), la date et le jour de la semaine. Boîtier robuste en plastique ABS, fourni avec certificat de traçabilité étalonné en laboratoire.",
+      "price_eur": 32.10,
+      "specs_fr": {
+        "Précision": "0,01 %"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611765833_20240528140103/humeau.com-chronometre-24h-ultra-leger-a-3-boutons-210234-210234-30.jpg"
+    },
+    {
+      "sku": "258595",
+      "slug": "minuteur-99-min-59-sec-labsolute",
+      "brand": "LABSOLUTE",
+      "name_fr": "Minuteur de base 99 minutes 59 secondes",
+      "description_fr": "Minuteur compact et léger au design épuré, à fonction de compte à rebours et affichage à quatre chiffres jusqu'à 99 minutes 59 secondes. Doté d'un aimant et d'un interrupteur au dos pour prolonger l'autonomie de la pile (LR-44 incluse).",
+      "price_eur": 11.36,
+      "specs_fr": {
+        "Dimensions": "50 x 69 x 8 mm",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.028 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707695455_20260504033001/humeau.com-chronometre-99-minutes-59-sec-d-50x69x8mm-258595-258595-30.jpg"
+    },
+    {
+      "sku": "600495",
+      "slug": "chronometre-compte-a-rebours-24h-stil",
+      "brand": "STIL",
+      "name_fr": "Chronomètre compte à rebours 24 heures",
+      "description_fr": "Chronomètre au 1/100e de seconde à une ligne d'affichage, d'une capacité de 24 heures (précision au centième pendant les 30 premières minutes puis à la seconde). Fonctions temps net, addition, temps intermédiaire (split) et mémorisation des deux premiers temps d'arrivée ; intègre également horloge, calendrier et alarme.",
+      "price_eur": 15.20,
+      "specs_fr": {
+        "Alimentation": "1 x LR44 1,5V",
+        "Marque commerciale": "STIL",
+        "Poids net": "0.069 kg",
+        "Durée de mesure": "23h59min59sec"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600495_20251030163104/humeau.com-chronometre-compte-a-rebours-24h-600495-600495-30.jpg"
+    },
+    {
+      "sku": "207432",
+      "slug": "chronometre-digital-a-quartz",
+      "name_fr": "Chronomètre digital à quartz",
+      "description_fr": "Chronomètre électronique à quartz affichant jusqu'à 59 minutes, 59 secondes et 99/100e de seconde. Fonctions marche/arrêt, remise à zéro, addition illimitée et mesure de temps intermédiaire (split), utile pour deux mesures successives rapprochées. Autonomie de pile de 12 à 14 mois.",
+      "price_eur": 47.60,
+      "specs_fr": {
+        "Dimensions": "80 x 57 x 24 mm",
+        "Matière": "Quartz",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10004140102_20230921170101/humeau.com-chronometre-digital-207432-207432-30.jpg"
+    },
+    {
+      "sku": "210269",
+      "slug": "chronometre-etanche-24h-resistant-chocs",
+      "name_fr": "Chronomètre étanche 24 heures, résistant aux chocs",
+      "description_fr": "Chronomètre étanche Traceable FISHERBRAND affichant l'heure, le jour et la date, avec une plage de mesure de 24 heures et une résolution de 0,01 seconde. Fonctions de chronométrage simple ou continu, de temps mort et de cumul des temps intermédiaires.",
+      "price_eur": 54.50,
+      "specs_fr": {
+        "Dimensions": "54 x 60 x 12,7 mm",
+        "Poids net": "0.028 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/210269_20250207110102/humeau.com-chronometre-etanche-24h-0-01s-resistant-au-chocs-210269-210269-30.jpg"
+    },
+    {
+      "sku": "600496",
+      "slug": "chronometre-grand-affichage-noir-horloge-alarme",
+      "brand": "STIL",
+      "name_fr": "Chronomètre grand affichage au 1/100e, noir, horloge et alarme",
+      "description_fr": "Chronomètre à deux mémoires et affichage sur une ligne, d'une capacité de 24 heures (au centième de seconde pendant les 30 premières minutes puis à la seconde). Fonctions temps net et addition, temps intermédiaire (split), mémorisation des deux premiers temps d'arrivée, horloge, calendrier et alarme.",
+      "price_eur": 11.10,
+      "specs_fr": {
+        "Type de pile": "1 x LR44 1,5V",
+        "Marque commerciale": "STIL",
+        "Poids net": "0.05 kg",
+        "Électronique": "Oui"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600496_20251030163105/humeau.com-chronometre-grand-affichage-1-100eme-noir-horloge-alarme-600496-600496-30.jpg"
+    },
+    {
+      "sku": "600490",
+      "slug": "chronometre-mecanique-15-min",
+      "brand": "STIL",
+      "name_fr": "Chronomètre mécanique 15 minutes",
+      "description_fr": "Chronomètre à mouvement mécanique d'horlogerie muni d'un remontoir, sans besoin de pile. Cadran principal gradué au 1/10e de seconde sur 30 secondes, avec un totalisateur de 15 minutes ; la couronne commande le cycle départ / arrêt / remise à zéro / départ.",
+      "price_eur": 105.40,
+      "specs_fr": {
+        "Alimentation": "Manuelle",
+        "Marque commerciale": "STIL",
+        "Poids net": "0.097 kg",
+        "Durée de mesure": "15 min"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600490_20251029150102/humeau.com-chronometre-mecanique-15-min-600490-600490-30.jpg"
+    },
+    {
+      "sku": "600497",
+      "slug": "chronometre-mecanique-30-min",
+      "brand": "STIL",
+      "name_fr": "Chronomètre mécanique 30 minutes",
+      "description_fr": "Chronomètre à mouvement mécanique d'horlogerie avec remontoir, ne nécessitant aucune pile. Cadran principal gradué au 1/5e de seconde sur 60 secondes, totalisateur de 30 minutes, couronne à cycle départ/arrêt/départ et bouton latéral de remise à zéro des aiguilles. Mouvement à 13 rubis, boîtier en inox.",
+      "price_eur": 125.30,
+      "specs_fr": {
+        "Alimentation": "Manuelle",
+        "Matériaux": "Inox",
+        "Marque commerciale": "STIL",
+        "Poids net": "0.098 kg",
+        "Durée de mesure": "30 minutes"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600497_20251030163105/humeau.com-chronometre-mecanique-30-min-600497-600497-30.jpg"
+    },
+    {
+      "sku": "219204",
+      "slug": "chronometre-numerique-1-100-seconde-alarme",
+      "brand": "VWR",
+      "name_fr": "Chronomètre numérique au 1/100e de seconde avec alarme",
+      "description_fr": "Chronomètre électronique intégrant calendrier et horloge, avec chronométrage au 1/100e de seconde, fonction d'alarme et mémoire permettant d'enregistrer un temps intermédiaire.",
+      "price_eur": 83.20,
+      "specs_fr": {
+        "Dimensions": "63 x 80 mm",
+        "Couleur": "Noir",
+        "Précision": "0,01 s",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219204_20250207110102/humeau.com-chronometre-numerique-1-100-secondes-avec-alarme-18106090139-219204-30.jpg"
+    },
+    {
+      "sku": "210083",
+      "slug": "minuteur-3-canaux-20h-alarme-fixation",
+      "brand": "FISHER",
+      "name_fr": "Minuteur à triple affichage 3 canaux, 20 heures, avec alarme et fixation",
+      "description_fr": "Minuteur Traceable FISHERBRAND à trois canaux d'affichage indépendants, permettant de rappeler instantanément les réglages de chaque canal. Utilisable en minuteur, chronomètre ou horloge : jusqu'à 24 heures en chronomètre et 20 heures en minuteur, avec affichage du temps écoulé après l'alarme. Fourni avec certificat NIST-Traceable d'un laboratoire d'étalonnage accrédité A2LA.",
+      "price_eur": 112.00,
+      "specs_fr": {
+        "Dimensions": "2 x 6 x 8 cm",
+        "Alimentation": "Batterie comprise",
+        "Couleur": "Noir",
+        "Nombre de canaux": "3",
+        "Précision": "0,01 %",
+        "Marque commerciale": "FISHER",
+        "Poids net": "0.2 kg",
+        "Certificat": "Étalonnage ISO 17025 agréé A2LA"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611705873_20250806164101/humeau.com-chronometre-rebours-3-canaux-20h-alarme-sonore-fixation-210083-210083-30.jpg"
+    },
+    {
+      "sku": "210976",
+      "slug": "compteur-decompteur-3-canaux-24h-alarme",
+      "name_fr": "Compteur/décompteur 3 canaux, 24 heures, avec alarme deux temps",
+      "description_fr": "Minuteur digital permettant de faire fonctionner jusqu'à deux compteurs et/ou décompteurs simultanément, avec une capacité de 24 heures. Se pose avec sa béquille ou se suspend grâce à sa pince arrière ; à l'échéance, il sonne et affiche le temps de dépassement. Intègre également une fonction horloge, alarme et répétition (snooze).",
+      "price_eur": 18.40,
+      "specs_fr": {
+        "Dimensions": "75 x 63 x 30 mm",
+        "Poids net": "0.074 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/210976_20250207110102/humeau.com-compteur-decompteur-3-canaux-24h-alarme-2-temps-210976-210976-30.jpg"
+    },
+    {
+      "sku": "210989",
+      "slug": "minuteur-compteur-decompteur-100-min",
+      "name_fr": "Minuteur compteur/décompteur 100 minutes",
+      "description_fr": "Minuteur digital à façade en aluminium brossé, offrant des fonctions de comptage et de décomptage jusqu'à 99 minutes 59 secondes à la seconde près. Doté d'une béquille, d'un crochet, d'une fixation murale et d'un aimant néodyme puissant au dos, avec mémorisation du temps programmé.",
+      "price_eur": 15.40,
+      "specs_fr": {
+        "Dimensions": "72 x 65 x 19 mm",
+        "Type de pile": "AAA",
+        "Dimension écran": "47 x 20 mm",
+        "Alarme": "1 min",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/2/12000070600_20241122154106/humeau.com-minuteur-compteur-decompteur-100mn-210989-210989-30.jpg"
+    },
+    {
+      "sku": "210331",
+      "slug": "minuteur-paillasse-100-min-alarme",
+      "brand": "FISHER",
+      "name_fr": "Minuteur de paillasse 100 minutes avec alarme",
+      "description_fr": "Minuteur de paillasse Traceable FISHERBRAND doté d'un rappel de mémoire, d'une plage de minuterie de 99 minutes 59 secondes et d'une résolution d'une seconde. Écran LCD de 0,75 pouce lisible jusqu'à 20 pieds, alarme de 30 secondes désactivable manuellement ou automatiquement. Livré avec chevalet, clip, dos magnétique et pile AAA.",
+      "price_eur": 56.85,
+      "specs_fr": {
+        "Dimensions": "6,4 x 6,4 x 1,3 cm",
+        "Marque commerciale": "FISHER",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11611799795_20230731104107/humeau.com-minuteur-de-paillasse-100-minutes-avec-alarme-210331-210331-30.jpg"
+    },
+    {
+      "sku": "600492",
+      "slug": "triple-timer-3-canaux-horloge-chronometre",
+      "brand": "STIL",
+      "name_fr": "Minuteur triple 3 canaux avec horloge et chronomètre",
+      "description_fr": "Minuteur électronique gérant trois temporisations simultanées sur 20 heures, avec affichage en heures/minutes/secondes. Fonctionne en décompte ou en compte progressif, dispose d'un chronomètre au 1/100e, d'un grand écran, d'une fonction mémoire, d'un aimant, d'un support et d'un anneau de suspension.",
+      "price_eur": 21.80,
+      "specs_fr": {
+        "Alimentation": "2 x LR03 AAA",
+        "Marque commerciale": "STIL",
+        "Poids net": "0.142 kg",
+        "Durée de mesure": "19h59min59sec"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/6/0/600492_20251030112101/humeau.com-triple-timer-3-canaux-avec-horloge-et-chronometre-600492-600492-30.jpg"
+    }
+  ]
+}

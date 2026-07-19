@@ -11,6 +11,10 @@
 ## Ready to execute
 - [ ] **Product card redesign** — plan at `docs/superpowers/plans/2026-06-21-product-card-redesign.md`. Start with manual Supabase SQL migration (Task 1), then invoke `superpowers:executing-plans`.
 
+## Done 2026-07-18
+- [x] Site logo replaced (Header + Footer)
+- [x] Devis form wired to Airtable (lead storage) + Resend (email notification) — tested end-to-end
+
 ## Done this session
 - [x] Homepage implemented (10 components)
 - [x] Tech stack locked: Next.js 16 + Supabase + Tailwind v4 + next-intl
@@ -25,8 +29,9 @@
 ## Backlog
 - [ ] Auth guard on /admin routes — **plan ready**, execute `docs/superpowers/plans/2026-06-20-admin-auth-guard.md` (subagent-driven). BLOCKER before go-live.
 - [ ] Product detail page: `/shop/[slug]`
-- [ ] Cart + quote request flow
+- [ ] Cart flow
 - [ ] Checkout (CMI + Cash on delivery)
+- [ ] Verify custom domain in Resend (currently on shared `onboarding@resend.dev` test sender)
 - [ ] Order management in admin
 - [ ] CI/CD pipeline
 - [ ] Integrate payment gateway (CMI)

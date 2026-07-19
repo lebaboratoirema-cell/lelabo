@@ -1,0 +1,259 @@
+{
+  "category": {
+    "slug": "couvre-objet-lame-lamelle",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Couvre-objets"
+    },
+    "description": {
+      "fr": "Lamelles couvre-objets en verre, carrées ou rectangulaires, pour la protection des préparations microscopiques et des objectifs de microscope."
+    }
+  },
+  "products": [
+    {
+      "sku": "220756",
+      "slug": "lamelles-couvre-objet-verre-18x18mm-pack-100",
+      "brand": "KNITTEL",
+      "name_fr": "Lamelles couvre-objet en verre, carrées, 18 x 18 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objets carrées KNITTEL en verre, format 18 x 18 mm, épaisseur 0,13 à 0,17 mm, livrées en boîte de 100.",
+      "variant_name_fr": "18 x 18 mm — boîte de 100",
+      "price_eur": 7.8,
+      "specs_fr": {
+        "Dimensions": "18 x 18 mm",
+        "Matière": "Verre",
+        "Épaisseur": "0,13 - 0,17 mm",
+        "Conditionnement": "100",
+        "Marque commerciale": "KNITTEL",
+        "Poids net": "0.017 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19703320618_20231116153101/humeau.com-lamelles-18x18-pack-100-220756-220756-30.jpg"
+    },
+    {
+      "sku": "219514",
+      "slug": "lamelles-couvre-objet-18x24mm-ep-0-13mm-pack-1000",
+      "brand": "VWR",
+      "name_fr": "Lamelles couvre-objet rectangulaires, 18 x 24 mm, épaisseur 0,13 mm — pack de 1000",
+      "description_fr": "Lamelles couvre-objet rectangulaires VWR en verre hydrolytique blanc pur de classe 1, nettoyées et polies, format 18 x 24 mm, épaisseur 0,13 mm. Conditionnement en grande quantité (1000 unités).",
+      "variant_name_fr": "18 x 24 mm — pack de 1000",
+      "price_eur": 54,
+      "specs_fr": {
+        "Dimensions": "18 x 24 mm",
+        "Conditionnement": "1000",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219514_20221222160101/humeau.com-lamelles-couvre-objet-18x24mm-ep-0-13mm-pack-x1000-18106310130-219514-30.jpg"
+    },
+    {
+      "sku": "220747",
+      "slug": "lamelles-couvre-objet-22x22mm-ep-0-4mm-boite-10",
+      "brand": "KNITTEL",
+      "name_fr": "Lamelles couvre-objet en verre plané, carrées, 22 x 22 mm, épaisseur 0,4 mm — boîte de 10",
+      "description_fr": "Lamelle couvre-objet planée KNITTEL en verre, carrée, format 22 x 22 mm, épaisseur 0,4 mm, livrée en boîte de 10.",
+      "variant_name_fr": "22 x 22 mm — boîte de 10",
+      "price_eur": 20.8,
+      "specs_fr": {
+        "Dimensions": "22 x 22 mm",
+        "Épaisseur": "0,4 mm",
+        "Conditionnement": "10",
+        "Marque commerciale": "KNITTEL",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/220747_20250619143102/humeau.com-lamelles-couvre-objet-22x22mm-ep-0-4mm-boite-de-10-220747-220747-30.jpg"
+    },
+    {
+      "sku": "239634",
+      "slug": "lamelles-couvre-objet-carrees-20x20mm-x200",
+      "brand": "DELTALAB",
+      "name_fr": "Lamelles couvre-objet carrées en verre, 20 x 20 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet DELTALAB en verre clair pré-nettoyé, carrées, format 20 x 20 mm, épaisseur 0,13 à 0,16 mm, pour la protection des échantillons et des objectifs de microscope. Chaque boîte contient un sachet de gel de silice et est emballée sous vide (tropical pack) pour une ouverture facile sans ciseaux.",
+      "variant_name_fr": "20 x 20 mm — boîte de 200",
+      "price_eur": 4.06,
+      "specs_fr": {
+        "Dimensions": "20 x 20 mm",
+        "Épaisseur": "0,13 - 0,16 mm",
+        "Conditionnement": "200",
+        "Marque commerciale": "DELTALAB",
+        "Poids net": "0.055 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/9/39910202002_20250505102101/humeau.com-lamelles-couvre-objets-carrees-20x20-mm-x200-239634-239634-30.jpg"
+    },
+    {
+      "sku": "239635",
+      "slug": "lamelles-couvre-objet-carrees-22x22mm-x200",
+      "brand": "DELTALAB",
+      "name_fr": "Lamelles couvre-objet carrées en verre, 22 x 22 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet DELTALAB en verre clair pré-nettoyé, carrées, format 22 x 22 mm, épaisseur 0,13 à 0,16 mm, pour la protection des échantillons et des objectifs de microscope. Chaque boîte contient un sachet de gel de silice et est emballée sous vide (tropical pack) pour une ouverture facile sans ciseaux.",
+      "variant_name_fr": "22 x 22 mm — boîte de 200",
+      "price_eur": 4.76,
+      "specs_fr": {
+        "Dimensions": "22 x 22 mm",
+        "Épaisseur": "0,13 - 0,16 mm",
+        "Conditionnement": "200",
+        "Marque commerciale": "DELTALAB",
+        "Poids net": "0.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/9/39910222202_20230817161102/humeau.com-lamelles-couvre-objets-carrees-22x22-mm-x200-39910222202-239635-30.jpg"
+    },
+    {
+      "sku": "260618",
+      "slug": "lamelles-couvre-objet-verre-boro-15x15mm-x200",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 15 x 15 mm, épaisseur 0,13-0,16 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 15 x 15 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "15 x 15 mm — boîte de 200",
+      "price_eur": 4.1,
+      "specs_fr": {
+        "Dimensions": "15 x 15 mm",
+        "Épaisseur": "0,13 - 0,16 mm",
+        "Conditionnement": "200",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.035 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001701_20250718115101/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-15x15mm-x200-260618-260618-30.jpg"
+    },
+    {
+      "sku": "260619",
+      "slug": "lamelles-couvre-objet-verre-boro-18x18mm-x200",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 18 x 18 mm, épaisseur 0,13-0,16 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 18 x 18 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "18 x 18 mm — boîte de 200",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Dimensions": "18 x 18 mm",
+        "Matière": "Verre borosilicaté 3.3",
+        "Conditionnement": "200",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.041 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001702_20260306170101/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-18x18mm-x200-260619-260619-30.jpg"
+    },
+    {
+      "sku": "260620",
+      "slug": "lamelles-couvre-objet-verre-boro-20x20mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 20 x 20 mm, épaisseur 0,13-0,16 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 20 x 20 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "20 x 20 mm — boîte de 100",
+      "price_eur": 5,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001703_20250325114101/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-20x20mm-x200-260620-260620-30.jpg"
+    },
+    {
+      "sku": "258594",
+      "slug": "lamelles-couvre-objet-verre-boro-21x26mm-x200",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 21 x 26 mm, épaisseur 0,13-0,16 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni traces. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 21 x 26 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "21 x 26 mm — boîte de 200",
+      "price_eur": 3.4,
+      "specs_fr": {
+        "Dimensions": "21 x 26 mm",
+        "Matière": "Verre borosilicaté 3.3",
+        "Conditionnement": "Boîte de 200",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.42 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82707695027_20240725144102/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-21x26mm-x200-258594-258594-30.jpg"
+    },
+    {
+      "sku": "260615",
+      "slug": "lamelles-couvre-objet-verre-boro-24x40mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 24 x 40 mm, épaisseur 0,13-0,16 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 24 x 40 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "24 x 40 mm — boîte de 100",
+      "price_eur": 5.3,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001698_20251113140103/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-24x40mm-x100-260615-260615-30.jpg"
+    },
+    {
+      "sku": "260617",
+      "slug": "lamelles-couvre-objet-verre-boro-24x60mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 24 x 60 mm, épaisseur 0,13-0,16 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 24 x 60 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "24 x 60 mm — boîte de 100",
+      "price_eur": 6.7,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001700_20231214095101/humeau.com-lamelles-couvre-objets-verre-boro-ep-0-13-0-16-24x60mm-x100-260617-260617-30.jpg"
+    },
+    {
+      "sku": "260621",
+      "slug": "lamelles-couvre-objet-verre-boro-22x22mm-x200",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 22 x 22 mm, épaisseur 0,13-0,16 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 22 x 22 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "22 x 22 mm — boîte de 200",
+      "price_eur": 5.3,
+      "specs_fr": {
+        "Conditionnement": "200",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001704_20230817161102/humeau.com-lamelles-couvre-objets-verre-boro-ep-1-22x22mm-x200-82710001704-260621-30.jpg"
+    },
+    {
+      "sku": "260622",
+      "slug": "lamelles-couvre-objet-verre-boro-24x24mm-x200",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 24 x 24 mm, épaisseur 0,13-0,16 mm — boîte de 200",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 24 x 24 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "24 x 24 mm — boîte de 200",
+      "price_eur": 6.7,
+      "specs_fr": {
+        "Dimensions": "24 x 24 mm",
+        "Matière": "Verre borosilicaté 3.3",
+        "Conditionnement": "200",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.058 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001705_20230817161102/humeau.com-lamelles-couvre-objets-verre-boro-ep-1-24x24mm-x200-82710001705-260622-30.jpg"
+    },
+    {
+      "sku": "260614",
+      "slug": "lamelles-couvre-objet-verre-boro-24x32mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 24 x 32 mm, épaisseur 0,13-0,16 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 24 x 32 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "24 x 32 mm — boîte de 100",
+      "price_eur": 4.2,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001697_20230817161102/humeau.com-lamelles-couvre-objets-verre-boro-ep-1-24x32mm-x100-82710001697-260614-30.jpg"
+    },
+    {
+      "sku": "260616",
+      "slug": "lamelles-couvre-objet-verre-boro-24x50mm-x100",
+      "brand": "LABSOLUTE",
+      "name_fr": "Lamelles couvre-objet en verre borosilicaté, 24 x 50 mm, épaisseur 0,13-0,16 mm — boîte de 100",
+      "description_fr": "Lamelles couvre-objet LABSOLUTE en verre borosilicaté 3.3, première classe hydrolytique, garanties sans contamination, bulles ni frottis. Fabriquées conformément à la directive 98/79/CE (DIV) et aux normes DIN ISO 8255-1 et 8255-2, marquage CE. Format 24 x 50 mm, épaisseur 0,13-0,16 mm, livrées en boîtes pratiques et sécurisées.",
+      "variant_name_fr": "24 x 50 mm — boîte de 100",
+      "price_eur": 5.8,
+      "specs_fr": {
+        "Dimensions": "24 x 50 mm",
+        "Matière": "Verre borosilicaté 3.3",
+        "Conditionnement": "100",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.059 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710001699_20230817161102/humeau.com-lamelles-couvre-objets-verre-boro-ep-1-24x50mm-x100-82710001699-260616-30.jpg"
+    }
+  ]
+}

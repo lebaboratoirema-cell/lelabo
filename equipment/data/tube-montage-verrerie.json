@@ -1,0 +1,249 @@
+{
+  "category": {
+    "slug": "tube-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Tubes de jonction pour montage de verrerie" },
+    "description": {
+      "fr": "Tubes de jonction en verre Pyrex à rodages coniques ou sphériques, rodets en PTFE et colliers de maintien, pour assembler et étancher les montages de verrerie de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "205184",
+      "slug": "collier-metallique-rodage-spherique-75mm",
+      "brand": "AZLON",
+      "name_fr": "Collier métallique pour rodage sphérique, diamètre 75 mm",
+      "description_fr": "Pince métallique en acier inoxydable, de conception à ressort, destinée au maintien des joints à bride plate Quickfit sur un rodage sphérique de 75 mm.",
+      "variant_name_fr": "75 mm",
+      "price_eur": 80.20,
+      "specs_fr": {
+        "Matière": "Acier inoxydable",
+        "Marque": "Azlon",
+        "Poids net": "0.067 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000533_20220505195556/humeau.com-collier-metallique-pour-rodage-sperique-d-75mm-06700000533-205184-30.jpg"
+    },
+    {
+      "sku": "205170",
+      "slug": "rodet-azlon-rigide-ptfe-19-26",
+      "brand": "AZLON",
+      "name_fr": "Rodet Azlon rigide en PTFE, CN 19/26",
+      "description_fr": "Rodet rigide en PTFE évitant l'usage de graisse sur les rodages tout en assurant une étanchéité au vide poussé. Robuste, avec collerette pour une manipulation aisée et une utilisation répétée, autolubrifiant et sans contamination. Plage de température de -100 à +260 °C, vide de travail inférieur ou égal à 10⁻³ atmosphère. Format CN 19/26.",
+      "variant_name_fr": "19/26",
+      "price_eur": 28.10,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Rodage mâle et femelle CN": "19/26",
+        "Marque": "Azlon",
+        "Poids net": "0.006 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000519_20230817161102/humeau.com-rodet-azlon-rigide-en-ptfe-cn-19-26-06700000519-205170-30.jpg"
+    },
+    {
+      "sku": "205175",
+      "slug": "rodet-azlon-souple-ptfe-19-26-lot10",
+      "brand": "AZLON",
+      "name_fr": "Rodet Azlon souple jetable en PTFE, CN 19/26 — lot de 10",
+      "description_fr": "Rodet souple jetable en PTFE pur, facilitant la séparation des rodages tout en formant un joint étanche au gaz, sans contamination par la graisse. Excellente résistance chimique, plage de température de -100 à +250 °C, adapté aux travaux sous vide primaire. Format CN 19/26, vendu en lot de 10.",
+      "variant_name_fr": "19/26 — lot de 10",
+      "price_eur": 47.70,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle et femelle CN": "19/26",
+        "Marque": "Azlon",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000524_20230817161102/humeau.com-rodet-azlon-souple-jetable-en-ptfe-cn-19-26-pack-de-10-06700000524-205175-30.jpg"
+    },
+    {
+      "sku": "205177",
+      "slug": "rodet-azlon-souple-ptfe-29-32-lot10",
+      "brand": "AZLON",
+      "name_fr": "Rodet Azlon souple jetable en PTFE, CN 29/32 — lot de 10",
+      "description_fr": "Rodet souple jetable en PTFE pur, facilitant la séparation des rodages tout en formant un joint étanche au gaz, sans contamination par la graisse. Excellente résistance chimique, plage de température de -100 à +250 °C, adapté aux travaux sous vide primaire. Format CN 29/32, vendu en lot de 10.",
+      "variant_name_fr": "29/32 — lot de 10",
+      "price_eur": 48.80,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "Azlon",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000526_20231004150101/humeau.com-rodet-azlon-souple-jetable-en-ptfe-cn-29-32-pack-de-10-205177-205177-30.jpg"
+    },
+    {
+      "sku": "205180",
+      "slug": "rodet-azlon-souple-ptfe-45-40-lot10",
+      "brand": "AZLON",
+      "name_fr": "Rodet Azlon souple jetable en PTFE, CN 45/40 — lot de 10",
+      "description_fr": "Rodet souple jetable en PTFE pur, facilitant la séparation des rodages tout en formant un joint étanche au gaz, sans contamination par la graisse. Excellente résistance chimique, plage de température de -100 à +250 °C, adapté aux travaux sous vide primaire. Format CN 45/40, vendu en lot de 10.",
+      "variant_name_fr": "45/40 — lot de 10",
+      "price_eur": 88.30,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle et femelle CN": "45/40",
+        "Marque": "Azlon",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000529_20230817161102/humeau.com-rodet-azlon-souple-jetable-en-ptfe-cn-45-40-pack-de-10-06700000529-205180-30.jpg"
+    },
+    {
+      "sku": "205148",
+      "slug": "tube-jonction-prolonge-pyrex-24-29-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction prolongé Pyrex, rodage mâle 24/29 — lot de 10",
+      "description_fr": "Tube de jonction prolongé en verre Pyrex, avec rodage mâle 24/29 et une longueur de 90 mm. Sans marquage céramique. Vendu en lot de 10.",
+      "variant_name_fr": "24/29 — lot de 10",
+      "price_eur": 98.90,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle": "24/29",
+        "Marque": "Pyrex",
+        "Poids net": "0.47 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000497_20220505195556/humeau.com-tube-de-jonction-prolonge-pyrex-rodage-male-24-29-x-10-06700000497-205148-30.jpg"
+    },
+    {
+      "sku": "205163",
+      "slug": "tube-jonction-pyrex-rodage-spherique-femelle-13-5-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction Pyrex, rodage sphérique femelle S13/5 — lot de 10",
+      "description_fr": "Tube de jonction en verre Pyrex, à rodage sphérique femelle S13/5, conçu pour être utilisé avec des joints à rotule Quickfit. Longueur de 100 mm, vendu en lot de 10.",
+      "variant_name_fr": "S13/5 — lot de 10",
+      "price_eur": 240.30,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Marque": "Pyrex",
+        "Poids net": "0.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000512_20220505195556/humeau.com-tube-de-jonction-pyrex-rodage-spherique-femelle-13-5-x-10-06700000512-205163-30.jpg"
+    },
+    {
+      "sku": "205166",
+      "slug": "tube-jonction-pyrex-rodage-spherique-femelle-35-20",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction Pyrex, rodage sphérique femelle S35/20",
+      "description_fr": "Tube de jonction en verre Pyrex, à rodage sphérique femelle S35/20, conçu pour être utilisé avec des joints à rotule Quickfit. Longueur de 100 mm.",
+      "variant_name_fr": "S35/20",
+      "price_eur": 38.70,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Pyrex",
+        "Poids net": "0.078 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000515_20220505195556/humeau.com-tube-de-jonction-pyrex-rodage-spherique-femelle-35-20-06700000515-205166-30.jpg"
+    },
+    {
+      "sku": "205160",
+      "slug": "tube-jonction-pyrex-rodage-spherique-male-29-15-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction Pyrex, rodage sphérique mâle S29/15 — lot de 10",
+      "description_fr": "Tube de jonction en verre Pyrex, à rodage sphérique mâle S29/15, conçu pour être utilisé avec des joints à rotule Quickfit. Longueur de 100 mm, vendu en lot de 10.",
+      "variant_name_fr": "S29/15 — lot de 10",
+      "price_eur": 344.90,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle": "29/15",
+        "Marque": "Pyrex",
+        "Poids net": "0.67 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000509_20220505195556/humeau.com-tube-de-jonction-pyrex-rodage-spherique-male-29-15-x-10-06700000509-205160-30.jpg"
+    },
+    {
+      "sku": "205134",
+      "slug": "tube-jonction-pyrex-rodage-femelle-14-23-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction Pyrex, rodage femelle 14/23 — lot de 10",
+      "description_fr": "Tube de jonction en verre Pyrex, à rodage femelle 14/23, avec un profil rond sur le dessus de la douille pour une résistance mécanique supplémentaire. Douilles présentant une longueur de tige minimale de 100 mm, étanches à l'air, aux gaz et aux liquides. Vendu en lot de 10.",
+      "variant_name_fr": "14/23 — lot de 10",
+      "price_eur": 55.00,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage femelle": "14/23",
+        "Marque": "Pyrex",
+        "Poids net": "0.33 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000483_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-femelle-14-23-pack-de-10-06700000483-205134-30.jpg"
+    },
+    {
+      "sku": "205139",
+      "slug": "tube-jonction-pyrex-rodage-femelle-40-38-lot5",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction Pyrex, rodage femelle 40/38 — lot de 5",
+      "description_fr": "Tube de jonction en verre Pyrex, à rodage femelle 40/38, avec un profil rond sur le dessus de la douille pour une résistance mécanique supplémentaire. Douilles présentant une longueur de tige minimale de 100 mm, étanches à l'air, aux gaz et aux liquides. Vendu en lot de 5.",
+      "variant_name_fr": "40/38 — lot de 5",
+      "price_eur": 139.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Rodage femelle": "40/38",
+        "Marque": "Pyrex",
+        "Poids net": "0.655 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000488_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-femelle-40-38-pack-de-5-06700000488-205139-30.jpg"
+    },
+    {
+      "sku": "205123",
+      "slug": "tube-jonction-pyrex-rodage-male-19-26-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction conique Pyrex, rodage mâle CN 19/26 — lot de 10",
+      "description_fr": "Tube de jonction conique en verre Pyrex, à rodage mâle CN 19/26, fabriqué aux dimensions européennes des joints de longueur B. Cônes en verre dépoli meulés pour une finition lisse et une précision supérieure aux exigences de la norme ISO 383, non marqués en céramique. Verre borosilicaté Pyrex offrant une bonne résistance à la corrosion chimique et aux chocs thermiques. Vendu en lot de 10.",
+      "variant_name_fr": "19/26 — lot de 10",
+      "price_eur": 79.20,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle": "19/26",
+        "Marque": "Pyrex",
+        "Poids net": "0.32 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000472_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-male-19-26-pack-de-10-06700000472-205123-30.jpg"
+    },
+    {
+      "sku": "205125",
+      "slug": "tube-jonction-pyrex-rodage-male-29-32-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction conique Pyrex, rodage mâle CN 29/32 — lot de 10",
+      "description_fr": "Tube de jonction conique en verre Pyrex, à rodage mâle CN 29/32, fabriqué aux dimensions européennes des joints de longueur B. Cônes en verre dépoli meulés pour une finition lisse et une précision supérieure aux exigences de la norme ISO 383, non marqués en céramique. Verre borosilicaté Pyrex offrant une bonne résistance à la corrosion chimique et aux chocs thermiques. Vendu en lot de 10.",
+      "variant_name_fr": "29/32 — lot de 10",
+      "price_eur": 100.10,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle": "29/32",
+        "Marque": "Pyrex",
+        "Poids net": "0.62 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000474_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-male-29-32-pack-de-10-06700000474-205125-30.jpg"
+    },
+    {
+      "sku": "205128",
+      "slug": "tube-jonction-pyrex-rodage-male-45-40-lot5",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction conique Pyrex, rodage mâle CN 45/40 — lot de 5",
+      "description_fr": "Tube de jonction conique en verre Pyrex, à rodage mâle CN 45/40, fabriqué aux dimensions européennes des joints de longueur B. Cônes en verre dépoli meulés pour une finition lisse et une précision supérieure aux exigences de la norme ISO 383, non marqués en céramique. Verre borosilicaté Pyrex offrant une bonne résistance à la corrosion chimique et aux chocs thermiques. Vendu en lot de 5.",
+      "variant_name_fr": "45/40 — lot de 5",
+      "price_eur": 127.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Rodage mâle": "45/40",
+        "Marque": "Pyrex",
+        "Poids net": "0.585 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000477_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-male-45-40-pack-de-5-06700000477-205128-30.jpg"
+    },
+    {
+      "sku": "205119",
+      "slug": "tube-jonction-pyrex-rodage-male-7-16-lot10",
+      "brand": "PYREX",
+      "name_fr": "Tube de jonction conique Pyrex, rodage mâle CN 7/16 — lot de 10",
+      "description_fr": "Tube de jonction conique en verre Pyrex, à rodage mâle CN 7/16, fabriqué aux dimensions européennes des joints de longueur B. Cônes en verre dépoli meulés pour une finition lisse et une précision supérieure aux exigences de la norme ISO 383, non marqués en céramique. Verre borosilicaté Pyrex offrant une bonne résistance à la corrosion chimique et aux chocs thermiques. Vendu en lot de 10.",
+      "variant_name_fr": "7/16 — lot de 10",
+      "price_eur": 135.00,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Rodage mâle": "7/16",
+        "Marque": "Pyrex",
+        "Poids net": "0.15 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000468_20220505195556/humeau.com-tube-de-jontion-pyrex-a-rodage-male-7-16-pack-de-10-06700000468-205119-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "category": {
+    "slug": "anneau-de-lestage",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Anneaux de lestage" },
+    "description": {
+      "fr": "Anneaux de lestage en acier revêtu de PVC, destinés à stabiliser fioles et flacons dans les bains-marie et à éviter leur flottaison ou leur renversement."
+    }
+  },
+  "products": [
+    {
+      "sku": "222026",
+      "slug": "anneau-lestage-56mm-flacons-250-1000ml",
+      "name_fr": "Anneau de lestage Ø56 mm pour flacons de 250 à 1000 mL",
+      "description_fr": "Anneau de stabilisation en acier recouvert de PVC, destiné aux fioles Erlenmeyer de 250 mL à 1 L immergées dans l'eau. Diamètre intérieur de 56 mm, diamètre extérieur de 90 mm.",
+      "variant_name_fr": "Ø int. 56 mm",
+      "price_eur": 8.40,
+      "specs_fr": {
+        "Matière": "Acier recouvert de PVC",
+        "Diamètre interne": "56 mm",
+        "Diamètre externe": "90 mm",
+        "Poids net": "0.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760300560_20240723093103/humeau.com-anneau-de-lestage-d-56mm-pour-flacons-de-250-a-1000ml-222026-222026-30.jpg"
+    },
+    {
+      "sku": "220808",
+      "slug": "anneau-lestage-56mm-rouge",
+      "name_fr": "Anneau de lestage Ø56 mm, rouge",
+      "description_fr": "Anneau de stabilisation rouge en acier recouvert de PVC, utilisé pour maintenir les matériaux immergés et éviter leur flottaison.",
+      "variant_name_fr": "Ø int. 56 mm — rouge",
+      "price_eur": 46.70,
+      "specs_fr": {
+        "Diamètre intérieur": "56 mm",
+        "Diamètre extérieur": "100 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/220808_20250411114103/humeau.com-anneau-de-lestage-d-56mm-rouge-220808-220808-30.jpg"
+    },
+    {
+      "sku": "222027",
+      "slug": "anneau-lestage-61mm-erlenmeyer-500-2000ml",
+      "name_fr": "Anneau de lestage Ø61 mm pour fiole Erlenmeyer de 500 à 2000 mL",
+      "description_fr": "Anneau de stabilisation en acier recouvert de PVC destiné aux fioles Erlenmeyer de 500 mL à 2 L immergées dans l'eau. Diamètre extérieur 112 mm, diamètre intérieur 61 mm.",
+      "variant_name_fr": "Ø int. 61 mm",
+      "price_eur": 9.60,
+      "specs_fr": {
+        "Matière": "Acier recouvert de PVC",
+        "Diamètre extérieur": "112 mm",
+        "Diamètre intérieur": "61 mm",
+        "Poids net": "0.73 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760300610_20240723103102/humeau.com-anneau-de-lestage-d-61mm-pour-flacon-erlenmeyer-500-2000ml-222027-222027-30.jpg"
+    },
+    {
+      "sku": "222028",
+      "slug": "anneau-lestage-ballon-125-500ml",
+      "name_fr": "Anneau de lestage pour ballon de 125 à 500 mL",
+      "description_fr": "Anneau de stabilisation en acier recouvert de PVC pour fioles Erlenmeyer de 125 à 500 mL immergées dans l'eau. Diamètre intérieur 45 mm, diamètre extérieur 82 mm.",
+      "variant_name_fr": "Ø int. 45 mm",
+      "price_eur": 7.40,
+      "specs_fr": {
+        "Matière": "Acier recouvert de PVC",
+        "Diamètre interne": "45 mm",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760304800_20241122141101/humeau.com-anneau-de-lestage-pour-ballon-125-500ml-222028-222028-30.jpg"
+    },
+    {
+      "sku": "222029",
+      "slug": "anneau-lestage-fiole-1-4l-74mm",
+      "name_fr": "Anneau de lestage pour fiole de 1 à 4 L, Ø intérieur 74 mm",
+      "description_fr": "Anneau de stabilisation en acier recouvert de PVC pour fioles Erlenmeyer de 1 à 4 L immergées dans l'eau. Diamètre extérieur 128 mm, diamètre intérieur 74 mm.",
+      "variant_name_fr": "Ø int. 74 mm",
+      "price_eur": 12.20,
+      "specs_fr": {
+        "Matière": "Acier recouvert de PVC",
+        "Diamètre extérieur": "128 mm",
+        "Diamètre intérieur": "74 mm",
+        "Poids net": "0.905 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760374000_20251121115101/humeau.com-anneau-de-lestage-pour-fiole-1-4l-d-int-74mm-222029-222029-30.jpg"
+    },
+    {
+      "sku": "255708",
+      "slug": "anneau-lestage-fiole-125-500ml-ouvert-bleu",
+      "name_fr": "Anneau de lestage ouvert pour fiole de 125 à 500 mL, bleu",
+      "description_fr": "Anneau de lestage ouvert de couleur bleue, recouvert de vinyle offrant une très bonne résistance chimique. Maintient la verrerie dans les bains-marie afin d'éviter casse et renversement. Poids d'environ 237 g.",
+      "variant_name_fr": "125-500 mL — bleu",
+      "price_eur": 83.20,
+      "specs_fr": {
+        "Capacité": "Flacons 125-500 mL",
+        "Diamètre extérieur": "76 mm",
+        "Diamètre intérieur": "43 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255708_20260211151102/humeau.com-anneau-de-lestage-pour-fiole-125-500ml-ouvert-bleu-255708-255708-30.jpg"
+    },
+    {
+      "sku": "226874",
+      "slug": "anneau-lestage-rouge-43mm-fioles-125-500ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Anneau de lestage rouge Ø43 mm pour fioles de 125 à 500 mL",
+      "description_fr": "Anneau de lestage rouge de 240 g, utilisé pour stabiliser les fioles de 125 à 500 mL dans les bains-marie.",
+      "variant_name_fr": "Ø int. col 43 mm",
+      "price_eur": 51.30,
+      "specs_fr": {
+        "Diamètre intérieur col": "43 mm",
+        "Marque commerciale": "SIGMA-ALDRICH",
+        "Poids net": "0.308 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24300277548_20250923122003/humeau.com-anneau-lestage-rouge-d-43-mm-240-g-pr-fioles-125-a-500-ml-226874-226874-30.jpg"
+    },
+    {
+      "sku": "226928",
+      "slug": "anneau-lestage-rouge-56mm-fioles-500-2000ml",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Anneau de lestage rouge Ø56 mm pour fioles de 500 à 2000 mL",
+      "description_fr": "Anneau de lestage rouge de 680 g, destiné à stabiliser les fioles de 500 mL à 2 L dans les bains-marie.",
+      "variant_name_fr": "Ø int. col 56 mm",
+      "price_eur": 70.40,
+      "specs_fr": {
+        "Diamètre intérieur col": "56 mm",
+        "Marque commerciale": "SIGMA-ALDRICH",
+        "Poids net": "0.68 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24300290061_20250923122003/humeau.com-anneau-lestage-rouge-d-56-mm-680-g-pr-fioles-500-a-2000ml-226928-226928-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "category": {
+    "slug": "butyrometre",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Butyromètres"
+    },
+    "description": {
+      "fr": "Butyromètres en verre borosilicaté pour la détermination de la teneur en matière grasse du lait, de la crème et des fromages par la méthode acido-butyrométrique de Gerber, en différentes échelles de lecture."
+    }
+  },
+  "products": [
+    {
+      "sku": "204479",
+      "slug": "butyrometre-fromage-van-gulik-20pct-double-jauge",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à fromage Van Gulik, échelle 20 % — double jauge",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse des fromages par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 20 % en 1/5, à double trait de jauge.",
+      "variant_name_fr": "20 % en 1/5 — double jauge",
+      "price_eur": 61.3,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "20 % en 1/5",
+        "Nombre de traits de jauge": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/5/05902262530_20260106111102/humeau.com-buty-fromage-van-gulik-verpre-cis-20-e-1-5-nu-dble-jauge-204479-204479-30.jpg"
+    },
+    {
+      "sku": "204415",
+      "slug": "butyrometre-beurre-roeder-100pct-gr",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à beurre Roeder, échelle 100 % en grammes",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse de la crème par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 100 % en grammes.",
+      "variant_name_fr": "100 % en gr.",
+      "price_eur": 68.1,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "100 % en gr."
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204415_20230919130103/humeau.com-butyrometre-a-beurre-roeder-100-en-gr-05900310336-204415-30.jpg"
+    },
+    {
+      "sku": "204433",
+      "slug": "butyrometre-lait-sec-0-50-1g-controle-nf",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait sec, échelle 0-50 en 1 g, contrôlé NF",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait sec par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 0 à 50 en graduations de 1 g. Certifié selon la norme NF B35-356.",
+      "variant_name_fr": "0-50 en 1 g",
+      "price_eur": 114.9,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "0 - 50 en 1,0 g"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204433_20250304161103/humeau.com-butyrometre-a-buty-lait-sec-0-50-en-1g-controle-nf-204433-204433-30.jpg"
+    },
+    {
+      "sku": "204423",
+      "slug": "butyrometre-creme-roeder-0-10-20pct-1-10",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à crème Roeder, échelle 0-10-20 % en 1/10",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse de la crème par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 0-10-20 % en 1/10.",
+      "variant_name_fr": "0-10-20 % en 1/10",
+      "price_eur": 114.1,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "0 - 10 - 20 % en 1/10",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/5/05900310344_20230817161102/humeau.com-butyrometre-a-creme-roeder-0-10-20-en-1-10-05900310344-204423-30.jpg"
+    },
+    {
+      "sku": "204424",
+      "slug": "butyrometre-creme-roeder-40pct-1-2",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à crème Roeder, échelle 40 % en 1/2",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse de la crème par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 40 % en 1/2.",
+      "variant_name_fr": "40 % en 1/2",
+      "price_eur": 45.7,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "40 % en 1/2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/5/05900310345_20230817161102/humeau.com-butyrometre-a-creme-roeder-40-en-1-2-05900310345-204424-30.jpg"
+    },
+    {
+      "sku": "204426",
+      "slug": "butyrometre-creme-roeder-50pct-1-2",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à crème Roeder, échelle 50 % en 1/2",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse de la crème par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 50 % en 1/2.",
+      "variant_name_fr": "50 % en 1/2",
+      "price_eur": 44.7,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "50 % en 1/2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/5/05900310347_20231002133103/humeau.com-butyrometre-a-creme-roeder-50-en-1-2-204426-204426-30.jpg"
+    },
+    {
+      "sku": "204417",
+      "slug": "butyrometre-creme-sfaic-50pct-gr",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à crème SFAIC, échelle 50 % en grammes",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse de la crème par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 50 % SFAIC, en grammes.",
+      "variant_name_fr": "50 % SFAIC — en gr.",
+      "price_eur": 50.7,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "50 % SFAIC - en gr."
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204417_20260630111101/humeau.com-butyrometre-a-creme-sfaic-50-en-gr-204417-204417-30.jpg"
+    },
+    {
+      "sku": "204438",
+      "slug": "butyrometre-lait-0-12-16pct-1-20",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait, échelle 0-12-16 % en 1/20",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 0-12-16 % en 1/20. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "0-12-16 % en 1/20",
+      "price_eur": 102.0,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "0 - 12 - 16 % en 1/20"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204438_20230817161102/humeau.com-butyrometre-a-lait-0-12-16-en-1-20-05900310359-204438-30.jpg"
+    },
+    {
+      "sku": "206199",
+      "slug": "butyrometre-lait-0-5pct-precision-05",
+      "brand": "FUNKE GERBER",
+      "name_fr": "Butyromètre à lait Funke Gerber, échelle 0-5 %",
+      "description_fr": "Butyromètre à lait Funke Gerber pour la détermination de la teneur en matière grasse du lait ordinaire, gradué en 0,1, sans bouchon.",
+      "variant_name_fr": "0-5 % — précision 0,5 %",
+      "price_eur": 16.0,
+      "specs_fr": {
+        "Échelle de mesure": "0-5 %",
+        "Poids net": "0.048 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/206199_20240404093101/humeau.com-butyrometre-a-lait-0-5-precision-0-5-206199-206199-30.jpg"
+    },
+    {
+      "sku": "204434",
+      "slug": "butyrometre-lait-12pct-1-5",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait, échelle 12 % en 1/5",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 12 % en 1/5. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "12 % en 1/5",
+      "price_eur": 51.4,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "12 % en 1/5"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204434_20231023114102/humeau.com-butyrometre-a-lait-12-en-1-5-05900310355-204434-30.jpg"
+    },
+    {
+      "sku": "204435",
+      "slug": "butyrometre-lait-14pct-1-5",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait, échelle 14 % en 1/5",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 14 % en 1/5. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "14 % en 1/5",
+      "price_eur": 51.4,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "14 % en 1/5",
+        "Poids net": "0.08 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204435_20230919163101/humeau.com-butyrometre-a-lait-14-en-1-5-05900310356-204435-30.jpg"
+    },
+    {
+      "sku": "204440",
+      "slug": "butyrometre-lait-kilo-5pct-1-10-double-jauge",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait au kilo, échelle 5 % au 1/10 — double jauge",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait au kilo par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 5 % au 1/10, à double trait de jauge. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "5 % au 1/10 — double jauge",
+      "price_eur": 68.8,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "5 % au 1/10 au kilo, double jauge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204440_20250224104102/humeau.com-butyrometre-lait-au-kilo-5-au-1-10-double-jauge-204440-204440-30.jpg"
+    },
+    {
+      "sku": "204444",
+      "slug": "butyrometre-lait-kilo-5pct-1-20-double-jauge",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait au kilo, échelle 5 % au 1/20 — double jauge",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait au kilo par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 5 % au 1/20, à double trait de jauge. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "5 % au 1/20 — double jauge",
+      "price_eur": 68.8,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "5 % au 1/20 au kilo, double jauge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204444_20231025135102/humeau.com-butyrometre-lait-au-kilo-5-au-1-20-double-jauge-204444-204444-30.jpg"
+    },
+    {
+      "sku": "204441",
+      "slug": "butyrometre-lait-kilo-6pct-1-10-double-jauge",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait au kilo, échelle 6 % au 1/10 — double jauge",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait au kilo par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 6 % au 1/10, à double trait de jauge. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "6 % au 1/10 — double jauge",
+      "price_eur": 68.8,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "6 % au 1/10 au kilo, double jauge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204441_20250211140101/humeau.com-butyrometre-lait-au-kilo-6-au-1-10-double-jauge-204441-204441-30.jpg"
+    },
+    {
+      "sku": "204442",
+      "slug": "butyrometre-lait-kilo-7pct-1-10-double-jauge",
+      "brand": "HUMEAU",
+      "name_fr": "Butyromètre à lait au kilo, échelle 7 % au 1/10 — double jauge",
+      "description_fr": "Butyromètre en verre borosilicaté conforme aux normes de référence, servant à la détermination de la teneur en matière grasse du lait au kilo par la méthode acido-butyrométrique de Gerber. Le résultat s'obtient par lecture directe, échelle 7 % au 1/10, à double trait de jauge. Vérifié selon la norme NF B35-521.",
+      "variant_name_fr": "7 % au 1/10 — double jauge",
+      "price_eur": 68.8,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Échelle": "7 % au 1/10 au kilo, double jauge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/204442_20250204092101/humeau.com-butyrometre-lait-au-kilo-7-au-1-10-double-jauge-204442-204442-30.jpg"
+    }
+  ]
+}

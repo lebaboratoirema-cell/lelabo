@@ -1,0 +1,251 @@
+{
+  "category": {
+    "slug": "poids-de-calibration",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Poids de calibration" },
+    "description": {
+      "fr": "Poids étalons en acier inoxydable, fonte ou laiton, de classes E1 à M2, avec ou sans certificat d'étalonnage, pour la vérification et l'ajustage des balances de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "262810",
+      "slug": "poids-etalon-inox-1kg-f1-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 1 kg, classe F1, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton avec cavité d'ajustage, en acier inoxydable poli extra-brillant, boîtier à visser. Classe F1, tolérance de ±5 mg, livré avec certificat d'étalonnage DAkkS.",
+      "variant_name_fr": "1 kg — classe F1",
+      "price_eur": 241.11,
+      "specs_fr": {
+        "Grade": "Classe F1",
+        "Tolérance": "+/- 5 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Poids net": "1.066 kg",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/9/5/95670021100_20240901033001/humeau.com-poids-etalon-f1-avec-cavite-d-ajustage-1kg-certifie-dakks-95670021100-262810-30.jpg"
+    },
+    {
+      "sku": "262803",
+      "slug": "poids-etalon-inox-5g-f1-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 5 g, classe F1, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton avec cavité d'ajustage, en acier inoxydable poli extra-brillant, boîtier à visser. Tolérance de ±0,16 mg, livré avec certificat d'étalonnage DAkkS.",
+      "variant_name_fr": "5 g — classe F1",
+      "price_eur": 77.66,
+      "specs_fr": {
+        "Tolérance": "+/- 0.16 mg",
+        "Poids net": "0.039 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/9/5/95670013100_20240901033001/humeau.com-poids-etalon-f1-avec-cavite-d-ajustage-5g-certifie-dakks-95670013100-262803-30.jpg"
+    },
+    {
+      "sku": "262623",
+      "slug": "poids-etalon-fonte-peint-50kg-m2",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon en fonte peinte, 50 kg, classe M2, sans boîte",
+      "description_fr": "Poids d'analyse rectangulaire avec poignée, en fonte peinte en noir, sans étui. Classe M2, tolérance de ±8000 mg.",
+      "variant_name_fr": "50 kg — classe M2",
+      "price_eur": 600.45,
+      "specs_fr": {
+        "Grade": "Classe M2",
+        "Tolérance": "+/- 8000 mg",
+        "Matériaux": "Fonte peinte en noir",
+        "Certificat": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262623_20241016163101/humeau.com-poids-etalon-fonte-peint-50kg-classe-m2-sans-boite-95600000018-262623-30.jpg"
+    },
+    {
+      "sku": "262628",
+      "slug": "poids-etalon-fonte-zingue-50kg-m1-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon en fonte zinguée, 50 kg, classe M1, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse rectangulaire avec poignée, en fonte zinguée, sans étui. Classe M1, tolérance de ±2500 mg, certifié DAkkS.",
+      "variant_name_fr": "50 kg — classe M1",
+      "price_eur": 896.04,
+      "specs_fr": {
+        "Grade": "M1",
+        "Tolérance": "+/- 2500 mg",
+        "Matériaux": "Fonte zinguée",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262628_20230118095101/humeau.com-poids-etalon-fonte-zinc-50kg-classe-m1-sans-boite-dakks-95600000023-262628-30.jpg"
+    },
+    {
+      "sku": "262755",
+      "slug": "poids-etalon-inox-100g-f2-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 100 g, classe F2, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe F2, tolérance de ±1,6 mg, certifié DAkkS.",
+      "variant_name_fr": "100 g — classe F2",
+      "price_eur": 77.66,
+      "specs_fr": {
+        "Grade": "Classe F2",
+        "Tolérance": "+/- 1.6 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-100g-classe-f2-avec-boite-plastique-dakks-95610000081-262755-30.jpg"
+    },
+    {
+      "sku": "262686",
+      "slug": "poids-etalon-inox-10kg-e1",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 10 kg, classe E1, avec boîte plastique",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe E1, tolérance de ±5,0 mg.",
+      "variant_name_fr": "10 kg — classe E1",
+      "price_eur": 2311.38,
+      "specs_fr": {
+        "Grade": "Classe E1",
+        "Tolérance": "+/- 5,0 mg",
+        "Matériaux": "Acier inoxydable HE210"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20220505220233/humeau.com-poids-etalon-inox-10kg-classe-e1-avec-boite-plastique-95610000012-262686-30.jpg"
+    },
+    {
+      "sku": "262782",
+      "slug": "poids-etalon-inox-10kg-m1-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 10 kg, classe M1, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable finement tourné, boîtier à visser en plastique. Classe M1, tolérance de ±500 mg, certifié DAkkS.",
+      "variant_name_fr": "10 kg — classe M1",
+      "price_eur": 563.36,
+      "specs_fr": {
+        "Grade": "Classe M1",
+        "Tolérance": "+/- 500 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Poids net": "10 kg",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-10kg-classe-m1-avec-boite-plastique-dakks-95610000108-262782-30.jpg"
+    },
+    {
+      "sku": "262750",
+      "slug": "poids-etalon-inox-1g-f2-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 1 g, classe F2, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe F2, tolérance de ±0,30 mg, certifié DAkkS.",
+      "variant_name_fr": "1 g — classe F2",
+      "price_eur": 55.64,
+      "specs_fr": {
+        "Grade": "Classe F2",
+        "Tolérance": "+/- 0.30 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-1g-classe-f2-avec-boite-plastique-dakks-95610000076-262750-30.jpg"
+    },
+    {
+      "sku": "262746",
+      "slug": "poids-etalon-inox-1kg-f2",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 1 kg, classe F2, avec boîte plastique",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe F2, tolérance de ±16,0 mg.",
+      "variant_name_fr": "1 kg — classe F2",
+      "price_eur": 117.08,
+      "specs_fr": {
+        "Grade": "Classe F2",
+        "Tolérance": "+/- 16.0 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Certificat": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20220505220233/humeau.com-poids-etalon-inox-1kg-classe-f2-avec-boite-plastique-95610000072-262746-30.jpg"
+    },
+    {
+      "sku": "262691",
+      "slug": "poids-etalon-inox-20g-e1-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 20 g, classe E1, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe E1, tolérance de ±0,025 mg, avec certificat d'étalonnage DAkkS.",
+      "variant_name_fr": "20 g — classe E1",
+      "price_eur": 454.39,
+      "specs_fr": {
+        "Grade": "Classe E1",
+        "Tolérance": "+/- 0,025 mg",
+        "Matériaux": "Acier inoxydable HE210",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-20g-classe-e1-avec-boite-plastique-dakks-95610000017-262691-30.jpg"
+    },
+    {
+      "sku": "262723",
+      "slug": "poids-etalon-inox-2kg-e2-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 2 kg, classe E2, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe E2, tolérance de ±3,0 mg, certifié DAkkS.",
+      "variant_name_fr": "2 kg — classe E2",
+      "price_eur": 565.67,
+      "specs_fr": {
+        "Grade": "Classe E2",
+        "Tolérance": "+/- 3.0 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-2kg-classe-e2-avec-boite-plastique-dakks-95610000049-262723-30.jpg"
+    },
+    {
+      "sku": "262718",
+      "slug": "poids-etalon-inox-50g-e2-dakks",
+      "brand": "HAFNER",
+      "name_fr": "Poids étalon inox 50 g, classe E2, avec certificat DAkkS",
+      "description_fr": "Poids d'analyse bouton en acier inoxydable poli, boîtier à visser en plastique. Classe E2, tolérance de ±0,10 mg, certifié DAkkS.",
+      "variant_name_fr": "50 g — classe E2",
+      "price_eur": 141.42,
+      "specs_fr": {
+        "Grade": "Classe E2",
+        "Tolérance": "+/- 0.10 mg",
+        "Matériaux": "Acier inoxydable HF12",
+        "Poids net": "0.064 kg",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/g/e/gewichte_in_huelsen_20240901033001/humeau.com-poids-etalon-inox-50g-classe-e2-avec-boite-plastique-dakks-95610000044-262718-30.jpg"
+    },
+    {
+      "sku": "262656",
+      "slug": "serie-13-poids-laiton-1g-1kg-m1-valise-bois",
+      "brand": "HAFNER",
+      "name_fr": "Série de 13 poids laiton 1 g à 1 kg, classe M1, valise en bois",
+      "description_fr": "Coffret de 13 poids en laiton classe M1 (1 g, 2x 2 g, 5 g, 10 g, 2x 20 g, 50 g, 100 g, 2x 200 g, 500 g et 1 kg), présenté en valise en bois. Livré avec gants, deux brosses et deux pincettes.",
+      "variant_name_fr": "13 poids — 1 g à 1 kg",
+      "price_eur": 645.66,
+      "specs_fr": {
+        "Conditionnement": "13 poids",
+        "Grade": "Classe M1",
+        "Matériaux": "Laiton",
+        "Certificat": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262656_20251204103101/humeau.com-serie-de-13poids-laiton-1g-1kg-m1-avec-valise-en-bois-95600000051-262656-30.jpg"
+    },
+    {
+      "sku": "262661",
+      "slug": "serie-25-poids-inox-1mg-1kg-f1-valise-plastique",
+      "brand": "HAFNER",
+      "name_fr": "Série de 25 poids inox 1 mg à 1 kg, classe F1, valise plastique, DAkkS",
+      "description_fr": "Coffret de 25 poids en acier inoxydable classe F1 (de 1 mg à 500 mg, puis de 1 g à 1 kg), présenté en valise plastique avec certificat d'étalonnage DAkkS. Livré avec gants, deux brosses et deux pincettes.",
+      "variant_name_fr": "25 poids — 1 mg à 1 kg",
+      "price_eur": 1826.85,
+      "specs_fr": {
+        "Conditionnement": "25 poids",
+        "Grade": "Classe F1",
+        "Matériaux": "Acier inoxydable HF12",
+        "Certificat": "DAkkS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262661_20230118160101/humeau.com-serie-de-25-poids-inox-1mg-1kg-f1-avec-valise-plastique-dakks-95600000056-262661-30.jpg"
+    },
+    {
+      "sku": "262800",
+      "slug": "serie-27-poids-inox-1mg-2kg-f2-valise-plastique",
+      "brand": "HAFNER",
+      "name_fr": "Série de 27 poids inox 1 mg à 2 kg, classe F2, valise plastique",
+      "description_fr": "Série de 27 poids d'analyse classe F2, de 1 mg à 2 kg, sans certificat d'étalonnage, présentée en mallette plastique.",
+      "variant_name_fr": "27 poids — 1 mg à 2 kg",
+      "price_eur": 1258.86,
+      "specs_fr": {
+        "Pack": "27 poids",
+        "Matériaux": "Lamelles maillechort/acier",
+        "Certificat": "Non"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/6/262800_20240704161102/humeau.com-serie-de-27-poids-inox-1mg-2kg-f2-avec-valise-plastique-95660082000-262800-30.jpg"
+    }
+  ]
+}

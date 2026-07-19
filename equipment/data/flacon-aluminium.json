@@ -1,0 +1,86 @@
+{
+  "category": {
+    "slug": "flacon-aluminium",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Flacons en aluminium"
+    },
+    "description": {
+      "fr": "Flacons en aluminium pur avec bouchon vissé, conçus pour le stockage et le transport hermétique d'échantillons et de substances sensibles à la lumière et à l'air."
+    }
+  },
+  "products": [
+    {
+      "sku": "257691",
+      "slug": "flacon-aluminium-120ml-avec-bouchon",
+      "brand": "BURKLE",
+      "name_fr": "Flacon en aluminium avec bouchon, 120 mL",
+      "description_fr": "Flacon en aluminium pur (AL 99,5) équipé d'un bouchon à vis en polypropylène avec joint interne aluminium/PET assurant une fermeture étanche. Sa paroi opaque et inoxydable protège le contenu de la lumière et se vide entièrement, sans résidu. Compatible avec un usage alimentaire (hors produits très acides ou très salés) et couvert par un agrément UN pour le transport de substances.",
+      "variant_name_fr": "120 mL",
+      "price_eur": 3.2,
+      "specs_fr": {
+        "Matière": "Aluminium pur (AL 99,5)",
+        "Capacité (mL)": "120",
+        "Diamètre (mm)": "57",
+        "Hauteur (mm)": "97",
+        "Conditionnement": "1",
+        "Poids net": "0.044 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82103270120_20230817161102/humeau.com-flacon-aluminium-120ml-d-57mm-h-97mm-avec-bouchon-82103270120-257691-30.jpg"
+    },
+    {
+      "sku": "257692",
+      "slug": "flacon-aluminium-300ml-avec-bouchon",
+      "brand": "BURKLE",
+      "name_fr": "Flacon en aluminium avec bouchon, 300 mL",
+      "description_fr": "Flacon en aluminium pur (AL 99,5) équipé d'un bouchon à vis en polypropylène avec joint interne aluminium/PET assurant une fermeture étanche. Sa paroi opaque et inoxydable protège le contenu de la lumière et se vide entièrement, sans résidu. Compatible avec un usage alimentaire (hors produits très acides ou très salés) et couvert par un agrément UN pour le transport de substances.",
+      "variant_name_fr": "300 mL",
+      "price_eur": 4.3,
+      "specs_fr": {
+        "Matière": "Aluminium pur (AL 99,5)",
+        "Capacité (mL)": "300",
+        "Diamètre (mm)": "57",
+        "Hauteur (mm)": "160",
+        "Conditionnement": "1",
+        "Poids net": "0.057 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82103270300_20230817161102/humeau.com-flacon-aluminium-300ml-d-57mm-h-160mm-avec-bouchon-82103270300-257692-30.jpg"
+    },
+    {
+      "sku": "257693",
+      "slug": "flacon-aluminium-600ml-avec-bouchon",
+      "brand": "BURKLE",
+      "name_fr": "Flacon en aluminium avec bouchon, 600 mL",
+      "description_fr": "Flacon en aluminium pur (AL 99,5) équipé d'un bouchon à vis en polypropylène avec joint interne aluminium/PET assurant une fermeture étanche. Sa paroi opaque et inoxydable protège le contenu de la lumière et se vide entièrement, sans résidu. Compatible avec un usage alimentaire (hors produits très acides ou très salés) et couvert par un agrément UN pour le transport de substances.",
+      "variant_name_fr": "600 mL",
+      "price_eur": 6.2,
+      "specs_fr": {
+        "Matière": "Aluminium pur (AL 99,5)",
+        "Capacité (mL)": "600",
+        "Diamètre (mm)": "74",
+        "Hauteur (mm)": "192",
+        "Conditionnement": "1",
+        "Poids net": "0.087 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82103270600_20250512151103/humeau.com-flacon-aluminium-600ml-d-74mm-h-192mm-avec-bouchon-257693-257693-30.jpg"
+    },
+    {
+      "sku": "257690",
+      "slug": "flacon-aluminium-60ml-avec-bouchon",
+      "brand": "BURKLE",
+      "name_fr": "Flacon en aluminium avec bouchon, 60 mL",
+      "description_fr": "Flacon en aluminium pur (AL 99,5) équipé d'un bouchon à vis en polypropylène avec joint interne aluminium/PET assurant une fermeture étanche. Sa paroi opaque et inoxydable protège le contenu de la lumière et se vide entièrement, sans résidu. Compatible avec un usage alimentaire (hors produits très acides ou très salés) et couvert par un agrément UN pour le transport de substances.",
+      "variant_name_fr": "60 mL",
+      "price_eur": 2.7,
+      "specs_fr": {
+        "Matière": "Aluminium pur (AL 99,5)",
+        "Capacité (mL)": "60",
+        "Diamètre (mm)": "40",
+        "Hauteur (mm)": "88",
+        "Conditionnement": "1",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82103270060_20230817161102/humeau.com-flacon-aluminium-60ml-d-40mm-h-88mm-avec-bouchon-82103270060-257690-30.jpg"
+    }
+  ]
+}

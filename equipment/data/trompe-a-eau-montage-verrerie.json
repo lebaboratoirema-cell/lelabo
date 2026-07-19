@@ -1,0 +1,41 @@
+{
+  "category": {
+    "slug": "trompe-a-eau-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Trompes à eau pour montage de verrerie" },
+    "description": {
+      "fr": "Trompes à eau en polypropylène générant une aspiration sous vide à partir du réseau d'eau courante, pour la filtration et les montages de laboratoire nécessitant un vide primaire."
+    }
+  },
+  "products": [
+    {
+      "sku": "220452",
+      "slug": "trompe-eau-pp-translucide-4-5l-min",
+      "brand": "KARTELL",
+      "name_fr": "Trompe à eau en polypropylène translucide, 4,5 L/min",
+      "description_fr": "Trompe à vide en polypropylène combinant une bonne capacité d'aspiration à une consommation d'eau limitée, aussi bien à basse pression (0,5 à 1 kg/cm²) qu'à haute pression (10 kg/cm²). Le tube d'aspiration intègre un clapet d'arrêt empêchant le reflux d'eau en cas de baisse de pression. Entièrement démontable pour faciliter le nettoyage. Pression de circulation de l'eau de 9,804 bars.",
+      "variant_name_fr": "4,5 L/min",
+      "price_eur": 19.10,
+      "specs_fr": {
+        "Marque": "Kartell",
+        "Poids net": "0.025 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700139500_20250325115101/humeau.com-trompe-a-eau-en-pp-translucide-4-5l-min-220452-220452-30.jpg"
+    },
+    {
+      "sku": "234652",
+      "slug": "trompe-eau-pp-raccord-ecrou-15-21-tetine",
+      "brand": "BRAND",
+      "name_fr": "Trompe à eau en polypropylène, raccord écrou 15/21 et tétine",
+      "description_fr": "Trompe à eau en polypropylène équipée d'un clapet anti-retour, avec un modèle universel de raccordement à l'eau par tétine ou par écrou fileté 20/27 ou 15/21 avec réducteur. Fonctionne sur une pression de circulation d'eau de 3 à 6 bars et atteint une pression finale inférieure ou égale à 16 mbar.",
+      "variant_name_fr": "Écrou 15/21 et tétine",
+      "price_eur": 49.10,
+      "specs_fr": {
+        "Pression d'utilisation conseillée": "3 à 6 bars (circulation de l'eau)",
+        "Marque": "Brand",
+        "Poids net": "0.096 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24400582001_20231115145102/humeau.com-trompe-a-eau-polypropylene-raccord-ecrou-15-21-et-tetine-234652-234652-30.jpg"
+    }
+  ]
+}

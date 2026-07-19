@@ -1,0 +1,262 @@
+{
+  "category": {
+    "slug": "goupillon",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Goupillons"
+    },
+    "description": {
+      "fr": "Goupillons et brosses de nettoyage pour la verrerie de laboratoire : pipettes, tubes, ballons et flacons."
+    }
+  },
+  "products": [
+    {
+      "sku": "208875",
+      "slug": "brosse-coudee-a-manche-en-bois-pour-ballons-208875",
+      "brand": "BEL-ART",
+      "name_fr": "Brosse coudée à manche en bois pour ballons",
+      "description_fr": "Brosse coudée BEL-ART pour le nettoyage des flacons et ballons, manche en bois de 33 cm et tête rotative.",
+      "variant_name_fr": "L. 330 mm",
+      "price_eur": 189,
+      "specs_fr": {
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11609687000_20230731104107/humeau.com-brosse-coudee-avec-manche-en-bois-l-330mm-pour-ballons-208875-208875-30.jpg"
+    },
+    {
+      "sku": "206230",
+      "slug": "goupillon-de-nettoyage-pour-butyrometre-278-mm-butyrometre-278",
+      "brand": "FUNKE GERBER",
+      "name_fr": "Goupillon de nettoyage pour butyromètre, 278 mm",
+      "description_fr": "Goupillon FUNKE GERBER destiné au nettoyage du col des butyromètres, longueur 278 mm.",
+      "variant_name_fr": "278 mm",
+      "price_eur": 3,
+      "specs_fr": {
+        "Longueur (mm)": "278",
+        "Poids net": "0.011 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/206230_20240402161102/humeau.com-brosse-nettoyage-butyrometre-278mm-206230-206230-30.jpg"
+    },
+    {
+      "sku": "215839",
+      "slug": "goupiflex-grand-modele-grand-modele",
+      "brand": "HUMEAU",
+      "name_fr": "Goupiflex grand modèle",
+      "description_fr": "Goupiflex grand modèle pour le nettoyage de verrerie type fiole, à manche souple et flexible sous gaine néoprène et brosse en rilsan, adapté aux récipients courbes. Dimensions Ø 40 x L 200 - L 660 mm.",
+      "variant_name_fr": "Grand modèle",
+      "price_eur": 43.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 40 x L 200 - L 660 mm",
+        "Matière": "Rislan",
+        "Poids net": "0.058 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17700950602_20260121163102/humeau.com-goupiflex-grand-modele-215839-215839-30.jpg"
+    },
+    {
+      "sku": "215838",
+      "slug": "goupiflex-petit-modele-petit-modele",
+      "brand": "HUMEAU",
+      "name_fr": "Goupiflex petit modèle",
+      "description_fr": "Goupiflex petit modèle pour le nettoyage de verrerie type fiole, à manche souple et flexible sous gaine néoprène et brosse en rilsan, adapté aux récipients courbes. Dimensions Ø 20 x L 160 - L 500 mm.",
+      "variant_name_fr": "Petit modèle",
+      "price_eur": 36.7,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Dimensions": "Ø 20 x L 160 - L 500 mm",
+        "Matière": "Rislan",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17700950601_20260121163102/humeau.com-goupiflex-petit-modele-d-30x160mm-longueur-58cm-215838-215838-30.jpg"
+    },
+    {
+      "sku": "202597",
+      "slug": "goupillon-a-bouquets-50-mm-bouquets-50",
+      "brand": "HACH",
+      "name_fr": "Goupillon à bouquets, Ø 50 mm",
+      "description_fr": "Goupillon HACH à soies noires sur fil galvanisé, extrémité touffue radiale. Diamètre 50 mm, longueur 330 mm.",
+      "variant_name_fr": "Ø 50 mm",
+      "price_eur": 8.4,
+      "specs_fr": {
+        "Longueur de la tige": "13 cm",
+        "Diamètre (mm)": "50",
+        "Longueur (mm)": "330",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03606870000_20240216162101/humeau.com-goupillon-a-bouquets-noir-d-33x13x5cm-03606870000-202597-30.jpg"
+    },
+    {
+      "sku": "215222",
+      "slug": "goupillon-nylon-pour-pipettes-moyennes-10-mm-nylon-10-60-215222",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour pipettes moyennes, Ø 10 mm",
+      "description_fr": "Goupillon en nylon pour pipettes moyennes, tige en fil torsadé à bout droit, conforme à la norme alimentaire. Diamètre de brosse 10 mm, longueur de brosse 60 mm, longueur de tige 400 mm.",
+      "variant_name_fr": "Ø 10 mm — pipettes moyennes",
+      "price_eur": 2,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "400 mm",
+        "Diamètre (mm)": "10",
+        "Longueur (mm)": "60",
+        "Poids net": "0.006 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950402_20240823115101/humeau.com-goupillon-d-10x60x400mm-nylon-sans-bout-pour-pipettes-215222-215222-30.jpg"
+    },
+    {
+      "sku": "215225",
+      "slug": "goupillon-nylon-pour-pipettes-martin-et-tubes-a-essai-15-mm-nylon-15-100-215225",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour pipettes martin et tubes à essai, Ø 15 mm",
+      "description_fr": "Goupillon en nylon pour pipettes martin et tubes à essai, tige en fil torsadé à bout retourné, conforme à la norme alimentaire. Diamètre de brosse 15 mm, longueur de brosse 100 mm, longueur de tige 300 mm.",
+      "variant_name_fr": "Ø 15 mm — pipettes martin et tubes à essai",
+      "price_eur": 1.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "300 mm",
+        "Diamètre (mm)": "15",
+        "Longueur (mm)": "100",
+        "Poids net": "0.011 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950501_20240610104101/humeau.com-goupillon-d-15x100x300mm-nyl-on-bout-ret-pour-tubes-215225-215225-30.jpg"
+    },
+    {
+      "sku": "215223",
+      "slug": "goupillon-nylon-pour-pipettes-fortes-15-mm-nylon-15-90-215223",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour pipettes fortes, Ø 15 mm",
+      "description_fr": "Goupillon en nylon pour pipettes fortes, tige en fil torsadé à bout droit, conforme à la norme alimentaire. Diamètre de brosse 15 mm, longueur de brosse 90 mm, longueur de tige 400 mm.",
+      "variant_name_fr": "Ø 15 mm — pipettes fortes",
+      "price_eur": 2.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "400 mm",
+        "Diamètre (mm)": "15",
+        "Longueur (mm)": "90",
+        "Poids net": "0.007 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950403_20230627142102/humeau.com-goupillon-d-15x90x400mm-nylon-sans-bout-pour-pipettes-215223-215223-30.jpg"
+    },
+    {
+      "sku": "215218",
+      "slug": "goupillon-nylon-pour-panses-de-butyrometre-42-mm-nylon-42-50-215218",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour panses de butyromètre, Ø 42 mm",
+      "description_fr": "Goupillon en nylon pour panses de butyromètre, tige en fil torsadé à bout droit, conforme à la norme alimentaire. Diamètre de brosse 42 mm, longueur de brosse 50 mm, longueur de tige 240 mm.",
+      "variant_name_fr": "Ø 42 mm — panses de butyromètre",
+      "price_eur": 9.77,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "240 mm",
+        "Diamètre (mm)": "42",
+        "Longueur (mm)": "50",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950102_20240712122002/humeau.com-goupillon-d-42x50x240mm-nylon-sans-bout-pour-panse-buty-215218-215218-30.jpg"
+    },
+    {
+      "sku": "215220",
+      "slug": "goupillon-nylon-pour-flacons-45-28-mm-nylon-45-28-90-215220",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour flacons, Ø 45/28 mm",
+      "description_fr": "Goupillon en nylon pour flacons, tige en fil torsadé à bout retourné, conforme à la norme alimentaire. Diamètre de brosse 45/28 mm, longueur de brosse 90 mm, longueur de tige 251 mm.",
+      "variant_name_fr": "Ø 45/28 mm — flacons",
+      "price_eur": 2.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "251 mm",
+        "Diamètre (mm)": "45/28",
+        "Longueur (mm)": "90",
+        "Poids net": "0.016 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950301_20240104152101/humeau.com-goupillon-d-45-28x90x250mm-nylon-coude-bout-ret-215220-215220-30.jpg"
+    },
+    {
+      "sku": "215217",
+      "slug": "goupillon-nylon-pour-tiges-de-butyrometre-4-mm-nylon-4-50-215217",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour tiges de butyromètre, Ø 4 mm",
+      "description_fr": "Goupillon en nylon pour tiges de butyromètre, tige en fil torsadé à bout droit, conforme à la norme alimentaire. Diamètre de brosse 4 mm, longueur de brosse 50 mm, longueur de tige 250 mm.",
+      "variant_name_fr": "Ø 4 mm — tiges de butyromètre",
+      "price_eur": 2.5,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "250 mm",
+        "Diamètre (mm)": "4",
+        "Longueur (mm)": "50",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950101_20250313103101/humeau.com-goupillon-d-4x50x250mm-nylon-sans-bout-215217-215217-30.jpg"
+    },
+    {
+      "sku": "215221",
+      "slug": "goupillon-nylon-pour-pipettes-fines-4-mm-nylon-4-80-215221",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour pipettes fines, Ø 4 mm",
+      "description_fr": "Goupillon en nylon pour pipettes fines, tige en fil torsadé à bout droit, conforme à la norme alimentaire. Diamètre de brosse 4 mm, longueur de brosse 80 mm, longueur de tige 360 mm.",
+      "variant_name_fr": "Ø 4 mm — pipettes fines",
+      "price_eur": 2.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "360 mm",
+        "Diamètre (mm)": "4",
+        "Longueur (mm)": "80",
+        "Poids net": "0.005 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950401_20260629130106/humeau.com-goupillon-d-4x80x360mm-nylon-sans-bout-215221-215221-30.jpg"
+    },
+    {
+      "sku": "215219",
+      "slug": "goupillon-nylon-pour-eprouvettes-et-ballons-65-40-mm-nylon-65-40-100-215219",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour éprouvettes et ballons, Ø 65/40 mm",
+      "description_fr": "Goupillon en nylon pour éprouvettes et ballons, tige en fil torsadé à bout retourné, conforme à la norme alimentaire. Diamètre de brosse 65/40 mm, longueur de brosse 100 mm, longueur de tige 420 mm.",
+      "variant_name_fr": "Ø 65/40 mm — éprouvettes et ballons",
+      "price_eur": 4.1,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "420 mm",
+        "Diamètre (mm)": "65/40",
+        "Longueur (mm)": "100",
+        "Poids net": "0.04 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950201_20231117152101/humeau.com-goupillon-d-65-40x110x420mm-nylon-coude-bout-ret-215219-215219-30.jpg"
+    },
+    {
+      "sku": "215226",
+      "slug": "goupillon-nylon-pour-pipettes-martin-et-tubes-a-essai-20-mm-nylon-20-100-215226",
+      "brand": "HUMEAU",
+      "name_fr": "Goupillon nylon pour pipettes martin et tubes à essai, Ø 20 mm",
+      "description_fr": "Goupillon en nylon pour pipettes martin et tubes à essai, tige en fil torsadé à bout retourné, conforme à la norme alimentaire. Diamètre de brosse 20 mm, longueur de brosse 100 mm, longueur de tige 300 mm.",
+      "variant_name_fr": "Ø 20 mm — pipettes martin et tubes à essai",
+      "price_eur": 1.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Nylon",
+        "Longueur de la tige": "300 mm",
+        "Diamètre (mm)": "20",
+        "Longueur (mm)": "100",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/7/17000950502_20231030153102/humeau.com-goupillon-nylon-d20x100x300mm-bout-retourne-pour-tubes-215226-215226-30.jpg"
+    },
+    {
+      "sku": "276365",
+      "slug": "tubes-de-bouillon-eugon-lt100-9-ml-276365",
+      "brand": "BECTON DICKINSON",
+      "name_fr": "Tubes de bouillon Eugon LT100, 9 mL",
+      "description_fr": "Tubes pré-remplis de 9 mL de bouillon Eugon BECTON DICKINSON, milieu de culture polyvalent adapté à la détection et à la croissance d'une large gamme de micro-organismes. Couramment utilisés pour les tests de stérilité ou l'enrichissement microbien. Vendus par lot de 20.",
+      "variant_name_fr": "Lot de 20 x 9 mL",
+      "price_eur": 39.8,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/m/i/microbiologie_20260612083101/humeau.com-tubes-de-bouillon-eugon-lt100-par-20-x-9ml-276365-276365-30.jpg"
+    }
+  ]
+}

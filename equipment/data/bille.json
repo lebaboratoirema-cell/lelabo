@@ -1,0 +1,226 @@
+{
+  "category": {
+    "slug": "bille",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Billes et perles de verre"
+    },
+    "description": {
+      "fr": "Billes et perles de verre en différentes granulométries pour la distillation, l'agitation et la prévention de la surchauffe, ainsi que des cryobilles pour la conservation de souches microbiologiques."
+    }
+  },
+  "products": [
+    {
+      "sku": "228736",
+      "slug": "billes-verre-lavees-acide-425-600um-100g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Billes de verre lavées à l'acide, 425-600 µm — 100 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 425 à 600 µm (US 30-40), conditionnées en bouteille plastique de 100 g.",
+      "variant_name_fr": "425-600 µm — 100 g",
+      "price_eur": 185.8,
+      "specs_fr": {
+        "Diamètre": "425 à 600 µm (US 30-40)",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/228736_20251017143101/humeau.com-bille-de-verre-425-600-um-sigma-g8772-100g-24300877240-228736-30.jpg"
+    },
+    {
+      "sku": "228808",
+      "slug": "billes-verre-150-212um-pack-1kg",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Billes de verre non lavées, 150-212 µm — 1 kg",
+      "description_fr": "Billes de verre non lavées, granulométrie 150 à 212 µm (US 70-100), conditionnées en bouteille en verre de 1 kg.",
+      "variant_name_fr": "150-212 µm — 1 kg",
+      "price_eur": 378.6,
+      "specs_fr": {
+        "Diamètre": "150 à 212 µm (US 70-100)",
+        "Poids net": "1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/228808_20230324155102/humeau.com-billes-de-verre-150-212um-sigma-g9018-pack-de-1kg-24300901860-228808-30.jpg"
+    },
+    {
+      "sku": "220157",
+      "slug": "billes-verre-sodocalcique-2mm-sac-1kg",
+      "brand": "ENDO",
+      "name_fr": "Billes de verre sodocalcique, Ø 2 mm — sac de 1 kg",
+      "description_fr": "Billes de verre sodocalcique de 2 mm, utilisées pour le remplissage de colonnes de distillation, l'agitation de solutions difficiles à dissoudre, la prévention de la surchauffe pendant une distillation, ou la limitation des variations de poids lors d'une concentration ou vaporisation.",
+      "variant_name_fr": "Ø 2 mm — sac de 1 kg",
+      "price_eur": 22.1,
+      "specs_fr": {
+        "Conditionnement": "Sac de 1 kg",
+        "Diamètre": "2 mm",
+        "Type de verre": "Verre sodocalcique",
+        "Poids net": "1.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700013700_20240516154102/humeau.com-billes-de-verre-d-2-mm-sac-de-1-kg-220157-220157-30.jpg"
+    },
+    {
+      "sku": "212203",
+      "slug": "billes-verre-3mm-merck-500g",
+      "brand": "MERCK",
+      "name_fr": "Perles de verre, Ø 3 mm — 500 g",
+      "description_fr": "Perles de verre de 3 mm de diamètre, conditionnées par 500 g.",
+      "variant_name_fr": "Ø 3 mm — 500 g",
+      "price_eur": 93.2,
+      "specs_fr": {
+        "Conditionnement": "1 x 500 g",
+        "Poids net": "0.056 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/212203_20251017143101/humeau.com-billes-de-verre-d-3mm-merck-4515-500g-212203-212203-30.jpg"
+    },
+    {
+      "sku": "226275",
+      "slug": "billes-verre-lavees-acide-150-212um-10g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Billes de verre lavées à l'acide, 150-212 µm — 10 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 150-212 µm (tamis US 70-100), conditionnement 10 g.",
+      "variant_name_fr": "150-212 µm — 10 g",
+      "price_eur": 57.1,
+      "specs_fr": {
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24300114520_20240213150102/humeau.com-billes-de-verre-lavees-a-l-acide-sigma-g1145-10g-24300114520-226275-30.jpg"
+    },
+    {
+      "sku": "226276",
+      "slug": "billes-verre-lavees-acide-150-212um-500g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Billes de verre lavées à l'acide, 150-212 µm — 500 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 150-212 µm (tamis US 70-100), conditionnement 500 g.",
+      "variant_name_fr": "150-212 µm — 500 g",
+      "price_eur": 623.3,
+      "specs_fr": {
+        "Poids net": "0.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24300114554_20240213150102/humeau.com-billes-de-verre-lavees-a-l-acide-sigma-g1145-500g-24300114554-226276-30.jpg"
+    },
+    {
+      "sku": "226338",
+      "slug": "billes-verre-lavees-acide-212-300um-10g",
+      "brand": "SIGMA-ALDRICH",
+      "name_fr": "Billes de verre lavées à l'acide, 212-300 µm — 10 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 212-300 µm (tamis US 50-70), conditionnement 10 g.",
+      "variant_name_fr": "212-300 µm — 10 g",
+      "price_eur": 57.1,
+      "specs_fr": {
+        "Poids net": "0.022 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/226338_20251017143101/humeau.com-billes-de-verre-lavees-a-l-acide-sigma-g1277-10g-24300127720-226338-30.jpg"
+    },
+    {
+      "sku": "271512",
+      "slug": "billes-verre-lavees-acide-106um-100g-merck",
+      "brand": "MERCK",
+      "name_fr": "Billes de verre lavées à l'acide, ≤106 µm — 100 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie ≤106 µm (tamis US -140), conditionnement en pot de 10 g.",
+      "variant_name_fr": "≤106 µm",
+      "price_eur": 57.1,
+      "specs_fr": {
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271512_20251009162102/humeau.com-billes-de-verres-lavees-a-l-acide-106-m-g4649-100g-271512-271512-30.jpg"
+    },
+    {
+      "sku": "271513",
+      "slug": "billes-verre-lavees-acide-425-600um-10g",
+      "brand": "MERCK",
+      "name_fr": "Billes de verre lavées à l'acide, 425-600 µm — 10 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 425-600 µm (tamis US 30-40), conditionnement 10 g.",
+      "variant_name_fr": "425-600 µm — 10 g",
+      "price_eur": 57.1,
+      "specs_fr": {
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271513_20251009162102/humeau.com-billes-de-verres-lavees-a-l-acide-425-600-m-g8772-10g-271513-271513-30.jpg"
+    },
+    {
+      "sku": "271514",
+      "slug": "billes-verre-lavees-acide-710-1180um-10g",
+      "brand": "MERCK",
+      "name_fr": "Billes de verre lavées à l'acide, 710-1180 µm — 10 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie 710-1180 µm (tamis US 16-25), conditionnement 10 g.",
+      "variant_name_fr": "710-1180 µm — 10 g",
+      "price_eur": 57.1,
+      "specs_fr": {
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/271514_20251009162102/humeau.com-billes-de-verres-lavees-a-l-acide-710-1-180-m-g1152-10g-271514-271514-30.jpg"
+    },
+    {
+      "sku": "227517",
+      "slug": "billes-verre-lavees-acide-106um-100g",
+      "brand": "MERCK",
+      "name_fr": "Billes de verre lavées à l'acide, ≤106 µm — 100 g",
+      "description_fr": "Billes de verre lavées à l'acide, granulométrie très fine (≤106 µm), conditionnement 100 g.",
+      "variant_name_fr": "≤106 µm — 100 g",
+      "price_eur": 180.1,
+      "specs_fr": {
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/227517_20251017143101/humeau.com-billes-de-verres-lavees-a-l-acide-sigma-g4649-100g-24300464940-227517-30.jpg"
+    },
+    {
+      "sku": "206060",
+      "slug": "billes-verre-sodocalcique-4mm-sachet-1kg",
+      "brand": "HUMEAU",
+      "name_fr": "Billes de verre sodocalcique, Ø 4 mm — sachet de 1 kg",
+      "description_fr": "Billes de verre sodocalcique de 4 mm, utilisées pour le remplissage de colonnes de distillation, l'agitation de solutions difficiles à dissoudre, la prévention de la surchauffe pendant une distillation, ou la limitation des variations de poids lors d'une concentration ou vaporisation.",
+      "variant_name_fr": "Ø 4 mm — 1 kg",
+      "price_eur": 11.0,
+      "specs_fr": {
+        "Conditionnement": "Sac de 1 kg",
+        "Diamètre": "4 mm",
+        "Type de verre": "Verre sodocalcique",
+        "Poids net": "1.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/7/07300958004_20250319093101/humeau.com-billes-verre-d-4-mm-sachet-1-kg-206060-206060-30.jpg"
+    },
+    {
+      "sku": "206061",
+      "slug": "billes-verre-sodocalcique-5mm-sachet-1kg",
+      "brand": "HUMEAU",
+      "name_fr": "Billes de verre sodocalcique, Ø 5 mm — sachet de 1 kg",
+      "description_fr": "Billes de verre sodocalcique de 5 mm, utilisées pour le remplissage de colonnes de distillation, l'agitation de solutions difficiles à dissoudre, la prévention de la surchauffe pendant une distillation, ou la limitation des variations de poids lors d'une concentration ou vaporisation.",
+      "variant_name_fr": "Ø 5 mm — 1 kg",
+      "price_eur": 23.5,
+      "specs_fr": {
+        "Diamètre": "5 mm",
+        "Conditionnement": "1 kg",
+        "Type de verre": "Verre sodocalcique",
+        "Poids net": "1.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/7/07300958005_20231103145102/humeau.com-billes-verre-d-5-mm-sachet-1-kg-206061-206061-30.jpg"
+    },
+    {
+      "sku": "239712",
+      "slug": "cryobilles-coloris-assortis-pack-100",
+      "brand": "HUMEAU",
+      "name_fr": "Cryobilles coloris assortis — pack de 100",
+      "description_fr": "Système de conservation de souches microbiologiques associant un cryotube stérile de 2 mL et des cryobilles jouant le rôle de conservateur. Chaque bille prélevée évite de décongeler tout le cryotube, ce qui limite le risque de contamination croisée et permet d'obtenir jusqu'à 25 répliques d'une même génération microbienne. Cryotube en polypropylène résistant jusqu'à -190 °C, gradué, stérilisé par autoclave, livré en portoirs de 100 unités sous film protecteur.",
+      "variant_name_fr": "5 couleurs — pack de 100",
+      "price_eur": 197.78,
+      "specs_fr": {
+        "Stérile": "Par autoclave",
+        "Couleur": "Assortiment 5 couleurs (blanc, bleu, jaune, rouge, vert)",
+        "Conditionnement": "5 couleurs x 20 cryotubes",
+        "Poids net": "0.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/239712_20260709150101/humeau.com-cryobille-coloris-assortis-5-couleurs-pack-de-100-239712-239712-30.jpg"
+    },
+    {
+      "sku": "239711",
+      "slug": "cryobille-verte-pack-100",
+      "brand": "HUMEAU",
+      "name_fr": "Cryobilles vertes — pack de 100",
+      "description_fr": "Système de conservation de souches microbiologiques associant un cryotube stérile de 2 mL et des cryobilles vertes jouant le rôle de conservateur. Chaque bille prélevée évite de décongeler tout le cryotube, ce qui limite le risque de contamination croisée et permet d'obtenir jusqu'à 25 répliques d'une même génération microbienne. Cryotube résistant jusqu'à -190 °C, livré en portoirs de 100 unités sous film protecteur.",
+      "variant_name_fr": "Vert — pack de 100",
+      "price_eur": 197.78,
+      "specs_fr": {
+        "Conditionnement": "100",
+        "Couleur": "Vert",
+        "Poids net": "0.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/239711_20250218100101/humeau.com-cryobille-verte-pack-de-100-239711-239711-30.jpg"
+    }
+  ]
+}

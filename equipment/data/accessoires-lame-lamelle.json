@@ -1,0 +1,242 @@
+{
+  "category": {
+    "slug": "accessoires-lame-lamelle",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Accessoires pour lames et lamelles"
+    },
+    "description": {
+      "fr": "Boîtes de rangement, plateaux et portoirs pour le classement, le séchage et la coloration des lames de microscopie."
+    }
+  },
+  "products": [
+    {
+      "sku": "219552",
+      "slug": "boite-rangement-100-lames-jaune",
+      "brand": "HUMEAU",
+      "name_fr": "Boîte de rangement pour 100 lames, jaune",
+      "description_fr": "Boîte en polystyrène pour le rangement de 100 lames de microscopie au format 76 x 26 mm. Fermeture à clip, couvercle à charnière, fond en liège et feuillet index sous le couvercle pour repérer les préparations.",
+      "variant_name_fr": "100 lames — jaune",
+      "price_eur": 33.1,
+      "specs_fr": {
+        "Capacité": "100 lames (76 x 26 mm)",
+        "Dimensions": "220 x 170 x 33 mm",
+        "Couleur": "Jaune",
+        "Poids net": "0.25 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219552_20251126154101/humeau.com-boite-de-rangement-100-lames-couleur-jaune-219552-219552-30.jpg"
+    },
+    {
+      "sku": "219551",
+      "slug": "boite-rangement-100-lames-rouge",
+      "brand": "HUMEAU",
+      "name_fr": "Boîte de rangement pour 100 lames, rouge",
+      "description_fr": "Boîte en polystyrène pour le rangement de 100 lames de microscopie au format 76 x 26 mm. Fermeture à clip, couvercle à charnière, fond en liège et feuillet index sous le couvercle pour repérer les préparations.",
+      "variant_name_fr": "100 lames — rouge",
+      "price_eur": 38.3,
+      "specs_fr": {
+        "Capacité": "100 lames (76 x 26 mm)",
+        "Dimensions": "220 x 170 x 33 mm",
+        "Couleur": "Rouge"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219551_20251126153102/humeau.com-boite-de-rangement-100-lames-couleur-rouge-219551-219551-30.jpg"
+    },
+    {
+      "sku": "259093",
+      "slug": "boite-carton-noir-20-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en carton, noir, pour 20 lames",
+      "description_fr": "Classeur en carton LABSOLUTE pour le rangement de 20 lames de microscope (76 x 26 mm). Les lames se logent dans des compartiments munis d'encoches facilitant leur retrait, et le couvercle protège les préparations tout en offrant un index imprimé pour les repérer.",
+      "variant_name_fr": "20 lames — noir",
+      "price_eur": 15.7,
+      "specs_fr": {
+        "Capacité": "20 lames",
+        "Dimensions": "208 x 341 x 9 mm",
+        "Couleur": "Noir",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.29 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000176_20240806134102/humeau.com-boite-de-rangement-en-carton-noir-pour-20-lames-259093-259093-30.jpg"
+    },
+    {
+      "sku": "259095",
+      "slug": "boite-ps-blanc-50-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en polystyrène pour 50 lames, blanc",
+      "description_fr": "Boîte de rangement LABSOLUTE en polystyrène stable, livrée avec un couvercle étanche à la poussière, pour le classement de 50 lames de microscope (76 x 26 mm). Empilable pour un stockage compact, emplacements numérotés et table d'index intégrés pour l'organisation des préparations. Résistante jusqu'à -40 °C.",
+      "variant_name_fr": "50 lames — blanc",
+      "price_eur": 11.4,
+      "specs_fr": {
+        "Capacité": "50 lames (76 x 26 mm)",
+        "Dimensions": "170 x 83 x 30 mm",
+        "Matière": "Polystyrène",
+        "Couleur": "Blanc",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000178_20250311115101/humeau.com-boite-de-rangement-en-ps-blanc-pour-50-lames-259095-259095-30.jpg"
+    },
+    {
+      "sku": "259097",
+      "slug": "boite-ps-jaune-50-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en polystyrène pour 50 lames, jaune",
+      "description_fr": "Boîte de rangement LABSOLUTE en polystyrène stable, livrée avec un couvercle étanche à la poussière, pour le classement de 50 lames de microscope (76 x 26 mm). Empilable pour un stockage compact, emplacements numérotés et table d'index intégrés pour l'organisation des préparations. Résistante jusqu'à -40 °C.",
+      "variant_name_fr": "50 lames — jaune",
+      "price_eur": 11.4,
+      "specs_fr": {
+        "Capacité": "50 lames (76 x 26 mm)",
+        "Dimensions": "170 x 83 x 30 mm",
+        "Matière": "Polystyrène",
+        "Couleur": "Jaune",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000180_20230817161102/humeau.com-boite-de-rangement-en-ps-jaune-pour-50-lames-82710000180-259097-30.jpg"
+    },
+    {
+      "sku": "259098",
+      "slug": "boite-ps-noir-50-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en polystyrène pour 50 lames, noir",
+      "description_fr": "Boîte de rangement LABSOLUTE en polystyrène stable, livrée avec un couvercle étanche à la poussière, pour le classement de 50 lames de microscope (76 x 26 mm). Empilable pour un stockage compact, emplacements numérotés et table d'index intégrés pour l'organisation des préparations. Résistante jusqu'à -40 °C.",
+      "variant_name_fr": "50 lames — noir",
+      "price_eur": 11.4,
+      "specs_fr": {
+        "Capacité": "50 lames (76 x 26 mm)",
+        "Dimensions": "170 x 83 x 30 mm",
+        "Matière": "Polystyrène",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000181_20230817161102/humeau.com-boite-de-rangement-en-ps-noir-pour-50-lames-82710000181-259098-30.jpg"
+    },
+    {
+      "sku": "259099",
+      "slug": "boite-ps-rouge-50-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en polystyrène pour 50 lames, rouge",
+      "description_fr": "Boîte de rangement LABSOLUTE en polystyrène stable, livrée avec un couvercle étanche à la poussière, pour le classement de 50 lames de microscope (76 x 26 mm). Empilable pour un stockage compact, emplacements numérotés et table d'index intégrés pour l'organisation des préparations. Résistante jusqu'à -40 °C.",
+      "variant_name_fr": "50 lames — rouge",
+      "price_eur": 11.4,
+      "specs_fr": {
+        "Capacité": "50 lames (76 x 26 mm)",
+        "Dimensions": "170 x 83 x 30 mm",
+        "Matière": "Polystyrène",
+        "Couleur": "Rouge",
+        "Marque commerciale": "LABSOLUTE",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000182_20241011112104/humeau.com-boite-de-rangement-en-ps-rouge-pour-50-lames-259099-259099-30.jpg"
+    },
+    {
+      "sku": "259100",
+      "slug": "boite-ps-vert-50-lames",
+      "brand": "LABSOLUTE",
+      "name_fr": "Boîte de rangement en polystyrène pour 50 lames, vert",
+      "description_fr": "Boîte de rangement LABSOLUTE en polystyrène stable, livrée avec un couvercle étanche à la poussière, pour le classement de 50 lames de microscope (76 x 26 mm). Empilable pour un stockage compact, emplacements numérotés et table d'index intégrés pour l'organisation des préparations. Résistante jusqu'à -40 °C.",
+      "variant_name_fr": "50 lames — vert",
+      "price_eur": 11.4,
+      "specs_fr": {
+        "Capacité": "50 lames (76 x 26 mm)",
+        "Dimensions": "170 x 83 x 30 mm",
+        "Matière": "Polystyrène",
+        "Couleur": "Vert",
+        "Marque commerciale": "LABSOLUTE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82710000183_20230817161102/humeau.com-boite-de-rangement-en-ps-vert-pour-50-lames-82710000183-259100-30.jpg"
+    },
+    {
+      "sku": "239723",
+      "slug": "cassette-histologie-blanche-40x28x6mm-sans-couvercle",
+      "brand": "DELTALAB",
+      "name_fr": "Cassette d'histologie blanche 40 x 28 x 6 mm, sans couvercle — carton de 3 x 1000",
+      "description_fr": "Cassette d'enrobage en polyacétal DELTALAB, sans couvercle, percée de 34 trous ronds de 2 mm de diamètre pour la circulation des réactifs. Résiste aux solvants courants en histologie. Conditionnement en gros volume (3 x 1000 unités).",
+      "variant_name_fr": "40 x 28 x 6 mm — carton de 3000",
+      "price_eur": 282.93,
+      "specs_fr": {
+        "Matière": "Polyacétal",
+        "Dimensions": "40 x 28 x 6 mm",
+        "Couleur": "Blanc",
+        "Conditionnement": "3 x 1000",
+        "Poids net": "6.9 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/3/9/39944014102_20230207102101/humeau.com-cassette-blanche-d-40x28x6mm-sans-couvercle-carton-3x1000-39944014102-239723-30.jpg"
+    },
+    {
+      "sku": "255775",
+      "slug": "plateau-coloration-10-lames-couvercle-clair",
+      "brand": "HUMEAU",
+      "name_fr": "Plateau de coloration pour 10 lames, avec couvercle transparent",
+      "description_fr": "Plateau de coloration en routine pour préparations nécessitant une ambiance humide (immuno-histochimie, hématologie, cytologie, microbiologie). Base en ABS noir sur quatre pieds caoutchoutés, pouvant recevoir jusqu'à 20 lames positionnées sur rails antiglisse ; la base sert de réservoir pour le surplus de liquide ou d'humidificateur. Unités empilables.",
+      "variant_name_fr": "10 lames — couvercle clair",
+      "price_eur": 287,
+      "specs_fr": {
+        "Capacité": "Jusqu'à 20 lames sur rails antiglisse",
+        "Dimensions": "240 x 240 x 45 mm",
+        "Matière": "ABS"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255775_20250414153101/humeau.com-plateau-coloration-pour-10-lames-avec-couvercle-clair-255775-255775-30.jpg"
+    },
+    {
+      "sku": "255644",
+      "slug": "plateau-carton-30-lames-microscopie",
+      "brand": "HUMEAU",
+      "name_fr": "Plateau en carton pour 30 lames de microscopie",
+      "description_fr": "Plateau de rangement en carton pour 30 lames standard (75 x 25 mm), fond blanc et reliure de couleur noire, pour un classement simple et économique des préparations.",
+      "variant_name_fr": "30 lames",
+      "price_eur": 17.6,
+      "specs_fr": {
+        "Capacité": "30 lames (75 x 25 mm)",
+        "Dimensions": "281 x 328 x 10 mm",
+        "Poids net": "0.4 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/255644_20260605112101/humeau.com-plateau-en-carton-pour-30-lames-microscopie-255644-255644-30.jpg"
+    },
+    {
+      "sku": "219524",
+      "slug": "plateau-ldpe-15-lames-microscopie",
+      "brand": "VWR",
+      "name_fr": "Plateau en polyéthylène pour 15 lames de microscopie",
+      "description_fr": "Portoir en polyéthylène VWR conçu pour le séchage et le nettoyage de 15 lames de microscopie.",
+      "variant_name_fr": "15 lames",
+      "price_eur": 73.3,
+      "specs_fr": {
+        "Capacité": "15 lames",
+        "Dimensions": "102 x 153 x 21 mm",
+        "Matière": "Polyéthylène",
+        "Couleur": "Blanc",
+        "Marque commerciale": "VWR",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219524_20221222162103/humeau.com-plateau-en-ldpe-pour-15-lames-de-microscopie-18106310717-219524-30.jpg"
+    },
+    {
+      "sku": "207387",
+      "slug": "portoir-coloration-plexiglas-cuve-pvc-38x17x8cm",
+      "brand": "KARL HECHT",
+      "name_fr": "Portoir à coloration en plexiglas avec cuve PVC, 38 x 17 x 8 cm",
+      "description_fr": "Portoir à coloration KARL HECHT en plexiglas, associé à une cuve en PVC assurant un maintien stable et sécurisé des lames pendant les étapes de coloration en laboratoire.",
+      "variant_name_fr": "38 x 17 x 8 cm",
+      "price_eur": 125.4,
+      "specs_fr": {
+        "Matière portoir": "Plexiglas",
+        "Matière cuve": "PVC",
+        "Marque commerciale": "KARL HECHT",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/207387_20260113101101/humeau.com-portoir-a-coloration-en-plexi-glas-et-cuve-pvc-d-38x17x8cm-10000118500-207387-30.jpg"
+    },
+    {
+      "sku": "256399",
+      "slug": "portoir-tpx-20-lames",
+      "brand": "HUMEAU",
+      "name_fr": "Portoir en TPX (PMP) pour 20 lames",
+      "description_fr": "Portoir pour 20 lames en TPX (PMP), utilisable seul ou avec un portoir en polypropylène complémentaire. Couvercle à ouverture facile pour manipuler les lames pendant les phases de coloration.",
+      "variant_name_fr": "20 lames",
+      "price_eur": 10.4,
+      "specs_fr": {
+        "Capacité": "20 lames",
+        "Matière": "TPX (PMP)"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256399_20230321155101/humeau.com-portoir-tpx-pour-20-lames-80239105800-256399-30.jpg"
+    }
+  ]
+}

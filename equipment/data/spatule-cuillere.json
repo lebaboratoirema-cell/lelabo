@@ -1,0 +1,306 @@
+{
+  "category": {
+    "slug": "spatule-cuillere",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Spatules et cuillères de laboratoire"
+    },
+    "description": {
+      "fr": "Spatules, micro-spatules et cuillères de laboratoire en acier inoxydable, utilisées pour prélever, doser et transférer des produits pulvérulents ou pâteux sur la paillasse."
+    }
+  },
+  "products": [
+    {
+      "sku": "224060",
+      "slug": "cuillere-spatule-cannelee-inox-l190mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule cannelée en inox, longueur 190 mm, Ø 8 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 3) en acier inoxydable 18/10, longueur totale de 190 mm, diamètre de cuillère de 8 mm. Outil polyvalent pour le prélèvement et le transfert de produits en laboratoire.",
+      "variant_name_fr": "190 mm — Ø8 mm",
+      "price_eur": 4.5,
+      "specs_fr": {
+        "Dimensions": "F x E : 25 x 20 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "26 mm",
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "190",
+        "Largeur (mm)": "12",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.03 kg",
+        "Modèle": "Poly",
+        "Type": "Type 3"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000015_20251211100104/humeau.com-cuillere-spatule-cannelee-inox-l-190mm-diam-8mm-224060-224060-30.jpg"
+    },
+    {
+      "sku": "224054",
+      "slug": "cuillere-spatule-inox-l150mm-diam5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 150 mm, Ø 5 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 1) en acier inoxydable 18/10, longueur totale de 155 mm, diamètre de cuillère de 5 mm. Pratique pour le prélèvement de petites quantités de produit en laboratoire.",
+      "variant_name_fr": "150 mm — Ø5 mm",
+      "price_eur": 7.47,
+      "specs_fr": {
+        "Dimensions": "F x E : 40 x 20 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "30 mm",
+        "Diamètre (mm)": "5",
+        "Longueur (mm)": "155",
+        "Largeur (mm)": "12",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.08 kg",
+        "Modèle": "Poly",
+        "Type": "Type 1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000009_20230725103103/humeau.com-cuillere-spatule-en-inox-l-150mm-diam-5mm-224054-224054-30.jpg"
+    },
+    {
+      "sku": "224055",
+      "slug": "cuillere-spatule-inox-l180mm-diam5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 180 mm, Ø 5 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 1) en acier inoxydable 18/10, longueur totale de 185 mm, diamètre de cuillère de 5 mm.",
+      "variant_name_fr": "180 mm — Ø5 mm",
+      "price_eur": 8.4,
+      "specs_fr": {
+        "Dimensions": "F x E : 40 x 20 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "30 mm",
+        "Diamètre (mm)": "5",
+        "Longueur (mm)": "185",
+        "Largeur (mm)": "13",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.02 kg",
+        "Modèle": "Poly",
+        "Type": "Type 1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000010_20230725104101/humeau.com-cuillere-spatule-en-inox-l-180mm-diam-5mm-224055-224055-30.jpg"
+    },
+    {
+      "sku": "223891",
+      "slug": "cuillere-spatule-inox-l210mm-diam5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 210 mm, Ø 5 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 1) en acier inoxydable 18/10, longueur totale de 210 mm, diamètre de cuillère de 5 mm.",
+      "variant_name_fr": "210 mm — Ø5 mm",
+      "price_eur": 9.1,
+      "specs_fr": {
+        "Dimensions": "F x E : 40 x 20 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "30 mm",
+        "Diamètre (mm)": "5",
+        "Longueur (mm)": "210",
+        "Largeur (mm)": "13",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.003 kg",
+        "Modèle": "Poly",
+        "Type": "Type 1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200340200_20231211100102/humeau.com-cuillere-spatule-en-inox-l-210mm-diam-5mm-223891-223891-30.jpg"
+    },
+    {
+      "sku": "223892",
+      "slug": "cuillere-spatule-inox-l250mm-diam5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 250 mm, Ø 5 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 1) en acier inoxydable 18/10, longueur totale de 255 mm, diamètre de cuillère de 5 mm.",
+      "variant_name_fr": "250 mm — Ø5 mm",
+      "price_eur": 9.81,
+      "specs_fr": {
+        "Dimensions": "F x E : 40 x 20 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "30 mm",
+        "Diamètre (mm)": "5",
+        "Longueur (mm)": "255",
+        "Largeur (mm)": "13",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.034 kg",
+        "Modèle": "Poly",
+        "Type": "Type 1"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22200340300_20231004143104/humeau.com-cuillere-spatule-en-inox-l-250mm-diam-5mm-223892-223892-30.jpg"
+    },
+    {
+      "sku": "224057",
+      "slug": "cuillere-spatule-inox-l250mm-diam8mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 250 mm, Ø 8 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 2) en acier inoxydable 18/10, longueur totale de 250 mm, diamètre de cuillère de 8 mm — pour des volumes de prélèvement plus importants.",
+      "variant_name_fr": "250 mm — Ø8 mm",
+      "price_eur": 13.14,
+      "specs_fr": {
+        "Dimensions": "F x E : 65 x 30 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "35 mm",
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "250",
+        "Largeur (mm)": "20",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.1 kg",
+        "Modèle": "Poly",
+        "Type": "Type 2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000012_20231213160101/humeau.com-cuillere-spatule-en-inox-l-250mm-diam-8mm-224057-224057-30.jpg"
+    },
+    {
+      "sku": "224056",
+      "slug": "cuillere-spatule-inox-l300mm-diam5mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 300 mm, Ø 5 mm",
+      "description_fr": "Cuillère-spatule en acier inoxydable Bochem, longueur totale de 300 mm, pour le prélèvement de produits en laboratoire.",
+      "variant_name_fr": "300 mm — Ø5 mm",
+      "price_eur": 10.47,
+      "specs_fr": {
+        "Longueur (mm)": "300",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.045 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000011_20250523113103/humeau.com-cuillere-spatule-en-inox-l-300mm-diam-5mm-224056-224056-30.jpg"
+    },
+    {
+      "sku": "224058",
+      "slug": "cuillere-spatule-inox-l300mm-diam8mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 300 mm, Ø 8 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 2) en acier inoxydable 18/10, longueur totale de 395 mm, diamètre de cuillère de 8 mm.",
+      "variant_name_fr": "300 mm — Ø8 mm",
+      "price_eur": 19.29,
+      "specs_fr": {
+        "Dimensions": "F x E : 65 x 30 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "35 mm",
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "395",
+        "Largeur (mm)": "25",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.15 kg",
+        "Modèle": "Poly",
+        "Type": "Type 2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000013_20231213160101/humeau.com-cuillere-spatule-en-inox-l-300mm-diam-8mm-224058-224058-30.jpg"
+    },
+    {
+      "sku": "224059",
+      "slug": "cuillere-spatule-inox-l400mm-diam8mm",
+      "brand": "BOCHEM",
+      "name_fr": "Cuillère-spatule en inox, longueur 400 mm, Ø 8 mm",
+      "description_fr": "Cuillère-spatule modèle Poly (type 2) en acier inoxydable 18/10, longueur totale de 500 mm, diamètre de cuillère de 8 mm — format long pour l'accès à des récipients profonds.",
+      "variant_name_fr": "400 mm — Ø8 mm",
+      "price_eur": 21.84,
+      "specs_fr": {
+        "Dimensions": "F x E : 65 x 30 mm",
+        "Matière": "Acier inox 18/10",
+        "Longueur de la tige": "35 mm",
+        "Diamètre (mm)": "8",
+        "Longueur (mm)": "500",
+        "Largeur (mm)": "20",
+        "Marque commerciale": "BOCHEM",
+        "Modèle": "Poly",
+        "Type": "Type 2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/22210000014_20231018122002/humeau.com-cuillere-spatule-en-inox-l-400mm-diam-8mm-224059-224059-30.jpg"
+    },
+    {
+      "sku": "209381",
+      "slug": "double-micro-spatule-inox-d6mm-l150mm",
+      "brand": "HUMEAU",
+      "name_fr": "Double micro-spatule en inox, Ø 6 mm, longueur 150 mm",
+      "description_fr": "Micro-spatule double en acier inoxydable, longueur 150 mm, diamètre 6 mm, utile pour manipuler de très petites quantités de produit en laboratoire.",
+      "variant_name_fr": "Ø6 mm — 150 mm",
+      "price_eur": 11.8,
+      "specs_fr": {
+        "Diamètre (mm)": "6",
+        "Longueur (mm)": "150",
+        "Poids net": "0.01 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/1/11610123024_20230731104107/humeau.com-double-micro-spatule-en-inox-d-6mm-longueur-150mm-209381-209381-30.jpg"
+    },
+    {
+      "sku": "218592",
+      "slug": "micro-spatule-150mm-arrondie",
+      "brand": "BOCHEM",
+      "name_fr": "Micro-spatule 150 mm, arrondie",
+      "description_fr": "Micro-spatule en acier inoxydable 18/10, avec une extrémité plate et l'autre en forme de micro-cuillère, longueur 150 mm.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 3.35,
+      "specs_fr": {
+        "Dimensions": "9 x 5 x 150 mm",
+        "Pack": "1",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.006 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218592_20241121100101/humeau.com-micro-spatule-150mm-arrondie-218592-218592-30.jpg"
+    },
+    {
+      "sku": "218606",
+      "slug": "spatule-double-inox-l150mm-pelles45x9",
+      "brand": "BOCHEM",
+      "name_fr": "Spatule double en inox, longueur 150 mm, pelles 45 x 9 mm",
+      "description_fr": "Spatule double en acier inoxydable 18/10, longueur 150 mm, avec deux pelles de 45 x 9 mm à chaque extrémité pour le prélèvement de produits en laboratoire.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 3.5,
+      "specs_fr": {
+        "Diamètre tige": "3,5 mm",
+        "Longueur (mm)": "150",
+        "Largeur (mm)": "9",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.009 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18102311033_20250704105101/humeau.com-spatule-double-en-inox-l-150mm-pelles-45x9-mm-218606-218606-30.jpg"
+    },
+    {
+      "sku": "217730",
+      "slug": "spatule-inox-analyse-235mm",
+      "brand": "BOCHEM",
+      "name_fr": "Spatule inox d'analyse, 235 mm — à l'unité",
+      "description_fr": "Spatule d'analyse en inox, longueur 235 mm, tige de 4 mm, avec un côté carré de 8 mm de large et un côté cuillère.",
+      "variant_name_fr": "235 mm",
+      "price_eur": 6.39,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Inox",
+        "Diamètre tige": "4 mm",
+        "Longueur (mm)": "235",
+        "Largeur (mm)": "18",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.212 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100955223_20231102142102/humeau.com-spatule-inox-analyse-de-235mm-la-piece-217730-217730-30.jpg"
+    },
+    {
+      "sku": "217729",
+      "slug": "spatule-inox-labo-verseuse-200mm",
+      "brand": "BOCHEM",
+      "name_fr": "Spatule inox labo-verseuse, 200 mm — à l'unité",
+      "description_fr": "Spatule laboverseuse en inox, longueur 200 mm, avec un côté conique-couloir pour verser et un côté cuillère.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 5.57,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Inox",
+        "Longueur (mm)": "200",
+        "Largeur (mm)": "23",
+        "Marque commerciale": "BOCHEM",
+        "Poids net": "0.024 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100955220_20260119135101/humeau.com-spatule-inox-labo-verseuse-de-200-mm-la-piece-217729-217729-30.jpg"
+    },
+    {
+      "sku": "222024",
+      "slug": "spatule-type-verseuse-inox-l195mm",
+      "brand": "NAHITA",
+      "name_fr": "Spatule type verseuse en inox, longueur 195 mm",
+      "description_fr": "Spatule de type verseuse Nahita en inox, longueur 195 mm.",
+      "variant_name_fr": "195 mm",
+      "price_eur": 4.8,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Inox",
+        "Longueur (mm)": "195",
+        "Marque commerciale": "NAHITA",
+        "Poids net": "0.024 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19760115195_20230918092101/humeau.com-spatule-type-verseuse-en-inox-long-195mm-222024-222024-30.jpg"
+    }
+  ]
+}

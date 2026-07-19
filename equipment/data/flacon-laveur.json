@@ -1,0 +1,99 @@
+{
+  "category": {
+    "slug": "flacon-laveur",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Flacons laveurs de gaz"
+    },
+    "description": {
+      "fr": "Flacons laveurs en verre destinés au lavage, au piégeage ou à la purification de gaz en laboratoire, avec embouts de Drechsel et plaques filtrantes selon les modèles."
+    }
+  },
+  "products": [
+    {
+      "sku": "223384",
+      "slug": "flacon-laveur-gaz-schott-embout-plaque-filtre-500ml",
+      "brand": null,
+      "name_fr": "Flacon laveur de gaz Schott avec embout et plaque filtrante, 500 mL",
+      "description_fr": "Flacon laveur de gaz en verre Duran équipé d'un embout de Drechsel et d'une plaque filtrante, assemblé par vissage. La hauteur d'immersion de l'embout est réglable pour adapter le débit de lavage.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 161.9,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Verre",
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "9 (olive)",
+        "Filetage (mm)": "45",
+        "Porosité": "1",
+        "Poids net": "0.8 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402570401_20251222093103/humeau.com-flacon-laveur-de-gaz-schott-embout-plaque-filtre-500-ml-223384-223384-30.jpg"
+    },
+    {
+      "sku": "234884",
+      "slug": "flacon-laveur-drechsel-verre-duran-plaque-po1-500ml",
+      "brand": "LENZ",
+      "name_fr": "Flacon laveur de Drechsel en verre Duran, col rodé, avec plaque de filtration PO.1, 500 mL",
+      "description_fr": "Flacon et tête entièrement en verre Duran, à col rodé, muni d'un raccord à vis et d'un disque de filtration de porosité 1. La hauteur d'insertion est réglable ; filetage central GL45 et filetage secondaire GL14.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 85.4,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Capacité (mL)": "500",
+        "Poids net": "0.55 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/234884_20250122122007/humeau.com-flacon-laveur-verre-duran-dreschsel-plaque-po-1-500ml-234884-234884-30.jpg"
+    },
+    {
+      "sku": "223367",
+      "slug": "flacon-laveur-drechsel-verre-duran-sans-plaque-500ml",
+      "brand": "DURAN",
+      "name_fr": "Flacon laveur de Drechsel en verre Duran, sans plaque filtrante, 500 mL",
+      "description_fr": "Flacon laveur de gaz en verre Duran à embout de Drechsel, assemblé par vissage et sans plaque filtrante. La hauteur d'immersion de l'embout est réglable.",
+      "variant_name_fr": "500 mL",
+      "price_eur": 111.6,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "500",
+        "Diamètre (mm)": "9 (olive)",
+        "Filetage (mm)": "45",
+        "Poids net": "0.85 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402471300_20240603110101/humeau.com-flacon-laveur-verre-duran-dreschsel-sans-plaque-500ml-223367-223367-30.jpg"
+    },
+    {
+      "sku": "223383",
+      "slug": "flacon-laveur-gaz-verre-duran-rodage-normalise-100ml",
+      "brand": null,
+      "name_fr": "Flacon laveur pour gaz en verre Duran, rodage normalisé col 34/35, avec plaque filtrante, 100 mL",
+      "description_fr": "Flacon laveur pour gaz en verre Duran à rodage normalisé (col 34/35), équipé d'une plaque filtrante, capacité 100 mL.",
+      "variant_name_fr": "100 mL",
+      "price_eur": 370.6,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Matière": "Verre",
+        "Capacité (mL)": "100",
+        "Diamètre (mm)": "10 (olive)",
+        "Hauteur (mm)": "250",
+        "Porosité": "1",
+        "Rodage mâle et femelle": "34/35"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/20402570140_20220505202054/humeau.com-flacon-laveur-verre-duran-pour-gaz-100-ml-20402570140-223383-30.jpg"
+    },
+    {
+      "sku": "202247",
+      "slug": "flacon-laveur-gaz-hach-1200ml",
+      "brand": "HACH",
+      "name_fr": "Flacon laveur pour gaz en verre, 1200 mL",
+      "description_fr": "Flacon laveur pour gaz en verre de marque Hach, capacité 1200 mL, utilisé notamment pour la détermination du mercure par la méthode de concentration en mercure à la vapeur froide.",
+      "variant_name_fr": "1200 mL",
+      "price_eur": 1235,
+      "specs_fr": {
+        "Matière": "Verre",
+        "Capacité (mL)": "1200",
+        "Poids net": "2.12 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/3/03602662200_20240216162101/humeau.com-flacon-laveur-verre-pour-gaz-1200ml-03602662200-202247-30.jpg"
+    }
+  ]
+}

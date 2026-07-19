@@ -1,0 +1,82 @@
+{
+  "category": {
+    "slug": "jarre-anaerobie",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Jarres d’anaérobiose"
+    },
+    "description": {
+      "fr": "Jarres d'anaérobiose, couvercles de rechange et systèmes générateurs d'atmosphère, utilisés pour la culture de micro-organismes anaérobies et microaérophiles en laboratoire de microbiologie."
+    }
+  },
+  "products": [
+    {
+      "sku": "213537",
+      "slug": "couvercle-jarre-anaerobiose-merck",
+      "brand": "MERCK",
+      "name_fr": "Couvercle de rechange pour jarre d’anaérobiose Merck",
+      "description_fr": "Couvercle de rechange compatible avec les jarres d'anaérobiose de la marque Merck. Permet de remplacer un couvercle endommagé ou perdu sans avoir à racheter l'ensemble du système de culture.",
+      "variant_name_fr": "Standard",
+      "price_eur": 30.2,
+      "specs_fr": {},
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/213537_20250217114101/humeau.com-couvercle-pour-jarre-d-anaero-biose-l-unite-213537-213537-30.jpg"
+    },
+    {
+      "sku": "270026",
+      "slug": "jarre-anaerobiose-anaerocult-boites-90mm-2-5l",
+      "brand": "MERCK",
+      "name_fr": "Jarre d’anaérobiose avec système Anaerocult, pour boîtes de 90 mm, 2,5 L",
+      "description_fr": "Jarre d'anaérobiose Merck composée d'un couvercle et d'une base, conçue pour créer une atmosphère pauvre ou dépourvue d'oxygène nécessaire à la culture de micro-organismes anaérobies et microaérophiles. Matériaux de qualité assurant une bonne étanchéité et un maintien fiable du couvercle. Prévue pour des boîtes de Petri de 90 mm, capacité 2,5 L ; à associer à un support de boîtes vendu séparément.",
+      "variant_name_fr": "2,5 L",
+      "price_eur": 259,
+      "specs_fr": {
+        "Volume": "2,5 L",
+        "Conditionnement": "1",
+        "Poids net": "0.86 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/270026_20250623154101/humeau.com-jarre-d-anaerobiose-et-anaerocult-pour-boites-de-90mm-2-5l-270026-270026-30.jpg"
+    },
+    {
+      "sku": "200990",
+      "slug": "jarre-anaerobiose-ronde-anaerojar-2-5l",
+      "brand": "OXOID",
+      "name_fr": "Jarre d’anaérobiose ronde AnaeroJar, 2,5 L",
+      "description_fr": "Jarre d'anaérobiose Oxoid AnaeroJar avec base en polycarbonate de 2,5 L et couvercle fixé par quatre clips auto-ventilés, muni d'une poignée de transport et d'une fonction de libération du vide. Livrée avec un porte-assiettes pouvant recevoir jusqu'à 12 boîtes de Petri.",
+      "variant_name_fr": "2,5 L",
+      "price_eur": 354.5,
+      "specs_fr": {
+        "Matière": "Polycarbonate",
+        "Capacité (mL)": "2500",
+        "Poids net": "0.72 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/2/02300002500_20250226135101/humeau.com-jarre-d-anaerobiose-ronde-anaerojar-2-5l-200990-200990-30.jpg"
+    },
+    {
+      "sku": "205890",
+      "slug": "jarre-coloration-coplin-couvercle-5-lames-x6",
+      "brand": "WHEATON",
+      "name_fr": "Jarre de coloration Coplin à couvercle, 5 lames — lot de 6",
+      "description_fr": "Jarre de coloration type Coplin avec couvercle, en verre Wheaton, d'une capacité de 5 lames par jarre, vendue en lot de 6. Adaptée aux protocoles de coloration de lames en microbiologie et en histologie.",
+      "variant_name_fr": "5 lames — lot de 6",
+      "price_eur": 385.2,
+      "specs_fr": {
+        "Conditionnement": "6",
+        "Poids net": "2.2 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/205890_20251107133101/humeau.com-jarre-de-coloration-coplin-a-couvercle-5-lames-wheaton-x6-205890-205890-30.jpg"
+    },
+    {
+      "sku": "200987",
+      "slug": "systeme-anaerobiose-co2gen-compact-pack-x20",
+      "brand": "OXOID",
+      "name_fr": "Système générateur d’anaérobiose CO2Gen Compact — pack de 20",
+      "description_fr": "Système générateur d'atmosphère anaérobie CO2Gen Compact Oxoid, conditionné en pack de 20 sachets. Destiné à créer, en association avec une jarre d'anaérobiose, les conditions de culture nécessaires aux micro-organismes anaérobies.",
+      "variant_name_fr": "Pack de 20",
+      "price_eur": 182.3,
+      "specs_fr": {
+        "Conditionnement": "20"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/200987_20231031103101/humeau.com-systeme-d-anaerobiose-co2-gen-compact-oxoid-cd0020c-pack-x20-200987-200987-30.jpg"
+    }
+  ]
+}

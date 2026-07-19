@@ -1,0 +1,100 @@
+{
+  "category": {
+    "slug": "parafilm",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Parafilm et films de scellage"
+    },
+    "description": {
+      "fr": "Films de scellage extensibles pour la fermeture étanche des récipients de laboratoire, disponibles en plusieurs largeurs et longueurs."
+    }
+  },
+  "products": [
+    {
+      "sku": "234839",
+      "slug": "parafilm-dispenser-38m-10cm",
+      "brand": "HUMEAU",
+      "name_fr": "Parafilm en dispenser, 38 m x 10 cm",
+      "description_fr": "Film de scellage Parafilm en dispenseur, souple, ultra-extensible et semi-transparent, épaisseur 200 µm. Utilisé pour la fermeture des récipients de laboratoire : imperméable aux liquides, mais perméable aux gaz.",
+      "variant_name_fr": "38 m x 10 cm",
+      "price_eur": 38.0,
+      "specs_fr": {
+        "Conditionnement": "Rouleau",
+        "Dimensions": "38 m x 10 cm",
+        "Epaisseur": "200 µm",
+        "Poids brut": "0.635 KG",
+        "Poids net": "0.635 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/234839_20240702170101/humeau.com-parafilm-en-dispenser-38mx10cm-234839-234839-30.jpg"
+    },
+    {
+      "sku": "270802",
+      "slug": "parafilm-dispenser-38m-10cm-m",
+      "brand": "HUMEAU",
+      "name_fr": "Parafilm M en dispenser, 38 m x 10 cm",
+      "description_fr": "Film d'emballage de laboratoire Parafilm M en dispenser, offrant un suremballage efficace et économique pour sécuriser bouchons, couvercles et capuchons, ou pour éviter que flacons et instruments ne glissent sur un plateau ou une étagère.",
+      "variant_name_fr": "38 m x 10 cm",
+      "price_eur": 42.65,
+      "specs_fr": {
+        "Longueur (mm)": "38m",
+        "Pack": "1",
+        "Largeur (mm)": "10cm",
+        "Matériaux": "Thermoplastique",
+        "Type": "Film de scellage"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/270802_20250220142101/humeau.com-parafilm-en-dispenser-38x10cm-270802-270802-30.jpg"
+    },
+    {
+      "sku": "217527",
+      "slug": "parafilm-dispenser-75m-10cm",
+      "brand": "HUMEAU",
+      "name_fr": "Parafilm en dispenser, 75 m x 10 cm",
+      "description_fr": "Film de scellage Parafilm en dispenseur, souple, ultra-extensible et semi-transparent, épaisseur 200 µm, en grand rouleau de 75 m. Utilisé pour la fermeture des récipients de laboratoire : imperméable aux liquides, mais perméable aux gaz.",
+      "variant_name_fr": "75 m x 10 cm",
+      "price_eur": 54.7,
+      "specs_fr": {
+        "Conditionnement": "Rouleau",
+        "Dimensions": "75 m x 10 cm",
+        "Epaisseur": "200 µm",
+        "Poids brut": "1.2 KG",
+        "Poids net": "1.2 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100196307_20240927170103/humeau.com-parafilm-en-dispenser-rouleau-de-75m-largeur-10cm-217527-217527-30.jpg"
+    },
+    {
+      "sku": "217526",
+      "slug": "parafilm-dispenser-75m-5cm",
+      "brand": "BRAND",
+      "name_fr": "Parafilm Brand en dispenser, 75 m x 5 cm",
+      "description_fr": "Film de scellage Parafilm Brand en dispenseur, souple, ultra-extensible et semi-transparent, épaisseur 200 µm, en rouleau de 75 m et largeur réduite de 5 cm. Utilisé pour la fermeture des récipients de laboratoire.",
+      "variant_name_fr": "75 m x 5 cm",
+      "price_eur": 39.5,
+      "specs_fr": {
+        "Conditionnement": "Rouleau",
+        "Dimensions": "75 m x 5 cm",
+        "Epaisseur": "200 µm",
+        "Marque commerciale": "BRAND",
+        "Poids brut": "0.595 KG",
+        "Poids net": "0.595 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/8/18100196305_20241011090103/humeau.com-parafilm-en-dispenser-rouleau-de-75m-largeur-5cm-217526-217526-30.jpg"
+    },
+    {
+      "sku": "256187",
+      "slug": "parafilm-largeur-50cm-maxi-rouleau-15m",
+      "brand": "HUMEAU",
+      "name_fr": "Parafilm largeur 50 cm — maxi rouleau 15 m",
+      "description_fr": "Film de scellage Parafilm extensible à 200 %, épousant n'importe quelle forme ou surface, même irrégulière. Résiste jusqu'à 48 h à de nombreuses substances polaires (solutions salines, acides inorganiques, lessives). Température de fusion 60 °C, plage d'emploi -45 à 50 °C.",
+      "variant_name_fr": "Largeur 50 cm — 15 m",
+      "price_eur": 49.8,
+      "specs_fr": {
+        "Longueur (mm)": "15,0 m",
+        "Pack": "1",
+        "Largeur (mm)": "500 mm",
+        "Poids brut": "1.25 KG",
+        "Poids net": "1.25 KG"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/256187_20250718093102/humeau.com-parafilm-largeur-50cm-maxi-rouleau-15-metres-256187-256187-30.jpg"
+    }
+  ]
+}

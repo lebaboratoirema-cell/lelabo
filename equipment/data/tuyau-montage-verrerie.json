@@ -1,0 +1,238 @@
+{
+  "category": {
+    "slug": "tuyau-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Tuyaux pour montage de verrerie" },
+    "description": {
+      "fr": "Tuyaux et tubulures en silicone, caoutchouc, polyéthylène et polymères techniques, pour le raccordement de verrerie, le pompage de fluides et les montages de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "220538",
+      "slug": "tube-tygon-3350-1-6x3-2mm-rouleau-15m",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tube Tygon 3350, Ø 1,6 x 3,2 mm, épaisseur 0,8 mm — rouleau de 15 m",
+      "description_fr": "Tube Tygon 3350 Saint-Gobain à surface intérieure ultra-lisse et hydrophobe, de densité 1,14 et de dureté Shore 50. Utilisable de -80 °C à +200 °C et stérilisable à la vapeur, il présente un taux limité de constituants extractibles et répond aux critères USP Classe VI, FDA, NSF et ISO 10993. Tube translucide.",
+      "variant_name_fr": "Rouleau de 15 m",
+      "price_eur": 172.40,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "1.6",
+        "Diamètre extérieur (mm)": "3.2",
+        "Épaisseur (mm)": "0.8",
+        "Longueur": "15 m",
+        "Poids net": "0.194 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700330213_20231221163102/humeau.com-tube-tygon-3350-d-1-6x3-2mm-ep-0-8mm-rouleau-15-metres-220538-220538-30.jpg"
+    },
+    {
+      "sku": "235149",
+      "slug": "tube-versilic-silicone-alimentaire-4x6mm-le-metre",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tube Versilic en silicone alimentaire, Ø 4 x 6 mm — vendu au mètre",
+      "description_fr": "Tube en silicone alimentaire Versilic, transparent et très souple, vendu au mètre. Il offre une excellente conservation et résiste jusqu'à 250 °C. Chimiquement neutre et non toxique, il n'a aucune action sur les milieux biologiques.",
+      "variant_name_fr": "Au mètre",
+      "price_eur": 2.75,
+      "specs_fr": {
+        "Dimensions": "Ø 4/6 mm",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24500920404_20240813122005/humeau.com-tube-versilic-4x6-le-metre-235149-235149-30.jpg"
+    },
+    {
+      "sku": "235153",
+      "slug": "tube-versilic-silicone-haute-purete-8x12mm-au-metre",
+      "brand": "VERSILIC",
+      "name_fr": "Tube Versilic en silicone haute pureté, Ø 8 x 12 mm — au mètre",
+      "description_fr": "Tuyau Versilic Saint-Gobain en silicone translucide haute pureté, fabriqué selon les Bonnes Pratiques de Fabrication et les systèmes qualité ISO 9001 et EN 46002. Conforme aux tests de la pharmacopée européenne et à la neutralité biologique USP XXIII classe VI, avec alimentarité selon FDA et BgVV. Densité 1,2, dureté Shore A 60±5, utilisable de -60 °C à +200 °C (pointes possibles à +220 °C), structure hexacanal.",
+      "variant_name_fr": "Au mètre",
+      "price_eur": 9.36,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "8",
+        "Diamètre extérieur (mm)": "12",
+        "Épaisseur (mm)": "2",
+        "Poids net": "0.07 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24500920408_20260121165101/humeau.com-tube-versilic-8x12-au-metre-235153-235153-30.jpg"
+    },
+    {
+      "sku": "235148",
+      "slug": "tube-versilic-silicone-haute-purete-3x5mm-au-metre",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tube Versilic en silicone haute pureté, Ø 3 x 5 mm — au mètre",
+      "description_fr": "Tuyau Versilic Saint-Gobain en silicone translucide haute pureté, fabriqué selon les Bonnes Pratiques de Fabrication et les systèmes qualité ISO 9001 et EN 46002. Conforme aux tests de la pharmacopée européenne et à la neutralité biologique USP XXIII classe VI, avec alimentarité selon FDA et BgVV. Densité 1,2, dureté Shore A 60±5, utilisable de -60 °C à +200 °C (pointes possibles à +220 °C), structure hexacanal.",
+      "variant_name_fr": "Au mètre",
+      "price_eur": 2.66,
+      "specs_fr": {
+        "Dimensions": "Ø 3/5 mm",
+        "Diamètre extérieur (mm)": "5",
+        "Diamètre intérieur (mm)": "3",
+        "Épaisseur (mm)": "1",
+        "Poids net": "0.014 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24500920403_20260121165102/humeau.com-tube-versilic-diam-3x5-au-metre-235148-235148-30.jpg"
+    },
+    {
+      "sku": "236520",
+      "slug": "tubulure-masterflex-tygon-e-lfl-taille-16-7-5m",
+      "brand": "COLE PARMER",
+      "name_fr": "Tubulure de pompe Masterflex Tygon E-LFL, taille 16 — rouleau de 7,5 m",
+      "description_fr": "Tubulure de précision Cole-Parmer Tygon E-LFL, format L/S 16, conçue pour les applications de pompage exigeantes. Non toxique, non hémolytique et biocompatible, elle offre une longue durée de vie en pompe continue jusqu'à 2,7 bar, avec de faibles substances extractibles et une faible perméabilité aux gaz. Conforme aux critères USP Classe VI et aux exigences FDA, elle s'ajuste sur le verre ou le métal, y compris sur des courbes de petit rayon, et supporte une plage de -46 °C à +74 °C avec stérilisation à l'oxyde d'éthylène ou en autoclave.",
+      "variant_name_fr": "Taille 16 — 7,5 m",
+      "price_eur": 233.00,
+      "specs_fr": {
+        "Longueur": "7.6 m",
+        "Poids net": "0.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/27700644016_20230731104107/humeau.com-tubulure-masterflex-tygon-e-lfl-taille-16-7-5-metres-236520-236520-30.jpg"
+    },
+    {
+      "sku": "235146",
+      "slug": "tuyau-caoutchouc-naturel-4x7mm-le-metre",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tuyau en caoutchouc naturel, Ø 4 x 7 mm, épaisseur 1,5 mm — vendu au mètre",
+      "description_fr": "Tuyau Saint-Gobain en caoutchouc naturel de teinte ambrée, également disponible en couronnes de 10, 25 ou 50 mètres. Stérilisable en chaleur humide, de densité 0,98 et de dureté Shore A 40±5, il présente un allongement à la rupture supérieur à 500 % et supporte une plage de -35 °C à +70 °C (jusqu'à +120 °C en chaleur humide).",
+      "variant_name_fr": "Le mètre",
+      "price_eur": 7.90,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "4",
+        "Diamètre extérieur (mm)": "7",
+        "Épaisseur (mm)": "1.5",
+        "Poids net": "0.05 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24500920104_20260304112103/humeau.com-tuyau-caoutchouc-naturel-d-4x7mm-ep-1-5mm-le-metre-235146-235146-30.jpg"
+    },
+    {
+      "sku": "279996",
+      "slug": "tuyau-polyethylene-int6mm-ext8mm-rouleau-100m",
+      "brand": "BURKLE",
+      "name_fr": "Tuyau en polyéthylène, Ø int. 6 mm x ext. 8 mm — rouleau de 100 m",
+      "description_fr": "Tuyau en polyéthylène haute qualité, robuste et résistant à l'abrasion pour une utilisation intensive et sous pression, jusqu'à 7 bar entre -40 °C et +95 °C. Il offre une excellente résistance chimique aux acides non oxydants, aux bases, aux sels et à de nombreux solvants, reste indéformable jusqu'à +80 °C, et sa bonne transparence permet un contrôle visuel optimal, sans transfert d'odeur ni de goût.",
+      "variant_name_fr": "Rouleau de 100 m",
+      "price_eur": 107.00,
+      "specs_fr": {
+        "Longueur": "100 m",
+        "Poids net": "2.488 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279996_20260107150101/humeau.com-tuyau-en-pe-diam-int-6mm-x-ext-8mm-rouleau-de-100m-279996-279996-30.jpg"
+    },
+    {
+      "sku": "219691",
+      "slug": "tuyau-hexacanal-silicone-versilic-60-10x14mm-rouleau-25m",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tuyau hexacanal souple en silicone Versilic 60, Ø 10 x 14 mm — rouleau de 25 m",
+      "description_fr": "Tuyau en silicone Versilic 60 de dureté Shore 60, biologiquement inerte et sans effet inhibiteur sur les cultures cellulaires. Il reste souple jusqu'à -50 °C et conserve ses propriétés chimiques, mécaniques et électriques jusqu'à +200 °C. Il est conforme aux tests de la pharmacopée européenne, aux essais biologiques USP classe VI et aux exigences de biocompatibilité de la norme ISO 10993.",
+      "variant_name_fr": "Rouleau de 25 m",
+      "price_eur": 482.50,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "10",
+        "Diamètre extérieur (mm)": "14",
+        "Épaisseur (mm)": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/219691_20250717111101/humeau.com-tuyau-exacanal-en-silicone-sou-ple-10x14mm-rouleau-de-25m-219691-219691-30.jpg"
+    },
+    {
+      "sku": "235105",
+      "slug": "tuyau-tygon-pharmed-bpt-1-6x4-8mm-rouleau-7-5m",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tuyau Tygon PharMed BPT, Ø 1,60 x 4,80 mm, épaisseur 1,60 mm — rouleau de 7,5 m",
+      "description_fr": "Tuyau Saint-Gobain Tygon PharMed BPT, de teinte beige, offrant une excellente durée de vie sur pompes péristaltiques et une très bonne résistance aux alcalins. Inerte en goût et en odeur, il est de densité 0,98 et de dureté Shore 61, utilisable de -60 °C à +135 °C, stérilisable à la vapeur, thermosoudable et thermoformable. Conforme aux critères USP classe VI, NSF et ISO 10993.",
+      "variant_name_fr": "Rouleau de 7,5 m",
+      "price_eur": 259.00,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "1.6",
+        "Diamètre extérieur (mm)": "4.8",
+        "Épaisseur (mm)": "1.6",
+        "Poids net": "0.215 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/3/235105_20260304112101/humeau.com-tuyau-pharmed-d-1-60x4-80mm-ep-1-60mm-rouleau-7-5-metres-235105-235105-30.jpg"
+    },
+    {
+      "sku": "220589",
+      "slug": "tuyau-silicone-kartell-k70-2x4mm-rouleau-10m",
+      "brand": "KARTELL",
+      "name_fr": "Tuyau en silicone Kartell K70, Ø 2 x 4 mm — rouleau de 10 m",
+      "description_fr": "Tuyau en silicone Kartell K70, flexible et transparent, adapté à une utilisation comme composant pour dispositifs médicaux. Conforme à la norme FDA 21 CFR §177.2600, à la Pharmacopée européenne 3.1.9 et à l'ISO 10993-5, il est utilisable de -60 °C à +200 °C.",
+      "variant_name_fr": "Rouleau de 10 m",
+      "price_eur": 26.40,
+      "specs_fr": {
+        "Dimensions": "2 x 4 mm",
+        "Longueur": "10 m",
+        "Poids net": "0.117 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/9/19700392102_20240821140101/humeau.com-tuyau-silicone-d-2x4mm-rouleau-10-metres-220589-220589-30.jpg"
+    },
+    {
+      "sku": "247534",
+      "slug": "tubulure-silicone-vacusip-3mm-2-5m",
+      "brand": "INTEGRA Biosciences",
+      "name_fr": "Tubulure en silicone pour système d'aspiration Vacusip, Ø 3 mm — 2,5 m",
+      "description_fr": "Tubulure en silicone destinée au système d'aspiration Vacusip sur paillasse, adaptée à la manipulation aisée et efficace de milieux de culture, tampons et autres solutions. Autoclavable, avec un diamètre interne de 3 mm.",
+      "variant_name_fr": "2,5 m",
+      "price_eur": 37.70,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "3",
+        "Poids net": "0.066 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/247534_20230703122011/humeau.com-tuyau-silicone-d-3mm-long-2-5m-247534-247534-30.jpg"
+    },
+    {
+      "sku": "235241",
+      "slug": "tuyau-silicone-versitec-int6x9mm-rouleau-25m",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tuyau en silicone Versitec, Ø int. 6 x 9 mm — rouleau de 25 m",
+      "description_fr": "Tuyau Saint-Gobain Versitec en silicone durci au peroxyde, translucide, hydrofuge et anti-adhésif. Il offre une résistance exceptionnelle aux rayons UV, à l'oxygène et à l'ozone, reste perméable et supporte une plage de -60 °C à +200 °C, avec une dureté Shore A de 40 et une densité de 1,15. Ce silicone industriel de haute qualité est employé dans l'industrie alimentaire, l'électroménager, l'industrie électrique et les distributeurs de boissons pour le transfert de fluides de haute pureté.",
+      "variant_name_fr": "Rouleau de 25 m",
+      "price_eur": 124.00,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "6",
+        "Diamètre extérieur (mm)": "9",
+        "Épaisseur (mm)": "1.5",
+        "Poids net": "1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/24576183900_20250404094101/humeau.com-tuyau-silicone-d-int-6x9mm-epaisseur-3mm-rouleau-25m-235241-235241-30.jpg"
+    },
+    {
+      "sku": "222202",
+      "slug": "tuyau-silicone-standard-6x10mm-pompe-le-metre",
+      "brand": "SELECTA",
+      "name_fr": "Tuyau en silicone standard pour pompe, Ø 6 x 10 mm — vendu au mètre",
+      "description_fr": "Tuyau en silicone transparent, adapté aux pompes péristaltiques de laboratoire, vendu au mètre.",
+      "variant_name_fr": "Le mètre",
+      "price_eur": 20.00,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "6",
+        "Diamètre extérieur (mm)": "10",
+        "Épaisseur (mm)": "2"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/2/222202_20260414152101/humeau.com-tuyau-silicone-standard-6x10mm-pour-pompe-le-metre-222202-222202-30.jpg"
+    },
+    {
+      "sku": "218547",
+      "slug": "tuyau-pompe-tygon-3350-0-64x2-44mm-orange-blanc-lot-6",
+      "brand": "SAINT-GOBAIN",
+      "name_fr": "Tuyau de pompe Tygon 3350, Ø 0,64 x 2,44 mm, orange/blanc — lot de 6",
+      "description_fr": "Tuyau de pompe Saint-Gobain Tygon 3350, de couleur orange/blanc, vendu en lot de 6.",
+      "variant_name_fr": "Lot de 6",
+      "price_eur": 55.50,
+      "specs_fr": {
+        "Diamètre intérieur (mm)": "1",
+        "Diamètre extérieur (mm)": "2.44",
+        "Épaisseur (mm)": "0.90",
+        "Poids net": "0.02 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/1/218547_20250325110103/humeau.com-tuyau-tygon-3350-dim-0-64-x-2-44mm-orange-blanc-pack-x6-218547-218547-30.jpg"
+    },
+    {
+      "sku": "241029",
+      "slug": "vacuometre-poincon-acier-niveau-de-vide",
+      "name_fr": "Vacuomètre à poinçon en acier pour mesure du niveau de vide",
+      "description_fr": "Vacuomètre à poinçon en acier trempé permettant la mesure instantanée du niveau de vide dans les boîtes en tôle et récipients alimentaires. Il perce facilement les contenants et assure l'étanchéité grâce à une ventouse en silicone. Disponible en version standard, personnalisable sur demande, il convient aux professionnels de l'industrie alimentaire, aux laboratoires de contrôle qualité et aux entreprises de conditionnement sous vide.",
+      "price_eur": 169.00,
+      "specs_fr": {
+        "Poids net": "0.27 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/4/241029_20260122130101/humeau.com-vacuometre-a-poincon-en-acier-d068-pour-niveau-de-vide-241029-241029-30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "category": {
+    "slug": "sonde-de-prelevement",
+    "parent_slug": "verrerie",
+    "name": {
+      "fr": "Sondes de prélèvement"
+    },
+    "description": {
+      "fr": "Sondes, tarières et lances de prélèvement en acier inoxydable pour l'échantillonnage de produits pâteux, poudres, granulés et gaz, ainsi que sondes de température et de conductivité pour le contrôle qualité."
+    }
+  },
+  "products": [
+    {
+      "sku": "279993",
+      "slug": "bride-sachet-conditionnement-d25mm",
+      "brand": "BURKLE",
+      "name_fr": "Bride pour sachet de conditionnement, Ø 25 mm",
+      "description_fr": "Clip de maintien en acier ressort, diamètre 25 mm, à force de serrage élevée pour fixer les sachets d'échantillonnage et empêcher leur affaissement pendant le remplissage. Résistant aux produits chimiques et stérilisable, il se fixe sur un support ou une poignée et permet un remplissage direct de liquides ou de poudres sans tenir le sachet à la main.",
+      "variant_name_fr": "Ø 25 mm",
+      "price_eur": 28,
+      "specs_fr": {
+        "Pack": "1",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "0.028 kg",
+        "Diamètre intérieur (mm)": "25 mm"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279993_20260107150101/humeau.com-bride-pour-sachet-de-conditionnement-d-25mm-279993-279993-30.jpg"
+    },
+    {
+      "sku": "275311",
+      "slug": "conductimetre-poche-hanna-groline-hi98331",
+      "brand": "HANNA INSTRUMENTS",
+      "name_fr": "Conductimètre de poche Hanna GroLine HI98331",
+      "description_fr": "Conductimètre de poche pour la mesure directe de la conductivité et de la température des sols, substrats et pains de laine minérale, à l'aide d'une sonde de pénétration en acier inoxydable de 114 mm. Compensation automatique de température, étalonnage automatique en un point à 1413 µS/cm, boîtier étanche et auto-extinction réglable (8 ou 60 min). Plage de mesure de 0 à 4000 µS/cm.",
+      "variant_name_fr": "Standard",
+      "price_eur": 141,
+      "specs_fr": {
+        "Dimensions": "50 x 196 x 21 mm",
+        "Echelle de mesure": "0 à 4000 µS/cm — 0,00 à 4,00 mS/cm (dS/m)",
+        "Alimentation": "1 pile CR2032 Li-ion / environ 100 heures d'utilisation continue",
+        "Longueur (mm)": "Sonde inox 114 mm",
+        "Etalonnage": "Automatique, en 1 point à 1413 µS/cm",
+        "Précision": "±0,05 mS/cm (0 à 2000 µS/cm), ±0,30 mS/cm (2000 à 4000 µS/cm)",
+        "Compensation de température": "Automatique, coefficient fixe 2 %/°C",
+        "Temperature echantillon": "0,0 à 50,0 °C ± 1 °C",
+        "Marque commerciale": "HANNA INSTRUMENTS",
+        "Poids net": "0.074 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/275311_20260430085101/humeau.com-conductimetre-de-poche-hanna-groline-hi98331-275311-275311-30.jpg"
+    },
+    {
+      "sku": "279990",
+      "slug": "lance-prelevement-granules-horizontal-powderproof-30cm",
+      "brand": "BURKLE",
+      "name_fr": "Lance de prélèvement pour granulés, horizontale, PowderProof, 30 cm",
+      "description_fr": "Lance de prélèvement mobile à entraînement électrique pour poudres et granulés coulants, à insertion horizontale directe — utile lorsque l'accès au récipient par le haut est limité (sacs perçables par le côté). Système modulaire avec lances et spirales de transport interchangeables ; l'échantillon est acheminé directement dans le récipient de collecte pour éviter toute contamination.",
+      "variant_name_fr": "Horizontal — 30 cm",
+      "price_eur": 3045.4,
+      "specs_fr": {
+        "Diamètre ext. col": "25 mm",
+        "Longueur (mm)": "607",
+        "Pack": "1",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "5.7 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279990_20260107150101/humeau.com-lance-de-prelevement-granules-horizontal-powderproof-30cm-complet-279990-279990-30.jpg"
+    },
+    {
+      "sku": "279991",
+      "slug": "lance-prelevement-granules-vertical-powderproof-90cm",
+      "brand": "BURKLE",
+      "name_fr": "Lance de prélèvement pour granulés, verticale, PowderProof, 90 cm",
+      "description_fr": "Lance de prélèvement mobile à entraînement électrique pour poudres et granulés, à insertion verticale, idéale pour les grands conteneurs ouverts (fûts, tonneaux, big-bags). Système modulaire avec lances et spirales de transport interchangeables ; l'échantillon est acheminé directement dans le récipient de collecte, sans risque de contamination.",
+      "variant_name_fr": "Vertical — 90 cm",
+      "price_eur": 3429.6,
+      "specs_fr": {
+        "Diamètre ext. corps": "25 mm",
+        "Longueur (mm)": "1207",
+        "Pack": "1",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "6.5 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279991_20260107150101/humeau.com-lance-de-prelevement-granules-vertical-powderproof-90cm-complet-279991-279991-30.jpg"
+    },
+    {
+      "sku": "279987",
+      "slug": "lance-prelevement-poudre-horizontal-powderproof-30cm",
+      "brand": "BURKLE",
+      "name_fr": "Lance de prélèvement pour poudre, horizontale, PowderProof, 30 cm",
+      "description_fr": "Lance de prélèvement mobile à entraînement électrique spécialement conçue pour les poudres et granulés, à insertion horizontale directe, idéale pour les sacs et emballages perçables par le côté. Système modulaire avec lances et spirales interchangeables, profondeur de prélèvement de 300 mm, échantillon acheminé directement dans le récipient de collecte.",
+      "variant_name_fr": "Horizontal — 30 cm",
+      "price_eur": 3045.4,
+      "specs_fr": {
+        "Diamètre ext. corps": "25 mm",
+        "Longueur (mm)": "607",
+        "Pack": "1",
+        "Profondeur (mm)": "300",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "5.852 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279987_20260107150101/humeau.com-lance-de-prelevement-poudre-horizontal-powderproof-30cm-complet-279987-279987-30.jpg"
+    },
+    {
+      "sku": "279988",
+      "slug": "lance-prelevement-poudre-verticale-powderproof-30cm",
+      "brand": "BURKLE",
+      "name_fr": "Lance de prélèvement pour poudre, verticale, PowderProof, 30 cm",
+      "description_fr": "Lance de prélèvement mobile à entraînement électrique spécialement conçue pour les poudres et granulés, à insertion verticale, adaptée aux grands conteneurs ouverts (fûts, tonneaux, big-bags). Système modulaire avec lances et spirales interchangeables, profondeur de prélèvement de 900 mm, échantillon acheminé directement dans le récipient de collecte.",
+      "variant_name_fr": "Vertical — 30 cm",
+      "price_eur": 3429.6,
+      "specs_fr": {
+        "Diamètre ext. corps": "25 mm",
+        "Longueur (mm)": "1207",
+        "Pack": "1",
+        "Profondeur (mm)": "900",
+        "Marque commerciale": "BURKLE",
+        "Poids net": "6.7 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/7/279988_20260107150101/humeau.com-lance-de-prelevement-poudre-verticale-powderproof-30cm-complet-279988-279988-30.jpg"
+    },
+    {
+      "sku": "251277",
+      "slug": "sonde-fromage-inox-l10cm",
+      "brand": "HUMEAU",
+      "name_fr": "Sonde à fromage tout inox, longueur 10 cm, pointe Ø 0,9 cm",
+      "description_fr": "Sonde en acier inoxydable AISI 420 utilisée pour prélever des échantillons de fromage et vérifier l'affinage. La poignée peut aussi servir à marteler les meules afin de détecter d'éventuels défauts d'ouverture. Convient à tous les types de fromages.",
+      "variant_name_fr": "L10 cm — Ø0,9 cm",
+      "price_eur": 33,
+      "specs_fr": {
+        "Diamètre (mm)": "9",
+        "Longueur (mm)": "100",
+        "Poids net": "0.099 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/2/72402011000_20240103170103/humeau.com-sonde-a-fromage-tout-inox-long-10cm-d-pointe-0-9cm-251277-251277-30.jpg"
+    },
+    {
+      "sku": "251278",
+      "slug": "sonde-fromage-inox-l12cm",
+      "brand": "HUMEAU",
+      "name_fr": "Sonde à fromage tout inox, longueur 12 cm, pointe Ø 0,9 cm",
+      "description_fr": "Sonde en acier inoxydable AISI 420 utilisée pour prélever des échantillons de fromage et vérifier l'affinage. La poignée peut aussi servir à marteler les meules afin de détecter d'éventuels défauts d'ouverture. Convient à tous les types de fromages.",
+      "variant_name_fr": "L12 cm — Ø0,9 cm",
+      "price_eur": 35.5,
+      "specs_fr": {
+        "Diamètre (mm)": "9",
+        "Longueur (mm)": "120",
+        "Poids net": "0.109 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/2/72402011200_20241021155101/humeau.com-sonde-a-fromage-tout-inox-long-12cm-d-pointe-0-9cm-251278-251278-30.jpg"
+    },
+    {
+      "sku": "251279",
+      "slug": "sonde-fromage-inox-l15cm",
+      "brand": "HUMEAU",
+      "name_fr": "Sonde à fromage tout inox, longueur 15 cm, pointe Ø 1,2 cm",
+      "description_fr": "Sonde en acier inoxydable AISI 420 utilisée pour prélever des échantillons de fromage et vérifier l'affinage. La poignée peut aussi servir à marteler les meules afin de détecter d'éventuels défauts d'ouverture. Convient à tous les types de fromages.",
+      "variant_name_fr": "L15 cm — Ø1,2 cm",
+      "price_eur": 39.1,
+      "specs_fr": {
+        "Diamètre (mm)": "12",
+        "Longueur (mm)": "150",
+        "Poids net": "0.129 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/2/72402011500_20231030122001/humeau.com-sonde-a-fromage-tout-inox-long-15cm-d-pointe-1-2cm-251279-251279-30.jpg"
+    },
+    {
+      "sku": "251280",
+      "slug": "sonde-fromage-inox-l17cm",
+      "brand": "HUMEAU",
+      "name_fr": "Sonde à fromage tout inox, longueur 17 cm, pointe Ø 1,2 cm",
+      "description_fr": "Sonde en acier inoxydable AISI 420 utilisée pour prélever des échantillons de fromage et vérifier l'affinage. La poignée peut aussi servir à marteler les meules afin de détecter d'éventuels défauts d'ouverture. Convient à tous les types de fromages.",
+      "variant_name_fr": "L17 cm — Ø1,2 cm",
+      "price_eur": 46,
+      "specs_fr": {
+        "Diamètre (mm)": "12",
+        "Longueur (mm)": "170",
+        "Poids net": "0.134 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/7/2/72402011700_20231030122001/humeau.com-sonde-a-fromage-tout-inox-long-17cm-d-pointe-1-2cm-251280-251280-30.jpg"
+    },
+    {
+      "sku": "251276",
+      "slug": "sonde-fromage-inox-l7cm",
+      "brand": "HUMEAU",
+      "name_fr": "Sonde à fromage tout inox, longueur 7 cm, pointe Ø 0,9 cm",
+      "description_fr": "Sonde en acier inoxydable AISI 420 utilisée pour prélever des échantillons de fromage et vérifier l'affinage. La poignée peut aussi servir à marteler les meules afin de détecter d'éventuels défauts d'ouverture. Convient à tous les types de fromages.",
+      "variant_name_fr": "L7 cm — Ø0,9 cm",
+      "price_eur": 32.5,
+      "specs_fr": {
+        "Diamètre (mm)": "9",
+        "Longueur (mm)": "70",
+        "Poids net": "0.093 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/5/251276_20260211091101/humeau.com-sonde-a-fromage-tout-inox-long-7cm-d-pointe-0-9cm-251276-251276-30.jpg"
+    },
+    {
+      "sku": "214656",
+      "slug": "sonde-penetration-immersion-precision-testo-l40mm",
+      "brand": "TESTO",
+      "name_fr": "Sonde de pénétration/immersion de précision Testo, -35/+80 °C, L40 mm",
+      "description_fr": "Sonde de température CTN de pénétration/immersion, câble flexible de 1,5 m, permettant de mesurer dans des produits liquides, semi-solides ou dans l'air. Plage de mesure de -35 à +80 °C avec une précision jusqu'à ±0,2 °C, indice de protection IP67, temps de réponse de 5 secondes. Peut se fixer sur le lieu de mesure pour des mesures de longue durée. Compatible avec les appareils Testo 110, enregistreurs et Saveris.",
+      "variant_name_fr": "-35/+80 °C — L40 mm",
+      "price_eur": 68,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Echelle de mesure": "-35 à +80 °C",
+        "Longueur du câble": "1,5 mètres",
+        "Connectique câble": "Câble flexible",
+        "Type capteur": "CTN",
+        "Classe de protection": "IP67",
+        "Précision": "±0,2 °C (-25 à +75 °C), ±0,4 °C (reste de la plage)",
+        "Temps de réponse": "5 s",
+        "Diamètre tige": "3 mm",
+        "Longueur tige": "40 mm",
+        "Applications": "Immersion/pénétration et ambiance",
+        "Marque commerciale": "TESTO",
+        "Poids net": "0.06 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/5/15906280006_20220505200331/humeau.com-sonde-de-penetration-immersion-de-precision-35-80-c-l-40mm-15906280006-214656-30.jpg"
+    },
+    {
+      "sku": "257787",
+      "slug": "tariere-conique-qualirod-inox-fromage-beurre-110mm",
+      "brand": "BURKLE",
+      "name_fr": "Tarière conique QualiRod inox pour fromage/beurre, 110 mm",
+      "description_fr": "Tarière à main conique en inox QualiRod Bürkle, profondeur d'immersion de 110 mm, idéale pour le prélèvement à des fins de contrôle qualité dans des substances pâteuses (fromage, beurre, argile, glaise, savon, cire, etc.). Stérilisable, conforme à la norme EN/ISO 707.",
+      "variant_name_fr": "110 mm",
+      "price_eur": 88.6,
+      "specs_fr": {
+        "Profondeur d'immersion": "110 mm",
+        "Marque commerciale": "BURKLE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000083_20220505220233/humeau.com-tariere-conique-qualirod-inox-pour-fromage-beurre-110mm-82110000083-257787-30.jpg"
+    },
+    {
+      "sku": "257788",
+      "slug": "tariere-conique-qualirod-inox-fromage-beurre-150mm",
+      "brand": "BURKLE",
+      "name_fr": "Tarière conique QualiRod inox pour fromage/beurre, 150 mm",
+      "description_fr": "Tarière à main conique en inox QualiRod Bürkle, profondeur d'immersion de 150 mm, idéale pour le prélèvement à des fins de contrôle qualité dans des substances pâteuses (fromage, beurre, argile, glaise, savon, cire, etc.). Stérilisable, conforme à la norme EN/ISO 707.",
+      "variant_name_fr": "150 mm",
+      "price_eur": 142.6,
+      "specs_fr": {
+        "Profondeur d'immersion": "150 mm",
+        "Marque commerciale": "BURKLE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000084_20220505220233/humeau.com-tariere-conique-qualirod-inox-pour-fromage-beurre-150mm-82110000084-257788-30.jpg"
+    },
+    {
+      "sku": "257789",
+      "slug": "tariere-cylindrique-qualirod-inox-tige-200mm",
+      "brand": "BURKLE",
+      "name_fr": "Tarière cylindrique QualiRod inox avec tige, 200 mm",
+      "description_fr": "Tarière à main cylindrique creuse en inox QualiRod Bürkle avec couronne de coupe, permettant une insertion aisée dans les substances pâteuses et semi-dures. Les échantillons prélevés sont expulsés à l'aide de la tige fournie. Stérilisable, conforme à la norme EN/ISO 707.",
+      "variant_name_fr": "200 mm",
+      "price_eur": 194.4,
+      "specs_fr": {
+        "Profondeur d'immersion": "200 mm",
+        "Marque commerciale": "BURKLE"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/8/2/82110000085_20220505220233/humeau.com-tariere-cylindrique-qualirod-inox-avec-tige-200mm-82110000085-257789-30.jpg"
+    }
+  ]
+}

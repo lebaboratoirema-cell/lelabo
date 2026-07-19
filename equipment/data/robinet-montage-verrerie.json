@@ -1,0 +1,248 @@
+{
+  "category": {
+    "slug": "robinet-montage-verrerie",
+    "parent_slug": "verrerie",
+    "name": { "fr": "Robinets pour montage de verrerie" },
+    "description": {
+      "fr": "Robinets d'arrêt en verre borosilicaté et clés de rechange (Rotaflo, Torion, PTFE) pour le contrôle du débit sur bonbonnes, burettes et montages de laboratoire."
+    }
+  },
+  "products": [
+    {
+      "sku": "205065",
+      "slug": "robinet-rotaflo-hp-equerre-voie-6mm-branches-13mm",
+      "brand": "ROTAFLO",
+      "name_fr": "Robinet Rotaflo HP équerre, voie 6 mm, diamètre extérieur branches 13 mm",
+      "description_fr": "Robinet Rotaflo High Performance en verre Pyrex, de forme équerre, avec clé de 6 mm et diamètres 10/13. Passage en verre borosilicaté et clé en PTFE offrant une excellente résistance chimique, utilisable de -20 °C à 200 °C et sur une plage de pression de +1 bar à 10⁻⁹ Torr. Testé individuellement au spectromètre de masse, livré avec anneau de verrouillage et clé ergonomique interchangeable.",
+      "variant_name_fr": "voie 6 mm — branches 13 mm",
+      "price_eur": 218.90,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet (mm)": "6",
+        "Poids net": "0.145 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000414_20220505195556/humeau.com-cle-de-rechange-pr-robinet-a-voie-droite-1-5mm-06700000414-205065-30.jpg"
+    },
+    {
+      "sku": "205068",
+      "slug": "robinet-rotaflo-hp-droit-voie-6mm-branches-10mm",
+      "brand": "ROTAFLO",
+      "name_fr": "Robinet Rotaflo HP droit, voie 6 mm, diamètre extérieur branches 10 mm",
+      "description_fr": "Robinet Rotaflo High Performance en verre Pyrex, forme droite, avec clé de 6 mm et diamètres 7/10. Verre borosilicaté et clé en PTFE pour une excellente résistance chimique, utilisable de -20 °C à 200 °C et sur une plage de pression de +1 bar à 10⁻⁹ Torr. Anneau de verrouillage et clé ergonomique entièrement interchangeable.",
+      "variant_name_fr": "voie 6 mm — branches 10 mm",
+      "price_eur": 223.10,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet": "6 mm",
+        "Poids net": "0.135 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000417_20220505195556/humeau.com-cle-de-rechange-pr-robinet-interkey-a-voies-droites-4mm-06700000417-205068-30.jpg"
+    },
+    {
+      "sku": "205057",
+      "slug": "robinet-rotaflo-hp-droit-voie-10mm-branches-13mm",
+      "brand": "ROTAFLO",
+      "name_fr": "Robinet Rotaflo HP droit, voie 10 mm, diamètre extérieur branches 13 mm",
+      "description_fr": "Robinet Rotaflo High Performance en verre Pyrex, forme droite, avec clé de 10 mm et diamètres 10/13. Verre borosilicaté et clé en PTFE pour une excellente résistance chimique, utilisable de -20 °C à 200 °C et sur une plage de pression de +1 bar à 10⁻⁹ Torr. Anneau de verrouillage et clé ergonomique entièrement interchangeable.",
+      "variant_name_fr": "voie 10 mm — branches 13 mm",
+      "price_eur": 344.10,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet": "10 mm",
+        "Poids net": "0.18 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000406_20220505195556/humeau.com-cle-de-rechange-pr-robinet-rotaflo-hp-voie-6-06700000406-205057-30.jpg"
+    },
+    {
+      "sku": "205085",
+      "slug": "cle-rechange-robinet-sst304-lot5",
+      "brand": "PYREX",
+      "name_fr": "Clé de rechange pour robinet SST304 — lot de 5",
+      "description_fr": "Clé de robinet en PTFE, interchangeable avec les robinets d'arrêt Pyrex de 4 mm. Fournie complète avec dispositif de retenue de filetage en plastique. Alésage en T de 4 mm, vendue en lot de 5.",
+      "variant_name_fr": "4 mm — lot de 5",
+      "price_eur": 140.80,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque": "Pyrex",
+        "Poids net": "0.03 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000434_20220505195556/humeau.com-cle-de-rechange-pr-robinet-sst304-x5-06700000434-205085-30.jpg"
+    },
+    {
+      "sku": "205080",
+      "slug": "robinet-cle-ptfe-2-voies-2-5mm-lot5",
+      "brand": "PYREX",
+      "name_fr": "Robinet à clé PTFE, 2 voies, 2,5 mm — lot de 5",
+      "description_fr": "Robinet en verre Pyrex à voies droites, équipé de deux robinets en PTFE avec clé de 2,5 mm. Barillets très lisses et touches autolubrifiantes évitant tout besoin de graisse. Clés entièrement interchangeables, fournies avec dispositif de retenue de filetage en plastique. Vendu en lot de 5.",
+      "variant_name_fr": "2,5 mm — lot de 5",
+      "price_eur": 790.70,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque": "Pyrex",
+        "Diamètre passage robinet": "2.5 mm",
+        "Poids net": "0.065 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/2/0/205080_20250428122011/humeau.com-robinet-cle-ptfe-2-voies-2-5mm-x5-06700000429-205080-30.jpg"
+    },
+    {
+      "sku": "205072",
+      "slug": "robinet-cle-ptfe-voie-droite-2-5mm-lot5",
+      "brand": "PYREX",
+      "name_fr": "Robinet à clé PTFE, voie droite, 2,5 mm — lot de 5",
+      "description_fr": "Robinet en verre Pyrex à voie droite, équipé d'un robinet en PTFE avec clé de 2,5 mm. Barillet très lisse et touche autolubrifiante évitant le besoin de graisse. Clé entièrement interchangeable, fournie avec dispositif de retenue de filetage en plastique. Vendu en lot de 5.",
+      "variant_name_fr": "2,5 mm — lot de 5",
+      "price_eur": 208.10,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque": "Pyrex",
+        "Diamètre passage robinet": "2.5 mm",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000421_20220505195556/humeau.com-robinet-cle-ptfe-voie-droite-2-5mm-x5-06700000421-205072-30.jpg"
+    },
+    {
+      "sku": "205074",
+      "slug": "robinet-cle-ptfe-voie-droite-4mm-lot5",
+      "brand": "PYREX",
+      "name_fr": "Robinet à clé PTFE, voie droite, 4,0 mm — lot de 5",
+      "description_fr": "Robinet en verre Pyrex à voie droite, équipé d'un robinet en PTFE avec clé de 4 mm. Barillet très lisse et touche autolubrifiante évitant le besoin de graisse. Clé entièrement interchangeable, fournie avec dispositif de retenue de filetage en plastique. Vendu en lot de 5.",
+      "variant_name_fr": "4,0 mm — lot de 5",
+      "price_eur": 249.90,
+      "specs_fr": {
+        "Conditionnement": "5",
+        "Marque": "Pyrex",
+        "Diamètre passage robinet": "4 mm",
+        "Poids net": "0.3 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000423_20220505195556/humeau.com-robinet-cle-ptfe-voie-droite-4-0mm-x5-06700000423-205074-30.jpg"
+    },
+    {
+      "sku": "205103",
+      "slug": "robinet-rechange-bonbonne-azlon-hdpe-5-10l",
+      "brand": "AZLON",
+      "name_fr": "Robinet de rechange pour bonbonne Azlon HDPE, 5 et 10 L",
+      "description_fr": "Robinet de rechange destiné aux bonbonnes Azlon en HDPE de 5 L et de 10 L.",
+      "variant_name_fr": "5-10 L",
+      "price_eur": 30.80,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Azlon",
+        "Poids net": "0.015 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000452_20250206090103/humeau.com-robinet-de-rechange-pour-bonbonne-azlon-hdpe-5-et-10-l-205103-205103-30.jpg"
+    },
+    {
+      "sku": "205038",
+      "slug": "robinet-coude-verre-cle-verre-29-32-voie-4mm",
+      "brand": "PYREX",
+      "name_fr": "Robinet coudé en verre, clé en verre, CN 29/32, voie 4,0 mm",
+      "description_fr": "Robinet coudé en verre Pyrex conçu pour flacons tubulés, avec rodage 29/32 et clé en verre à voie de 4 mm.",
+      "variant_name_fr": "29/32 — voie 4 mm",
+      "price_eur": 162.50,
+      "specs_fr": {
+        "Rodage mâle et femelle CN": "29/32",
+        "Marque": "Pyrex",
+        "Poids net": "0.168 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000387_20220505195556/humeau.com-robinet-de-rechange-ptfe-pour-burettes-10-25-50ml-06700000387-205038-30.jpg"
+    },
+    {
+      "sku": "205620",
+      "slug": "robinet-rotaflo-cle-tonnelet-10mm-voie-3",
+      "brand": "ROTAFLO",
+      "name_fr": "Robinet Rotaflo avec clé pour tonnelet, 10 mm, voie 3",
+      "description_fr": "Robinet d'arrêt à usage général Rotaflo, destiné aux bonbonnes Pyrex série 1565, avec clé de 10 mm. Assure un contrôle fin du débit et une bonne performance anti-goutte.",
+      "variant_name_fr": "10 mm — voie 3",
+      "price_eur": 174.80,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet": "10 mm",
+        "Poids net": "0.098 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700601010_20220505195556/humeau.com-robinet-rotaflo-avec-cle-pour-tonnelet-10mm-voie-3-06700601010-205620-30.jpg"
+    },
+    {
+      "sku": "205055",
+      "slug": "cle-rechange-robinet-rotaflo-hp-voie-10mm",
+      "brand": "ROTAFLO",
+      "name_fr": "Clé de rechange pour robinet Rotaflo HP, voie 10 mm",
+      "description_fr": "Clé de rechange pour robinet d'arrêt Rotaflo High Performance, format 10 mm. Comprend la clé en PTFE et des anneaux de verrouillage en polypropylène fournis séparément.",
+      "variant_name_fr": "10 mm",
+      "price_eur": 156.60,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet": "10 mm",
+        "Poids net": "0.045 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000404_20220505195556/humeau.com-robinet-rotaflo-hp-droit-voie-3mm-d-ext-branches-10mm-06700000404-205055-30.jpg"
+    },
+    {
+      "sku": "205060",
+      "slug": "robinet-rotaflo-hp-equerre-voie-3mm-branches-10mm",
+      "brand": "ROTAFLO",
+      "name_fr": "Robinet Rotaflo HP équerre, voie 3 mm, diamètre extérieur branches 10 mm",
+      "description_fr": "Robinet Rotaflo High Performance en verre Pyrex, forme équerre, avec clé de 3 mm et diamètres 7/10. Passage en verre borosilicaté et clé en PTFE offrant une excellente résistance chimique, utilisable de -20 °C à 200 °C et sur une plage de pression de +1 bar à 10⁻⁹ Torr. Testé individuellement au spectromètre de masse, livré avec anneau de verrouillage et clé ergonomique interchangeable.",
+      "variant_name_fr": "voie 3 mm — branches 10 mm",
+      "price_eur": 184.40,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Rotaflo",
+        "Diamètre passage robinet": "3 mm",
+        "Poids net": "0.115 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000409_20220505195556/humeau.com-robinet-rotaflo-hp-droit-voie-6mm-d-ext-branches-13mm-06700000409-205060-30.jpg"
+    },
+    {
+      "sku": "205043",
+      "slug": "robinet-rechange-ptfe-burettes-10-25-50ml",
+      "brand": "PYREX",
+      "name_fr": "Robinet de rechange en PTFE pour burettes 10-25-50 mL",
+      "description_fr": "Robinet de rechange en PTFE destiné aux burettes MBL, disponible pour les modèles de 10, 25 et 50 mL.",
+      "variant_name_fr": "10-25-50 mL",
+      "price_eur": 512.00,
+      "specs_fr": {
+        "Conditionnement": "10",
+        "Marque": "Pyrex",
+        "Poids net": "0.43 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000392_20220505195556/humeau.com-robinet-rotaflo-ug-querre-voie-3mm-d-ext-branches-8mm-x10-06700000392-205043-30.jpg"
+    },
+    {
+      "sku": "205034",
+      "slug": "cle-rechange-robinet-interkey-voies-droites-4mm",
+      "brand": "PYREX",
+      "name_fr": "Clé de rechange pour robinet Interkey à voies droites, 4 mm",
+      "description_fr": "Clé de robinet en verre Pyrex, format 4 mm, fournie complète avec dispositif de retenue des clés. Destinée aux robinets de la série SSD.",
+      "variant_name_fr": "4 mm",
+      "price_eur": 48.70,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Pyrex",
+        "Diamètre passage robinet": "4 mm",
+        "Poids net": "0.044 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000383_20220505195556/humeau.com-robinet-torion-querre-voie-14-complet-06700000383-205034-30.jpg"
+    },
+    {
+      "sku": "205032",
+      "slug": "robinet-branches-droites-cle-simple-voie-2-5mm",
+      "brand": "PYREX",
+      "name_fr": "Robinet à branches droites, clé simple, voie 2,5 mm",
+      "description_fr": "Robinet droit avec clé en verre Pyrex, format 2,5 mm, conforme à la norme DIN 12541. Clé totalement interchangeable.",
+      "variant_name_fr": "2,5 mm",
+      "price_eur": 33.20,
+      "specs_fr": {
+        "Conditionnement": "1",
+        "Marque": "Pyrex",
+        "Diamètre passage robinet": "2.5 mm",
+        "Poids net": "0.1 kg"
+      },
+      "image_url": "https://www.humeau.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/0/6/06700000381_20220505195556/humeau.com-robinet-torion-querre-voie-5-complet-06700000381-205032-30.jpg"
+    }
+  ]
+}
