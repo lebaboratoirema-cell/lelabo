@@ -1,6 +1,29 @@
 "use client";
 
+import { useState, useTransition } from "react";
+import { submitQuote } from "@/app/actions/quote";
+
 export default function SiteFooter() {
+  const [isPending, startTransition] = useTransition();
+  const [status, setStatus] = useState<"idle" | "success" | "error">("idle");
+
+  function handleFootSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    const form = e.currentTarget;
+    const data = new FormData(form);
+
+    startTransition(async () => {
+      const result = await submitQuote({
+        productName: "Nous écrire (footer)",
+        name: data.get("name") as string,
+        email: data.get("email") as string,
+        message: data.get("message") as string,
+      });
+      setStatus(result.success ? "success" : "error");
+      if (result.success) form.reset();
+    });
+  }
+
   return (
     <footer className="site" id="contact">
       <div className="wrap">
@@ -62,12 +85,21 @@ export default function SiteFooter() {
 
           <div>
             <h4>Nous écrire</h4>
-            <form className="foot-form" onSubmit={(e) => e.preventDefault()}>
-              <input type="text" placeholder="Votre nom" />
-              <input type="email" placeholder="Votre email" />
-              <textarea placeholder="Votre message" />
-              <button className="btn" type="submit">Envoyer le message</button>
-            </form>
+            {status === "success" ? (
+              <p style={{ color: "var(--teal-bright)" }}>Message envoyé. Nous vous répondrons rapidement.</p>
+            ) : (
+              <form className="foot-form" onSubmit={handleFootSubmit}>
+                <input name="name" type="text" placeholder="Votre nom" required />
+                <input name="email" type="email" placeholder="Votre email" required />
+                <textarea name="message" placeholder="Votre message" required />
+                {status === "error" && (
+                  <p style={{ color: "#e0554f", fontSize: 13 }}>Erreur. Réessayez svp.</p>
+                )}
+                <button className="btn" type="submit" disabled={isPending}>
+                  {isPending ? "Envoi…" : "Envoyer le message"}
+                </button>
+              </form>
+            )}
           </div>
         </div>
 
