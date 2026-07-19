@@ -1,10 +1,12 @@
 'use client'
 
 import { useRef, useState } from 'react'
-import type { Category, Product, ProductVariant, ProductImage } from '@/types/database'
+import type { Category, Product, ProductVariant, ProductImage, ProductDocument } from '@/types/database'
 import { createProduct, updateProduct } from './actions'
 
 interface Variant { name_fr: string; sku: string; price: string; stock: string }
+interface SpecRow { key: string; value: string }
+interface Delivery { delay: string; weight_kg: string; dimensions: string; note: string; policy_text: string }
 
 interface Props {
   parents: Category[]
@@ -12,19 +14,35 @@ interface Props {
   product?: Product
   variants?: ProductVariant[]
   images?: ProductImage[]
+  documents?: ProductDocument[]
 }
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
-export default function ProductForm({ parents, childCategories, product, variants = [], images = [] }: Props) {
+export default function ProductForm({ parents, childCategories, product, variants = [], images = [], documents = [] }: Props) {
   const formRef = useRef<HTMLFormElement>(null)
   const fileInputRef = useRef<HTMLInputElement>(null)
+  const docInputRef = useRef<HTMLInputElement>(null)
 
   const [variantList, setVariantList] = useState<Variant[]>(
     variants.map((v) => ({ name_fr: (v.name as { fr: string }).fr, sku: v.sku, price: v.price.toString(), stock: v.stock.toString() }))
   )
   const [existingImages] = useState<ProductImage[]>(images)
   const [newImagePreviews, setNewImagePreviews] = useState<{ url: string; name: string }[]>([])
+  const [existingDocs, setExistingDocs] = useState<{ id: string; label: string }[]>(
+    documents.map((d) => ({ id: d.id, label: d.label }))
+  )
+  const [newDocs, setNewDocs] = useState<{ name: string; label: string }[]>([])
+  const [specList, setSpecList] = useState<SpecRow[]>(
+    Object.entries(product?.specifications ?? {}).map(([key, value]) => ({ key, value }))
+  )
+  const [delivery, setDelivery] = useState<Delivery>({
+    delay: product?.delivery?.delay ?? '',
+    weight_kg: product?.delivery?.weight_kg?.toString() ?? '',
+    dimensions: product?.delivery?.dimensions ?? '',
+    note: product?.delivery?.note ?? '',
+    policy_text: product?.delivery?.policy_text ?? '',
+  })
   const [desc, setDesc] = useState((product?.description as { fr?: string })?.fr ?? '')
   const [active, setActive] = useState(product?.is_active ?? true)
   const [inStock, setInStock] = useState(product?.in_stock ?? false)
@@ -44,6 +62,31 @@ export default function ProductForm({ parents, childCategories, product, variant
     const files = Array.from(e.target.files ?? [])
     const previews = files.map((f) => ({ url: URL.createObjectURL(f), name: f.name }))
     setNewImagePreviews((prev) => [...prev, ...previews])
+  }
+
+  function handleDocChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const files = Array.from(e.target.files ?? [])
+    setNewDocs((prev) => [...prev, ...files.map((f) => ({ name: f.name, label: '' }))])
+  }
+
+  function updateNewDocLabel(i: number, label: string) {
+    setNewDocs((prev) => prev.map((d, idx) => (idx === i ? { ...d, label } : d)))
+  }
+
+  function updateExistingDocLabel(id: string, label: string) {
+    setExistingDocs((prev) => prev.map((d) => (d.id === id ? { ...d, label } : d)))
+  }
+
+  function addSpec() {
+    setSpecList((prev) => [...prev, { key: '', value: '' }])
+  }
+
+  function removeSpec(i: number) {
+    setSpecList((prev) => prev.filter((_, idx) => idx !== i))
+  }
+
+  function updateSpec(i: number, field: keyof SpecRow, value: string) {
+    setSpecList((prev) => prev.map((s, idx) => (idx === i ? { ...s, [field]: value } : s)))
   }
 
   function addVariant() {
@@ -82,6 +125,17 @@ export default function ProductForm({ parents, childCategories, product, variant
       fd.set('category_id', categoryId)
       fd.set('in_stock', inStock ? 'on' : '')
       fd.set('promo_label', promoLabel.trim())
+      specList.forEach((s, i) => {
+        fd.set(`spec_key_${i}`, s.key)
+        fd.set(`spec_value_${i}`, s.value)
+      })
+      fd.set('delivery_delay', delivery.delay.trim())
+      fd.set('delivery_weight_kg', delivery.weight_kg.trim())
+      fd.set('delivery_dimensions', delivery.dimensions.trim())
+      fd.set('delivery_note', delivery.note.trim())
+      fd.set('delivery_policy_text', delivery.policy_text.trim())
+      existingDocs.forEach((d) => fd.set(`existing_doc_label_${d.id}`, d.label))
+      newDocs.forEach((d, i) => fd.set(`new_doc_label_${i}`, d.label))
       if (product) {
         await updateProduct(product.id, fd)
       } else {
@@ -201,6 +255,30 @@ export default function ProductForm({ parents, childCategories, product, variant
               </div>
             </section>
 
+            {/* Spécifications card */}
+            <section style={card}>
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 18 }}>
+                <div style={{ display: 'flex', alignItems: 'center' }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Spécifications</h2></div>
+                <button type="button" onClick={addSpec} className="admin-btn-add" style={{ display: 'flex', alignItems: 'center', gap: 6, height: 34, padding: '0 14px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fff', fontSize: 13, fontWeight: 600, color: '#1c2b46', cursor: 'pointer', fontFamily: 'inherit' }}>+ Ajouter une spécification</button>
+              </div>
+
+              {specList.length > 0 && (
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
+                  <span>Champ</span><span>Valeur</span><span />
+                </div>
+              )}
+
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+                {specList.map((s, i) => (
+                  <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 36px', gap: 10, alignItems: 'center' }}>
+                    <input value={s.key} onChange={(e) => updateSpec(i, 'key', e.target.value)} placeholder="Matériau" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
+                    <input value={s.value} onChange={(e) => updateSpec(i, 'value', e.target.value)} placeholder="Borosilicate 3.3" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
+                    <button type="button" onClick={() => removeSpec(i)} className="admin-remove-btn" style={{ width: 36, height: 36, border: '1px solid #ece9e1', borderRadius: 9, background: '#fff', color: '#b5503a', cursor: 'pointer', fontSize: 15, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>×</button>
+                  </div>
+                ))}
+              </div>
+            </section>
+
             {/* Images card */}
             <section style={card}>
               <div style={{ display: 'flex', alignItems: 'center', marginBottom: 22 }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Images</h2></div>
@@ -231,6 +309,35 @@ export default function ProductForm({ parents, childCategories, product, variant
               <p style={{ margin: '14px 0 0', fontSize: 12, color: '#a8a294' }}>JPG, PNG ou WEBP — 5 Mo max par image. Cliquez pour téléverser.</p>
             </section>
 
+            {/* Documents card */}
+            <section style={card}>
+              <div style={{ display: 'flex', alignItems: 'center', marginBottom: 22 }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Documents</h2></div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+                {existingDocs.map((d) => (
+                  <div key={d.id} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                    <span style={{ fontSize: 18 }}>📄</span>
+                    <input value={d.label} onChange={(e) => updateExistingDocLabel(d.id, e.target.value)} placeholder="Fiche technique" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', flex: 1 }} />
+                  </div>
+                ))}
+                {newDocs.map((d, i) => (
+                  <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                    <span style={{ fontSize: 18 }}>📄</span>
+                    <span style={{ fontSize: 12, color: '#8a8478', width: 140, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flexShrink: 0 }}>{d.name}</span>
+                    <input value={d.label} onChange={(e) => updateNewDocLabel(i, e.target.value)} placeholder="Fiche technique" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', flex: 1 }} />
+                  </div>
+                ))}
+                <div
+                  onClick={() => docInputRef.current?.click()}
+                  className="admin-btn-add"
+                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, height: 42, border: '1.5px dashed #cfcabd', borderRadius: 9, background: '#fcfbf9', cursor: 'pointer', color: '#8a8478', fontSize: 13, fontWeight: 600 }}
+                >
+                  + Ajouter un document
+                </div>
+              </div>
+              <input ref={docInputRef} type="file" name="documents" multiple accept="application/pdf" onChange={handleDocChange} style={{ display: 'none' }} />
+              <p style={{ margin: '14px 0 0', fontSize: 12, color: '#a8a294' }}>PDF uniquement — fiches techniques, certificats. 10 Mo max par fichier.</p>
+            </section>
+
             {/* Variantes card */}
             <section style={card}>
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 18 }}>
@@ -254,6 +361,47 @@ export default function ProductForm({ parents, childCategories, product, variant
                     <button type="button" onClick={() => removeVariant(i)} className="admin-remove-btn" style={{ width: 36, height: 36, border: '1px solid #ece9e1', borderRadius: 9, background: '#fff', color: '#b5503a', cursor: 'pointer', fontSize: 15, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>×</button>
                   </div>
                 ))}
+              </div>
+            </section>
+
+            {/* Livraison card */}
+            <section style={card}>
+              <div style={{ display: 'flex', alignItems: 'center', marginBottom: 22 }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Livraison</h2></div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+                  <div>
+                    <label style={label}>Délai de livraison</label>
+                    <input value={delivery.delay} onChange={(e) => setDelivery((d) => ({ ...d, delay: e.target.value }))} placeholder="3-5 jours ouvrés" className="admin-input" {...inp} />
+                  </div>
+                  <div>
+                    <label style={label}>Poids (kg)</label>
+                    <input value={delivery.weight_kg} onChange={(e) => setDelivery((d) => ({ ...d, weight_kg: e.target.value }))} placeholder="1.2" type="number" min="0" step="0.01" className="admin-input" {...inp} />
+                  </div>
+                </div>
+                <div>
+                  <label style={label}>Dimensions (L x l x H)</label>
+                  <input value={delivery.dimensions} onChange={(e) => setDelivery((d) => ({ ...d, dimensions: e.target.value }))} placeholder="30 x 20 x 15 cm" className="admin-input" style={{ ...inp.style, width: '60%', minWidth: 240 }} />
+                </div>
+                <div>
+                  <label style={label}>Note de livraison</label>
+                  <textarea
+                    value={delivery.note}
+                    onChange={(e) => setDelivery((d) => ({ ...d, note: e.target.value }))}
+                    placeholder="Produit fragile, emballage renforcé…"
+                    className="admin-input"
+                    style={{ width: '100%', minHeight: 70, padding: '12px 14px', border: '1px solid #dcd8cf', borderRadius: 10, background: '#fcfbf9', fontSize: 14, lineHeight: 1.6, color: '#1c2230', fontFamily: 'inherit', resize: 'vertical' }}
+                  />
+                </div>
+                <div>
+                  <label style={label}>Texte politique de livraison</label>
+                  <textarea
+                    value={delivery.policy_text}
+                    onChange={(e) => setDelivery((d) => ({ ...d, policy_text: e.target.value }))}
+                    placeholder="Politique de livraison et retour spécifique à ce produit…"
+                    className="admin-input"
+                    style={{ width: '100%', minHeight: 100, padding: '12px 14px', border: '1px solid #dcd8cf', borderRadius: 10, background: '#fcfbf9', fontSize: 14, lineHeight: 1.6, color: '#1c2230', fontFamily: 'inherit', resize: 'vertical' }}
+                  />
+                </div>
               </div>
             </section>
           </div>

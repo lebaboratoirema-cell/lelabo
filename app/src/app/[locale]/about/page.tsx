@@ -52,7 +52,7 @@ export default function AboutPage() {
           <div className="about-media reveal">
             <img className="main-img" src="/images/hero-interior.webp" alt="Équipe en laboratoire" />
             <div className="badge-years">
-              <b>5+</b>
+              <b>10+</b>
               <span>Ans</span>
             </div>
             <img className="float-img" src="/images/analysis.webp" alt="Contrôle qualité" />

@@ -3,7 +3,7 @@
 import { useRef, useEffect, useState } from 'react';
 
 const stats = [
-  { prefix: '+', to: 5, suffix: '', label: "Années d'expérience" },
+  { prefix: '+', to: 10, suffix: '', label: "Années d'expérience" },
   { prefix: '', to: 100, suffix: '%', label: 'Clients satisfaits' },
   { prefix: '+', to: 53, suffix: '', label: 'Produits chimiques' },
   { prefix: '+', to: 12, suffix: '', label: 'Marques mondiales' },

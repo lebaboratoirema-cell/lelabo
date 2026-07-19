@@ -4,6 +4,7 @@ import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import CookieConsentBanner from '@/components/CookieConsentBanner';
+import WhatsAppButton from '@/components/WhatsAppButton';
 import '../globals.css';
 
 const poppins = Poppins({
@@ -37,6 +38,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider>
           {children}
           <CookieConsentBanner />
+          <WhatsAppButton />
         </NextIntlClientProvider>
       </body>
     </html>

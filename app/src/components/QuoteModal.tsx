@@ -86,7 +86,7 @@ export default function QuoteModal({ productName, variantName }: Props) {
                 </label>
                 <label>
                   Message
-                  <textarea name="message" rows={4} defaultValue={defaultMessage} />
+                  <textarea name="message" rows={3} defaultValue={defaultMessage} />
                 </label>
                 {error && <p className="modal-error">{error}</p>}
                 <button type="submit" className="btn btn-quote" disabled={isPending}>

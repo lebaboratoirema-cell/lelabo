@@ -16,6 +16,14 @@ export interface Category {
   created_at: string
 }
 
+export interface ProductDelivery {
+  delay: string
+  weight_kg: number | null
+  dimensions: string
+  note: string
+  policy_text: string
+}
+
 export interface Product {
   id: string
   category_id: string
@@ -27,6 +35,7 @@ export interface Product {
   in_stock: boolean
   promo_label: string | null
   specifications: Record<string, string> | null
+  delivery: ProductDelivery | null
   created_at: string
   updated_at: string
 }
@@ -50,6 +59,15 @@ export interface ProductImage {
   alt: LocalizedText | null
   position: number
   is_primary: boolean
+  created_at: string
+}
+
+export interface ProductDocument {
+  id: string
+  product_id: string
+  storage_path: string
+  label: string
+  position: number
   created_at: string
 }
 

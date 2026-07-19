@@ -38,7 +38,7 @@ export default function ContactPage() {
                 </span>
                 <div>
                   <h4>Téléphone</h4>
-                  <p>+212 5 00 00 00 00<br />+212 6 61 00 00 00</p>
+                  <p>+212 6 63 12 39 38</p>
                 </div>
               </div>
               <div className="ci-item">

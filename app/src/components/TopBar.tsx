@@ -15,7 +15,7 @@ export default function TopBar() {
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M22 16.9v3a2 2 0 01-2.2 2 19.8 19.8 0 01-8.6-3 19.5 19.5 0 01-6-6 19.8 19.8 0 01-3-8.6A2 2 0 014.1 2h3a2 2 0 012 1.7c.1.9.4 1.8.7 2.7a2 2 0 01-.5 2.1L8.1 9.6a16 16 0 006 6l1.1-1.2a2 2 0 012.1-.4c.9.3 1.8.6 2.7.7a2 2 0 011.9 2z"/>
             </svg>
-            <a href="tel:+212500000000">+212 5 00 00 00 00</a>
+            <a href="tel:+212663123938">+212 6 63 12 39 38</a>
           </span>
           <span>
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -36,9 +36,11 @@ export default function TopBar() {
                 <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
               </svg>
             </a>
-            <a href="#" aria-label="YouTube">
+            <a href="#" aria-label="LinkedIn">
               <svg viewBox="0 0 24 24" fill="currentColor">
-                <path d="M22 8.2a3 3 0 00-2.1-2.1C18 5.5 12 5.5 12 5.5s-6 0-7.9.6A3 3 0 002 8.2 31 31 0 002 12a31 31 0 00.1 3.8 3 3 0 002.1 2.1c1.9.6 7.8.6 7.8.6s6 0 7.9-.6a3 3 0 002.1-2.1A31 31 0 0022 12a31 31 0 00-.1-3.8zM10 15V9l5 3z"/>
+                <path d="M6.94 8.5H3.56V20.5H6.94V8.5Z"/>
+                <path d="M5.25 7A2 2 0 105.25 3 2 2 0 005.25 7Z"/>
+                <path d="M20.5 20.5v-6.6c0-3.5-1.9-5.2-4.4-5.2a3.8 3.8 0 00-3.4 1.9V8.5H9.3c.05 1 0 12 0 12h3.4v-6.7a2.3 2.3 0 01.1-.8 1.9 1.9 0 011.8-1.3c1.3 0 1.8 1 1.8 2.4v6.4z"/>
               </svg>
             </a>
           </span>

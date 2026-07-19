@@ -31,6 +31,76 @@ async function uploadImages(supabase: ReturnType<typeof createServiceClient>, pr
   }
 }
 
+async function uploadDocuments(supabase: ReturnType<typeof createServiceClient>, productId: string, formData: FormData) {
+  const files = formData.getAll('documents') as File[]
+  const validFiles = files.filter((f) => f.size > 0)
+  if (validFiles.length === 0) return
+
+  const { count: existingCount } = await supabase
+    .from('product_documents')
+    .select('id', { count: 'exact', head: true })
+    .eq('product_id', productId)
+
+  for (let i = 0; i < validFiles.length; i++) {
+    const file = validFiles[i]
+    const label = (formData.get(`new_doc_label_${i}`) as string) || file.name
+    const path = `${productId}/${Date.now()}-${i}.pdf`
+
+    const { error: uploadError } = await supabase.storage
+      .from('product-documents')
+      .upload(path, file, { contentType: file.type, upsert: false })
+
+    if (uploadError) throw new Error(`Upload document: ${uploadError.message}`)
+
+    const { error: dbError } = await supabase.from('product_documents').insert({
+      product_id: productId,
+      storage_path: path,
+      label,
+      position: (existingCount ?? 0) + i,
+    })
+    if (dbError) throw new Error(`Save document record: ${dbError.message}`)
+  }
+}
+
+async function updateDocumentLabels(supabase: ReturnType<typeof createServiceClient>, formData: FormData) {
+  for (const [key, value] of formData.entries()) {
+    if (!key.startsWith('existing_doc_label_')) continue
+    const id = key.replace('existing_doc_label_', '')
+    const { error } = await supabase.from('product_documents').update({ label: value as string }).eq('id', id)
+    if (error) throw new Error(`Update document label: ${error.message}`)
+  }
+}
+
+function parseSpecifications(formData: FormData) {
+  const specs: Record<string, string> = {}
+  let i = 0
+  while (formData.get(`spec_key_${i}`) !== null) {
+    const key = (formData.get(`spec_key_${i}`) as string).trim()
+    const value = (formData.get(`spec_value_${i}`) as string).trim()
+    if (key) specs[key] = value
+    i++
+  }
+  return Object.keys(specs).length > 0 ? specs : null
+}
+
+function parseDelivery(formData: FormData) {
+  const delay = (formData.get('delivery_delay') as string) || ''
+  const weightRaw = (formData.get('delivery_weight_kg') as string) || ''
+  const dimensions = (formData.get('delivery_dimensions') as string) || ''
+  const note = (formData.get('delivery_note') as string) || ''
+  const policyText = (formData.get('delivery_policy_text') as string) || ''
+  const weight = weightRaw ? parseFloat(weightRaw) : null
+
+  if (!delay && !weight && !dimensions && !note && !policyText) return null
+  return {
+    delay,
+    weight_kg: weight !== null && !isNaN(weight) ? weight : null,
+    dimensions,
+    note,
+    policy_text: policyText,
+  }
+}
+
 export async function createProduct(formData: FormData) {
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
@@ -60,6 +130,8 @@ export async function createProduct(formData: FormData) {
       is_active: formData.get('is_active') === 'on',
       in_stock: formData.get('in_stock') === 'on',
       promo_label: (formData.get('promo_label') as string) || null,
+      specifications: parseSpecifications(formData),
+      delivery: parseDelivery(formData),
     })
     .select('id')
     .single()
@@ -75,6 +147,7 @@ export async function createProduct(formData: FormData) {
   }
 
   await uploadImages(supabase, product.id, formData)
+  await uploadDocuments(supabase, product.id, formData)
 
   revalidatePath('/fr/chemicals', 'page')
   revalidatePath('/fr/glassware', 'page')
@@ -97,6 +170,8 @@ export async function updateProduct(id: string, formData: FormData) {
       is_active: formData.get('is_active') === 'on',
       in_stock: formData.get('in_stock') === 'on',
       promo_label: (formData.get('promo_label') as string) || null,
+      specifications: parseSpecifications(formData),
+      delivery: parseDelivery(formData),
     })
     .eq('id', id)
 
@@ -112,6 +187,8 @@ export async function updateProduct(id: string, formData: FormData) {
   }
 
   await uploadImages(supabase, id, formData)
+  await updateDocumentLabels(supabase, formData)
+  await uploadDocuments(supabase, id, formData)
 
   revalidatePath('/fr/chemicals', 'page')
   revalidatePath('/fr/glassware', 'page')
@@ -133,6 +210,17 @@ export async function deleteProduct(id: string) {
     await supabase.storage
       .from('product-images')
       .remove(imgs.map((i) => i.storage_path))
+  }
+
+  const { data: docs } = await supabase
+    .from('product_documents')
+    .select('storage_path')
+    .eq('product_id', id)
+
+  if (docs && docs.length > 0) {
+    await supabase.storage
+      .from('product-documents')
+      .remove(docs.map((d) => d.storage_path))
   }
 
   const { error } = await supabase.from('products').delete().eq('id', id)

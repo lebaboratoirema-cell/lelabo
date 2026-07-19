@@ -6,6 +6,8 @@ import AboutSection from '@/components/AboutSection';
 import PromoSection from '@/components/PromoSection';
 import ServicesSection from '@/components/ServicesSection';
 import BrandsSection from '@/components/BrandsSection';
+import ClientsSection from '@/components/ClientsSection';
+import TestimonialsSection from '@/components/TestimonialsSection';
 import StatsSection from '@/components/StatsSection';
 import SiteFooter from '@/components/SiteFooter';
 import ScrollReveal from '@/components/ScrollReveal';
@@ -22,6 +24,8 @@ export default function HomePage() {
       <PromoSection />
       <ServicesSection />
       <BrandsSection />
+      <ClientsSection />
+      <TestimonialsSection />
       <StatsSection />
       <SiteFooter />
     </>
