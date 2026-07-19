@@ -53,7 +53,7 @@ async function notifyByEmail(payload: QuotePayload) {
   if (!RESEND_API_KEY || !DEVIS_NOTIFY_EMAIL) return
 
   const resend = new Resend(RESEND_API_KEY)
-  await resend.emails.send({
+  const { error } = await resend.emails.send({
     from: 'Devis lelaboratoire.ma <onboarding@resend.dev>',
     to: DEVIS_NOTIFY_EMAIL,
     replyTo: payload.email,
@@ -68,6 +68,9 @@ async function notifyByEmail(payload: QuotePayload) {
       payload.message,
     ].join('\n'),
   })
+  if (error) {
+    throw new Error(`Resend error: ${error.name} ${error.message}`)
+  }
 }
 
 export async function submitQuote(payload: QuotePayload): Promise<QuoteResult> {

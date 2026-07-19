@@ -2,6 +2,7 @@ import TopBar from '@/components/TopBar';
 import Header from '@/components/Header';
 import SiteFooter from '@/components/SiteFooter';
 import ScrollReveal from '@/components/ScrollReveal';
+import ContactForm from '@/components/ContactForm';
 
 export default function ContactPage() {
   return (
@@ -79,42 +80,7 @@ export default function ContactPage() {
               </div>
             </div>
 
-            <form className="contact-form reveal">
-              <div className="row">
-                <div className="field">
-                  <label>Prénom</label>
-                  <input type="text" placeholder="Prénom" />
-                </div>
-                <div className="field">
-                  <label>Nom</label>
-                  <input type="text" placeholder="Nom" />
-                </div>
-              </div>
-              <div className="row">
-                <div className="field">
-                  <label>Email</label>
-                  <input type="email" placeholder="email@societe.ma" />
-                </div>
-                <div className="field">
-                  <label>Téléphone</label>
-                  <input type="tel" placeholder="+212 ..." />
-                </div>
-              </div>
-              <div className="field">
-                <label>Objet</label>
-                <select>
-                  <option>Demande de devis</option>
-                  <option>Disponibilité produit</option>
-                  <option>Support technique</option>
-                  <option>Autre</option>
-                </select>
-              </div>
-              <div className="field">
-                <label>Message</label>
-                <textarea placeholder="Dites-nous ce dont vous avez besoin..." />
-              </div>
-              <button className="btn" type="submit">Envoyer le message</button>
-            </form>
+            <ContactForm />
           </div>
         </div>
       </section>
