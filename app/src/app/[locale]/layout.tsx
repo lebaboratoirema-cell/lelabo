@@ -3,6 +3,7 @@ import { Poppins } from 'next/font/google';
 import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import CookieConsentBanner from '@/components/CookieConsentBanner';
 import '../globals.css';
 
 const poppins = Poppins({
@@ -33,7 +34,10 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={poppins.variable}>
       <body>
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider>
+          {children}
+          <CookieConsentBanner />
+        </NextIntlClientProvider>
       </body>
     </html>
   );
