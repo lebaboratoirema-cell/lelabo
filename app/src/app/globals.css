@@ -832,4 +832,19 @@ footer h4 { color: #fff; font-size: 15px; font-weight: 600; letter-spacing: .04e
   font-weight: 600;
   color: #6b7280;
 }
+
 .pd-specs-table td { padding: 10px 0; color: #111827; }
+
+/* Cookie consent banner */
+.cookie-banner {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 999;
+  background: var(--navy); color: #cdd9de;
+  box-shadow: 0 -8px 24px -14px rgba(11,44,61,.4);
+}
+.cookie-banner-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  padding: 18px 28px; flex-wrap: wrap;
+}
+.cookie-banner-inner p { margin: 0; font-size: 13px; line-height: 1.6; max-width: 760px; }
+.cookie-banner-inner a { color: var(--teal-bright); text-decoration: underline; text-underline-offset: 2px; }
+.cookie-banner-actions { display: flex; gap: 12px; flex: none; }
