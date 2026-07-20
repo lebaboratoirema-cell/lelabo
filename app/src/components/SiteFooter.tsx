@@ -31,7 +31,7 @@ export default function SiteFooter() {
           <div>
             <a href="/" className="logo" style={{ marginBottom: 20 }}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/images/logo.jpeg" alt="logo" style={{ width: 54, height: 54, borderRadius: '50%', background: '#fff' }} />
+              <img src="/images/logo.webp" alt="logo" style={{ width: 54, height: 54, borderRadius: '50%', background: '#fff' }} />
               <span className="word" style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.05 }}>
                 le<b style={{ color: 'var(--teal-bright)' }}>laboratoire</b>
                 <small style={{ fontSize: 11, letterSpacing: '.14em', textTransform: 'uppercase', color: '#7c919a' }}>.ma</small>

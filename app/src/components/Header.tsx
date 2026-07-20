@@ -22,7 +22,7 @@ export default function Header() {
           <Link href="/" className="logo">
             <Image
               className="mark"
-              src="/images/logo.jpeg"
+              src="/images/logo.webp"
               alt="lelaboratoire.ma"
               width={48}
               height={48}
