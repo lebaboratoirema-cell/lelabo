@@ -91,7 +91,7 @@ export default function CategoryForm({ categories, category }: Props) {
 
   return (
     <form onSubmit={handleSubmit}>
-      <div style={{ padding: '32px 32px 100px' }}>
+      <div className="admin-page-pad" style={{ paddingBottom: 100 }}>
 
         {/* Breadcrumb + title */}
         <div style={{ marginBottom: 28 }}>
@@ -184,8 +184,8 @@ export default function CategoryForm({ categories, category }: Props) {
 
       {/* Sticky action bar */}
       <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 30, background: 'rgba(255,255,255,0.9)', backdropFilter: 'blur(10px)', borderTop: '1px solid #e6e3db' }}>
-        <div style={{ padding: '14px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 16 }}>
-          <span style={{ fontSize: 13, color: '#a8a294' }}>Les champs marqués <span style={{ color: '#c8643c' }}>*</span> sont obligatoires.</span>
+        <div className="admin-form-footer" style={{ padding: '14px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 16 }}>
+          <span className="admin-form-footer-hint" style={{ fontSize: 13, color: '#a8a294' }}>Les champs marqués <span style={{ color: '#c8643c' }}>*</span> sont obligatoires.</span>
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
             <a href="/fr/admin/categories" className="admin-btn-ghost" style={{ height: 44, padding: '0 22px', border: '1px solid #dcd8cf', borderRadius: 11, background: '#fff', fontSize: 14, fontWeight: 600, color: '#6b6357', cursor: 'pointer', fontFamily: 'inherit', display: 'flex', alignItems: 'center', textDecoration: 'none' }}>Annuler</a>
             <button

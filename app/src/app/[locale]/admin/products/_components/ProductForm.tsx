@@ -173,7 +173,7 @@ export default function ProductForm({ parents, childCategories, product, variant
           <div style={{ background: '#fdf1ed', border: '1px solid #e6c3b8', color: '#b5503a', borderRadius: 10, padding: '12px 16px', fontSize: 14, marginBottom: 20 }}>{error}</div>
         )}
 
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 320px', gap: 24, alignItems: 'start' }}>
+        <div className="admin-2col-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 320px', gap: 24, alignItems: 'start' }}>
 
           {/* MAIN COLUMN */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
@@ -262,13 +262,14 @@ export default function ProductForm({ parents, childCategories, product, variant
                 <button type="button" onClick={addSpec} className="admin-btn-add" style={{ display: 'flex', alignItems: 'center', gap: 6, height: 34, padding: '0 14px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fff', fontSize: 13, fontWeight: 600, color: '#1c2b46', cursor: 'pointer', fontFamily: 'inherit' }}>+ Ajouter une spécification</button>
               </div>
 
+              <div className="admin-table-scroll">
               {specList.length > 0 && (
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', minWidth: 420 }}>
                   <span>Champ</span><span>Valeur</span><span />
                 </div>
               )}
 
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8, minWidth: 420 }}>
                 {specList.map((s, i) => (
                   <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 36px', gap: 10, alignItems: 'center' }}>
                     <input value={s.key} onChange={(e) => updateSpec(i, 'key', e.target.value)} placeholder="Matériau" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
@@ -276,6 +277,7 @@ export default function ProductForm({ parents, childCategories, product, variant
                     <button type="button" onClick={() => removeSpec(i)} className="admin-remove-btn" style={{ width: 36, height: 36, border: '1px solid #ece9e1', borderRadius: 9, background: '#fff', color: '#b5503a', cursor: 'pointer', fontSize: 15, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>×</button>
                   </div>
                 ))}
+              </div>
               </div>
             </section>
 
@@ -345,13 +347,14 @@ export default function ProductForm({ parents, childCategories, product, variant
                 <button type="button" onClick={addVariant} className="admin-btn-add" style={{ display: 'flex', alignItems: 'center', gap: 6, height: 34, padding: '0 14px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fff', fontSize: 13, fontWeight: 600, color: '#1c2b46', cursor: 'pointer', fontFamily: 'inherit' }}>+ Ajouter une variante</button>
               </div>
 
+              <div className="admin-table-scroll">
               {variantList.length > 0 && (
-                <div style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294' }}>
+                <div style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, padding: '0 4px 8px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', minWidth: 560 }}>
                   <span>Nom *</span><span>SKU *</span><span>Prix (MAD)</span><span>Stock</span><span />
                 </div>
               )}
 
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8, minWidth: 560 }}>
                 {variantList.map((v, i) => (
                   <div key={i} style={{ display: 'grid', gridTemplateColumns: '1.3fr 1.2fr 1fr 0.8fr 36px', gap: 10, alignItems: 'center' }}>
                     <input value={v.name_fr} onChange={(e) => updateVariant(i, 'name_fr', e.target.value)} placeholder="50 ml" className="admin-input" style={{ height: 42, padding: '0 12px', border: '1px solid #dcd8cf', borderRadius: 9, background: '#fcfbf9', fontSize: 13, fontFamily: 'inherit', color: '#1c2230', width: '100%' }} />
@@ -362,13 +365,14 @@ export default function ProductForm({ parents, childCategories, product, variant
                   </div>
                 ))}
               </div>
+              </div>
             </section>
 
             {/* Livraison card */}
             <section style={card}>
               <div style={{ display: 'flex', alignItems: 'center', marginBottom: 22 }}>{dot}<h2 style={{ margin: 0, fontSize: 15, fontWeight: 600, letterSpacing: '0.2px' }}>Livraison</h2></div>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+                <div className="admin-2col-sm" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
                   <div>
                     <label style={label}>Délai de livraison</label>
                     <input value={delivery.delay} onChange={(e) => setDelivery((d) => ({ ...d, delay: e.target.value }))} placeholder="3-5 jours ouvrés" className="admin-input" {...inp} />
@@ -471,8 +475,8 @@ export default function ProductForm({ parents, childCategories, product, variant
 
       {/* Sticky action bar */}
       <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 30, background: 'rgba(255,255,255,0.9)', backdropFilter: 'blur(10px)', borderTop: '1px solid #e6e3db' }}>
-        <div style={{ padding: '14px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 16 }}>
-          <span style={{ fontSize: 13, color: '#a8a294' }}>Les champs marqués <span style={{ color: '#c8643c' }}>*</span> sont obligatoires.</span>
+        <div className="admin-form-footer" style={{ padding: '14px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 16 }}>
+          <span className="admin-form-footer-hint" style={{ fontSize: 13, color: '#a8a294' }}>Les champs marqués <span style={{ color: '#c8643c' }}>*</span> sont obligatoires.</span>
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
             <a href="/fr/admin/products" className="admin-btn-ghost" style={{ height: 44, padding: '0 22px', border: '1px solid #dcd8cf', borderRadius: 11, background: '#fff', fontSize: 14, fontWeight: 600, color: '#6b6357', cursor: 'pointer', fontFamily: 'inherit', display: 'flex', alignItems: 'center', textDecoration: 'none' }}>Annuler</a>
             <button type="submit" disabled={loading} style={{ height: 44, padding: '0 26px', border: 'none', borderRadius: 11, background: loading ? '#8a95a8' : '#1c2b46', fontSize: 14, fontWeight: 600, color: '#fff', cursor: loading ? 'not-allowed' : 'pointer', fontFamily: 'inherit', display: 'flex', alignItems: 'center', gap: 8, boxShadow: '0 4px 14px rgba(28,43,70,0.25)' }}>

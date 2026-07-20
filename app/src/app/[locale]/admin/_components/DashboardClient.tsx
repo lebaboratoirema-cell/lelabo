@@ -63,7 +63,7 @@ export default function DashboardClient() {
   const [expanded, setExpanded] = useState<number | null>(null)
 
   return (
-    <div style={{ padding: '32px 32px 80px' }}>
+    <div className="admin-page-pad">
 
       {/* Header */}
       <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', gap: 20, flexWrap: 'wrap', marginBottom: 26 }}>
@@ -102,7 +102,7 @@ export default function DashboardClient() {
       </div>
 
       {/* KPI cards */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18, marginBottom: 24 }}>
+      <div className="admin-kpi-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 18, marginBottom: 24 }}>
         {KPIS.map((k, i) => (
           <div key={i} style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, padding: 22, boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 16 }}>
@@ -126,7 +126,7 @@ export default function DashboardClient() {
       </div>
 
       {/* Chart + Top products */}
-      <div style={{ display: 'grid', gridTemplateColumns: '1.55fr 1fr', gap: 18, marginBottom: 24 }}>
+      <div className="admin-2col-grid" style={{ display: 'grid', gridTemplateColumns: '1.55fr 1fr', gap: 18, marginBottom: 24 }}>
 
         {/* Revenue chart */}
         <section style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, padding: '24px 26px', boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
@@ -248,13 +248,14 @@ export default function DashboardClient() {
           <h2 style={{ margin: 0, fontSize: 15, fontWeight: 600 }}>Commandes récentes</h2>
           <span style={{ fontSize: 12, color: '#c8643c', fontWeight: 600, cursor: 'pointer' }}>Voir toutes les commandes</span>
         </div>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 1fr 0.9fr 0.9fr', gap: 12, padding: '0 6px 12px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', borderBottom: '1px solid #f0ede5' }}>
+        <div className="admin-table-scroll">
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 1fr 0.9fr 0.9fr', gap: 12, padding: '0 6px 12px', minWidth: 560, fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', borderBottom: '1px solid #f0ede5' }}>
           <span>Commande</span><span>Client</span><span>Date</span><span>Statut</span><span style={{ textAlign: 'right' }}>Total</span>
         </div>
         {ORDERS.map((o, i) => {
           const [statusColor, statusBg] = STATUS_MAP[o.status]
           return (
-            <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 1fr 0.9fr 0.9fr', gap: 12, padding: '14px 6px', alignItems: 'center', borderBottom: '1px solid #f5f3ed', fontSize: 13.5 }}>
+            <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 1.4fr 1fr 0.9fr 0.9fr', gap: 12, padding: '14px 6px', minWidth: 560, alignItems: 'center', borderBottom: '1px solid #f5f3ed', fontSize: 13.5 }}>
               <span style={{ fontFamily: 'ui-monospace, monospace', fontWeight: 600, color: '#1c2b46' }}>{o.id}</span>
               <span>{o.client}</span>
               <span style={{ color: '#8a8478' }}>{o.date}</span>
@@ -268,6 +269,7 @@ export default function DashboardClient() {
             </div>
           )
         })}
+        </div>
       </section>
     </div>
   )

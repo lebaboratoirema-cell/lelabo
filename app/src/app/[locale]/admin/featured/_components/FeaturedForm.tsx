@@ -63,6 +63,7 @@ export default function FeaturedForm({ products }: { products: Row[] }) {
           alignItems: 'center',
           justifyContent: 'space-between',
           gap: 16,
+          flexWrap: 'wrap',
           padding: '14px 20px',
           background: limitHit ? '#fdf1ed' : '#fff',
           border: `1px solid ${limitHit ? '#e6c3b8' : '#ebe8e0'}`,
@@ -98,8 +99,8 @@ export default function FeaturedForm({ products }: { products: Row[] }) {
         </div>
       </div>
 
-      <div style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, overflow: 'hidden', boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
-        <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse' }}>
+      <div className="admin-table-scroll" style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
+        <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse', minWidth: 480 }}>
           <thead>
             <tr style={{ borderBottom: '1px solid #f0ede5' }}>
               {['En vedette', 'Nom', 'Catégorie', 'Ordre'].map((h, i) => (

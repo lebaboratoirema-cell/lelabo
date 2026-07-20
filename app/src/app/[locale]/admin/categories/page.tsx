@@ -16,7 +16,7 @@ export default async function CategoriesPage() {
   const parentMap = new Map(rows.map((c) => [c.id, (c.name as { fr: string }).fr]))
 
   return (
-    <div style={{ padding: '32px 32px 80px' }}>
+    <div className="admin-page-pad">
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 28 }}>
         <div>
           <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>Catégories</h1>
@@ -35,8 +35,8 @@ export default async function CategoriesPage() {
           Aucune catégorie — <a href="/fr/admin/categories/new" style={{ color: '#c8643c', textDecoration: 'none', fontWeight: 600 }}>Créer la première</a>
         </div>
       ) : (
-        <div style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, overflow: 'hidden', boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
-          <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+        <div className="admin-table-scroll" style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 560 }}>
             <thead>
               <tr style={{ borderBottom: '1px solid #f0ede5' }}>
                 {['Nom', 'Slug', 'Parente', 'Statut', ''].map((h) => (

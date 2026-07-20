@@ -12,7 +12,7 @@ export default async function AdminBlogPage() {
   const rows = (posts ?? []) as BlogPost[]
 
   return (
-    <div style={{ maxWidth: 1080, margin: '0 auto', padding: '32px 32px 80px' }}>
+    <div className="admin-page-pad" style={{ maxWidth: 1080, margin: '0 auto' }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 28 }}>
         <div>
           <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px' }}>Blog</h1>
@@ -31,8 +31,8 @@ export default async function AdminBlogPage() {
           Aucun article — <a href="/fr/admin/blog/new" style={{ color: '#c8643c', textDecoration: 'none', fontWeight: 600 }}>Créer le premier</a>
         </div>
       ) : (
-        <div style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, overflow: 'hidden', boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
-          <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+        <div className="admin-table-scroll" style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 480 }}>
             <thead>
               <tr style={{ borderBottom: '1px solid #f0ede5' }}>
                 {['Titre', 'Slug', 'Statut', ''].map((h) => (

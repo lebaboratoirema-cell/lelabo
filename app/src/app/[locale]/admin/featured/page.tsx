@@ -28,7 +28,7 @@ export default async function AdminFeaturedPage() {
     })
 
   return (
-    <div style={{ padding: '32px 32px 80px' }}>
+    <div className="admin-page-pad">
       <div style={{ marginBottom: 28 }}>
         <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>
           Produits en vedette

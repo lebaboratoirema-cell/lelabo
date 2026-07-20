@@ -8,9 +8,9 @@ export const dynamic = 'force-dynamic'
 export default async function AdminProductsPage({
   searchParams,
 }: {
-  searchParams: Promise<{ category?: string; subcategory?: string }>
+  searchParams: Promise<{ category?: string; subcategory?: string; q?: string }>
 }) {
-  const { category, subcategory } = await searchParams
+  const { category, subcategory, q } = await searchParams
 
   const supabase = createServiceClient()
 
@@ -25,25 +25,44 @@ export default async function AdminProductsPage({
 
   const categoryParam = category ?? ''
   const subcategoryParam = subcategory ?? ''
+  const searchParam = q ?? ''
 
-  let query = supabase
-    .from('products')
-    .select('*, categories(name), product_variants(id)')
-    .order('created_at', { ascending: false })
+  function buildQuery() {
+    let query = supabase
+      .from('products')
+      .select('*, categories(name), product_variants(id)')
+      .order('created_at', { ascending: false })
 
-  if (subcategoryParam) {
-    query = query.eq('category_id', subcategoryParam)
-  } else if (categoryParam) {
-    const childIds = childCategories
-      .filter((c) => c.parent_id === categoryParam)
-      .map((c) => c.id)
-    query = query.in('category_id', [categoryParam, ...childIds])
+    if (subcategoryParam) {
+      query = query.eq('category_id', subcategoryParam)
+    } else if (categoryParam) {
+      const childIds = childCategories
+        .filter((c) => c.parent_id === categoryParam)
+        .map((c) => c.id)
+      query = query.in('category_id', [categoryParam, ...childIds])
+    }
+
+    if (searchParam) {
+      const safe = searchParam.replace(/[,()%]/g, ' ').trim()
+      if (safe) {
+        query = query.or(`name->>fr.ilike.%${safe}%,name->>en.ilike.%${safe}%,brand.ilike.%${safe}%`)
+      }
+    }
+
+    return query
   }
 
-  const { data: products } = await query
+  const products: any[] = []
+  const pageSize = 1000
+  for (let from = 0; ; from += pageSize) {
+    const { data: page } = await buildQuery().range(from, from + pageSize - 1)
+    if (!page || page.length === 0) break
+    products.push(...page)
+    if (page.length < pageSize) break
+  }
 
   return (
-    <div style={{ padding: '32px 32px 80px' }}>
+    <div className="admin-page-pad">
       <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 28, gap: 16, flexWrap: 'wrap' }}>
         <div>
           <h1 style={{ margin: 0, fontFamily: 'Spectral, serif', fontSize: 32, fontWeight: 600, letterSpacing: '-0.3px', color: '#1c2230' }}>Produits</h1>
@@ -62,6 +81,7 @@ export default async function AdminProductsPage({
         subcategories={childCategories}
         selectedCategory={categoryParam}
         selectedSubcategory={subcategoryParam}
+        searchQuery={searchParam}
       />
 
       {(!products || products.length === 0) ? (
@@ -70,8 +90,8 @@ export default async function AdminProductsPage({
           <a href="/fr/admin/products/new" style={{ fontSize: 14, fontWeight: 600, color: '#c8643c', textDecoration: 'none' }}>Créer le premier produit →</a>
         </div>
       ) : (
-        <div style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, overflow: 'hidden', boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
-          <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse' }}>
+        <div className="admin-table-scroll" style={{ background: '#fff', border: '1px solid #ebe8e0', borderRadius: 16, boxShadow: '0 1px 2px rgba(28,34,48,0.04)' }}>
+          <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse', minWidth: 640 }}>
             <thead>
               <tr style={{ borderBottom: '1px solid #f0ede5' }}>
                 {['Nom', 'Catégorie', 'Marque', 'Variantes', 'Statut', ''].map((h, i) => (
