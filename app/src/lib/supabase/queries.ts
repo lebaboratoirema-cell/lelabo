@@ -83,6 +83,85 @@ const FAMILY_ROUTE_BY_SLUG: Record<string, string> = {
 
 export type SearchResult = ProductWithImage & { basePath: string }
 
+function resolveBasePath(
+  category: { slug: string; parent_id: string | null } | null,
+  rootSlugById: Map<string, string>
+): string {
+  if (!category) return '/fr'
+  if (category.parent_id) {
+    const rootSlug = rootSlugById.get(category.parent_id)
+    const route = rootSlug ? FAMILY_ROUTE_BY_SLUG[rootSlug] : undefined
+    return route ? `/fr/${route}/${category.slug}` : '/fr'
+  }
+  const route = FAMILY_ROUTE_BY_SLUG[category.slug]
+  return route ? `/fr/${route}` : '/fr'
+}
+
+export async function getFeaturedProducts(limit = 15): Promise<SearchResult[]> {
+  const supabase = await createClient()
+
+  const [{ data: manual }, { data: roots }] = await Promise.all([
+    supabase
+      .from('products')
+      .select('*, product_images(storage_path, is_primary), category:categories(slug, parent_id)')
+      .eq('is_active', true)
+      .eq('is_featured', true)
+      .order('featured_position', { ascending: true, nullsFirst: false })
+      .order('created_at', { ascending: false })
+      .limit(limit),
+    supabase.from('categories').select('id, slug').is('parent_id', null),
+  ])
+
+  const rootSlugById = new Map((roots ?? []).map((r) => [r.id, r.slug]))
+
+  if (manual && manual.length > 0) {
+    return (manual as Array<ProductWithImage & { category: { slug: string; parent_id: string | null } | null }>).map(
+      ({ category, ...p }) => ({ ...p, basePath: resolveBasePath(category, rootSlugById) })
+    )
+  }
+
+  return getAutoFeaturedProducts(limit, rootSlugById)
+}
+
+async function getAutoFeaturedProducts(limit: number, rootSlugById: Map<string, string>): Promise<SearchResult[]> {
+  const supabase = await createClient()
+
+  const { data: products } = await supabase
+    .from('products')
+    .select('*, product_images(storage_path, is_primary), product_variants(price), category:categories(id, slug, parent_id)')
+    .eq('is_active', true)
+
+  const maxPrice = (p: { product_variants?: { price: number }[] }) =>
+    Math.max(0, ...(p.product_variants ?? []).map((v) => v.price))
+
+  type ProductRow = ProductWithImage & {
+    product_variants: { price: number }[]
+    category: { id: string; slug: string; parent_id: string | null } | null
+  }
+
+  const byRoot = new Map<string, ProductRow[]>()
+  for (const p of (products ?? []) as ProductRow[]) {
+    const rootId = p.category?.parent_id ?? p.category?.id ?? 'uncategorized'
+    const group = byRoot.get(rootId) ?? []
+    group.push(p)
+    byRoot.set(rootId, group)
+  }
+  for (const group of byRoot.values()) {
+    group.sort((a, b) => maxPrice(b) - maxPrice(a))
+  }
+
+  const groups = [...byRoot.values()]
+  const topProducts: ProductRow[] = []
+  for (let i = 0; topProducts.length < limit && groups.some((g) => g.length > i); i++) {
+    for (const group of groups) {
+      if (group[i]) topProducts.push(group[i])
+      if (topProducts.length >= limit) break
+    }
+  }
+
+  return topProducts.map(({ category, ...p }) => ({ ...p, basePath: resolveBasePath(category, rootSlugById) }))
+}
+
 export async function searchProducts(query: string): Promise<SearchResult[]> {
   const supabase = await createClient()
   const term = `%${query.replace(/[,()%]/g, ' ').trim()}%`

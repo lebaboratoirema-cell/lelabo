@@ -23,7 +23,7 @@ export default function ContactStrip() {
             </span>
             <div>
               <h4>Adresse</h4>
-              <p>63, Avenue de la Liberté, Imm. Palace, Bureau A3-5</p>
+              <p>Lotissement les Oliviers 4, Janat Azaitoune N° 222, Marrakech</p>
             </div>
           </div>
           <div className="cinfo">

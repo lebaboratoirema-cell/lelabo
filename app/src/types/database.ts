@@ -36,6 +36,8 @@ export interface Product {
   promo_label: string | null
   specifications: Record<string, string> | null
   delivery: ProductDelivery | null
+  is_featured: boolean
+  featured_position: number | null
   created_at: string
   updated_at: string
 }

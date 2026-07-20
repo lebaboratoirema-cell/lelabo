@@ -63,7 +63,7 @@ export default function ContactPage() {
                 </span>
                 <div>
                   <h4>Adresse</h4>
-                  <p>63, Avenue de la Liberté<br />Imm. Palace, Bureau A3-5, Ville 2000</p>
+                  <p>Lotissement les Oliviers 4<br />Janat Azaitoune N° 222, Marrakech</p>
                 </div>
               </div>
               <div className="ci-item">
@@ -90,7 +90,7 @@ export default function ContactPage() {
           <div className="map reveal">
             <iframe
               loading="lazy"
-              src="https://www.google.com/maps?q=Casablanca+Morocco&output=embed"
+              src="https://www.google.com/maps?q=Lotissement+les+Oliviers+4+Janat+Azaitoune+N+222+Marrakech&output=embed"
               title="Carte"
             />
           </div>

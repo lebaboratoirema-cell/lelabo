@@ -53,10 +53,11 @@ async function notifyByEmail(payload: QuotePayload) {
   if (!RESEND_API_KEY || !DEVIS_NOTIFY_EMAIL) return
 
   const resend = new Resend(RESEND_API_KEY)
+  const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(payload.email?.trim() ?? '')
   const { error } = await resend.emails.send({
     from: 'Devis lelaboratoire.ma <onboarding@resend.dev>',
     to: DEVIS_NOTIFY_EMAIL,
-    replyTo: payload.email,
+    ...(isValidEmail ? { replyTo: payload.email.trim() } : {}),
     subject: `Nouvelle demande de devis — ${payload.productName}`,
     text: [
       `Produit: ${payload.productName}${payload.variantName ? ` — ${payload.variantName}` : ''}`,

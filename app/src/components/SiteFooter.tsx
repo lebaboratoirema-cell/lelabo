@@ -51,7 +51,7 @@ export default function SiteFooter() {
                   <path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 0118 0z"/>
                   <circle cx="12" cy="10" r="3"/>
                 </svg>
-                63, Avenue de la Liberté, Ville 2000
+                Lotissement les Oliviers 4, Janat Azaitoune N° 222, Marrakech
               </li>
               <li>
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

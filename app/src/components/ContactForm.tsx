@@ -29,7 +29,7 @@ export default function ContactForm() {
 
   if (status === "success") {
     return (
-      <div className="contact-form reveal">
+      <div className="contact-form">
         <p style={{ color: "var(--teal-bright)" }}>Message envoyé. Nous vous répondrons rapidement.</p>
       </div>
     );

@@ -40,15 +40,8 @@ export default function Header() {
               <li><Link href="/chemicals">Produit chimie</Link></li>
               <li>
                 <a href="/petit-outillage">
-                  Petit outillage{' '}
-                  <svg className="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                    <path d="M6 9l6 6 6-6"/>
-                  </svg>
+                  Petit outillage
                 </a>
-                <ul className="submenu">
-                  <li><Link href="/petit-outillage/outillage-verrerie">Verrerie</Link></li>
-                  <li><Link href="/petit-outillage/plastique">Plastique</Link></li>
-                </ul>
               </li>
               <li><Link href="/blog">Blog</Link></li>
               <li><Link href="/about">À propos</Link></li>
@@ -88,10 +81,6 @@ export default function Header() {
           <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipement scientifique</Link>
           <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Produit chimie</Link>
           <Link href="/petit-outillage" onClick={() => setMobileOpen(false)}>Petit outillage</Link>
-          <div className="sub">
-            <Link href="/petit-outillage/outillage-verrerie" onClick={() => setMobileOpen(false)}>— Verrerie</Link>
-            <Link href="/petit-outillage/plastique" onClick={() => setMobileOpen(false)}>— Plastique</Link>
-          </div>
           <Link href="/blog" onClick={() => setMobileOpen(false)}>Blog</Link>
           <Link href="/about" onClick={() => setMobileOpen(false)}>À propos</Link>
           <Link href="/contact" onClick={() => setMobileOpen(false)}>Contact</Link>

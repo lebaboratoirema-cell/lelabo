@@ -4,6 +4,7 @@ import HeroSlider from '@/components/HeroSlider';
 import ContactStrip from '@/components/ContactStrip';
 import AboutSection from '@/components/AboutSection';
 import PromoSection from '@/components/PromoSection';
+import FeaturedProducts from '@/components/FeaturedProducts';
 import ServicesSection from '@/components/ServicesSection';
 import BrandsSection from '@/components/BrandsSection';
 import ClientsSection from '@/components/ClientsSection';
@@ -21,6 +22,7 @@ export default function HomePage() {
       <HeroSlider />
       <ContactStrip />
       <AboutSection />
+      <FeaturedProducts />
       <PromoSection />
       <ServicesSection />
       <BrandsSection />

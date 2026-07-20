@@ -42,6 +42,10 @@ export default function AdminNav() {
         Catégories
         <span style={underline('/fr/admin/categories')} />
       </a>
+      <a href="/fr/admin/featured" style={linkStyle('/fr/admin/featured')}>
+        Vedette
+        <span style={underline('/fr/admin/featured')} />
+      </a>
       <a href="/fr/admin/blog" style={linkStyle('/fr/admin/blog')}>
         Blog
         <span style={underline('/fr/admin/blog')} />
