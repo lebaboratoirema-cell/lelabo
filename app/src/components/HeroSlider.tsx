@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from 'react';
 
 const slides = [
   {
-    bg: '/images/hero-interior.webp',
+    bg: '/images/hero-interior-sm.webp',
     eyebrow: 'Bienvenue chez lelaboratoire.ma',
     title: 'Votre fournisseur d\'équipements de laboratoire & produits chimiques.',
     desc: 'La référence en instruments de laboratoire, produits chimiques, verrerie et consommables — au service des équipes de recherche et de contrôle qualité.',
@@ -13,7 +13,7 @@ const slides = [
     thumbs: ['/images/glassware.webp', '/images/analysis.webp', '/images/hero-tech.webp'],
   },
   {
-    bg: '/images/hero-chem.webp',
+    bg: '/images/hero-chem-sm.webp',
     eyebrow: 'Fournisseur de produits chimiques',
     title: 'Une large gamme de produits chimiques de haute pureté.',
     desc: 'Solvants, réactifs et acides d\'excellente pureté chimique et nombreuses spécifications, développés en continu pour répondre aux exigences de qualité et de performance.',

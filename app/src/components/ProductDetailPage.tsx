@@ -4,8 +4,8 @@ import QuoteModal from '@/components/QuoteModal'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
-function getImageUrl(storagePath: string): string {
-  return `${supabaseUrl}/storage/v1/object/public/product-images/${storagePath}`
+function getImageUrl(storagePath: string, width = 800): string {
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=${width}&quality=70`
 }
 
 interface Props {
@@ -24,8 +24,9 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
   const specEntries = specs ? Object.entries(specs) : []
 
   const primaryImage = product.product_images.find((img) => img.is_primary) ?? product.product_images[0]
-  const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
-  const allImages = product.product_images.map((img) => getImageUrl(img.storage_path))
+  const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path, 800) : '/images/glassware.webp'
+  const allImages = product.product_images.map((img) => getImageUrl(img.storage_path, 800))
+  const thumbImages = product.product_images.map((img) => getImageUrl(img.storage_path, 150))
 
   return (
     <>
@@ -65,7 +66,7 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
                       className={`pd-thumb${i === 0 ? ' active' : ''}`}
                       data-src={src}
                     >
-                      <img src={src} alt="" />
+                      <img src={thumbImages[i]} alt="" />
                     </button>
                   ))}
                 </div>

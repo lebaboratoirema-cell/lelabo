@@ -17,7 +17,7 @@ async function uploadImages(supabase: ReturnType<typeof createServiceClient>, pr
 
     const { error: uploadError } = await supabase.storage
       .from('product-images')
-      .upload(path, file, { contentType: file.type, upsert: false })
+      .upload(path, file, { contentType: file.type, upsert: false, cacheControl: '31536000' })
 
     if (uploadError) throw new Error(`Upload image: ${uploadError.message}`)
 

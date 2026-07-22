@@ -55,7 +55,7 @@ export default function AboutPage() {
               <b>10+</b>
               <span>Ans</span>
             </div>
-            <img className="float-img" src="/images/analysis.webp" alt="Contrôle qualité" />
+            <img className="float-img" src="/images/analysis-sm.webp" alt="Contrôle qualité" />
           </div>
         </div>
       </section>
