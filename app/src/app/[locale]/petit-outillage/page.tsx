@@ -3,13 +3,8 @@ import TopBar from '@/components/TopBar'
 import Header from '@/components/Header'
 import SiteFooter from '@/components/SiteFooter'
 import ScrollReveal from '@/components/ScrollReveal'
-import ProductGrid from '@/components/ProductGrid'
-import CategoryChips from '@/components/CategoryChips'
-import {
-  getCategoryBySlug,
-  getChildCategories,
-  getProductsByFamily,
-} from '@/lib/supabase/queries'
+import CategoryCardGrid from '@/components/CategoryCardGrid'
+import { getCategoryBySlug, getChildCategoriesGrouped } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 import { CITIES } from '@/lib/pseo/cities'
 
@@ -20,14 +15,12 @@ export default async function PetitOutillagePage() {
   const parent = await getCategoryBySlug(CATEGORY_ROUTE_SLUGS['petit-outillage'])
   if (!parent) notFound()
 
-  const children = await getChildCategories(parent.id)
-
-  const allProducts = await getProductsByFamily(parent.id)
-
-  const chips = children.map((c) => ({
-    label: (c.name as { fr: string }).fr,
-    href: `/fr/petit-outillage/${c.slug}`,
-    slug: c.slug,
+  const groups = await getChildCategoriesGrouped(parent.id)
+  const cards = groups.map((g) => ({
+    href: `/fr/petit-outillage/groupe/${g.groupKey}`,
+    img: g.groupKey === '__others__' ? '/images/glassware.webp' : `/images/groups/petit-outillage/${g.groupKey}.webp`,
+    title: g.groupLabel.fr,
+    desc: `${g.categories.length} sous-catégorie${g.categories.length !== 1 ? 's' : ''}`,
   }))
 
   return (
@@ -50,13 +43,7 @@ export default async function PetitOutillagePage() {
 
       <section className="block">
         <div className="wrap">
-          {chips.length > 0 && (
-            <div className="shop-toolbar">
-              <span className="count">{allProducts.length} produit{allProducts.length !== 1 ? 's' : ''}</span>
-              <CategoryChips chips={chips} activeSlug={null} allHref="/fr/petit-outillage" />
-            </div>
-          )}
-          <ProductGrid products={allProducts} basePath="/fr/petit-outillage" />
+          <CategoryCardGrid items={cards} />
         </div>
       </section>
 
