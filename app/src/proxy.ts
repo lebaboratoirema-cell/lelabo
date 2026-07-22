@@ -13,6 +13,8 @@ export async function proxy(request: NextRequest) {
   const isLoginPage = /^\/(fr|en)\/admin\/login/.test(pathname);
 
   if (isAdminRoute && !isLoginPage) {
+    let refreshedResponse = NextResponse.next({ request })
+
     const supabase = createServerClient(
       process.env.NEXT_PUBLIC_SUPABASE_URL!,
       process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
@@ -21,6 +23,10 @@ export async function proxy(request: NextRequest) {
           getAll() { return request.cookies.getAll() },
           setAll(cookiesToSet) {
             cookiesToSet.forEach(({ name, value }) => request.cookies.set(name, value))
+            refreshedResponse = NextResponse.next({ request })
+            cookiesToSet.forEach(({ name, value, options }) =>
+              refreshedResponse.cookies.set(name, value, options)
+            )
           },
         },
       }
@@ -32,6 +38,10 @@ export async function proxy(request: NextRequest) {
     if (!user) {
       return NextResponse.rewrite(new URL('/403', request.url))
     }
+
+    const i18nResponse = handleI18n(request)
+    refreshedResponse.cookies.getAll().forEach((cookie) => i18nResponse.cookies.set(cookie))
+    return i18nResponse
   }
 
   return handleI18n(request);
