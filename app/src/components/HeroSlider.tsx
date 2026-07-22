@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
+import Image from 'next/image';
 
 const slides = [
   {
@@ -60,8 +61,14 @@ export default function HeroSlider() {
       {slides.map((slide, i) => (
         <div key={i} className={`slide${i === idx ? ' active' : ''}`}>
           <div className="slide-bg">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={slide.bg} alt="" />
+            <Image
+              src={slide.bg}
+              alt=""
+              fill
+              priority={i === 0}
+              sizes="100vw"
+              style={{ objectFit: 'cover' }}
+            />
           </div>
           <div className="wrap inner">
             <div className="hero-content">

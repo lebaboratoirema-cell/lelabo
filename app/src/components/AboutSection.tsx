@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export default function AboutSection() {
   return (
     <section className="block" id="about">
@@ -24,11 +26,23 @@ export default function AboutSection() {
           <a href="/about" className="btn" style={{ marginTop: 8 }}>En savoir plus</a>
         </div>
         <div className="about-media reveal">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="main-img" src="/images/hero-interior.webp" alt="Équipe en laboratoire" />
+          <Image
+            className="main-img"
+            src="/images/hero-interior.webp"
+            alt="Équipe en laboratoire"
+            width={640}
+            height={430}
+            sizes="(max-width: 768px) 100vw, 640px"
+          />
           <div className="badge-years"><b>10+</b><span>Ans</span></div>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="float-img" src="/images/analysis-sm.webp" alt="Contrôle qualité" />
+          <Image
+            className="float-img"
+            src="/images/analysis-sm.webp"
+            alt="Contrôle qualité"
+            width={210}
+            height={160}
+            sizes="210px"
+          />
         </div>
       </div>
     </section>

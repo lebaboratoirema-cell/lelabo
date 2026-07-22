@@ -1,9 +1,10 @@
+import Image from 'next/image';
+
 export default function PromoSection() {
   return (
     <section className="promo">
       <div className="panel dark">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/images/hero-chem-sm.webp" alt="" />
+        <Image src="/images/hero-chem-sm.webp" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: 'cover' }} />
         <div className="pc">
           <span className="eyebrow" style={{ color: 'var(--teal-bright)' }}>Meilleur rapport qualité-prix</span>
           <h3>Les meilleurs prix du marché</h3>
@@ -12,8 +13,7 @@ export default function PromoSection() {
         </div>
       </div>
       <div className="panel teal">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/images/glassware-sm.webp" alt="" />
+        <Image src="/images/glassware-sm.webp" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: 'cover' }} />
         <div className="pc">
           <span className="eyebrow" style={{ color: '#fff' }}>Gamme premium</span>
           <h3>Une large sélection de produits premium</h3>
