@@ -3,13 +3,8 @@ import TopBar from '@/components/TopBar'
 import Header from '@/components/Header'
 import SiteFooter from '@/components/SiteFooter'
 import ScrollReveal from '@/components/ScrollReveal'
-import ProductGrid from '@/components/ProductGrid'
-import CategoryChips from '@/components/CategoryChips'
-import {
-  getCategoryBySlug,
-  getChildCategories,
-  getProductsByFamily,
-} from '@/lib/supabase/queries'
+import CategoryCardGrid from '@/components/CategoryCardGrid'
+import { getCategoryBySlug, getChildCategories } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 import { CITIES } from '@/lib/pseo/cities'
 
@@ -21,13 +16,11 @@ export default async function ChemicalsPage() {
   if (!parent) notFound()
 
   const children = await getChildCategories(parent.id)
-
-  const allProducts = await getProductsByFamily(parent.id)
-
-  const chips = children.map((c) => ({
-    label: (c.name as { fr: string }).fr,
+  const cards = children.map((c) => ({
     href: `/fr/chemicals/${c.slug}`,
-    slug: c.slug,
+    img: `/images/groups/chimie/${c.slug}.webp`,
+    title: (c.name as { fr: string }).fr,
+    desc: c.description ? (c.description as { fr: string }).fr : undefined,
   }))
 
   return (
@@ -50,13 +43,7 @@ export default async function ChemicalsPage() {
 
       <section className="block">
         <div className="wrap">
-          {chips.length > 0 && (
-            <div className="shop-toolbar">
-              <span className="count">{allProducts.length} produit{allProducts.length !== 1 ? 's' : ''}</span>
-              <CategoryChips chips={chips} activeSlug={null} allHref="/fr/chemicals" />
-            </div>
-          )}
-          <ProductGrid products={allProducts} basePath="/fr/chemicals" />
+          <CategoryCardGrid items={cards} />
         </div>
       </section>
 
