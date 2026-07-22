@@ -10,9 +10,9 @@ export async function proxy(request: NextRequest) {
 
   // Auth guard: check Supabase session for all admin routes except login
   const isAdminRoute = /^\/(fr|en)\/admin/.test(pathname);
-  const isLoginPage = /^\/(fr|en)\/admin\/login/.test(pathname);
+  const isPublicAdminPage = /^\/(fr|en)\/admin\/(login|forgot-password|reset-password)/.test(pathname);
 
-  if (isAdminRoute && !isLoginPage) {
+  if (isAdminRoute && !isPublicAdminPage) {
     let refreshedResponse = NextResponse.next({ request })
 
     const supabase = createServerClient(

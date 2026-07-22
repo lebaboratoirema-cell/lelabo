@@ -1,12 +1,12 @@
 import Link from 'next/link'
-import { signIn } from './actions'
+import { requestPasswordReset } from './actions'
 
-export default async function LoginPage({
+export default async function ForgotPasswordPage({
   searchParams,
 }: {
-  searchParams: Promise<{ error?: string; reset?: string }>
+  searchParams: Promise<{ sent?: string; error?: string }>
 }) {
-  const { error, reset } = await searchParams
+  const { sent, error } = await searchParams
 
   return (
     <>
@@ -35,7 +35,6 @@ export default async function LoginPage({
           width: '100%',
           maxWidth: 400,
         }}>
-          {/* Logo */}
           <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 36 }}>
             <div style={{
               width: 36,
@@ -56,26 +55,12 @@ export default async function LoginPage({
             </div>
           </div>
 
-          <h1 style={{ fontSize: 20, fontWeight: 600, margin: '0 0 6px' }}>Connexion</h1>
+          <h1 style={{ fontSize: 20, fontWeight: 600, margin: '0 0 6px' }}>Mot de passe oublié</h1>
           <p style={{ fontSize: 14, color: '#6b6357', margin: '0 0 28px' }}>
-            Accès réservé aux administrateurs.
+            Entrez votre email, un lien de réinitialisation vous sera envoyé.
           </p>
 
-          {error && (
-            <div style={{
-              background: '#fdf1ed',
-              border: '1px solid #e6c3b8',
-              borderRadius: 8,
-              padding: '10px 14px',
-              fontSize: 13,
-              color: '#c8643c',
-              marginBottom: 20,
-            }}>
-              Identifiants incorrects. Veuillez réessayer.
-            </div>
-          )}
-
-          {reset && (
+          {sent && (
             <div style={{
               background: '#f0f6f0',
               border: '1px solid #b8d6bd',
@@ -85,11 +70,25 @@ export default async function LoginPage({
               color: '#3c7a4a',
               marginBottom: 20,
             }}>
-              Mot de passe mis à jour. Vous pouvez vous connecter.
+              Si cet email existe, un lien de réinitialisation vient d&apos;être envoyé.
             </div>
           )}
 
-          <form action={signIn} style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+          {error === 'expired' && (
+            <div style={{
+              background: '#fdf1ed',
+              border: '1px solid #e6c3b8',
+              borderRadius: 8,
+              padding: '10px 14px',
+              fontSize: 13,
+              color: '#c8643c',
+              marginBottom: 20,
+            }}>
+              Le lien a expiré. Veuillez refaire une demande.
+            </div>
+          )}
+
+          <form action={requestPasswordReset} style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
             <div>
               <label style={{ display: 'block', fontSize: 13, fontWeight: 500, marginBottom: 6 }}>
                 Email
@@ -99,28 +98,6 @@ export default async function LoginPage({
                 name="email"
                 required
                 autoComplete="email"
-                style={{
-                  width: '100%',
-                  padding: '10px 12px',
-                  border: '1px solid #e6e3db',
-                  borderRadius: 8,
-                  fontSize: 14,
-                  background: '#fafaf8',
-                  color: '#1c2230',
-                  boxSizing: 'border-box',
-                }}
-              />
-            </div>
-
-            <div>
-              <label style={{ display: 'block', fontSize: 13, fontWeight: 500, marginBottom: 6 }}>
-                Mot de passe
-              </label>
-              <input
-                type="password"
-                name="password"
-                required
-                autoComplete="current-password"
                 style={{
                   width: '100%',
                   padding: '10px 12px',
@@ -149,13 +126,13 @@ export default async function LoginPage({
                 width: '100%',
               }}
             >
-              Se connecter
+              Envoyer le lien
             </button>
           </form>
 
           <div style={{ marginTop: 20, textAlign: 'center' }}>
-            <Link href="/fr/admin/forgot-password" style={{ fontSize: 13, color: '#6b6357' }}>
-              Mot de passe oublié ?
+            <Link href="/fr/admin/login" style={{ fontSize: 13, color: '#6b6357' }}>
+              ← Retour à la connexion
             </Link>
           </div>
         </div>

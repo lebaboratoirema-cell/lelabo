@@ -1,12 +1,17 @@
-import Link from 'next/link'
-import { signIn } from './actions'
+import { resetPassword } from './actions'
 
-export default async function LoginPage({
+export default async function ResetPasswordPage({
   searchParams,
 }: {
-  searchParams: Promise<{ error?: string; reset?: string }>
+  searchParams: Promise<{ error?: string }>
 }) {
-  const { error, reset } = await searchParams
+  const { error } = await searchParams
+
+  const errorMessages: Record<string, string> = {
+    short: 'Le mot de passe doit contenir au moins 8 caractères.',
+    mismatch: 'Les mots de passe ne correspondent pas.',
+    '1': 'Une erreur est survenue. Veuillez réessayer.',
+  }
 
   return (
     <>
@@ -35,7 +40,6 @@ export default async function LoginPage({
           width: '100%',
           maxWidth: 400,
         }}>
-          {/* Logo */}
           <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 36 }}>
             <div style={{
               width: 36,
@@ -56,12 +60,12 @@ export default async function LoginPage({
             </div>
           </div>
 
-          <h1 style={{ fontSize: 20, fontWeight: 600, margin: '0 0 6px' }}>Connexion</h1>
+          <h1 style={{ fontSize: 20, fontWeight: 600, margin: '0 0 6px' }}>Nouveau mot de passe</h1>
           <p style={{ fontSize: 14, color: '#6b6357', margin: '0 0 28px' }}>
-            Accès réservé aux administrateurs.
+            Choisissez un nouveau mot de passe pour votre compte admin.
           </p>
 
-          {error && (
+          {error && errorMessages[error] && (
             <div style={{
               background: '#fdf1ed',
               border: '1px solid #e6c3b8',
@@ -71,34 +75,21 @@ export default async function LoginPage({
               color: '#c8643c',
               marginBottom: 20,
             }}>
-              Identifiants incorrects. Veuillez réessayer.
+              {errorMessages[error]}
             </div>
           )}
 
-          {reset && (
-            <div style={{
-              background: '#f0f6f0',
-              border: '1px solid #b8d6bd',
-              borderRadius: 8,
-              padding: '10px 14px',
-              fontSize: 13,
-              color: '#3c7a4a',
-              marginBottom: 20,
-            }}>
-              Mot de passe mis à jour. Vous pouvez vous connecter.
-            </div>
-          )}
-
-          <form action={signIn} style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+          <form action={resetPassword} style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
             <div>
               <label style={{ display: 'block', fontSize: 13, fontWeight: 500, marginBottom: 6 }}>
-                Email
+                Nouveau mot de passe
               </label>
               <input
-                type="email"
-                name="email"
+                type="password"
+                name="password"
                 required
-                autoComplete="email"
+                minLength={8}
+                autoComplete="new-password"
                 style={{
                   width: '100%',
                   padding: '10px 12px',
@@ -114,13 +105,14 @@ export default async function LoginPage({
 
             <div>
               <label style={{ display: 'block', fontSize: 13, fontWeight: 500, marginBottom: 6 }}>
-                Mot de passe
+                Confirmer le mot de passe
               </label>
               <input
                 type="password"
-                name="password"
+                name="confirmPassword"
                 required
-                autoComplete="current-password"
+                minLength={8}
+                autoComplete="new-password"
                 style={{
                   width: '100%',
                   padding: '10px 12px',
@@ -149,15 +141,9 @@ export default async function LoginPage({
                 width: '100%',
               }}
             >
-              Se connecter
+              Réinitialiser le mot de passe
             </button>
           </form>
-
-          <div style={{ marginTop: 20, textAlign: 'center' }}>
-            <Link href="/fr/admin/forgot-password" style={{ fontSize: 13, color: '#6b6357' }}>
-              Mot de passe oublié ?
-            </Link>
-          </div>
         </div>
       </div>
     </>
