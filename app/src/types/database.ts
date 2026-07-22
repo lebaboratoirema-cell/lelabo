@@ -11,6 +11,8 @@ export interface Category {
   name: LocalizedText
   description: LocalizedText | null
   image_url: string | null
+  group_key: string | null
+  group_label: LocalizedText | null
   position: number
   is_active: boolean
   created_at: string
