@@ -10,6 +10,20 @@ const nextConfig: NextConfig = {
       bodySizeLimit: '10mb',
     },
   },
+  async redirects() {
+    return [
+      {
+        source: '/:locale/glassware',
+        destination: '/:locale/petit-outillage',
+        permanent: true,
+      },
+      {
+        source: '/:locale/glassware/:path*',
+        destination: '/:locale/petit-outillage/:path*',
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

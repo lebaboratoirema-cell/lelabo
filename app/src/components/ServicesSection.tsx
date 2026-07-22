@@ -32,7 +32,7 @@ const services = [
     desc: 'Équipements de laboratoire, appareils médicaux et biologiques, et instrumentation de mesure.',
   },
   {
-    href: '/glassware',
+    href: '/petit-outillage',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7">
         <path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/>
@@ -42,7 +42,7 @@ const services = [
     desc: 'Consommables de protection et de sécurité — gants, masques, filtres, lunettes de sécurité et plus.',
   },
   {
-    href: '/glassware',
+    href: '/petit-outillage',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7">
         <path d="M6 2h12M8 2v6l-3 9a2 2 0 002 3h10a2 2 0 002-3l-3-9V2"/>
