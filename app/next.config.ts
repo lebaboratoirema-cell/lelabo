@@ -22,6 +22,16 @@ const nextConfig: NextConfig = {
         destination: '/:locale/petit-outillage/:path*',
         permanent: true,
       },
+      {
+        source: '/:locale/chemicals',
+        destination: '/:locale/produits-chimiques',
+        permanent: true,
+      },
+      {
+        source: '/:locale/chemicals/:path*',
+        destination: '/:locale/produits-chimiques/:path*',
+        permanent: true,
+      },
     ];
   },
   async headers() {

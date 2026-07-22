@@ -15,7 +15,7 @@ export const CATEGORY_ROUTE_META: Record<CategoryRoute, {
   bannerImage: string
 }> = {
   chemicals: {
-    title: 'Produits chimiques',
+    title: 'Produit chimie',
     breadcrumb: 'Chimie',
     bannerImage: '/images/hero-chem.webp',
   },

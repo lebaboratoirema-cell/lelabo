@@ -133,6 +133,8 @@ nav.primary li:hover > .submenu { opacity: 1; visibility: visible; transform: tr
 }
 .search-bar button:hover { background: var(--navy); }
 .mobile-search { margin-bottom: 14px; }
+.category-search { max-width: 420px; margin: 0 0 24px auto; padding: 10px 10px 10px 20px; }
+.category-search input { width: 100%; font-size: 14px; }
 .mobile-search input { width: 100%; }
 
 .search-suggestions {

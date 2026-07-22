@@ -36,7 +36,7 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
 
     const chips = siblings.map((c) => ({
       label: (c.name as { fr: string }).fr,
-      href: `/fr/chemicals/${c.slug}`,
+      href: `/fr/produits-chimiques/${c.slug}`,
       slug: c.slug,
     }))
 
@@ -55,7 +55,7 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
             <div className="breadcrumb">
               <a href="/fr">Accueil</a>
               <span className="sep">/</span>
-              <a href="/fr/chemicals">{meta.breadcrumb}</a>
+              <a href="/fr/produits-chimiques">{meta.breadcrumb}</a>
               <span className="sep">/</span>
               {childLabel}
             </div>
@@ -66,9 +66,9 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
           <div className="wrap">
             <div className="shop-toolbar">
               <span className="count">{products.length} produit{products.length !== 1 ? 's' : ''}</span>
-              <CategoryChips chips={chips} activeSlug={child.slug} allHref="/fr/chemicals" />
+              <CategoryChips chips={chips} activeSlug={child.slug} allHref="/fr/produits-chimiques" />
             </div>
-            <ProductGrid products={products} basePath={`/fr/chemicals/${child.slug}`} />
+            <ProductGrid products={products} basePath={`/fr/produits-chimiques/${child.slug}`} />
           </div>
         </section>
 
@@ -90,8 +90,8 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
         <ProductDetailPage
           product={product}
           related={related}
-          breadcrumbs={[{ label: meta.breadcrumb, href: '/fr/chemicals' }]}
-          basePath="/fr/chemicals"
+          breadcrumbs={[{ label: meta.breadcrumb, href: '/fr/produits-chimiques' }]}
+          basePath="/fr/produits-chimiques"
         />
         <SiteFooter />
       </>

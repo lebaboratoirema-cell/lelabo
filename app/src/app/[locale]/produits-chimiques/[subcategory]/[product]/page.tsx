@@ -42,10 +42,10 @@ export default async function ChemicalsProductPage({ params }: Props) {
         product={product}
         related={related}
         breadcrumbs={[
-          { label: meta.breadcrumb, href: '/fr/chemicals' },
-          { label: childLabel, href: `/fr/chemicals/${child.slug}` },
+          { label: meta.breadcrumb, href: '/fr/produits-chimiques' },
+          { label: childLabel, href: `/fr/produits-chimiques/${child.slug}` },
         ]}
-        basePath={`/fr/chemicals/${child.slug}`}
+        basePath={`/fr/produits-chimiques/${child.slug}`}
       />
       <SiteFooter />
     </>

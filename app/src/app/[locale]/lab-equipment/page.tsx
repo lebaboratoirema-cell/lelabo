@@ -4,6 +4,7 @@ import Header from '@/components/Header'
 import SiteFooter from '@/components/SiteFooter'
 import ScrollReveal from '@/components/ScrollReveal'
 import CategoryCardGrid from '@/components/CategoryCardGrid'
+import SearchBar from '@/components/SearchBar'
 import { getCategoryBySlug, getChildCategoriesGrouped } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 import { CITIES } from '@/lib/pseo/cities'
@@ -20,7 +21,6 @@ export default async function LabEquipmentPage() {
     href: `/fr/lab-equipment/groupe/${g.groupKey}`,
     img: g.groupKey === '__others__' ? '/images/glassware.webp' : `/images/groups/equipements/${g.groupKey}.webp`,
     title: g.groupLabel.fr,
-    desc: `${g.categories.length} sous-catégorie${g.categories.length !== 1 ? 's' : ''}`,
   }))
 
   return (
@@ -43,6 +43,7 @@ export default async function LabEquipmentPage() {
 
       <section className="block">
         <div className="wrap">
+          <SearchBar className="category-search" />
           <CategoryCardGrid items={cards} />
         </div>
       </section>

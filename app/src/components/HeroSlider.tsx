@@ -17,7 +17,7 @@ const slides = [
     eyebrow: 'Fournisseur de produits chimiques',
     title: 'Une large gamme de produits chimiques de haute pureté.',
     desc: 'Solvants, réactifs et acides d\'excellente pureté chimique et nombreuses spécifications, développés en continu pour répondre aux exigences de qualité et de performance.',
-    cta1: { label: 'Explorer la chimie', href: '/chemicals' },
+    cta1: { label: 'Explorer la chimie', href: '/produits-chimiques' },
     cta2: { label: 'Demander un devis', href: '/contact' },
     thumbs: ['/images/glassware.webp', '/images/pipette.webp', '/images/culture.webp'],
   },

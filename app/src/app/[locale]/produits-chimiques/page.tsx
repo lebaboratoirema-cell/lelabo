@@ -4,6 +4,7 @@ import Header from '@/components/Header'
 import SiteFooter from '@/components/SiteFooter'
 import ScrollReveal from '@/components/ScrollReveal'
 import CategoryCardGrid from '@/components/CategoryCardGrid'
+import SearchBar from '@/components/SearchBar'
 import { getCategoryBySlug, getChildCategories } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 import { CITIES } from '@/lib/pseo/cities'
@@ -17,10 +18,9 @@ export default async function ChemicalsPage() {
 
   const children = await getChildCategories(parent.id)
   const cards = children.map((c) => ({
-    href: `/fr/chemicals/${c.slug}`,
+    href: `/fr/produits-chimiques/${c.slug}`,
     img: `/images/groups/chimie/${c.slug}.webp`,
     title: (c.name as { fr: string }).fr,
-    desc: c.description ? (c.description as { fr: string }).fr : undefined,
   }))
 
   return (
@@ -43,6 +43,7 @@ export default async function ChemicalsPage() {
 
       <section className="block">
         <div className="wrap">
+          <SearchBar className="category-search" />
           <CategoryCardGrid items={cards} />
         </div>
       </section>
@@ -53,7 +54,7 @@ export default async function ChemicalsPage() {
           <ul className="city-link-list">
             {CITIES.map((city) => (
               <li key={city.slug}>
-                <a href={`/fr/chemicals/villes/${city.slug}`}>
+                <a href={`/fr/produits-chimiques/villes/${city.slug}`}>
                   Produits chimiques à {city.name}
                 </a>
               </li>

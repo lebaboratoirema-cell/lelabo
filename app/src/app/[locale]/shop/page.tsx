@@ -4,11 +4,11 @@ import SiteFooter from '@/components/SiteFooter';
 import ScrollReveal from '@/components/ScrollReveal';
 
 const categories = [
-  { href: '/fr/chemicals', img: '/images/hero-chem.webp', title: 'Produits chimiques', desc: 'Solvants, acides, réactifs et solutions tampons.' },
+  { href: '/fr/produits-chimiques', img: '/images/hero-chem.webp', title: 'Produits chimiques', desc: 'Solvants, acides, réactifs et solutions tampons.' },
   { href: '/fr/lab-equipment', img: '/images/hero-tech.webp', title: 'Équipements de laboratoire', desc: 'Instruments, optique, pesage et chauffage.' },
   { href: '/fr/petit-outillage', img: '/images/glassware.webp', title: 'Verrerie', desc: 'Béchers, fioles, pipettes et matériel volumétrique.' },
   { href: '/fr/petit-outillage', img: '/images/safety.webp', title: 'Hygiène &amp; sécurité', desc: 'Gants, masques, lunettes et consommables de protection.' },
-  { href: '/fr/chemicals', img: '/images/culture.webp', title: 'Milieux de culture', desc: 'Peptones, agar, extraits et milieux préparés.' },
+  { href: '/fr/produits-chimiques', img: '/images/culture.webp', title: 'Milieux de culture', desc: 'Peptones, agar, extraits et milieux préparés.' },
   { href: '/fr/petit-outillage', img: '/images/analysis.webp', title: 'Consommables', desc: 'Lames, tubes, filtres et fournitures courantes de laboratoire.' },
 ];
 

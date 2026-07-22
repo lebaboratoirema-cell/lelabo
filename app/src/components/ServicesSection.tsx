@@ -1,6 +1,6 @@
 const services = [
   {
-    href: '/chemicals',
+    href: '/produits-chimiques',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7">
         <path d="M9 3v6l-5 8a2 2 0 002 3h12a2 2 0 002-3l-5-8V3"/>
@@ -52,7 +52,7 @@ const services = [
     desc: 'Consommables et verrerie de laboratoire, pyrex et borosilicate, ainsi qu\'assemblages en verre sur mesure.',
   },
   {
-    href: '/chemicals',
+    href: '/produits-chimiques',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7">
         <circle cx="12" cy="13" r="8"/><path d="M12 13l3-3M9 2h6"/>

@@ -37,7 +37,7 @@ export default function Header() {
             <ul>
               <li className="active"><Link href="/">Accueil</Link></li>
               <li><Link href="/lab-equipment">Équipement scientifique</Link></li>
-              <li><Link href="/chemicals">Produit chimie</Link></li>
+              <li><Link href="/produits-chimiques">Produit chimie</Link></li>
               <li>
                 <a href="/petit-outillage">
                   Petit outillage
@@ -79,7 +79,7 @@ export default function Header() {
           <SearchBar className="mobile-search" onSubmit={() => setMobileOpen(false)} />
           <Link href="/" onClick={() => setMobileOpen(false)}>Accueil</Link>
           <Link href="/lab-equipment" onClick={() => setMobileOpen(false)}>Équipement scientifique</Link>
-          <Link href="/chemicals" onClick={() => setMobileOpen(false)}>Produit chimie</Link>
+          <Link href="/produits-chimiques" onClick={() => setMobileOpen(false)}>Produit chimie</Link>
           <Link href="/petit-outillage" onClick={() => setMobileOpen(false)}>Petit outillage</Link>
           <Link href="/blog" onClick={() => setMobileOpen(false)}>Blog</Link>
           <Link href="/about" onClick={() => setMobileOpen(false)}>À propos</Link>
