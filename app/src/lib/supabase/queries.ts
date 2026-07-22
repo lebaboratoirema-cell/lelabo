@@ -1,5 +1,5 @@
 import { createClient } from './server'
-import type { BlogPost, Category, Product, ProductImage, ProductWithVariants } from '@/types/database'
+import type { BlogPost, Category, LocalizedText, Product, ProductImage, ProductWithVariants } from '@/types/database'
 
 export type { ProductWithVariants }
 
@@ -27,6 +27,42 @@ export async function getChildCategories(parentId: string): Promise<Category[]> 
     .eq('is_active', true)
     .order('position')
   return data ?? []
+}
+
+export interface CategoryGroup {
+  groupKey: string
+  groupLabel: LocalizedText
+  categories: Category[]
+}
+
+export async function getChildCategoriesGrouped(parentId: string): Promise<CategoryGroup[]> {
+  const children = await getChildCategories(parentId)
+
+  const groups = new Map<string, CategoryGroup>()
+  const others: Category[] = []
+
+  for (const category of children) {
+    if (!category.group_key) {
+      others.push(category)
+      continue
+    }
+    const existing = groups.get(category.group_key)
+    if (existing) {
+      existing.categories.push(category)
+    } else {
+      groups.set(category.group_key, {
+        groupKey: category.group_key,
+        groupLabel: category.group_label ?? { fr: category.group_key },
+        categories: [category],
+      })
+    }
+  }
+
+  const result = [...groups.values()]
+  if (others.length > 0) {
+    result.push({ groupKey: '__others__', groupLabel: { fr: 'Autres' }, categories: others })
+  }
+  return result
 }
 
 export async function getProductsByCategory(categoryId: string): Promise<ProductWithImage[]> {
