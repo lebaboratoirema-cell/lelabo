@@ -477,6 +477,13 @@ section.block { padding: 90px 0; }
 .cat-card .go { font-size: 13px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--teal-bright); display: inline-flex; gap: 8px; transition: gap .25s; }
 .cat-card:hover .go { gap: 14px; }
 
+/* Subcategory text list (group -> subcategory pages) */
+.subcat-list { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; }
+.subcat-list a { display: block; padding: 18px 20px; border: 1px solid var(--line); border-radius: 10px; color: var(--navy); font-weight: 600; transition: .25s; }
+.subcat-list a:hover { border-color: transparent; box-shadow: var(--shadow); transform: translateY(-3px); }
+@media (max-width: 980px) { .subcat-list { grid-template-columns: repeat(2,1fr); } }
+@media (max-width: 560px) { .subcat-list { grid-template-columns: 1fr; } }
+
 /* CTA band */
 .cta-band {
   background: var(--teal); color: #fff; border-radius: 16px; padding: 52px 56px;
