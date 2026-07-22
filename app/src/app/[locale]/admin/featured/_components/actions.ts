@@ -2,8 +2,10 @@
 
 import { revalidatePath } from 'next/cache'
 import { createServiceClient } from '@/lib/supabase/service'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 
 export async function updateFeaturedProducts(formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const ids = formData.getAll('product_id') as string[]
 

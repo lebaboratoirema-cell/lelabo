@@ -3,9 +3,11 @@
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createServiceClient } from '@/lib/supabase/service'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 import { slugify } from '@/lib/slugify'
 
 export async function createCategory(formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
   const slug = (formData.get('slug') as string).trim() || slugify(nameFr)
@@ -25,6 +27,7 @@ export async function createCategory(formData: FormData) {
 }
 
 export async function updateCategory(id: string, formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
   const slug = (formData.get('slug') as string).trim()
@@ -46,6 +49,7 @@ export async function updateCategory(id: string, formData: FormData) {
 }
 
 export async function deleteCategory(id: string) {
+  await requireAdmin()
   const supabase = createServiceClient()
 
   const { count } = await supabase

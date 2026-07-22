@@ -3,6 +3,7 @@
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createServiceClient } from '@/lib/supabase/service'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 import { slugify } from '@/lib/slugify'
 
 async function uploadImages(supabase: ReturnType<typeof createServiceClient>, productId: string, formData: FormData) {
@@ -102,6 +103,7 @@ function parseDelivery(formData: FormData) {
 }
 
 export async function createProduct(formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
   const baseSlug = slugify(nameFr)
@@ -157,6 +159,7 @@ export async function createProduct(formData: FormData) {
 }
 
 export async function updateProduct(id: string, formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const nameFr = formData.get('name_fr') as string
 
@@ -198,6 +201,7 @@ export async function updateProduct(id: string, formData: FormData) {
 }
 
 export async function deleteProduct(id: string) {
+  await requireAdmin()
   const supabase = createServiceClient()
 
   // Delete storage files first

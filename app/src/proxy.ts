@@ -35,7 +35,9 @@ export async function proxy(request: NextRequest) {
     // getUser() validates server-side; getSession() only trusts the cookie
     const { data: { user } } = await supabase.auth.getUser()
 
-    if (!user) {
+    // Any authenticated user is not the same as an admin — app_metadata is
+    // only settable via the service role, so it can't be self-granted by a user.
+    if (!user || user.app_metadata?.role !== 'admin') {
       return NextResponse.rewrite(new URL('/403', request.url))
     }
 

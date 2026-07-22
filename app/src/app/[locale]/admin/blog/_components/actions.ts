@@ -3,9 +3,11 @@
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createServiceClient } from '@/lib/supabase/service'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 import { slugify } from '@/lib/slugify'
 
 export async function createBlogPost(formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const title = formData.get('title') as string
   const baseSlug = slugify(title)
@@ -42,6 +44,7 @@ export async function createBlogPost(formData: FormData) {
 }
 
 export async function updateBlogPost(id: string, formData: FormData) {
+  await requireAdmin()
   const supabase = createServiceClient()
 
   const { data: existing } = await supabase
@@ -76,6 +79,7 @@ export async function updateBlogPost(id: string, formData: FormData) {
 }
 
 export async function deleteBlogPost(id: string) {
+  await requireAdmin()
   const supabase = createServiceClient()
   const { error } = await supabase.from('blog_posts').delete().eq('id', id)
   if (error) throw new Error(error.message)
