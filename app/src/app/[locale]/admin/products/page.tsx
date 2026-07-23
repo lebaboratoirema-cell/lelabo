@@ -5,6 +5,12 @@ import FilterBar from './_components/FilterBar'
 
 export const dynamic = 'force-dynamic'
 
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
+
+function getThumbUrl(storagePath: string): string {
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=80&quality=70`
+}
+
 export default async function AdminProductsPage({
   searchParams,
 }: {
@@ -30,7 +36,7 @@ export default async function AdminProductsPage({
   function buildQuery() {
     let query = supabase
       .from('products')
-      .select('*, categories(name), product_variants(id)')
+      .select('*, categories(name), product_variants(id), product_images(storage_path, is_primary)')
       .order('created_at', { ascending: false })
 
     if (subcategoryParam) {
@@ -94,14 +100,23 @@ export default async function AdminProductsPage({
           <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse', minWidth: 640 }}>
             <thead>
               <tr style={{ borderBottom: '1px solid #f0ede5' }}>
-                {['Nom', 'Catégorie', 'Marque', 'Variantes', 'Statut', ''].map((h, i) => (
-                  <th key={i} style={{ textAlign: i >= 3 && i < 5 ? 'center' : i === 5 ? 'right' : 'left', padding: '14px 20px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', background: '#faf9f6' }}>{h}</th>
+                {['', 'Nom', 'Catégorie', 'Marque', 'Variantes', 'Statut', ''].map((h, i) => (
+                  <th key={i} style={{ textAlign: i >= 4 && i < 6 ? 'center' : i === 6 ? 'right' : 'left', padding: i === 0 ? '14px 8px 14px 20px' : '14px 20px', fontSize: 11, fontWeight: 600, letterSpacing: '0.5px', textTransform: 'uppercase', color: '#a8a294', background: '#faf9f6' }}>{h}</th>
                 ))}
               </tr>
             </thead>
             <tbody>
-              {products.map((p: any, idx: number) => (
+              {products.map((p: any, idx: number) => {
+                const primaryImage = p.product_images?.find((img: any) => img.is_primary) ?? p.product_images?.[0]
+                return (
                 <tr key={p.id} style={{ borderBottom: idx < products.length - 1 ? '1px solid #f4f2ec' : 'none' }}>
+                  <td style={{ padding: '10px 8px 10px 20px' }}>
+                    {primaryImage ? (
+                      <img src={getThumbUrl(primaryImage.storage_path)} alt="" style={{ width: 40, height: 40, borderRadius: 8, objectFit: 'cover', border: '1px solid #ebe8e0', display: 'block' }} />
+                    ) : (
+                      <div style={{ width: 40, height: 40, borderRadius: 8, background: '#f4f2ec' }} />
+                    )}
+                  </td>
                   <td style={{ padding: '16px 20px', fontWeight: 600, color: '#1c2230' }}>{p.name?.fr ?? '—'}</td>
                   <td style={{ padding: '16px 20px', color: '#6b6357' }}>{p.categories?.name?.fr ?? '—'}</td>
                   <td style={{ padding: '16px 20px', color: '#8a8478' }}>{p.brand ?? '—'}</td>
@@ -118,7 +133,8 @@ export default async function AdminProductsPage({
                     </div>
                   </td>
                 </tr>
-              ))}
+                )
+              })}
             </tbody>
           </table>
         </div>

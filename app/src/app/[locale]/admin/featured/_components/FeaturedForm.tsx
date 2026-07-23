@@ -10,6 +10,7 @@ interface Row {
   categoryName: string
   isFeatured: boolean
   featuredPosition: number | null
+  imageUrl: string | null
 }
 
 export default function FeaturedForm({ products }: { products: Row[] }) {
@@ -103,11 +104,11 @@ export default function FeaturedForm({ products }: { products: Row[] }) {
         <table style={{ width: '100%', fontSize: 14, borderCollapse: 'collapse', minWidth: 480 }}>
           <thead>
             <tr style={{ borderBottom: '1px solid #f0ede5' }}>
-              {['En vedette', 'Nom', 'Catégorie', 'Ordre'].map((h, i) => (
+              {['En vedette', '', 'Nom', 'Catégorie', 'Ordre'].map((h, i) => (
                 <th
                   key={i}
                   style={{
-                    textAlign: i === 0 || i === 3 ? 'center' : 'left',
+                    textAlign: i === 0 || i === 4 ? 'center' : 'left',
                     padding: '14px 20px',
                     fontSize: 11,
                     fontWeight: 600,
@@ -144,6 +145,13 @@ export default function FeaturedForm({ products }: { products: Row[] }) {
                       onChange={() => toggle(p.id)}
                       style={{ width: 18, height: 18, cursor: isLocked ? 'not-allowed' : 'pointer', accentColor: '#1c2b46' }}
                     />
+                  </td>
+                  <td style={{ padding: '8px 8px 8px 20px' }}>
+                    {p.imageUrl ? (
+                      <img src={p.imageUrl} alt="" style={{ width: 36, height: 36, borderRadius: 8, objectFit: 'cover', border: '1px solid #ebe8e0', display: 'block' }} />
+                    ) : (
+                      <div style={{ width: 36, height: 36, borderRadius: 8, background: '#f4f2ec' }} />
+                    )}
                   </td>
                   <td style={{ padding: '12px 20px', fontWeight: 600, color: '#1c2230' }}>{p.name}</td>
                   <td style={{ padding: '12px 20px', color: '#8a8478' }}>{p.categoryName}</td>

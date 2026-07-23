@@ -1,27 +1,37 @@
 import { createServiceClient } from '@/lib/supabase/service'
-import type { Category, Product } from '@/types/database'
+import type { Category } from '@/types/database'
 import FeaturedForm from './_components/FeaturedForm'
 
 export const dynamic = 'force-dynamic'
+
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
+
+function getThumbUrl(storagePath: string): string {
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=80&quality=70`
+}
 
 export default async function AdminFeaturedPage() {
   const supabase = createServiceClient()
 
   const [{ data: products }, { data: categories }] = await Promise.all([
-    supabase.from('products').select('*').eq('is_active', true),
+    supabase.from('products').select('*, product_images(storage_path, is_primary)').eq('is_active', true),
     supabase.from('categories').select('id, name'),
   ])
 
   const categoryNameById = new Map(((categories ?? []) as Pick<Category, 'id' | 'name'>[]).map((c) => [c.id, c.name.fr]))
 
-  const rows = ((products ?? []) as Product[])
-    .map((p) => ({
-      id: p.id,
-      name: p.name.fr,
-      categoryName: categoryNameById.get(p.category_id) ?? '—',
-      isFeatured: p.is_featured,
-      featuredPosition: p.featured_position,
-    }))
+  const rows = ((products ?? []) as any[])
+    .map((p) => {
+      const primaryImage = p.product_images?.find((img: any) => img.is_primary) ?? p.product_images?.[0]
+      return {
+        id: p.id,
+        name: p.name.fr,
+        categoryName: categoryNameById.get(p.category_id) ?? '—',
+        isFeatured: p.is_featured,
+        featuredPosition: p.featured_position,
+        imageUrl: primaryImage ? getThumbUrl(primaryImage.storage_path) : null,
+      }
+    })
     .sort((a, b) => {
       if (a.isFeatured !== b.isFeatured) return a.isFeatured ? -1 : 1
       return a.name.localeCompare(b.name)
