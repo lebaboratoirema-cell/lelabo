@@ -152,7 +152,7 @@ export async function createProduct(formData: FormData) {
   await uploadDocuments(supabase, product.id, formData)
 
   revalidatePath('/fr/produits-chimiques', 'page')
-  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/petit-outillage', 'page')
   revalidatePath('/fr/lab-equipment', 'page')
   revalidatePath('/[locale]', 'layout')
   redirect('/fr/admin/products')
@@ -194,7 +194,7 @@ export async function updateProduct(id: string, formData: FormData) {
   await uploadDocuments(supabase, id, formData)
 
   revalidatePath('/fr/produits-chimiques', 'page')
-  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/petit-outillage', 'page')
   revalidatePath('/fr/lab-equipment', 'page')
   revalidatePath('/[locale]', 'layout')
   redirect('/fr/admin/products')
@@ -230,7 +230,7 @@ export async function deleteProduct(id: string) {
   const { error } = await supabase.from('products').delete().eq('id', id)
   if (error) throw new Error(error.message)
   revalidatePath('/fr/produits-chimiques', 'page')
-  revalidatePath('/fr/glassware', 'page')
+  revalidatePath('/fr/petit-outillage', 'page')
   revalidatePath('/fr/lab-equipment', 'page')
   revalidatePath('/[locale]', 'layout')
 }

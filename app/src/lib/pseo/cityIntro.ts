@@ -4,9 +4,8 @@ import type { CityInfo } from '@/lib/pseo/cities'
 
 const INTRO_VERBS: Record<CategoryRoute, string> = {
   chemicals: 'livrons des produits chimiques de laboratoire',
-  glassware: 'fournissons de la verrerie et des consommables de laboratoire',
   'lab-equipment': 'équipons les laboratoires en instruments et appareils',
-  'petit-outillage': 'fournissons du petit outillage de laboratoire',
+  'petit-outillage': 'fournissons de la verrerie et du petit outillage de laboratoire',
 }
 
 export function buildCityIntro(categoryRoute: CategoryRoute, city: CityInfo): string {

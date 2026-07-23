@@ -112,7 +112,6 @@ export async function getProductBySlug(slug: string): Promise<ProductWithVariant
 
 const FAMILY_ROUTE_BY_SLUG: Record<string, string> = {
   chimie: 'produits-chimiques',
-  verrerie: 'glassware',
   equipements: 'lab-equipment',
   'petit-outillage': 'petit-outillage',
 }

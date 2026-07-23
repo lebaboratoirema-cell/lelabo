@@ -8,6 +8,8 @@ import SearchBar from '@/components/SearchBar'
 import { getCategoryBySlug, getChildCategories } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
 import { CITIES } from '@/lib/pseo/cities'
+import { safeJsonLd, breadcrumbListJsonLd } from '@/lib/jsonLd'
+import { SITE_URL } from '@/lib/siteConfig'
 
 export const dynamic = 'force-dynamic'
 
@@ -22,9 +24,18 @@ export default async function ChemicalsPage() {
     img: `/images/groups/chimie/${c.slug}.webp`,
     title: (c.name as { fr: string }).fr,
   }))
+  const breadcrumbJsonLd = breadcrumbListJsonLd([
+    { name: 'Accueil', url: SITE_URL },
+    { name: meta.breadcrumb, url: `${SITE_URL}/fr/produits-chimiques` },
+  ])
 
   return (
     <>
+      {/* JSON-LD: safeJsonLd escapes `<` so DB-sourced category names cannot break out of the script tag */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: safeJsonLd(breadcrumbJsonLd) }}
+      />
       <ScrollReveal />
       <TopBar />
       <Header />
@@ -38,6 +49,7 @@ export default async function ChemicalsPage() {
             <span className="sep">/</span>
             {meta.breadcrumb}
           </div>
+          <p className="lead">{meta.description}</p>
         </div>
       </section>
 
