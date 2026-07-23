@@ -46,6 +46,33 @@ const nextConfig: NextConfig = {
           },
         ],
       },
+      {
+        source: '/:locale(fr|en)/admin',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'private, no-store, must-revalidate',
+          },
+        ],
+      },
+      {
+        source: '/:locale(fr|en)/admin/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'private, no-store, must-revalidate',
+          },
+        ],
+      },
+      {
+        source: '/403',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'private, no-store, must-revalidate',
+          },
+        ],
+      },
     ];
   },
 };
