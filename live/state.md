@@ -238,18 +238,20 @@ User asked to optimize the site to be indexed/cited by AI answer engines (ChatGP
 
 **Verified live**: curled a real product page post-deploy, confirmed both `Product` and `BreadcrumbList` JSON-LD blocks present and correct.
 
-**FAQ blocks per category — infra + pilot done, on branch `worktree-category-faq-blocks` (worktree `.claude/worktrees/category-faq-blocks`), NOT YET MERGED/DEPLOYED (2026-07-23)**:
+**FAQ blocks per category — infra + pilot MERGED + DEPLOYED (2026-07-23, commits 350a6ed..3a65d19, pushed to origin/master)**:
 - Plan: `docs/superpowers/plans/2026-07-23-category-faq-blocks.md` (8 tasks, executed via subagent-driven-development)
 - `categories.faq jsonb` column added (migration `009_category_faq.sql` — applied via Supabase MCP `apply_migration`, not `run-migration.mjs`: that script's `DATABASE_URL` points at `db.<ref>.supabase.co`, which is IPv6-only and unreachable from this dev network; the MCP tool and the REST-API-based `update-category-faq.mjs` script both work fine since they don't hit that host)
 - `Category.faq: CategoryFaqItem[] | null` type, `faqPageJsonLd()` helper in `src/lib/jsonLd.ts`, `CategoryFaq` server component (native `<details>/<summary>`, no JS needed) — all wired into the 3 subcategory templates (`lab-equipment`, `produits-chimiques`, `petit-outillage`), conditional on `child.faq` being non-null so it's inert everywhere content hasn't been written yet
-- `app/scripts/update-category-faq.mjs` — content loader, reads `equipment/data/faq/<slug>.json`, pushes to DB by slug
-- **Pilot batch live in DB (not deployed to prod)**: 5 categories, all under `petit-outillage` family (tied at 15 products each) — `verre-de-montre`, `bille`, `boite`, `bistouri`, `vase-sabot-nacelle-pesee`. 4 grounded Q&A pairs each, written from real product specs in DB, verified rendering + `FAQPage` JSON-LD locally.
-- **Known gap**: pilot only exercised the `petit-outillage` route family end-to-end. `lab-equipment` and `produits-chimiques` templates got the identical code change and typecheck passed, but neither has been render-verified with real FAQ data — do that before/during the next content batch.
-- **Next steps**: (1) review + merge this branch, deploy, verify pilot pages live on prod; (2) continue the rollout — ~172 categories remain, batch in groups of ~15 via parallel subagents (same pattern as the humeau FR-copy rollout), see Task 8 in the plan doc for the exact runbook query + process.
+- `app/scripts/update-category-faq.mjs` — content loader, reads `equipment/data/faq/<slug>.json`, pushes to DB by slug (per-slug try/catch on read/parse errors, so one bad file in a batch doesn't abort the rest)
+- **Pilot batch live in prod**: 5 categories, all under `petit-outillage` family (tied at 15 products each) — `verre-de-montre`, `bille`, `boite`, `bistouri`, `vase-sabot-nacelle-pesee`. 4 grounded Q&A pairs each, written from real product specs in DB. Verified live: `curl https://lelaboratoire.ma/fr/petit-outillage/verre-de-montre | grep FAQPage` → present.
+- **Known gap**: pilot only exercised the `petit-outillage` route family end-to-end. `lab-equipment` and `produits-chimiques` templates got the identical code change and typecheck passed, but neither has been render-verified with real FAQ data on a live category — do that during the next content batch.
+- **Next batch**: ~172 categories remain, batch in groups of ~15 via parallel subagents (same pattern as the humeau FR-copy rollout), see Task 8 in the plan doc for the exact runbook query + process.
+
+**Homepage promotional-tone cleanup — DONE (2026-07-23, commit b84b97b)**: stripped unverified superlatives flagged in the GEO audit ("meilleur", "large sélection/gamme", "premium", "les plus prisés") from `HeroSlider.tsx`, `PromoSection.tsx`, `ServicesSection.tsx`, `BrandsSection.tsx`, `FeaturedProducts.tsx`. Replaced with factual claims where possible (e.g. "Plus de 1700 références" instead of "gamme premium"). Grepped `app/src/components` afterward for the same pattern set — clean. Not yet deployed (committed to master, not yet pushed — bundled with next push).
 
 **Next session: start here**
-1. Merge/deploy the FAQ branch above, verify pilot live, then continue the FAQ content rollout in batches.
-2. Homepage promotional-tone cleanup — strip "meilleur", "large sélection" etc. Quick, not yet done.
+1. Push commit `b84b97b` to origin (homepage tone fix — not yet deployed).
+2. Continue the FAQ content rollout in batches of ~15 categories (see Task 8 runbook in the plan doc), including the deferred `lab-equipment`/`produits-chimiques` live spot-check.
 3. Query test set for actual AI-citation measurement — never run. I (Claude) can't query ChatGPT/Perplexity live; either hand the user the ~15-query list to run manually, or route to `ai-visibility-monitoring` skill for automated tracking. Competitor list above is ready to use.
 4. "Prix sur devis" stays as-is — user explicitly confirmed, don't revisit without being asked.
 5. Unrelated open items from before this GEO work are still open — see "Blocking / not yet done" and "PageSpeed" sections above.
