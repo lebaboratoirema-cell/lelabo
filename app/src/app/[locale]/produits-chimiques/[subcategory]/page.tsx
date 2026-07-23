@@ -6,6 +6,7 @@ import ScrollReveal from '@/components/ScrollReveal'
 import ProductGrid from '@/components/ProductGrid'
 import CategoryChips from '@/components/CategoryChips'
 import ProductDetailPage from '@/components/ProductDetailPage'
+import CategoryFaq from '@/components/CategoryFaq'
 import {
   getCategoryBySlug,
   getChildCategories,
@@ -14,7 +15,7 @@ import {
   getRelatedProducts,
 } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
-import { safeJsonLd, breadcrumbListJsonLd } from '@/lib/jsonLd'
+import { safeJsonLd, breadcrumbListJsonLd, faqPageJsonLd } from '@/lib/jsonLd'
 import { SITE_URL } from '@/lib/siteConfig'
 
 export const dynamic = 'force-dynamic'
@@ -49,6 +50,7 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
       { name: meta.breadcrumb, url: `${SITE_URL}/fr/produits-chimiques` },
       { name: childLabel, url: `${SITE_URL}/fr/produits-chimiques/${child.slug}` },
     ])
+    const faqJsonLd = child.faq && child.faq.length > 0 ? faqPageJsonLd(child.faq) : null
 
     return (
       <>
@@ -57,6 +59,12 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: safeJsonLd(breadcrumbJsonLd) }}
         />
+        {faqJsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: safeJsonLd(faqJsonLd) }}
+          />
+        )}
         <ScrollReveal />
         <TopBar />
         <Header />
@@ -85,6 +93,8 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
             <ProductGrid products={products} basePath={`/fr/produits-chimiques/${child.slug}`} />
           </div>
         </section>
+
+        {child.faq && <CategoryFaq items={child.faq} />}
 
         <SiteFooter />
       </>
