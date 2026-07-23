@@ -15,10 +15,12 @@ export default function ProductCarousel({ products }: { products: SearchResult[]
   const [atEnd, setAtEnd] = useState(false)
 
   const updateEdges = useCallback(() => {
-    const el = trackRef.current
-    if (!el) return
-    setAtStart(el.scrollLeft <= 4)
-    setAtEnd(el.scrollLeft + el.clientWidth >= el.scrollWidth - 4)
+    requestAnimationFrame(() => {
+      const el = trackRef.current
+      if (!el) return
+      setAtStart(el.scrollLeft <= 4)
+      setAtEnd(el.scrollLeft + el.clientWidth >= el.scrollWidth - 4)
+    })
   }, [])
 
   useEffect(() => {
