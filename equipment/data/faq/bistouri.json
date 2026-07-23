@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Quelle est la différence entre un bistouri à usage unique et un manche avec lame interchangeable ?",
+    "answer": "Le bistouri à usage unique intègre une lame stérile fixée sur un manche plastique jetable, prêt à l'emploi et destiné à un seul usage. Le manche réutilisable en acier inoxydable, lui, s'utilise avec des lames vendues séparément et se réautoclave à 134 °C, ce qui convient à un usage répété en laboratoire."
+  },
+  {
+    "question": "Comment choisir la taille de lame de bistouri adaptée à un manche ?",
+    "answer": "Chaque manche est conçu pour un montage de lame précis : par exemple le manche n°3 accepte les lames n°6 à 16 et n°40, tandis que le manche n°4 à embout large accepte les lames n°18 à 36. Il faut vérifier la compatibilité manche/lame indiquée sur la fiche produit avant l'achat."
+  },
+  {
+    "question": "Quelle différence entre lames en acier au carbone et en acier inoxydable ?",
+    "answer": "Les lames en acier au carbone offrent un tranchant très affûté adapté à la coupe de précision mais sont sensibles à la corrosion et généralement à usage unique. Les lames et bistouris en acier inoxydable résistent mieux à la corrosion, ce qui convient aux instruments réutilisables passés à l'autoclave."
+  },
+  {
+    "question": "Les bistouris et lames de ce catalogue sont-ils stériles ?",
+    "answer": "La stérilité dépend de la référence : certaines lames et bistouris sont vendus stériles sous emballage individuel (usage unique), d'autres sont non stériles et destinés à être stérilisés avant usage. Le statut stérile ou non stérile est précisé dans les spécifications de chaque produit."
+  }
+]

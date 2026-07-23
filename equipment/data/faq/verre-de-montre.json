@@ -1,0 +1,18 @@
+[
+  {
+    "question": "À quoi sert un verre de montre en laboratoire ?",
+    "answer": "Le verre de montre sert principalement de couvercle pour béchers, de support d'évaporation d'échantillons et de récipient pour la pesée de petites quantités de solides. Sa forme concave facilite la récupération du produit après séchage ou évaporation."
+  },
+  {
+    "question": "Quelle différence entre un verre de montre en borosilicaté et en PTFE ?",
+    "answer": "Le verre borosilicaté (Duran, Pyrex) résiste à la chaleur et aux chocs thermiques et convient à la plupart des usages courants. Le PTFE tolère une plage de température plus large (-200 à +280 °C) et une meilleure résistance chimique, ce qui le rend préférable pour les produits corrosifs ou les températures extrêmes."
+  },
+  {
+    "question": "Les verres de montre proposés sont-ils autoclavables ?",
+    "answer": "Les modèles en verre borosilicaté et sodo-calcique de ce catalogue sont autoclavables à 121 °C, tout comme le modèle en polypropylène avec socle moulé. Les fiches produit précisent la résistance thermique et le mode de stérilisation compatible pour chaque référence."
+  },
+  {
+    "question": "Quel diamètre de verre de montre choisir ?",
+    "answer": "Le choix dépend du volume à évaporer ou de la taille des béchers à couvrir : les diamètres courants vont de 50 à 200 mm. Pour couvrir un bécher, il est recommandé de prendre un diamètre légèrement supérieur à celui de l'ouverture du bécher."
+  }
+]

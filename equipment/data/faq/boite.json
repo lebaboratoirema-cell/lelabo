@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Quelle différence entre les boîtes de Petri en verre proposées et les cryoboîtes ?",
+    "answer": "Les boîtes de Petri en verre (Duroplan, Pyrex, sodo-calcique) servent à la culture de milieux en microbiologie et sont autoclavables à 121 °C. Les cryoboîtes, en polycarbonate ou en carton, servent au stockage organisé de tubes ou d'échantillons à très basse température, jusqu'à -196 °C pour les modèles en polycarbonate."
+  },
+  {
+    "question": "Les boîtes de stockage en polypropylène résistent-elles au froid et à la chaleur ?",
+    "answer": "Les boîtes de rangement en PP de ce catalogue sont utilisables de -80 °C à 100 °C et autoclavables, ce qui permet de les employer aussi bien pour le stockage congelé de microtubes que pour la stérilisation entre deux usages."
+  },
+  {
+    "question": "À quoi servent les boîtes de stérilisation en aluminium ?",
+    "answer": "Les boîtes de stérilisation en aluminium anodisé servent au conditionnement et au passage à l'autoclave d'instruments de laboratoire ou chirurgicaux. Leur surface lisse facilite le nettoyage et offre une bonne résistance chimique."
+  },
+  {
+    "question": "Quelle boîte choisir pour conserver des lames de microscopie ?",
+    "answer": "Les boîtes de rangement pour lames de microscopie de ce catalogue sont en carton avec cadre bois ou en carton simple, disponibles pour des quantités allant de 2 à 25 lames selon le modèle. Le choix dépend du nombre de lames à stocker et de la fréquence de manipulation."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "À quoi servent les billes de verre en laboratoire ?",
+    "answer": "Les billes de verre sont utilisées pour le remplissage de colonnes de distillation, l'agitation de solutions difficiles à dissoudre et la prévention de la surchauffe (bumping) lors d'un chauffage ou d'une distillation. Les granulométries plus fines servent également au broyage ou à l'homogénéisation d'échantillons."
+  },
+  {
+    "question": "Quelle granulométrie de billes choisir ?",
+    "answer": "Les billes lavées à l'acide de ce catalogue vont de ≤106 µm à 1180 µm selon la référence, tandis que les billes sodocalciques pour distillation sont proposées en 2, 4 et 5 mm. Le choix dépend de l'usage : les granulométries fines conviennent au broyage ou à l'homogénéisation, les plus grosses au remplissage de colonnes et à la prévention de la surchauffe."
+  },
+  {
+    "question": "Quelle est la différence entre billes lavées à l'acide et non lavées ?",
+    "answer": "Les billes lavées à l'acide ont subi un traitement qui élimine les résidus métalliques et organiques de surface, ce qui les rend adaptées aux applications sensibles à la contamination. Les billes non lavées conviennent aux usages moins critiques, comme la simple agitation ou le remplissage."
+  },
+  {
+    "question": "Que sont les cryobilles et à quoi servent-elles ?",
+    "answer": "Les cryobilles sont des billes de conservation associées à un cryotube stérile de 2 mL, utilisées pour la conservation de souches microbiologiques. Chaque bille prélevée permet d'ensemencer une culture sans avoir à décongeler l'intégralité du cryotube, ce qui limite les cycles de congélation-décongélation."
+  }
+]
