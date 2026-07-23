@@ -14,9 +14,9 @@ export default function BrandsSection() {
         <div className="brands-head reveal">
           <span className="eyebrow">Partenaires de confiance</span>
           <h2 style={{ fontSize: 'clamp(26px,3vw,36px)', marginTop: 14 }}>
-            Produits des meilleures marques mondiales
+            Nos marques partenaires
           </h2>
-          <p>Nous proposons des articles des marques européennes et asiatiques les plus reconnues pour satisfaire nos clients.</p>
+          <p>Nous proposons des articles de marques européennes et asiatiques reconnues dans le secteur du laboratoire.</p>
         </div>
         <div className="brand-row reveal">
           {brands.map((b, i) => (

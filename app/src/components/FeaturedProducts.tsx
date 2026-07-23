@@ -10,11 +10,11 @@ export default async function FeaturedProducts() {
     <section className="block featured" id="featured">
       <div className="wrap">
         <div className="brands-head reveal">
-          <span className="eyebrow">Sélection haut de gamme</span>
+          <span className="eyebrow">Sélection</span>
           <h2 style={{ fontSize: 'clamp(26px,3vw,36px)', marginTop: 14 }}>
-            Nos équipements les plus prisés
+            Équipements sélectionnés
           </h2>
-          <p>L&apos;essentiel de notre catalogue premium, choisi pour sa fiabilité et sa performance en laboratoire.</p>
+          <p>Une sélection de notre catalogue, choisie pour sa fiabilité et sa performance en laboratoire.</p>
         </div>
 
         <div className="reveal">

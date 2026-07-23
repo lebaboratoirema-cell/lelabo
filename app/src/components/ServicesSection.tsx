@@ -8,7 +8,7 @@ const services = [
       </svg>
     ),
     title: 'Produits chimiques de laboratoire',
-    desc: 'Large sélection de solvants organiques, produits chimiques PA et HPLC, acides et produits dangereux.',
+    desc: 'Solvants organiques, produits chimiques PA et HPLC, acides et produits dangereux.',
   },
   {
     href: '/lab-equipment',
