@@ -4,12 +4,18 @@ export type LocalizedText = { fr: string; en?: string }
 
 // ─── Catalog ────────────────────────────────────────────────────────────────
 
+export interface CategoryFaqItem {
+  question: string
+  answer: string
+}
+
 export interface Category {
   id: string
   parent_id: string | null
   slug: string
   name: LocalizedText
   description: LocalizedText | null
+  faq: CategoryFaqItem[] | null
   image_url: string | null
   group_key: string | null
   group_label: LocalizedText | null
