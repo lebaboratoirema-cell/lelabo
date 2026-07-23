@@ -221,6 +221,30 @@ User asked to make all scraped humeau products live (chose "remaining 57/80 subc
   1. Re-run PageSpeed after latest deploy (CSS inlining + reflow fix) to confirm both are gone and see current score.
   2. Findings closed out so far: render-blocking CSS ✅, forced reflow ✅ (speculative), old-JS polyfill = confirmed unfixable/unscored Next.js internal. If PageSpeed comes back clean, this remediation round is done — ask user for next priority (checkout/CMI flow, compliance note, etc. — see Blocking section above).
 
+## GEO (AI-citation) audit + fixes — IN PROGRESS (2026-07-23)
+User asked to optimize the site to be indexed/cited by AI answer engines (ChatGPT, Perplexity, AI Overviews).
+
+**Audit findings**: robots.txt fine (no AI-bot blocks). Zero JSON-LD anywhere except blog. Category pages had no lead paragraph/FAQ/comparison content. Undated content. Promotional tone on homepage. Competitors identified: dataworld.ma, equipement-labo.com, equipement-laboratoire.com, flaster.ma, assistec.ma, tradetec.ma, estlab.ma.
+
+**Done + deployed (commits cf014dd, baa3362, 0eae1e9)**:
+- `src/lib/jsonLd.ts` — shared `safeJsonLd` + `breadcrumbListJsonLd` helpers
+- `Product` JSON-LD on all product pages (via shared `ProductDetailPage.tsx`) — name/description/image/sku/brand/url, **deliberately no `offers`/price** since UI shows "Prix sur devis" not a number (schema must match what's displayed)
+- `BreadcrumbList` JSON-LD on all product pages + all category pages (subcategory level + family-root level)
+- Category pages (172/177 already had a `description` in DB, just never rendered) now show it as a lead paragraph — wired into all 4 `[subcategory]/page.tsx` templates
+- Wrote the one meaningfully-sized missing category description (`outillage-verrerie`, 165 products)
+- Family-root pages (lab-equipment, produits-chimiques, petit-outillage) got new `description` field in `CATEGORY_ROUTE_META` + lead paragraph + BreadcrumbList
+
+**Bonus bug found + fixed while doing this**: `/fr/glassware` has a permanent redirect to `/fr/petit-outillage` in `next.config.ts` — the entire `src/app/[locale]/glassware/**` route tree was dead/unreachable code (Next matches redirects before page routes). Root cause: DB category `verrerie` has 0 children; every glassware-family subcategory from the humeau scrape is actually parented under `petit-outillage`. Deleted the dead route tree, removed `glassware` from `CATEGORY_ROUTE_SLUGS`/`SEGMENT`/`META` (which also fixed `sitemap.ts` — was emitting dead `/glassware` URLs for both locales + every city page), and fixed admin product create/update/delete actions which were calling `revalidatePath('/fr/glassware')` (dead) instead of `/fr/petit-outillage` (the actual largest family — was never being cache-revalidated on product changes).
+
+**Verified live**: curled a real product page post-deploy, confirmed both `Product` and `BreadcrumbList` JSON-LD blocks present and correct.
+
+**Next session: start here**
+1. FAQ blocks per category — real content-writing work, not yet started. ~177 categories, would need a template + batch approach (parallel subagents, same pattern as the FR copywriting work).
+2. Homepage promotional-tone cleanup — strip "meilleur", "large sélection" etc. Quick, not yet done.
+3. Query test set for actual AI-citation measurement — never run. I (Claude) can't query ChatGPT/Perplexity live; either hand the user the ~15-query list to run manually, or route to `ai-visibility-monitoring` skill for automated tracking. Competitor list above is ready to use.
+4. "Prix sur devis" stays as-is — user explicitly confirmed, don't revisit without being asked.
+5. Unrelated open items from before this GEO work are still open — see "Blocking / not yet done" and "PageSpeed" sections above.
+
 ## Servilab.fr scrape attempt (2026-07-18) — blocked, dropped
 - User asked to scrape https://www.servilab.fr/catalogue/consommables
 - robots.txt explicitly disallows ClaudeBot/GPTBot/CCBot (Content-Signal ai-train=no). Flagged to user, user chose to proceed anyway.
