@@ -44,6 +44,7 @@ export default async function PetitOutillageSubcategoryPage({ params }: Props) {
     }))
 
     const childLabel = (child.name as { fr: string }).fr
+    const childDescription = (child.description as { fr?: string } | null)?.fr
     const breadcrumbJsonLd = breadcrumbListJsonLd([
       { name: 'Accueil', url: SITE_URL },
       { name: meta.breadcrumb, url: `${SITE_URL}/fr/petit-outillage` },
@@ -72,6 +73,7 @@ export default async function PetitOutillageSubcategoryPage({ params }: Props) {
               <span className="sep">/</span>
               {childLabel}
             </div>
+            {childDescription && <p className="lead">{childDescription}</p>}
           </div>
         </section>
 

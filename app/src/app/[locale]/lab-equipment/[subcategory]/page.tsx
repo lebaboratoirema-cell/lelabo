@@ -43,6 +43,7 @@ export default async function LabEquipmentSubcategoryPage({ params }: Props) {
     }))
 
     const childLabel = (child.name as { fr: string }).fr
+    const childDescription = (child.description as { fr?: string } | null)?.fr
     const breadcrumbJsonLd = breadcrumbListJsonLd([
       { name: 'Accueil', url: SITE_URL },
       { name: meta.breadcrumb, url: `${SITE_URL}/fr/lab-equipment` },
@@ -71,6 +72,7 @@ export default async function LabEquipmentSubcategoryPage({ params }: Props) {
               <span className="sep">/</span>
               {childLabel}
             </div>
+            {childDescription && <p className="lead">{childDescription}</p>}
           </div>
         </section>
 
