@@ -1,6 +1,8 @@
 import type { ProductWithVariants, ProductWithImage } from '@/lib/supabase/queries'
 import ProductGrid from '@/components/ProductGrid'
 import QuoteModal from '@/components/QuoteModal'
+import { safeJsonLd, breadcrumbListJsonLd } from '@/lib/jsonLd'
+import { SITE_URL } from '@/lib/siteConfig'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
@@ -28,8 +30,35 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
   const allImages = product.product_images.map((img) => getImageUrl(img.storage_path, 800))
   const thumbImages = product.product_images.map((img) => getImageUrl(img.storage_path, 150))
 
+  const productUrl = `${SITE_URL}${basePath}/${product.slug}`
+
+  // Page shows "Prix sur devis", not a price — schema must match what's actually displayed,
+  // so no Offer/price here (a real price would misrepresent the page and risk a Google manual action).
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name,
+    description: description || undefined,
+    image: allImages.length ? allImages : undefined,
+    sku: product.slug,
+    url: productUrl,
+    brand: product.brand ? { '@type': 'Brand', name: product.brand } : undefined,
+  }
+
+  const breadcrumbJsonLd = breadcrumbListJsonLd([
+    { name: 'Accueil', url: SITE_URL },
+    ...breadcrumbs.map((bc) => ({ name: bc.label, url: `${SITE_URL}${bc.href}` })),
+    { name, url: productUrl },
+  ])
+
   return (
     <>
+      {/* JSON-LD: safeJsonLd escapes `<` so DB-sourced text (name/description) cannot break out of the script tag or inject markup */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(jsonLd) }} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: safeJsonLd(breadcrumbJsonLd) }}
+      />
       {/* Breadcrumb banner */}
       <section className="page-banner" style={{ padding: '54px 0' }}>
         <img className="bgimg" src={allImages[0] ?? '/images/glassware.webp'} alt="" />

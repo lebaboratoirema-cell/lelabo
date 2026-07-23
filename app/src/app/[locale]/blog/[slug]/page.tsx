@@ -7,6 +7,7 @@ import Header from '@/components/Header'
 import SiteFooter from '@/components/SiteFooter'
 import ScrollReveal from '@/components/ScrollReveal'
 import { getBlogPostBySlug } from '@/lib/supabase/queries'
+import { safeJsonLd } from '@/lib/jsonLd'
 
 export const dynamic = 'force-dynamic'
 
@@ -17,11 +18,6 @@ interface Props {
 function formatDate(iso: string | null): string {
   if (!iso) return ''
   return new Date(iso).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })
-}
-
-// Prevents </script> in admin-authored content from breaking out of the JSON-LD block.
-function safeJsonLd(value: unknown): string {
-  return JSON.stringify(value).replace(/</g, '\\u003c')
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

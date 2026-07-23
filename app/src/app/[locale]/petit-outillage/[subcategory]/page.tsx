@@ -14,6 +14,8 @@ import {
   getRelatedProducts,
 } from '@/lib/supabase/queries'
 import { CATEGORY_ROUTE_SLUGS, CATEGORY_ROUTE_META } from '@/lib/categoryRoutes'
+import { safeJsonLd, breadcrumbListJsonLd } from '@/lib/jsonLd'
+import { SITE_URL } from '@/lib/siteConfig'
 
 export const dynamic = 'force-dynamic'
 
@@ -42,9 +44,19 @@ export default async function PetitOutillageSubcategoryPage({ params }: Props) {
     }))
 
     const childLabel = (child.name as { fr: string }).fr
+    const breadcrumbJsonLd = breadcrumbListJsonLd([
+      { name: 'Accueil', url: SITE_URL },
+      { name: meta.breadcrumb, url: `${SITE_URL}/fr/petit-outillage` },
+      { name: childLabel, url: `${SITE_URL}/fr/petit-outillage/${child.slug}` },
+    ])
 
     return (
       <>
+        {/* JSON-LD: safeJsonLd escapes `<` so DB-sourced category names cannot break out of the script tag */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: safeJsonLd(breadcrumbJsonLd) }}
+        />
         <ScrollReveal />
         <TopBar />
         <Header />
