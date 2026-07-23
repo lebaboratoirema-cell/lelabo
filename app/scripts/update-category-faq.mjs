@@ -22,7 +22,13 @@ const faqDir = path.join(__dirname, '..', '..', 'equipment', 'data', 'faq')
 
 for (const slug of slugs) {
   const filePath = path.join(faqDir, `${slug}.json`)
-  const faq = JSON.parse(readFileSync(filePath, 'utf-8'))
+  let faq
+  try {
+    faq = JSON.parse(readFileSync(filePath, 'utf-8'))
+  } catch (err) {
+    console.error(`Skipping ${slug}: could not read/parse ${filePath} (${err.message})`)
+    continue
+  }
 
   if (!Array.isArray(faq) || faq.some((f) => !f.question || !f.answer)) {
     console.error(`Skipping ${slug}: malformed FAQ JSON (expected array of {question, answer})`)
