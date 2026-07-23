@@ -1007,3 +1007,16 @@ footer h4 { color: #fff; font-size: 15px; font-weight: 600; letter-spacing: .04e
 .cookie-banner-inner p { margin: 0; font-size: 13px; line-height: 1.6; max-width: 760px; }
 .cookie-banner-inner a { color: var(--teal-bright); text-decoration: underline; text-underline-offset: 2px; }
 .cookie-banner-actions { display: flex; gap: 12px; flex: none; }
+
+/* Category FAQ */
+.faq-block details {
+  border-bottom: 1px solid var(--border, #e5e5e5);
+  padding: 1rem 0;
+}
+.faq-block summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.faq-block p {
+  margin-top: 0.5rem;
+}
