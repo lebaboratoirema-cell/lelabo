@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import CookieConsentBanner from '@/components/CookieConsentBanner';
 import WhatsAppButton from '@/components/WhatsAppButton';
+import Analytics from '@/components/Analytics';
 import '../globals.css';
 
 const poppins = Poppins({
@@ -17,6 +18,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: 'Le Laboratoire — Équipements & Produits de Laboratoire',
   description: 'Fournisseur d\'équipements de laboratoire, produits chimiques, verrerie et consommables — Maroc.',
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default async function LocaleLayout({
@@ -40,6 +44,7 @@ export default async function LocaleLayout({
           <CookieConsentBanner />
           <WhatsAppButton />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

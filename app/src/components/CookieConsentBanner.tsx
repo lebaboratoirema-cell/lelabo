@@ -2,8 +2,9 @@
 
 import { useEffect, useState } from 'react';
 import { useLocale } from 'next-intl';
+import { CONSENT_CHANGE_EVENT, CONSENT_STORAGE_KEY } from '@/lib/cookieConsent';
 
-const STORAGE_KEY = 'cookie_consent';
+const STORAGE_KEY = CONSENT_STORAGE_KEY;
 
 const TEXT = {
   fr: {
@@ -35,15 +36,13 @@ export default function CookieConsentBanner() {
   function choose(choice: 'accepted' | 'rejected') {
     localStorage.setItem(STORAGE_KEY, JSON.stringify({ choice, ts: Date.now() }));
     setVisible(false);
+    window.dispatchEvent(new Event(CONSENT_CHANGE_EVENT));
 
     fetch('/api/consent', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ choice, locale }),
     }).catch(() => {});
-
-    // No analytics/marketing cookies exist yet — hook point for when they're added:
-    // if (choice === 'accepted') { /* load analytics script */ }
   }
 
   if (!visible) return null;
