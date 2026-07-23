@@ -111,7 +111,7 @@ export async function getProductBySlug(slug: string): Promise<ProductWithVariant
 }
 
 const FAMILY_ROUTE_BY_SLUG: Record<string, string> = {
-  chimie: 'chemicals',
+  chimie: 'produits-chimiques',
   verrerie: 'glassware',
   equipements: 'lab-equipment',
   'petit-outillage': 'petit-outillage',
@@ -252,6 +252,26 @@ export async function getBlogPostBySlug(slug: string): Promise<BlogPost | null> 
     .eq('is_published', true)
     .maybeSingle()
   return (data as BlogPost | null) ?? null
+}
+
+export async function getAllProductsForSitemap(): Promise<{ slug: string; basePath: string }[]> {
+  const supabase = await createClient()
+
+  const [{ data: products }, { data: roots }] = await Promise.all([
+    supabase
+      .from('products')
+      .select('slug, category:categories(slug, parent_id)')
+      .eq('is_active', true),
+    supabase.from('categories').select('id, slug').is('parent_id', null),
+  ])
+
+  const rootSlugById = new Map((roots ?? []).map((r) => [r.id, r.slug]))
+
+  return (
+    (products ?? []) as unknown as Array<{ slug: string; category: { slug: string; parent_id: string | null } | null }>
+  )
+    .map(({ slug, category }) => ({ slug, basePath: resolveBasePath(category, rootSlugById) }))
+    .filter((p) => p.basePath !== '/fr')
 }
 
 export async function getRelatedProducts(

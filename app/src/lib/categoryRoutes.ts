@@ -9,6 +9,14 @@ export const CATEGORY_ROUTE_SLUGS = {
 
 export type CategoryRoute = keyof typeof CATEGORY_ROUTE_SLUGS
 
+// URL path segment for each route key — differs from the key for chemicals.
+export const CATEGORY_ROUTE_SEGMENT: Record<CategoryRoute, string> = {
+  chemicals: 'produits-chimiques',
+  glassware: 'glassware',
+  'lab-equipment': 'lab-equipment',
+  'petit-outillage': 'petit-outillage',
+}
+
 export const CATEGORY_ROUTE_META: Record<CategoryRoute, {
   title: string
   breadcrumb: string
