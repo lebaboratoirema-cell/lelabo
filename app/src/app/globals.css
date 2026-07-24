@@ -409,6 +409,14 @@ section.block { padding: 90px 0; }
 .product-card .stock-badge .sdot {
   width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0;
 }
+.product-card .photo-count {
+  position: absolute; bottom: 12px; right: 14px;
+  background: rgba(27,58,143,.82); color: #fff; backdrop-filter: blur(2px);
+  font-size: 11px; font-weight: 700;
+  padding: 5px 9px; border-radius: 30px;
+  display: flex; align-items: center; gap: 5px; z-index: 1;
+}
+.product-card .photo-count svg { width: 12px; height: 12px; flex-shrink: 0; }
 
 /* Featured products — Partenaires-de-confiance-style vertical card carousel */
 .featured-carousel { position: relative; }
@@ -440,9 +448,14 @@ section.block { padding: 90px 0; }
   transition: transform .3s ease, box-shadow .3s ease, border-color .3s;
 }
 .featured-item:hover { transform: translateY(-4px); box-shadow: var(--shadow-sm); border-color: var(--teal); }
-.featured-item .pimg { position: relative; aspect-ratio: 1 / 1; background: var(--bg-soft); overflow: hidden; }
+.featured-item .pimg { position: relative; aspect-ratio: 1 / 1; background: #fff; overflow: hidden; }
 .featured-item .pimg img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; filter: grayscale(.35); opacity: .92; }
 .featured-item:hover .pimg img { transform: scale(1.08); filter: grayscale(0); opacity: 1; }
+.featured-item .pimg::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(circle at center, transparent 55%, #fff 100%);
+  mix-blend-mode: screen;
+}
 .featured-item h3 {
   font-size: 13px; font-weight: 600; line-height: 1.35; color: var(--ink);
   padding: 12px 14px 16px; text-align: center; flex: 1;

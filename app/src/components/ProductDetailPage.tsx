@@ -213,7 +213,7 @@ export default function ProductDetailPage({ product, related, breadcrumbs, baseP
               <span className="eyebrow">Vous pourriez aussi avoir besoin</span>
               <h2>Produits similaires</h2>
             </div>
-            <ProductGrid products={related} basePath={basePath} />
+            <ProductGrid products={related} basePath={basePath} cropSquare />
           </div>
         </section>
       )}

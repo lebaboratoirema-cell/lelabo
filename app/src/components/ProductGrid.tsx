@@ -39,6 +39,12 @@ export default function ProductGrid({ products, basePath, emptyMessage, cropSqua
                 <span className="sdot" style={{ background: p.in_stock ? '#16a34a' : '#9ca3af' }} />
                 {p.in_stock ? 'En stock' : 'Sur commande'}
               </span>
+              {p.product_images.length > 1 && (
+                <span className="photo-count">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="6" width="18" height="14" rx="2" /><path d="M8 6l1.6-2.4A2 2 0 0 1 11.2 2.6h1.6a2 2 0 0 1 1.6 1L16 6" /><circle cx="12" cy="13" r="3.4" /></svg>
+                  {p.product_images.length}
+                </span>
+              )}
             </div>
             <div className="pbody">
               <h3>{(p.name as { fr: string }).fr}</h3>
