@@ -90,7 +90,7 @@ export default async function ChemicalsSubcategoryPage({ params }: Props) {
               <span className="count">{products.length} produit{products.length !== 1 ? 's' : ''}</span>
               <CategoryChips chips={chips} activeSlug={child.slug} allHref="/fr/produits-chimiques" />
             </div>
-            <ProductGrid products={products} basePath={`/fr/produits-chimiques/${child.slug}`} />
+            <ProductGrid products={products} basePath={`/fr/produits-chimiques/${child.slug}`} cropSquare />
           </div>
         </section>
 

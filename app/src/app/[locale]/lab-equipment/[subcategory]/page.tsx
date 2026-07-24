@@ -90,7 +90,7 @@ export default async function LabEquipmentSubcategoryPage({ params }: Props) {
               <span className="count">{products.length} produit{products.length !== 1 ? 's' : ''}</span>
               <CategoryChips chips={chips} activeSlug={child.slug} allHref="/fr/lab-equipment" />
             </div>
-            <ProductGrid products={products} basePath={`/fr/lab-equipment/${child.slug}`} />
+            <ProductGrid products={products} basePath={`/fr/lab-equipment/${child.slug}`} cropSquare />
           </div>
         </section>
 

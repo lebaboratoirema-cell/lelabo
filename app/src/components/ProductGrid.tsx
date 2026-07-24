@@ -2,17 +2,19 @@ import type { ProductWithImage } from '@/lib/supabase/queries'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
-function getImageUrl(storagePath: string): string {
-  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=400&quality=70`
+function getImageUrl(storagePath: string, cropSquare?: boolean): string {
+  const crop = cropSquare ? '&height=400&resize=cover' : ''
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=400${crop}&quality=70`
 }
 
 interface Props {
   products: (ProductWithImage & { basePath?: string })[]
   basePath?: string
   emptyMessage?: string
+  cropSquare?: boolean
 }
 
-export default function ProductGrid({ products, basePath, emptyMessage }: Props) {
+export default function ProductGrid({ products, basePath, emptyMessage, cropSquare }: Props) {
   if (products.length === 0) {
     return (
       <p className="empty-state">{emptyMessage ?? 'Aucun produit dans cette catégorie pour l’instant.'}</p>
@@ -23,7 +25,7 @@ export default function ProductGrid({ products, basePath, emptyMessage }: Props)
     <div className="product-grid">
       {products.map((p) => {
         const primaryImage = p.product_images.find((img) => img.is_primary) ?? p.product_images[0]
-        const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path) : '/images/glassware.webp'
+        const imgSrc = primaryImage ? getImageUrl(primaryImage.storage_path, cropSquare) : '/images/glassware.webp'
         const href = `${p.basePath ?? basePath}/${p.slug}`
 
         return (

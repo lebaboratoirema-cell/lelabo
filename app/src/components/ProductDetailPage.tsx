@@ -7,7 +7,7 @@ import { SITE_URL } from '@/lib/siteConfig'
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
 function getImageUrl(storagePath: string, width = 800): string {
-  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=${width}&quality=70`
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=${width}&height=${width}&resize=cover&quality=70`
 }
 
 interface Props {

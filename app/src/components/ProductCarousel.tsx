@@ -6,7 +6,7 @@ import type { SearchResult } from '@/lib/supabase/queries'
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
 function getImageUrl(storagePath: string): string {
-  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=220&quality=70`
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=320&height=320&resize=cover&quality=70`
 }
 
 export default function ProductCarousel({ products }: { products: SearchResult[] }) {

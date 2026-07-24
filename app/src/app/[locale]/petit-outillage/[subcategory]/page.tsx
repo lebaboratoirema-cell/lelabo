@@ -91,7 +91,7 @@ export default async function PetitOutillageSubcategoryPage({ params }: Props) {
               <span className="count">{products.length} produit{products.length !== 1 ? 's' : ''}</span>
               <CategoryChips chips={chips} activeSlug={child.slug} allHref="/fr/petit-outillage" />
             </div>
-            <ProductGrid products={products} basePath={`/fr/petit-outillage/${child.slug}`} />
+            <ProductGrid products={products} basePath={`/fr/petit-outillage/${child.slug}`} cropSquare />
           </div>
         </section>
 

@@ -8,7 +8,7 @@ export const dynamic = 'force-dynamic'
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 
 function getThumbUrl(storagePath: string): string {
-  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=80&quality=70`
+  return `${supabaseUrl}/storage/v1/render/image/public/product-images/${storagePath}?width=80&height=80&resize=cover&quality=70`
 }
 
 export default async function AdminProductsPage({
